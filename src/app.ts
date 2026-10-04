@@ -7,7 +7,7 @@ import { button,domains,e,icon,minutes,percent,posNames } from './ui/html.js';
 type Page='home'|'practice'|'vocabulary'|'review'|'stats'|'settings'|'session';
 const app=document.querySelector<HTMLDivElement>('#app')!;
 let store:Store,content:Content,page:Page='home',sessionId:string|null=null;
-let selected:string|null=null,confidence:Confidence=null,revealed=false,busy=false,offlineReady=false;
+let confidence:Confidence=null,revealed=false,busy=false,offlineReady=false;
 let search='',vocabFilter='saved',domainFilter='',vocabLimit=30;
 let modalBackup:Backup|null=null,returnFocus:HTMLElement|null=null;
 const clock=new ActiveClock();
@@ -67,10 +67,18 @@ function sessionPage(){
   const q=findQuestion(content,state(),item.targetId,item.version);
   if(!q)return header+empty('info','この教材版は現在取得できません。','履歴は保持しています。設定からバックアップを保存し、教材を確認してください。');
   const skill=content.skills.find(sk=>sk.id===q.skillId)?.name??q.skillId;
-  return `${header}<section class="panel question-panel"><div class="question-meta"><span class="tag">PART 5</span><span>${e(skill)}</span><span class="mode-label">${item.mode==='review'?'↻ 再挑戦・類題':item.mode==='check'?'初回チェック':'新しい問題'}</span></div><h2 class="question-stem" lang="en">${e(q.stem).replace('_____',`<span class="blank ${answered?'filled':''}">${answered?e(q.options.find(o=>o.id===q.answerId)?.text):'_____ '}</span>`)}</h2><div class="options" role="group" aria-label="解答の選択肢">${q.options.map((option,i)=>{const correct=answered&&option.id===q.answerId,wrong=answered&&option.id===answered.optionId&&!answered.correct;return button(`<span class="option-letter">${'ABCD'[i]}</span><span lang="en">${e(option.text)}</span>${correct?`<span class="option-result">${icon('check')} 正解</span>`:wrong?`<span class="option-result">${icon('close')} あなたの回答</span>`:selected===option.id?icon('check'):''}`,'select',`option ${selected===option.id?'selected':''} ${correct?'correct':''} ${wrong?'incorrect':''}`,`data-id="${e(option.id)}" aria-pressed="${selected===option.id}" ${answered?'disabled':''}`);}).join('')}</div>${!answered?`<div class="confidence"><span>どのくらい自信がありますか？ <small>任意</small></span><div>${[['sure','自信あり'],['unsure','迷った'],['guess','勘']].map(([id,label])=>button(label!,'confidence',`chip ${confidence===id?'selected':''}`,`data-id="${id}" aria-pressed="${confidence===id}"`)).join('')}</div></div>${button(`回答する ${icon('arrow')}`,'answer','button primary answer-button',selected?'':'disabled')}`:''}</section>${answered?explanation(q,answered.correct,answered.reason):''}`;
+  return `${header}<section class="panel question-panel">
+    <div class="question-meta"><span class="tag">PART 5</span><span>${e(skill)}</span><span class="mode-label">${item.mode==='review'?'↻ 再挑戦・類題':item.mode==='check'?'初回チェック':'新しい問題'}</span></div>
+    <h2 class="question-stem" lang="en">${e(q.stem).replace('_____',`<span class="blank ${answered?'filled':''}">${answered?e(q.options.find(o=>o.id===q.answerId)?.text):'_____ '}</span>`)}</h2>
+    ${!answered?`<div class="confidence"><span>どのくらい自信がありますか？ <small>任意・回答前に選択</small></span><div>${[['sure','自信あり'],['unsure','迷った'],['guess','勘']].map(([id,label])=>button(label!,'confidence',`chip ${confidence===id?'selected':''}`,`data-id="${id}" aria-pressed="${confidence===id}"`)).join('')}</div></div><p class="fine-print">選択肢を選ぶと、すぐに正解と解説が表示されます。</p>`:''}
+    <div class="options" role="group" aria-label="解答の選択肢">${q.options.map((option,i)=>{
+      const chosen=answered?.optionId===option.id,correct=answered&&option.id===q.answerId,wrong=chosen&&!answered?.correct;
+      return button(`<span class="option-letter">${'ABCD'[i]}</span><span lang="en">${e(option.text)}</span>${correct?`<span class="option-result">${icon('check')} 正解</span>`:wrong?`<span class="option-result">${icon('close')} あなたの回答</span>`:''}`,'select',`option ${chosen?'selected':''} ${correct?'correct':''} ${wrong?'incorrect':''}`,`data-id="${e(option.id)}" aria-pressed="${chosen}" ${answered?'disabled':''}`);
+    }).join('')}</div>
+  </section>${answered?explanation(q,answered.correct,answered.reason):''}`;
 }
 function explanation(q:Question,correct:boolean,reason:string|null){
-  return `<section class="panel explanation"><div class="answer-heading ${correct?'right':'wrong'}">${icon(correct?'check':'info')}<h2>${correct?'正解です！':'ここで、理由を確認しましょう。'}</h2></div><h3>正解のポイント</h3><p>${e(q.explanationJa)}</p><div class="translation"><span>英文の意味</span><p>${e(q.translationJa)}</p></div><details open><summary>選択肢ごとの解説</summary><div class="option-explanations">${q.options.map((o,i)=>`<div><b class="${o.id===q.answerId?'right':''}">${'ABCD'[i]} · ${e(o.text)}</b><p>${e(q.optionExplanations[o.id])}</p></div>`).join('')}</div></details>${!correct?`<div class="mistake-reason"><h3>どこで迷いましたか？ <small>任意</small></h3><div class="chips">${['単語','文法','読み違い','時間','分からない'].map(r=>button(r,'reason',`chip ${reason===r?'selected':''}`,`data-id="${r}" aria-pressed="${reason===r}"`)).join('')}</div></div>`:''}<div class="question-words"><h3>この問題の単語</h3>${q.vocabularySenseIds.map(id=>{const v=content.vocabulary.find(v=>v.senses.some(s=>s.id===id)),sense=v?.senses.find(s=>s.id===id);return v&&sense?`<div class="question-word"><button class="text-button" data-action="word" data-id="${e(id)}"><b lang="en">${e(v.lemma)}</b><span>${e(sense.meaningJa)}</span></button>${button(`${icon(state().saved[id]?'check':'plus')} ${state().saved[id]?'保存済み':'保存'}`,'save','button small secondary',`data-id="${e(id)}" ${state().saved[id]?'disabled':''}`)}</div>`:'';}).join('')||'<p class="muted">この問題には関連単語が登録されていません。</p>'}</div><div class="question-actions">${button(`${icon('repeat')} この問題を復習`,'pin-review','text-button',`data-id="${q.id}"`)}${button(`${icon('flag')} 誤りを報告`,'flag','text-button',`data-id="${q.id}" data-version="${q.version}"`)}</div><details><summary>教材情報</summary><p class="fine-print">${q.id} · 版${q.version} · 独自生成 · AI内容検査済み・人手確認未実施 · 難易度は仮分類</p></details>${button(`次へ ${icon('arrow')}`,'next','button primary answer-button')}</section>`;
+  return `<section class="panel explanation" tabindex="-1" aria-label="正解と解説"><div class="answer-heading ${correct?'right':'wrong'}">${icon(correct?'check':'info')}<h2>${correct?'正解です！':'ここで、理由を確認しましょう。'}</h2></div><h3>正解のポイント</h3><p>${e(q.explanationJa)}</p><div class="translation"><span>英文の意味</span><p>${e(q.translationJa)}</p></div><details open><summary>選択肢ごとの解説</summary><div class="option-explanations">${q.options.map((o,i)=>`<div><b class="${o.id===q.answerId?'right':''}">${'ABCD'[i]} · ${e(o.text)}</b><p>${e(q.optionExplanations[o.id])}</p></div>`).join('')}</div></details>${!correct?`<div class="mistake-reason"><h3>どこで迷いましたか？ <small>任意</small></h3><div class="chips">${['単語','文法','読み違い','時間','分からない'].map(r=>button(r,'reason',`chip ${reason===r?'selected':''}`,`data-id="${r}" aria-pressed="${reason===r}"`)).join('')}</div></div>`:''}<div class="question-words"><h3>この問題の単語</h3>${q.vocabularySenseIds.map(id=>{const v=content.vocabulary.find(v=>v.senses.some(s=>s.id===id)),sense=v?.senses.find(s=>s.id===id);return v&&sense?`<div class="question-word"><button class="text-button" data-action="word" data-id="${e(id)}"><b lang="en">${e(v.lemma)}</b><span>${e(sense.meaningJa)}</span></button>${button(`${icon(state().saved[id]?'check':'plus')} ${state().saved[id]?'保存済み':'保存'}`,'save','button small secondary',`data-id="${e(id)}" ${state().saved[id]?'disabled':''}`)}</div>`:'';}).join('')||'<p class="muted">この問題には関連単語が登録されていません。</p>'}</div><div class="question-actions">${button(`${icon('repeat')} この問題を復習`,'pin-review','text-button',`data-id="${q.id}"`)}${button(`${icon('flag')} 誤りを報告`,'flag','text-button',`data-id="${q.id}" data-version="${q.version}"`)}</div><details><summary>教材情報</summary><p class="fine-print">${q.id} · 版${q.version} · 独自生成 · AI内容検査済み・人手確認未実施 · 難易度は仮分類</p></details>${button(`次へ ${icon('arrow')}`,'next','button primary answer-button')}</section>`;
 }
 function vocabularyExercise(s:StudySession,senseId:string){
   const v=content.vocabulary.find(v=>v.senses.some(s=>s.id===senseId));const sense=v?.senses.find(s=>s.id===senseId);if(!v||!sense)return empty('info','この語義は現在取得できません。','履歴は保持しています。');
@@ -80,7 +88,7 @@ function vocabularyExercise(s:StudySession,senseId:string){
 
 async function flushTime(){const elapsed=clock.drain();const id=sessionId;const current=activeSession();if(!id||!current||current.status!=='active'||page!=='session'||!elapsed)return;const index=current.cursor;await update(s=>{const target=s.sessions.find(ss=>ss.id===id);if(!target||target.status!=='active'||target.cursor!==index)return;target.activeMs+=elapsed;if(!s.attempts.some(a=>a.id===`${id}:${index}`)&&!s.recalls.some(r=>r.id===`${id}:${index}`))target.itemActiveMs+=elapsed;target.updatedAt=now().toISOString();},false);}
 function startClock(){const s=activeSession();if(s?.status==='active'&&!document.hidden)clock.start();else clock.pause();}
-async function navigate(next:Page){await flushTime();clock.pause();if(page==='session'&&next!=='session'&&activeSession()?.status==='active')await update(s=>{const active=s.sessions.find(a=>a.id===sessionId);if(active)active.status='paused';},false);page=next;selected=null;confidence=null;revealed=false;render();window.scrollTo(0,0);}
+async function navigate(next:Page){await flushTime();clock.pause();if(page==='session'&&next!=='session'&&activeSession()?.status==='active')await update(s=>{const active=s.sessions.find(a=>a.id===sessionId);if(active)active.status='paused';},false);page=next;confidence=null;revealed=false;render();window.scrollTo(0,0);}
 async function start(mode:StudySession['mode'],skillId?:string){
   const resume=resumable();if(resume){sessionId=resume.id;await update(s=>{s.sessions.find(ss=>ss.id===resume.id)!.status='active';},false);await navigate('session');return;}
   const session=createSession(state(),content,mode,now(),uid());
@@ -105,10 +113,18 @@ document.addEventListener('click',async event=>{
     else if(action==='start-review')await start('review');
     else if(action==='skill')await start('study',id);
     else if(action==='home'||action==='pause')await navigate('home');
-    else if(action==='select'){selected=id;render();}
+    else if(action==='select'){
+      await flushTime();
+      const ss=activeSession();
+      if(ss&&id){
+        await update(s=>recordAnswer(s,content,ss.id,ss.cursor,id,confidence,ss.itemActiveMs,now()));
+        const answer=document.querySelector<HTMLElement>('.explanation');
+        answer?.focus({preventScroll:true});
+        answer?.scrollIntoView({behavior:'instant',block:'start'});
+      }
+    }
     else if(action==='confidence'){confidence=confidence===id?null:id as Confidence;render();}
-    else if(action==='answer'){await flushTime();const ss=activeSession();if(ss&&selected){await update(s=>recordAnswer(s,content,ss.id,ss.cursor,selected!,confidence,ss.itemActiveMs,now()));document.querySelector('.explanation')?.scrollIntoView({behavior:'smooth',block:'start'});}}
-    else if(action==='next'){await flushTime();const ss=activeSession();if(ss){await update(s=>advance(s,ss.id,now()),false);selected=null;confidence=null;revealed=false;render();window.scrollTo(0,0);}}
+    else if(action==='next'){await flushTime();const ss=activeSession();if(ss){await update(s=>advance(s,ss.id,now()),false);confidence=null;revealed=false;render();window.scrollTo(0,0);}}
     else if(action==='reason'){const ss=activeSession();if(ss)await update(s=>{const a=s.attempts.find(a=>a.id===`${ss.id}:${ss.cursor}`);if(a)a.reason=a.reason===id?null:id;});}
     else if(action==='save'){await update(s=>saveSense(s,content,id,now(),activeSession()?.items[activeSession()!.cursor]?.kind==='question'?activeSession()?.items[activeSession()!.cursor]?.targetId:undefined),false);toast('単語帳に保存しました。');if(document.querySelector('.modal-word'))wordModal(id);else render();}
     else if(action==='word'){await flushTime();wordModal(id);}

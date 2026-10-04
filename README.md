@@ -22,6 +22,10 @@ HOST=0.0.0.0 npm run dev
 
 PCのLAN内IPアドレスを調べ、スマートフォンで `http://<PCのIPアドレス>:5173` を開きます。ファイアウォールが接続を止める場合は、プライベートネットワークからのアクセスを許可してください。ブラウザのホーム画面追加とService Workerによるオフライン機能にはHTTPSが必要です。公開する場合は、`npm run build` で作成される `dist/` をHTTPS対応の静的ホストへ配置してください。
 
+## GitHub Pagesへ公開
+
+`main`へpushすると、GitHub Actionsが型チェック・テスト・教材検査を実行し、成功後に`dist/`をGitHub Pagesへ公開します。初回のみ、GitHubリポジトリの **Settings → Pages → Build and deployment → Source** を **GitHub Actions** に設定してください。公開先は `https://natchan0807-ai.github.io/toeic_800/` です。手動で再公開する場合は、Actionsタブから「Deploy GitHub Pages」ワークフローを実行します。
+
 ## 学習データのバックアップ
 
 「設定・教材について」から学習データをJSONに書き出し、必要なときに同じ画面で読み込めます。読み込み時には現在の学習データが置き換わるため、画面の確認内容に従ってください。ブラウザのデータ消去や別端末への移行に備えて、定期的に書き出してください。

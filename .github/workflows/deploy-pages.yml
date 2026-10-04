@@ -4,34 +4,60 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  workflow_run:
+    workflows: [Check develop]
+    branches: [develop]
+    types: [completed]
 
 permissions:
   contents: read
 
 concurrency:
   group: github-pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      # Build both current branches together so either update preserves both URLs.
+      - name: Check out production
         uses: actions/checkout@v7
+        with:
+          ref: main
+          path: production
+
+      - name: Check out development preview
+        uses: actions/checkout@v7
+        with:
+          ref: develop
+          path: development
 
       - name: Set up Node.js
         uses: actions/setup-node@v7
         with:
           node-version: 22.12
 
-      - name: Check types
-        run: npm run typecheck
+      - name: Check and build production
+        working-directory: production
+        run: |
+          npm run typecheck
+          npm test
+          npm run content:validate
 
-      - name: Run tests and build
-        run: npm test
+      - name: Check and build development preview
+        working-directory: development
+        run: |
+          npm run typecheck
+          npm test
+          npm run content:validate
 
-      - name: Validate learning content
-        run: npm run content:validate
+      - name: Assemble production and preview
+        run: |
+          mkdir -p site/develop
+          cp -R production/dist/. site/
+          cp -R development/dist/. site/develop/
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
@@ -39,7 +65,7 @@ jobs:
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: dist
+          path: site
 
   deploy:
     environment:
@@ -54,3 +80,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Publish site links
+        env:
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          printf '### Published sites\n\n' >> "$GITHUB_STEP_SUMMARY"
+          printf -- '- Production (`main`): %s/\n' "${PAGE_URL%/}" >> "$GITHUB_STEP_SUMMARY"
+          printf -- '- Development (`develop`): %s/develop/\n' "${PAGE_URL%/}" >> "$GITHUB_STEP_SUMMARY"

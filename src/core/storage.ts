@@ -1,6 +1,7 @@
 import { emptyState,type Content,type UserState,type Backup } from './types.js';
 import { validateBackup,validateContent } from './validation.js';
-const DB_NAME='step800';
+// Keep the existing production database; the preview gets its own learning history.
+const DB_NAME=new URL('../',import.meta.url).pathname.endsWith('/develop/')?'step800-develop':'step800';
 export function openDatabase():Promise<IDBDatabase> {
   return new Promise((resolve,reject)=>{
     const request=indexedDB.open(DB_NAME,1);

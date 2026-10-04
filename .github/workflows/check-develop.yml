@@ -1,0 +1,40 @@
+name: Check develop
+
+on:
+  push:
+    branches: [develop]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: check-develop-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    if: github.ref == 'refs/heads/develop'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22.12
+
+      - name: Check types
+        run: npm run typecheck
+
+      - name: Run tests and build
+        run: npm test
+
+      - name: Validate learning content
+        run: npm run content:validate
+
+      - name: Show preview link
+        run: |
+          printf 'Checks passed. The Deploy GitHub Pages workflow on main will publish the preview.\n\n' >> "$GITHUB_STEP_SUMMARY"
+          printf 'Preview (available after deployment): https://natchan0807-ai.github.io/toeic_800/develop/\n' >> "$GITHUB_STEP_SUMMARY"

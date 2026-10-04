@@ -24,7 +24,18 @@ PCのLAN内IPアドレスを調べ、スマートフォンで `http://<PCのIP�
 
 ## GitHub Pagesへ公開
 
-`main`へpushすると、GitHub Actionsが型チェック・テスト・教材検査を実行し、成功後に`dist/`をGitHub Pagesへ公開します。初回のみ、GitHubリポジトリの **Settings → Pages → Build and deployment → Source** を **GitHub Actions** に設定してください。公開先は `https://natchan0807-ai.github.io/toeic_800/` です。手動で再公開する場合は、Actionsタブから「Deploy GitHub Pages」ワークフローを実行します。
+`main`と`develop`をGitHub Actionsで公開します。
+
+| ブランチ | 公開URL |
+| --- | --- |
+| `main`（本番） | https://natchan0807-ai.github.io/toeic_800/ |
+| `develop`（開発版） | https://natchan0807-ai.github.io/toeic_800/develop/ |
+
+`develop`へのpushで「Check develop」が型チェック・テスト・教材検査を実行します。成功すると、`main`上の「Deploy GitHub Pages」が自動起動します。`main`へのpushでも公開処理が動きます。公開時には両ブランチの最新版をそれぞれ検査・ビルドし、本番をルート、開発版を`develop/`にまとめて配置します。どちらかの更新で他方のURLが消えることはありません。公開成功後のActionsのSummaryにも両方のURLを表示します。
+
+開発版の学習データとオフライン用キャッシュは本番と分かれています。本番の既存履歴はそのまま利用できます。開発版でも同じ履歴から試したい場合は、本番でバックアップを書き出して開発版へ読み込んでください。
+
+初回のみ、GitHubリポジトリの **Settings → Pages → Build and deployment → Source** を **GitHub Actions** に設定してください。`main`と`develop`の両ブランチが必要です。公開ジョブは`main`上で実行するため、`github-pages`環境の公開許可は`main`のまま利用できます。手動で再公開する場合は、Actionsタブから「Deploy GitHub Pages」を`main`で実行します。
 
 ## 学習データのバックアップ
 

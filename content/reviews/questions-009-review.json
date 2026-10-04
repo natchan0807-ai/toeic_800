@@ -1,0 +1,254 @@
+{
+  "id": "questions-009-review",
+  "batchId": "questions-009",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:52:28.507601+00:00",
+  "method": "著者解答未読で30問の独立解答をquestions-009-blind.jsonへ保存後、全正解・全選択肢理由・和訳・主技能・全30語義リンクを実読照合。q245はCambridge Learner’s Dictionaryのintend項で動名詞用法を確認。AI検査で人間確認ではない。",
+  "items": [
+    {
+      "targetId": "q-0241",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "yourの後の名詞cooperation。全選択肢理由・和訳・主技能を実読。v-staff-1 の noun「職員、スタッフ」と本文の staff（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0242",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "unusuallyが修飾する形容詞accurate。全選択肢理由・和訳・主技能を実読。v-accurate-1 の adjective「正確な」と本文の accurate（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0243",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "remainの補語fresh。全選択肢理由・和訳・主技能を実読。v-refrigerator-1 の noun「冷蔵庫」と本文の refrigerator（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0244",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "yesterdayで過去形announced。全選択肢理由・和訳・主技能を実読。v-manager-1 の noun「管理職、支配人」と本文の manager（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0245",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "d",
+      "issues": [
+        "intend は to不定詞に加えて動名詞も目的語に取るため c relocating と d to relocate の両方が可能。Cambridge Learner’s Dictionary https://dictionary.cambridge.org/dictionary/learner-english/intend で + doing sth の用法を確認。"
+      ],
+      "reason": "intend to relocateが自然だがintend relocatingも可能で二解。全選択肢理由・和訳・主技能を実読。v-company-1 の noun「会社」と本文の company（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0246",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "過去の再開より前のhad replaced。全選択肢理由・和訳・主技能を実読。v-technician-1 の noun「技術者」と本文の technician（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0247",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "Neitherの単数一致is。全選択肢理由・和訳・主技能を実読。v-solution-1 の noun「解決策」と本文の solution（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0248",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "Oneの単数一致offers。全選択肢理由・和訳・主技能を実読。v-bank-1 の noun「銀行」と本文の bank（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0249",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "複数devicesに合わせるare。全選択肢理由・和訳・主技能を実読。v-device-1 の noun「装置、機器」と本文の device（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0250",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "b",
+      "issues": [
+        "give employees more flexibility は従業員が柔軟に働ける選択肢を増やす意味。従業員の柔軟性を高めるという訳は本人の資質の向上に読めるため、従業員がより柔軟に働けるようへ修正する。"
+      ],
+      "reason": "companyの所有格its。全選択肢理由・和訳・主技能を実読。v-company-1 の noun「会社」と本文の company（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0251",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "employeesを受ける主格they。全選択肢理由・和訳・主技能を実読。v-employee-1 の noun「従業員」と本文の employee（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0252",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "Ms Reed本人を目的語にするherself。全選択肢理由・和訳・主技能を実読。v-task-1 の noun「作業、任務」と本文の task（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0253",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "月Augustの前のin。全選択肢理由・和訳・主技能を実読。v-factory-1 の noun「工場」と本文の factory（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0254",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "responsible forの語法。全選択肢理由・和訳・主技能を実読。v-director-1 の noun「取締役、部門責任者」と本文の director（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0255",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "名詞句strong windを受けるdespite。全選択肢理由・和訳・主技能を実読。v-wind-1 の noun「風」と本文の wind（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0256",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "目的を表すso that＋節。全選択肢理由・和訳・主技能を実読。v-engineer-1 の noun「技師、エンジニア」と本文の engineer（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0257",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "eitherとorの対応。全選択肢理由・和訳・主技能を実読。v-customer-1 の noun「顧客」と本文の customer（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0258",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "同時進行のwhile＋節。全選択肢理由・和訳・主技能を実読。v-visitor-1 の noun「訪問者、来場者」と本文の visitor（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0259",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "authorsとbooksの所有関係whose。全選択肢理由・和訳・主技能を実読。v-author-1 の noun「著者」と本文の author（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0260",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "employeeを受ける主格who。全選択肢理由・和訳・主技能を実読。v-employee-1 の noun「従業員」と本文の employee（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0261",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "非制限用法の物の主格which。全選択肢理由・和訳・主技能を実読。v-building-1 の noun「建物」と本文の building（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0262",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "可算複数questionsの比較fewer。全選択肢理由・和訳・主技能を実読。v-form-1 の noun「用紙、書式」と本文の form（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0263",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "thanに対応するmore dangerous。全選択肢理由・和訳・主技能を実読。v-route-1 の noun「経路」と本文の route（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0264",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "5室中の最上級most expensive。全選択肢理由・和訳・主技能を実読。v-expensive-1 の adjective「高価な」と本文の expensive（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0265",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "不可算informationにはmuch。全選択肢理由・和訳・主技能を実読。v-information-1 の noun「情報」と本文の information（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0266",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "複数receiptsにはa few。全選択肢理由・和訳・主技能を実読。v-receipt-1 の noun「領収書、レシート」と本文の receipt（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0267",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "埋まっている部屋と別の一室another。全選択肢理由・和訳・主技能を実読。v-room-1 の noun「部屋」と本文の room（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0268",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "運転手不足が減便の原因shortage。全選択肢理由・和訳・主技能を実読。v-shortage-1 の noun「不足」と本文の shortage（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0269",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "空き部屋のないvacant。全選択肢理由・和訳・主技能を実読。v-room-1 の noun「部屋」と本文の room（活用形を含む）の意味を照合した。"
+    },
+    {
+      "targetId": "q-0270",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "選考に用いる複数基準criteria。全選択肢理由・和訳・主技能を実読。v-proposal-1 の noun「提案、提案書」と本文の proposal（活用形を含む）の意味を照合した。"
+    }
+  ]
+}

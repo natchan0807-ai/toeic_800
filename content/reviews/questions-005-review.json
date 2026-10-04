@@ -1,0 +1,250 @@
+{
+  "id": "questions-005-review",
+  "batchId": "questions-005",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:48:00.426159+00:00",
+  "method": "初版の著者解答を未読の状態でcontent/blindを30問独立解答し、questions-XXX-blind.jsonへ保存。その後、全問の著者解答・全選択肢理由・和訳・主技能を実読比較。version 2 は初回解答既知であることを明示し、変更点と全30件の実在語義リンクを原文・品詞・日本語語義で再確認。AI検査であり人間確認ではない。",
+  "items": [
+    {
+      "targetId": "q-0121",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "cancellationが感情を起こすfrustrating。和訳・正解と3誤答の理由・主技能を実読照合。v-spend-1 の verb「費やす」を本文の spend の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0122",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "visitorsが感銘を受けるimpressed。和訳・正解と3誤答の理由・主技能を実読照合。v-guide-1 の noun「案内人、ガイド」を本文の guide の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0123",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "workedを修飾するefficiently。和訳・正解と3誤答の理由・主技能を実読照合。v-audit-1 の noun「監査」を本文の audit の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0124",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "agree to不定詞。和訳・正解と3誤答の理由・主技能を実読照合。v-hotel-1 の noun「ホテル」を本文の hotel の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0125",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "avoidの後の動名詞placing。和訳・正解と3誤答の理由・主技能を実読照合。v-reduce-1 の verb「減らす」を本文の reduce の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0126",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "過去の到着より前のhad prepared。和訳・正解と3誤答の理由・主技能を実読照合。v-guest-1 の noun「宿泊客、招待客」を本文の guest の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0127",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "both A and Bの複数一致。和訳・正解と3誤答の理由・主技能を実読照合。v-invoice-1 の noun「請求書」を本文の invoice の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0128",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "不可算equipmentの単数一致。和訳・正解と3誤答の理由・主技能を実読照合。v-equipment-1 の noun「機器、設備」を本文の equipment の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0129",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "動名詞主語Providing...の単数一致。和訳・正解と3誤答の理由・主技能を実読照合。v-visitor-1 の noun「訪問者、来場者」を本文の visitor の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0130",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "companyの所有格its。和訳・正解と3誤答の理由・主技能を実読照合。v-company-1 の noun「会社」を本文の company の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0131",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "Iを強調する再帰myself。和訳・正解と3誤答の理由・主技能を実読照合。v-director-1 の noun「取締役、部門責任者」を本文の director の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0132",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "複数requirementsを受けるthose。和訳・正解と3誤答の理由・主技能を実読照合。v-requirement-1 の noun「要件」を本文の requirement の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0133",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "日付のon。和訳・正解と3誤答の理由・主技能を実読照合。v-auditorium-1 の noun「講堂」を本文の auditorium の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0134",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "季節のin。和訳・正解と3誤答の理由・主技能を実読照合。v-demand-1 の noun「需要」を本文の demand の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0135",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "二者の間のbetween。和訳・正解と3誤答の理由・主技能を実読照合。v-agreement-1 の noun「合意、契約」を本文の agreement の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0136",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "理由のbecause＋節。和訳・正解と3誤答の理由・主技能を実読照合。v-entrance-1 の noun「入口」を本文の entrance の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0137",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "同時進行のwhile＋節。和訳・正解と3誤答の理由・主技能を実読照合。v-software-1 の noun「ソフトウェア」を本文の software の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0138",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "eitherとorの対応。和訳・正解と3誤答の理由・主技能を実読照合。v-receipt-1 の noun「領収書、レシート」を本文の receipt の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0139",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "日時datesを受けるwhen。和訳・正解と3誤答の理由・主技能を実読照合。v-large-1 の adjective「大きい」を本文の large の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0140",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "前置詞 from の直後の whom。rolls の訳がロール状の生地へ修正され文脈に一致。和訳・正解と3誤答の理由・主技能を実読照合。v-order-1 の verb「注文する」を本文の order の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0141",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "非制限用法でwarrantyを受けるwhich。和訳・正解と3誤答の理由・主技能を実読照合。v-warranty-1 の noun「製品保証」を本文の warranty の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0142",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "thanに合うmore convenient。和訳・正解と3誤答の理由・主技能を実読照合。v-highway-1 の noun「幹線道路、高速道路」を本文の highway の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0143",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "as simple asの原級。和訳・正解と3誤答の理由・主技能を実読照合。v-branch-1 の noun「支店」を本文の branch の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0144",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "all options中の最上級most expensive。和訳・正解と3誤答の理由・主技能を実読照合。v-option-1 の noun「選択肢」を本文の option の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0145",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "単数packageの前のeach。和訳・正解と3誤答の理由・主技能を実読照合。v-move-1 の verb「移動する」を本文の move の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0146",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "不可算timeのa little。和訳・正解と3誤答の理由・主技能を実読照合。v-presentation-1 の noun「発表、説明」を本文の presentation の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0147",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "opportunityの前のan。和訳・正解と3誤答の理由・主技能を実読照合。v-editor-1 の noun「編集者」を本文の editor の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0148",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "大量購入で得るdiscount。和訳・正解と3誤答の理由・主技能を実読照合。v-discount-1 の noun「割引」を本文の discount の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0149",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "需要の急増surge。和訳・正解と3誤答の理由・主技能を実読照合。v-demand-1 の noun「需要」を本文の demand の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0150",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "徒歩で移動できる近接adjacent。和訳・正解と3誤答の理由・主技能を実読照合。v-restaurant-1 の noun「レストラン」を本文の restaurant の用法（必要に応じ活用形）と照合した。"
+    }
+  ]
+}

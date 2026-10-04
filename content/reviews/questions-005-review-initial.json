@@ -1,0 +1,20 @@
+{
+  "id": "questions-005-review-initial",
+  "batchId": "questions-005",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:39:12.446434+00:00",
+  "method": "各バッチ30問の独立解答をblind記録に保存後、著者の正解・全選択肢解説・和訳・技能を照合。この記録は初回検査で見つけた修正対象のみ。語義リンク確定後に全項目の最終検査を別記録へ保存する。",
+  "items": [
+    {
+      "targetId": "q-0140",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "c",
+      "issues": [
+        "fabric の rolls はロール状の生地であり、日本語の巻物では意味がずれる。和訳を破損したロール状の生地へ修正する。"
+      ],
+      "reason": "前置詞fromの後のwhom。独立解答は著者と一致したが、説明または唯一性・訳の修正が必要。"
+    }
+  ]
+}

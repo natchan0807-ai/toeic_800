@@ -1,0 +1,731 @@
+{
+  "id": "vocab-007-review",
+  "batchId": "vocab-007",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:26:58.400456+00:00",
+  "method": "全100語101語義の英文・和訳・語義・品詞・組み合わせ・関連語を展開してAIが読み比較。年齢区分と英文の自然さ2件を指摘。判定後にJSONを整形。人手確認0。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "v-person",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（人）の英文・和訳・品詞・組み合わせ（a person in charge）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-individual",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（個人）の英文・和訳・品詞・組み合わせ（a private individual）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-member",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（会員、構成員）の英文・和訳・品詞・組み合わせ（a team member）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-partner",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（協力者、共同経営者）の英文・和訳・品詞・組み合わせ（a business partner）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-neighbor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（近所の人）の英文・和訳・品詞・組み合わせ（a friendly neighbor）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-friend",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（友人）の英文・和訳・品詞・組み合わせ（a close friend）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-family",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（家族）の英文・和訳・品詞・組み合わせ（a family member）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-parent",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（親）の英文・和訳・品詞・組み合わせ（a child's parent）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-child",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（子供）の英文・和訳・品詞・組み合わせ（a young child）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-adult",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（大人）の英文・和訳・品詞・組み合わせ（a responsible adult）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-teenager",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "v2を再読し、語義・和訳が13〜19歳と正確になった。例文とa group of teenagersも整合。"
+    },
+    {
+      "targetId": "v-relative",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（親族）の英文・和訳・品詞・組み合わせ（a close relative）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-couple",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（一組、夫婦）の英文・和訳・品詞・組み合わせ（a married couple）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-population",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（人口）の英文・和訳・品詞・組み合わせ（the local population）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-resident",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（住民、居住者）の英文・和訳・品詞・組み合わせ（a local resident）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-community",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（地域社会、共同体）の英文・和訳・品詞・組み合わせ（the local community）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-public",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（一般市民、公衆）の英文・和訳・品詞・組み合わせ（the general public）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-volunteer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ボランティア）の英文・和訳・品詞・組み合わせ（a local volunteer）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-worker",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（働く人、作業員）の英文・和訳・品詞・組み合わせ（a factory worker）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-professional",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（専門職の人）の英文・和訳・品詞・組み合わせ（a qualified professional）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-expert",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（専門家）の英文・和訳・品詞・組み合わせ（an industry expert）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-specialist",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（特定分野の専門家）の英文・和訳・品詞・組み合わせ（a medical specialist）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-consultant",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（コンサルタント、相談役）の英文・和訳・品詞・組み合わせ（a business consultant）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-assistant",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（助手、補佐役）の英文・和訳・品詞・組み合わせ（a personal assistant）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-secretary",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（秘書）の英文・和訳・品詞・組み合わせ（a company secretary）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-receptionist",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（受付係）の英文・和訳・品詞・組み合わせ（a hotel receptionist）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-agent",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（代理人、仲介人）の英文・和訳・品詞・組み合わせ（a travel agent）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-representative",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（担当者、代表者）の英文・和訳・品詞・組み合わせ（a sales representative）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-executive",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（会社の幹部）の英文・和訳・品詞・組み合わせ（a senior executive）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-leader",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（指導者、リーダー）の英文・和訳・品詞・組み合わせ（a team leader）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-owner",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（所有者、経営者）の英文・和訳・品詞・組み合わせ（a shop owner）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-founder",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（創設者）の英文・和訳・品詞・組み合わせ（a company founder）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-engineer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（技師、エンジニア）の英文・和訳・品詞・組み合わせ（a civil engineer）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-technician",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（技術者）の英文・和訳・品詞・組み合わせ（a laboratory technician）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-mechanic",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（整備士）の英文・和訳・品詞・組み合わせ（a car mechanic）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-electrician",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（電気工事士）の英文・和訳・品詞・組み合わせ（a licensed electrician）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-plumber",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（配管工）の英文・和訳・品詞・組み合わせ（call a plumber）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-carpenter",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（大工）の英文・和訳・品詞・組み合わせ（a skilled carpenter）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-architect",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（建築家）の英文・和訳・品詞・組み合わせ（a landscape architect）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-designer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（デザイナー、設計者）の英文・和訳・品詞・組み合わせ（a graphic designer）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-artist",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（芸術家）の英文・和訳・品詞・組み合わせ（a local artist）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-author",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（著者）の英文・和訳・品詞・組み合わせ（a bestselling author）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-editor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（編集者）の英文・和訳・品詞・組み合わせ（a magazine editor）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-journalist",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（記者）の英文・和訳・品詞・組み合わせ（a local journalist）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-photographer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（写真家）の英文・和訳・品詞・組み合わせ（a professional photographer）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-translator",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（翻訳者）の英文・和訳・品詞・組み合わせ（a freelance translator）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-instructor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（指導員、講師）の英文・和訳・品詞・組み合わせ（a fitness instructor）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-teacher",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（教師）の英文・和訳・品詞・組み合わせ（a language teacher）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-student",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "v2を再読し、pay reduced admission pricesという自然な価格支払い表現になった。割引料金で利用する和訳とも整合。"
+    },
+    {
+      "targetId": "v-trainee",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（研修生）の英文・和訳・品詞・組み合わせ（a management trainee）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-intern",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（実習生、インターン）の英文・和訳・品詞・組み合わせ（a summer intern）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-graduate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（卒業者）の英文・和訳・品詞・組み合わせ（a recent graduate）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-coach",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（指導者、コーチ）の英文・和訳・品詞・組み合わせ（a sports coach）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-nurse",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（看護師）の英文・和訳・品詞・組み合わせ（a registered nurse）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-doctor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（医師）の英文・和訳・品詞・組み合わせ（see a doctor）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-dentist",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（歯科医）の英文・和訳・品詞・組み合わせ（visit a dentist）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-pharmacist",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（薬剤師）の英文・和訳・品詞・組み合わせ（a licensed pharmacist）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-patient",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（患者 / 辛抱強い）の英文・和訳・品詞・組み合わせ（a hospital patient / be patient with someone）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-hospital",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（病院）の英文・和訳・品詞・組み合わせ（a local hospital）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-clinic",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（診療所）の英文・和訳・品詞・組み合わせ（a dental clinic）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-pharmacy",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（薬局）の英文・和訳・品詞・組み合わせ（a neighborhood pharmacy）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-medicine",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（薬）の英文・和訳・品詞・組み合わせ（take medicine）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-treatment",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（治療）の英文・和訳・品詞・組み合わせ（medical treatment）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-surgery",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（外科手術）の英文・和訳・品詞・組み合わせ（undergo surgery）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-injury",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（けが）の英文・和訳・品詞・組み合わせ（a minor injury）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-illness",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（病気）の英文・和訳・品詞・組み合わせ（recover from illness）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-disease",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（疾病）の英文・和訳・品詞・組み合わせ（prevent disease）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-symptom",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（症状）の英文・和訳・品詞・組み合わせ（a common symptom）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-pain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（痛み）の英文・和訳・品詞・組み合わせ（shoulder pain）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-fever",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（発熱）の英文・和訳・品詞・組み合わせ（have a fever）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-cough",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（せき）の英文・和訳・品詞・組み合わせ（a persistent cough）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-cold",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（風邪）の英文・和訳・品詞・組み合わせ（catch a cold）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-allergy",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（アレルギー）の英文・和訳・品詞・組み合わせ（a food allergy）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-infection",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（感染、感染症）の英文・和訳・品詞・組み合わせ（prevent infection）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-recovery",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（回復）の英文・和訳・品詞・組み合わせ（a full recovery）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-health",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（健康）の英文・和訳・品詞・組み合わせ（good health）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-safety",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（安全）の英文・和訳・品詞・組み合わせ（workplace safety）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-fitness",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（体力、健康維持）の英文・和訳・品詞・組み合わせ（a fitness class）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-exercise",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（運動）の英文・和訳・品詞・組み合わせ（regular exercise）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-diet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（日常の食事）の英文・和訳・品詞・組み合わせ（a balanced diet）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-nutrition",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（栄養）の英文・和訳・品詞・組み合わせ（good nutrition）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-ingredient",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（材料、原料）の英文・和訳・品詞・組み合わせ（fresh ingredients）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-portion",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（一人前、取り分）の英文・和訳・品詞・組み合わせ（a small portion）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-recipe",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（調理法、レシピ）の英文・和訳・品詞・組み合わせ（follow a recipe）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-beverage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（飲み物）の英文・和訳・品詞・組み合わせ（a hot beverage）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-work",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（働く）の英文・和訳・品詞・組み合わせ（work for a company）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-employ",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（雇用する）の英文・和訳・品詞・組み合わせ（employ staff）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-hire",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（雇う）の英文・和訳・品詞・組み合わせ（hire an assistant）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-resign",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（辞職する）の英文・和訳・品詞・組み合わせ（resign from a position）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-retire",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（退職する、引退する）の英文・和訳・品詞・組み合わせ（retire from work）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-quit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（やめる）の英文・和訳・品詞・組み合わせ（quit a job）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-motivate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（意欲を引き出す）の英文・和訳・品詞・組み合わせ（motivate employees）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-communicate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（意思を伝える、連絡する）の英文・和訳・品詞・組み合わせ（communicate clearly）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-collaborate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（協働する）の英文・和訳・品詞・組み合わせ（collaborate on a project）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-greet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（挨拶して迎える）の英文・和訳・品詞・組み合わせ（greet a visitor）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-celebrate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（祝う）の英文・和訳・品詞・組み合わせ（celebrate an anniversary）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-respect",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（尊重する）の英文・和訳・品詞・組み合わせ（respect privacy）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-trust",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（信頼する）の英文・和訳・品詞・組み合わせ（trust a colleague）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-experience",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（経験）の英文・和訳・品詞・組み合わせ（work experience）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    },
+    {
+      "targetId": "v-skill",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（技能）の英文・和訳・品詞・組み合わせ（communication skills）を実読して照合。人物・仕事・健康の場面で用法と意味が対応。"
+    }
+  ],
+  "revisionHistory": [
+    {
+      "targetId": "v-teenager",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "teenagerは13〜19歳であるためmeaningJaと和訳を13〜19歳に限定して修正する。"
+      ],
+      "reason": "全語義（十代の若者）の英文・和訳・品詞・組み合わせ（a group of teenagers）を実読して照合。teenagerは13〜19歳であるためmeaningJaと和訳を13〜19歳に限定して修正する。"
+    },
+    {
+      "targetId": "v-student",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "receive reduced admission pricesという組み合わせを自然なStudents pay reduced admission prices.に変更する。"
+      ],
+      "reason": "全語義（学生）の英文・和訳・品詞・組み合わせ（a university student）を実読して照合。receive reduced admission pricesという組み合わせを自然なStudents pay reduced admission prices.に変更する。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "questions-001-blind-v3",
+  "batchId": "questions-001",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:18:59.819406+00:00",
+  "method": "q-0011 v3の盲検ファイルを読み、解説参照前に選択肢の人称・数・性と主語の一致を再確認。過去版の解答は既知。",
+  "items": [
+    {
+      "targetId": "q-0011",
+      "targetVersion": 3,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "Mr. Parkが自身を紹介するhimselfが一致。itselfは物事、herselfは女性、ourselvesは一人称複数を指すため主語と一致しない。"
+    }
+  ]
+}

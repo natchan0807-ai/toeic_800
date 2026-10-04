@@ -1,0 +1,695 @@
+{
+  "id": "questions-009",
+  "items": [
+    {
+      "id": "q-0241",
+      "version": 1,
+      "stem": "We appreciate your _____ while our staff investigate the cause of the service interruption.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cooperation"
+        },
+        {
+          "id": "b",
+          "text": "cooperatively"
+        },
+        {
+          "id": "c",
+          "text": "cooperative"
+        },
+        {
+          "id": "d",
+          "text": "cooperate"
+        }
+      ]
+    },
+    {
+      "id": "q-0242",
+      "version": 1,
+      "stem": "The report provides an unusually _____ description of conditions inside the storage container.",
+      "options": [
+        {
+          "id": "a",
+          "text": "accurate"
+        },
+        {
+          "id": "b",
+          "text": "accurately"
+        },
+        {
+          "id": "c",
+          "text": "accurateness"
+        },
+        {
+          "id": "d",
+          "text": "accuracy"
+        }
+      ]
+    },
+    {
+      "id": "q-0243",
+      "version": 1,
+      "stem": "The vegetables should remain _____ for several days if they are kept in the refrigerator.",
+      "options": [
+        {
+          "id": "a",
+          "text": "freshly"
+        },
+        {
+          "id": "b",
+          "text": "freshness"
+        },
+        {
+          "id": "c",
+          "text": "freshen"
+        },
+        {
+          "id": "d",
+          "text": "fresh"
+        }
+      ]
+    },
+    {
+      "id": "q-0244",
+      "version": 1,
+      "stem": "The branch manager _____ the revised opening hours at yesterday's staff meeting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has announced"
+        },
+        {
+          "id": "b",
+          "text": "announces"
+        },
+        {
+          "id": "c",
+          "text": "will announce"
+        },
+        {
+          "id": "d",
+          "text": "announced"
+        }
+      ]
+    },
+    {
+      "id": "q-0245",
+      "version": 2,
+      "stem": "The company plans _____ its customer service center closer to the main railway station.",
+      "options": [
+        {
+          "id": "a",
+          "text": "relocation"
+        },
+        {
+          "id": "b",
+          "text": "relocated"
+        },
+        {
+          "id": "c",
+          "text": "relocating"
+        },
+        {
+          "id": "d",
+          "text": "to relocate"
+        }
+      ]
+    },
+    {
+      "id": "q-0246",
+      "version": 1,
+      "stem": "By the time production resumed, the technician _____ the faulty temperature sensor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had replaced"
+        },
+        {
+          "id": "b",
+          "text": "replacing"
+        },
+        {
+          "id": "c",
+          "text": "will replace"
+        },
+        {
+          "id": "d",
+          "text": "has replaced"
+        }
+      ]
+    },
+    {
+      "id": "q-0247",
+      "version": 1,
+      "stem": "Neither of the suggested solutions _____ suitable for a building of this age.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be"
+        },
+        {
+          "id": "b",
+          "text": "to be"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "being"
+        }
+      ]
+    },
+    {
+      "id": "q-0248",
+      "version": 1,
+      "stem": "One of the local banks _____ small businesses free advice on managing cash flow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "offering"
+        },
+        {
+          "id": "b",
+          "text": "to offer"
+        },
+        {
+          "id": "c",
+          "text": "offers"
+        },
+        {
+          "id": "d",
+          "text": "offer"
+        }
+      ]
+    },
+    {
+      "id": "q-0249",
+      "version": 1,
+      "stem": "There _____ several devices in this laboratory that require a separate power supply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "be"
+        },
+        {
+          "id": "d",
+          "text": "being"
+        }
+      ]
+    },
+    {
+      "id": "q-0250",
+      "version": 2,
+      "stem": "The company has revised _____ policy on working from home to give employees more flexibility.",
+      "options": [
+        {
+          "id": "a",
+          "text": "it"
+        },
+        {
+          "id": "b",
+          "text": "its"
+        },
+        {
+          "id": "c",
+          "text": "itself"
+        },
+        {
+          "id": "d",
+          "text": "it's"
+        }
+      ]
+    },
+    {
+      "id": "q-0251",
+      "version": 1,
+      "stem": "The employees have reviewed the new procedure, and _____ are ready to begin the trial.",
+      "options": [
+        {
+          "id": "a",
+          "text": "they"
+        },
+        {
+          "id": "b",
+          "text": "them"
+        },
+        {
+          "id": "c",
+          "text": "theirs"
+        },
+        {
+          "id": "d",
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "id": "q-0252",
+      "version": 1,
+      "stem": "Ms. Reed congratulated _____ on completing the difficult task ahead of schedule.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ourselves"
+        },
+        {
+          "id": "b",
+          "text": "herself"
+        },
+        {
+          "id": "c",
+          "text": "myself"
+        },
+        {
+          "id": "d",
+          "text": "itself"
+        }
+      ]
+    },
+    {
+      "id": "q-0253",
+      "version": 1,
+      "stem": "The factory will close for its annual equipment inspection _____ August.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "of"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ]
+    },
+    {
+      "id": "q-0254",
+      "version": 1,
+      "stem": "The regional director is responsible _____ approving all contracts above the specified value.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "to"
+        },
+        {
+          "id": "c",
+          "text": "with"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ]
+    },
+    {
+      "id": "q-0255",
+      "version": 1,
+      "stem": "The temporary signs remained in place _____ the strong wind throughout the night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "unless"
+        },
+        {
+          "id": "b",
+          "text": "although"
+        },
+        {
+          "id": "c",
+          "text": "because"
+        },
+        {
+          "id": "d",
+          "text": "despite"
+        }
+      ]
+    },
+    {
+      "id": "q-0256",
+      "version": 1,
+      "stem": "The engineers added a viewing window _____ operators could inspect the process without opening the cover.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so as to"
+        },
+        {
+          "id": "b",
+          "text": "because of"
+        },
+        {
+          "id": "c",
+          "text": "so that"
+        },
+        {
+          "id": "d",
+          "text": "despite"
+        }
+      ]
+    },
+    {
+      "id": "q-0257",
+      "version": 1,
+      "stem": "Customers may pay either in advance _____ upon collection of the goods.",
+      "options": [
+        {
+          "id": "a",
+          "text": "or"
+        },
+        {
+          "id": "b",
+          "text": "but"
+        },
+        {
+          "id": "c",
+          "text": "and"
+        },
+        {
+          "id": "d",
+          "text": "nor"
+        }
+      ]
+    },
+    {
+      "id": "q-0258",
+      "version": 1,
+      "stem": "Please keep the passage clear _____ visitors are moving between the exhibition rooms.",
+      "options": [
+        {
+          "id": "a",
+          "text": "during"
+        },
+        {
+          "id": "b",
+          "text": "while"
+        },
+        {
+          "id": "c",
+          "text": "despite"
+        },
+        {
+          "id": "d",
+          "text": "because of"
+        }
+      ]
+    },
+    {
+      "id": "q-0259",
+      "version": 1,
+      "stem": "The publisher is looking for authors _____ books appeal to readers interested in local history.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whom"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ]
+    },
+    {
+      "id": "q-0260",
+      "version": 1,
+      "stem": "Any employee _____ notices an unusual smell near the storage tanks should notify the supervisor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whom"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "id": "q-0261",
+      "version": 1,
+      "stem": "The entrance ramp, _____ was added during the renovation, makes the building more accessible.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ]
+    },
+    {
+      "id": "q-0262",
+      "version": 1,
+      "stem": "The online form has _____ questions than the printed version, but it collects the same essential information.",
+      "options": [
+        {
+          "id": "a",
+          "text": "little"
+        },
+        {
+          "id": "b",
+          "text": "fewer"
+        },
+        {
+          "id": "c",
+          "text": "least"
+        },
+        {
+          "id": "d",
+          "text": "less"
+        }
+      ]
+    },
+    {
+      "id": "q-0263",
+      "version": 1,
+      "stem": "The coastal route is _____ than the inland road, especially after heavy rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "dangerously"
+        },
+        {
+          "id": "b",
+          "text": "more dangerous"
+        },
+        {
+          "id": "c",
+          "text": "dangerous"
+        },
+        {
+          "id": "d",
+          "text": "most dangerous"
+        }
+      ]
+    },
+    {
+      "id": "q-0264",
+      "version": 1,
+      "stem": "Of the five apartments we visited, the one nearest the station was the _____.",
+      "options": [
+        {
+          "id": "a",
+          "text": "expense"
+        },
+        {
+          "id": "b",
+          "text": "more expensive"
+        },
+        {
+          "id": "c",
+          "text": "most expensive"
+        },
+        {
+          "id": "d",
+          "text": "expensively"
+        }
+      ]
+    },
+    {
+      "id": "q-0265",
+      "version": 1,
+      "stem": "We do not have _____ information about the proposed merger, so no decision can be made yet.",
+      "options": [
+        {
+          "id": "a",
+          "text": "several"
+        },
+        {
+          "id": "b",
+          "text": "many"
+        },
+        {
+          "id": "c",
+          "text": "a few"
+        },
+        {
+          "id": "d",
+          "text": "much"
+        }
+      ]
+    },
+    {
+      "id": "q-0266",
+      "version": 1,
+      "stem": "The auditor asked to see _____ receipts from each month to verify the expense records.",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "a few"
+        },
+        {
+          "id": "c",
+          "text": "each"
+        },
+        {
+          "id": "d",
+          "text": "a little"
+        }
+      ]
+    },
+    {
+      "id": "q-0267",
+      "version": 1,
+      "stem": "The training room is occupied until noon; can we reserve _____ room for the morning interviews?",
+      "options": [
+        {
+          "id": "a",
+          "text": "others"
+        },
+        {
+          "id": "b",
+          "text": "every"
+        },
+        {
+          "id": "c",
+          "text": "another"
+        },
+        {
+          "id": "d",
+          "text": "other"
+        }
+      ]
+    },
+    {
+      "id": "q-0268",
+      "version": 1,
+      "stem": "A _____ of qualified drivers has forced the delivery company to reduce its weekend service.",
+      "options": [
+        {
+          "id": "a",
+          "text": "shortage"
+        },
+        {
+          "id": "b",
+          "text": "surplus"
+        },
+        {
+          "id": "c",
+          "text": "reservation"
+        },
+        {
+          "id": "d",
+          "text": "collection"
+        }
+      ]
+    },
+    {
+      "id": "q-0269",
+      "version": 1,
+      "stem": "The hotel had no _____ rooms, so the receptionist suggested another property nearby.",
+      "options": [
+        {
+          "id": "a",
+          "text": "portable"
+        },
+        {
+          "id": "b",
+          "text": "fluent"
+        },
+        {
+          "id": "c",
+          "text": "loyal"
+        },
+        {
+          "id": "d",
+          "text": "vacant"
+        }
+      ]
+    },
+    {
+      "id": "q-0270",
+      "version": 1,
+      "stem": "Price is one of several _____ the committee will use to select the winning proposal.",
+      "options": [
+        {
+          "id": "a",
+          "text": "currencies"
+        },
+        {
+          "id": "b",
+          "text": "criteria"
+        },
+        {
+          "id": "c",
+          "text": "containers"
+        },
+        {
+          "id": "d",
+          "text": "corridors"
+        }
+      ]
+    }
+  ]
+}

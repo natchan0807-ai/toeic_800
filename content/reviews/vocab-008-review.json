@@ -1,0 +1,711 @@
+{
+  "id": "vocab-008-review",
+  "batchId": "vocab-008",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:25:17.648821+00:00",
+  "method": "全100語100語義の全文を読み、端末・通信・操作の文脈における語義、品詞、英文の構造、和訳とコロケーション、関連語をAIが確認。判定後に記録を整形。人手確認0。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "v-computer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（コンピューター）の英文と和訳・品詞・組み合わせ（a desktop computer）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-laptop",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ノートパソコン）の英文と和訳・品詞・組み合わせ（a lightweight laptop）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-tablet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（タブレット端末）の英文と和訳・品詞・組み合わせ（a tablet computer）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-smartphone",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（スマートフォン）の英文と和訳・品詞・組み合わせ（a smartphone app）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-phone",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（電話）の英文と和訳・品詞・組み合わせ（answer the phone）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-screen",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（画面）の英文と和訳・品詞・組み合わせ（a touch screen）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-keyboard",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（キーボード）の英文と和訳・品詞・組み合わせ（a wireless keyboard）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-mouse",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（マウス）の英文と和訳・品詞・組み合わせ（a wireless mouse）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-printer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（プリンター）の英文と和訳・品詞・組み合わせ（a color printer）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-scanner",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（スキャナー）の英文と和訳・品詞・組み合わせ（a document scanner）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-camera",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（カメラ）の英文と和訳・品詞・組み合わせ（a digital camera）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-speaker",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（スピーカー）の英文と和訳・品詞・組み合わせ（a portable speaker）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-microphone",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（マイク）の英文と和訳・品詞・組み合わせ（a wireless microphone）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-headphones",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ヘッドホン）の英文と和訳・品詞・組み合わせ（a pair of headphones）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-charger",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（充電器）の英文と和訳・品詞・組み合わせ（a battery charger）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-battery",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（電池、バッテリー）の英文と和訳・品詞・組み合わせ（a rechargeable battery）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-cable",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ケーブル）の英文と和訳・品詞・組み合わせ（a power cable）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-wire",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（針金、電線）の英文と和訳・品詞・組み合わせ（an electrical wire）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-plug",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（電源プラグ）の英文と和訳・品詞・組み合わせ（an electrical plug）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-socket",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（差し込み口、コンセント）の英文と和訳・品詞・組み合わせ（a power socket）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-switch",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（スイッチ）の英文と和訳・品詞・組み合わせ（a light switch）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-button",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ボタン）の英文と和訳・品詞・組み合わせ（a power button）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-display",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（表示装置、表示）の英文と和訳・品詞・組み合わせ（a digital display）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-device",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（装置、機器）の英文と和訳・品詞・組み合わせ（a portable device）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-machine",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（機械）の英文と和訳・品詞・組み合わせ（a sorting machine）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-tool",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（道具）の英文と和訳・品詞・組み合わせ（a hand tool）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-instrument",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（器具、計器）の英文と和訳・品詞・組み合わせ（a measuring instrument）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-engine",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（エンジン）の英文と和訳・品詞・組み合わせ（a diesel engine）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-motor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（モーター）の英文と和訳・品詞・組み合わせ（an electric motor）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-sensor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（センサー）の英文と和訳・品詞・組み合わせ（a motion sensor）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-software",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ソフトウェア）の英文と和訳・品詞・組み合わせ（accounting software）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-hardware",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ハードウェア、機器）の英文と和訳・品詞・組み合わせ（computer hardware）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-program",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（コンピュータープログラム）の英文と和訳・品詞・組み合わせ（run a program）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-application",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（アプリケーション）の英文と和訳・品詞・組み合わせ（a mobile application）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-database",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（データベース）の英文と和訳・品詞・組み合わせ（a customer database）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-network",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（通信網、ネットワーク）の英文と和訳・品詞・組み合わせ（a wireless network）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-internet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（インターネット）の英文と和訳・品詞・組み合わせ（connect to the internet）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-website",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ウェブサイト）の英文と和訳・品詞・組み合わせ（visit a website）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-browser",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ブラウザー）の英文と和訳・品詞・組み合わせ（a web browser）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-page",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ページ）の英文と和訳・品詞・組み合わせ（a home page）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-link",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（リンク）の英文と和訳・品詞・組み合わせ（click a link）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-search",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（検索、捜索）の英文と和訳・品詞・組み合わせ（a keyword search）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-username",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ユーザー名）の英文と和訳・品詞・組み合わせ（choose a username）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-profile",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（プロフィール、登録情報）の英文と和訳・品詞・組み合わせ（a user profile）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-setting",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（設定）の英文と和訳・品詞・組み合わせ（a default setting）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-login",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ログイン、認証情報）の英文と和訳・品詞・組み合わせ（login details）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-access",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（利用権、アクセス）の英文と和訳・品詞・組み合わせ（access to information）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-connection",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（接続）の英文と和訳・品詞・組み合わせ（an internet connection）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-signal",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（信号、電波）の英文と和訳・品詞・組み合わせ（a weak signal）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-data",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（データ）の英文と和訳・品詞・組み合わせ（collect data）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-memory",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（記憶装置、メモリー）の英文と和訳・品詞・組み合わせ（computer memory）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-storage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（保存領域、保管）の英文と和訳・品詞・組み合わせ（storage space）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-backup",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（予備、バックアップ）の英文と和訳・品詞・組み合わせ（a backup copy）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-code",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（コード、符号）の英文と和訳・品詞・組み合わせ（a security code）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-error",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（誤り、エラー）の英文と和訳・品詞・組み合わせ（a typing error）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-bug",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（プログラムの不具合）の英文と和訳・品詞・組み合わせ（a software bug）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-virus",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（コンピューターウイルス）の英文と和訳・品詞・組み合わせ（a computer virus）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-upgrade",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（機能向上、更新）の英文と和訳・品詞・組み合わせ（a software upgrade）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-install",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（設置する、導入する）の英文と和訳・品詞・組み合わせ（install software）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-download",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ダウンロードする）の英文と和訳・品詞・組み合わせ（download a file）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-upload",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（アップロードする）の英文と和訳・品詞・組み合わせ（upload a photo）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-connect",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（接続する）の英文と和訳・品詞・組み合わせ（connect a device）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-disconnect",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（接続を切る）の英文と和訳・品詞・組み合わせ（disconnect a cable）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-restart",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（再起動する）の英文と和訳・品詞・組み合わせ（restart a computer）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-activate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（有効にする、作動させる）の英文と和訳・品詞・組み合わせ（activate a device）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-configure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（設定する）の英文と和訳・品詞・組み合わせ（configure a network）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-click",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（クリックする）の英文と和訳・品詞・組み合わせ（click a button）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-type",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（文字を入力する）の英文と和訳・品詞・組み合わせ（type a message）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-print",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（印刷する）の英文と和訳・品詞・組み合わせ（print a document）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-scan",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（読み取る、スキャンする）の英文と和訳・品詞・組み合わせ（scan a document）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-paste",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（貼り付ける）の英文と和訳・品詞・組み合わせ（paste text）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-delete",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（削除する）の英文と和訳・品詞・組み合わせ（delete a file）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-remove",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（取り除く）の英文と和訳・品詞・組み合わせ（remove a component）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-insert",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（挿入する）の英文と和訳・品詞・組み合わせ（insert a card）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-edit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（編集する）の英文と和訳・品詞・組み合わせ（edit a document）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-format",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（書式を整える）の英文と和訳・品詞・組み合わせ（format a document）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-restore",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（復元する）の英文と和訳・品詞・組み合わせ（restore data）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-recover",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（取り戻す、復旧する）の英文と和訳・品詞・組み合わせ（recover lost files）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-browse",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（閲覧する）の英文と和訳・品詞・組み合わせ（browse a website）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-navigate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（目的の場所へ移動する）の英文と和訳・品詞・組み合わせ（navigate a website）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-scroll",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（画面を上下などに動かす）の英文と和訳・品詞・組み合わせ（scroll down）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-press",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（押す）の英文と和訳・品詞・組み合わせ（press a key）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-drag",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ドラッグする、引く）の英文と和訳・品詞・組み合わせ（drag an icon）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-drop",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（落とす、離して置く）の英文と和訳・品詞・組み合わせ（drop a file）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-open",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（開く）の英文と和訳・品詞・組み合わせ（open a file）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-close",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（閉じる）の英文と和訳・品詞・組み合わせ（close a window）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-run",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（実行する、動かす）の英文と和訳・品詞・組み合わせ（run a program）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-load",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（読み込む、積み込む）の英文と和訳・品詞・組み合わせ（load a file）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-output",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（出力、生成結果）の英文と和訳・品詞・組み合わせ（printer output）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-function",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（機能）の英文と和訳・品詞・組み合わせ（a basic function）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-feature",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（特色、機能）の英文と和訳・品詞・組み合わせ（a useful feature）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-option",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（選択肢）の英文と和訳・品詞・組み合わせ（a menu option）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-icon",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（アイコン）の英文と和訳・品詞・組み合わせ（a desktop icon）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-symbol",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（記号）の英文と和訳・品詞・組み合わせ（a warning symbol）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-image",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（画像）の英文と和訳・品詞・組み合わせ（a digital image）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-video",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（動画）の英文と和訳・品詞・組み合わせ（a video recording）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-audio",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（音声）の英文と和訳・品詞・組み合わせ（digital audio）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-sound",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（音）の英文と和訳・品詞・組み合わせ（a warning sound）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-volume",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（音量）の英文と和訳・品詞・組み合わせ（adjust the volume）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    },
+    {
+      "targetId": "v-speed",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（速度）の英文と和訳・品詞・組み合わせ（connection speed）を実読。機器・ソフトウェア操作の文脈と対象の用法が対応している。"
+    }
+  ]
+}

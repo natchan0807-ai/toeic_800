@@ -1,0 +1,30 @@
+{
+  "id": "questions-006-review-initial",
+  "batchId": "questions-006",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:45:32.952496+00:00",
+  "method": "各バッチ30問の独立解答をblind記録に保存後、著者の正解・全選択肢解説・和訳・技能を照合。この記録は初回検査で見つけた修正対象のみ。語義リンク確定後に全項目の最終検査を別記録へ保存する。",
+  "items": [
+    {
+      "targetId": "q-0170",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "c",
+      "issues": [
+        "which の疑問代名詞用法を考慮すると、先行詞が必要という誤答説明だけでは排除できない。選択肢を that 等へ変更して一意性を強める。"
+      ],
+      "reason": "doの目的語を含むwhatだがwhichも文脈次第で選択の疑問代名詞となる。独立解答は著者と一致したが、説明または唯一性・訳の修正が必要。"
+    },
+    {
+      "targetId": "q-0167",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "a",
+      "issues": [
+        "ask whether you are using a desktop computer and a mobile device も自然で意味が通る。whether ... or not 等へ修正し、or のみが適切となる条件を明示する。"
+      ],
+      "reason": "whetherとorの選択。独立解答は著者と一致したが、and を補う別解も文法と文意の両面で成立する。"
+    }
+  ]
+}

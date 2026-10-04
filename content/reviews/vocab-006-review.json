@@ -1,0 +1,749 @@
+{
+  "id": "vocab-006-review",
+  "batchId": "vocab-006",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:24:51.831231+00:00",
+  "method": "全100見出し語101語義の英文・和訳・品詞・意味・コロケーション・関連語をAIが実読して照合。金融制度の助言ではなく語義と訳の検査。判定後JSONに整形。人手確認0。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "v-account",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "savings accountを貯蓄用口座に修正したv2を再読し整合。"
+    },
+    {
+      "targetId": "v-bank",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（銀行）の例文・和訳・品詞・組み合わせ（a local bank）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-cash",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（現金）の例文・和訳・品詞・組み合わせ（pay in cash）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-coin",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（硬貨）の例文・和訳・品詞・組み合わせ（a silver coin）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-note",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（紙幣）の例文・和訳・品詞・組み合わせ（a bank note）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-bill",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（請求書、勘定）の例文・和訳・品詞・組み合わせ（pay a bill）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-receipt",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（領収書、レシート）の例文・和訳・品詞・組み合わせ（a sales receipt）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-invoice",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（請求書）の例文・和訳・品詞・組み合わせ（issue an invoice）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-payment",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（支払い）の例文・和訳・品詞・組み合わせ（make a payment）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-transaction",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（取引）の例文・和訳・品詞・組み合わせ（a bank transaction）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-deposit",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "v2で手付金の意味を追加し、予約保証の例文と語義・和訳が一致。"
+    },
+    {
+      "targetId": "v-withdrawal",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（引き出し）の例文・和訳・品詞・組み合わせ（a cash withdrawal）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-loan",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（貸付、ローン）の例文・和訳・品詞・組み合わせ（apply for a loan）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-debt",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（借金、負債）の例文・和訳・品詞・組み合わせ（repay a debt）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-credit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（信用貸し、後払い）の例文・和訳・品詞・組み合わせ（buy on credit）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-debit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（口座からの引き落とし）の例文・和訳・品詞・組み合わせ（a direct debit）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-interest",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（関心 / 利息）の例文・和訳・品詞・組み合わせ（show interest / earn interest）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-savings",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（貯金、蓄え）の例文・和訳・品詞・組み合わせ（personal savings）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-investment",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（投資）の例文・和訳・品詞・組み合わせ（a long-term investment）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-tax",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（税金）の例文・和訳・品詞・組み合わせ（pay tax）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-fee",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（手数料、料金）の例文・和訳・品詞・組み合わせ（an admission fee）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-commission",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（歩合、手数料）の例文・和訳・品詞・組み合わせ（earn commission）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-salary",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（給料、年俸）の例文・和訳・品詞・組み合わせ（an annual salary）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-wage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（賃金）の例文・和訳・品詞・組み合わせ（an hourly wage）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-bonus",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（賞与、追加報酬）の例文・和訳・品詞・組み合わせ（an annual bonus）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-allowance",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（手当、支給額）の例文・和訳・品詞・組み合わせ（a travel allowance）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-pension",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（年金）の例文・和訳・品詞・組み合わせ（a pension plan）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-insurance",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（保険）の例文・和訳・品詞・組み合わせ（travel insurance）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-premium",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（保険料）の例文・和訳・品詞・組み合わせ（an insurance premium）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-refund",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（返金）の例文・和訳・品詞・組み合わせ（a full refund）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-reimbursement",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（経費の払い戻し）の例文・和訳・品詞・組み合わせ（expense reimbursement）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-accountant",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（会計担当者、会計士）の例文・和訳・品詞・組み合わせ（a qualified accountant）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-auditor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（監査人）の例文・和訳・品詞・組み合わせ（an external auditor）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-audit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（監査）の例文・和訳・品詞・組み合わせ（conduct an audit）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-asset",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（資産）の例文・和訳・品詞・組み合わせ（a valuable asset）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-liability",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（負債、法的責任）の例文・和訳・品詞・組み合わせ（current liabilities）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-capital",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（事業資金、資本）の例文・和訳・品詞・組み合わせ（raise capital）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-fund",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（資金、基金）の例文・和訳・品詞・組み合わせ（a scholarship fund）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-stock",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（株式）の例文・和訳・品詞・組み合わせ（company stock）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-amount",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（金額、量）の例文・和訳・品詞・組み合わせ（the total amount）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-total",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（合計）の例文・和訳・品詞・組み合わせ（a grand total）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-sum",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（合計額、金額）の例文・和訳・品詞・組み合わせ（a fixed sum）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-figure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（数値）の例文・和訳・品詞・組み合わせ（sales figures）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-rate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（割合、料金水準）の例文・和訳・品詞・組み合わせ（an interest rate）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-ratio",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（比率）の例文・和訳・品詞・組み合わせ（the ratio of costs to sales）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-percentage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（百分率、割合）の例文・和訳・品詞・組み合わせ（a small percentage）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-exchange",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（交換、両替）の例文・和訳・品詞・組み合わせ（currency exchange）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-due",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（支払い期限の、予定の）の例文・和訳・品詞・組み合わせ（due tomorrow）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-overdue",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（期限を過ぎた）の例文・和訳・品詞・組み合わせ（an overdue payment）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-outstanding",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（未払いの、未処理の）の例文・和訳・品詞・組み合わせ（an outstanding balance）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-annual",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（毎年の、年次の）の例文・和訳・品詞・組み合わせ（an annual fee）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-quarterly",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（四半期ごとの）の例文・和訳・品詞・組み合わせ（a quarterly report）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-monthly",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（毎月の）の例文・和訳・品詞・組み合わせ（a monthly payment）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-weekly",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（毎週の）の例文・和訳・品詞・組み合わせ（a weekly budget）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-financial",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（財務の、金銭の）の例文・和訳・品詞・組み合わせ（financial statements）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-fiscal",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（会計年度の、財政の）の例文・和訳・品詞・組み合わせ（a fiscal year）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-economic",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（経済の）の例文・和訳・品詞・組み合わせ（economic growth）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-commercial",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（商業の）の例文・和訳・品詞・組み合わせ（commercial property）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-wholesale",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（卸売りの）の例文・和訳・品詞・組み合わせ（wholesale prices）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-retail",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（小売りの）の例文・和訳・品詞・組み合わせ（a retail store）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-bargain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（お買い得品）の例文・和訳・品詞・組み合わせ（a great bargain）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-deal",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（取引、契約）の例文・和訳・品詞・組み合わせ（close a deal）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-coupon",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（割引券）の例文・和訳・品詞・組み合わせ（a discount coupon）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-voucher",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（商品券、引換券）の例文・和訳・品詞・組み合わせ（a gift voucher）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-checkout",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（会計場所、決済手続き）の例文・和訳・品詞・組み合わせ（an express checkout）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-cashier",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（レジ係）の例文・和訳・品詞・組み合わせ（a store cashier）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-register",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（レジ）の例文・和訳・品詞・組み合わせ（a cash register）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-guarantee",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（保証）の例文・和訳・品詞・組み合わせ（a written guarantee）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-warranty",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "v2を再読。保証期間と対象の欠陥の係り受けが明確な日本語に改善。"
+    },
+    {
+      "targetId": "v-complaint",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（苦情）の例文・和訳・品詞・組み合わせ（handle a complaint）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-inquiry",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（問い合わせ）の例文・和訳・品詞・組み合わせ（a customer inquiry）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-catalog",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（商品一覧、カタログ）の例文・和訳・品詞・組み合わせ（a product catalog）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-brochure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（パンフレット）の例文・和訳・品詞・組み合わせ（a travel brochure）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-leaflet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（チラシ）の例文・和訳・品詞・組み合わせ（an information leaflet）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-poster",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ポスター）の例文・和訳・品詞・組み合わせ（display a poster）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-advertisement",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（広告）の例文・和訳・品詞・組み合わせ（a newspaper advertisement）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-subscription",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（定期購読、継続利用契約）の例文・和訳・品詞・組み合わせ（renew a subscription）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-membership",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（会員資格）の例文・和訳・品詞・組み合わせ（annual membership）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-installment",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（分割払いの1回分）の例文・和訳・品詞・組み合わせ（pay in installments）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-bid",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（入札、提示額）の例文・和訳・品詞・組み合わせ（submit a bid）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-auction",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（競売、オークション）の例文・和訳・品詞・組み合わせ（a charity auction）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-donation",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（寄付）の例文・和訳・品詞・組み合わせ（make a donation）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-charity",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（慈善団体、慈善活動）の例文・和訳・品詞・組み合わせ（a local charity）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-nonprofit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（非営利の）の例文・和訳・品詞・組み合わせ（a nonprofit organization）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-lender",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（貸し手、融資機関）の例文・和訳・品詞・組み合わせ（a mortgage lender）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-beneficiary",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（受益者）の例文・和訳・品詞・組み合わせ（a named beneficiary）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-mortgage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（住宅ローン、抵当融資）の例文・和訳・品詞・組み合わせ（a mortgage payment）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-lease",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（賃貸借契約）の例文・和訳・品詞・組み合わせ（sign a lease）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-calculate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（計算する）の例文・和訳・品詞・組み合わせ（calculate a cost）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-compare",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（比較する）の例文・和訳・品詞・組み合わせ（compare prices）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-afford",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "v2で金銭的負担の余裕という語義に広げ、事務所の賃借の訳と整合。"
+    },
+    {
+      "targetId": "v-owe",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（借りがある、支払う義務がある）の例文・和訳・品詞・組み合わせ（owe money）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-own",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（所有する）の例文・和訳・品詞・組み合わせ（own a business）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-insure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（保険をかける）の例文・和訳・品詞・組み合わせ（insure equipment）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-distribute",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（配る、流通させる）の例文・和訳・品詞・組み合わせ（distribute products）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-import",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（輸入する）の例文・和訳・品詞・組み合わせ（import goods）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-export",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（輸出する）の例文・和訳・品詞・組み合わせ（export products）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-manufacture",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（製造する）の例文・和訳・品詞・組み合わせ（manufacture components）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-trade",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（貿易、商取引）の例文・和訳・品詞・組み合わせ（international trade）を読んで照合。文脈中の意味と訳・用法が対応。"
+    },
+    {
+      "targetId": "v-wealth",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（富、財産）の例文・和訳・品詞・組み合わせ（personal wealth）を読んで照合。文脈中の意味と訳・用法が対応。"
+    }
+  ],
+  "revisionHistory": [
+    {
+      "targetId": "v-account",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "savings accountを制度依存の普通預金口座とせず、貯蓄用口座と訳す。"
+      ],
+      "reason": "語義（口座）の例文・和訳・品詞・組み合わせ（a bank account）を読んで照合。savings accountを制度依存の普通預金口座とせず、貯蓄用口座と訳す。"
+    },
+    {
+      "targetId": "v-deposit",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "予約の手付金という例文の語義をmeaningJaにも明示する。"
+      ],
+      "reason": "語義（預金、頭金、手付金）の例文・和訳・品詞・組み合わせ（pay a deposit）を読んで照合。予約の手付金という例文の語義をmeaningJaにも明示する。"
+    },
+    {
+      "targetId": "v-warranty",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "1年間の欠陥という訳を「保証は1年間、製品の欠陥を対象とします。」へ改善。"
+      ],
+      "reason": "語義（製品保証）の例文・和訳・品詞・組み合わせ（a manufacturer's warranty）を読んで照合。1年間の欠陥という訳を「保証は1年間、製品の欠陥を対象とします。」へ改善。"
+    },
+    {
+      "targetId": "v-afford",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "買う余裕があるという語義に対して、事務所を借りる例の訳になっている。費用を負担する余裕があるへ広げる。"
+      ],
+      "reason": "語義（費用を負担する余裕がある）の例文・和訳・品詞・組み合わせ（afford a purchase）を読んで照合。買う余裕があるという語義に対して、事務所を借りる例の訳になっている。費用を負担する余裕があるへ広げる。"
+    }
+  ]
+}

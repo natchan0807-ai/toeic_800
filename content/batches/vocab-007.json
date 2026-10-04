@@ -1,0 +1,2931 @@
+{
+  "id": "vocab-007",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-04T00:18:01.123945+00:00",
+  "author": "vocabulary_editor",
+  "model": null,
+  "input": "research policy v1",
+  "status": "generated",
+  "items": [
+    {
+      "id": "v-person",
+      "version": 1,
+      "lemma": "person",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "personal"
+      ],
+      "rationale": "学習設計上の選定: 人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-person-1",
+          "pos": "noun",
+          "meaningJa": "人",
+          "example": "Only one person can use the booth.",
+          "translationJa": "そのブースは1人だけ使用できます。",
+          "collocations": [
+            "a person in charge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-individual",
+      "version": 1,
+      "lemma": "individual",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "individually"
+      ],
+      "rationale": "学習設計上の選定: 個人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-individual-1",
+          "pos": "noun",
+          "meaningJa": "個人",
+          "example": "The course supports each individual's goals.",
+          "translationJa": "講座は各個人の目標を支援します。",
+          "collocations": [
+            "a private individual"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-member",
+      "version": 1,
+      "lemma": "member",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "membership"
+      ],
+      "rationale": "学習設計上の選定: 会員、構成員に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-member-1",
+          "pos": "noun",
+          "meaningJa": "会員、構成員",
+          "example": "Each member receives a monthly newsletter.",
+          "translationJa": "各会員には月刊の会報が届きます。",
+          "collocations": [
+            "a team member"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-partner",
+      "version": 1,
+      "lemma": "partner",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "partnership"
+      ],
+      "rationale": "学習設計上の選定: 協力者、共同経営者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-partner-1",
+          "pos": "noun",
+          "meaningJa": "協力者、共同経営者",
+          "example": "My business partner handles customer relations.",
+          "translationJa": "共同経営者が顧客対応を担当します。",
+          "collocations": [
+            "a business partner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-neighbor",
+      "version": 1,
+      "lemma": "neighbor",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "neighborhood"
+      ],
+      "rationale": "学習設計上の選定: 近所の人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-neighbor-1",
+          "pos": "noun",
+          "meaningJa": "近所の人",
+          "example": "Our neighbor offered to collect our mail.",
+          "translationJa": "隣人が郵便物の回収を申し出てくれました。",
+          "collocations": [
+            "a friendly neighbor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-friend",
+      "version": 1,
+      "lemma": "friend",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "friendship"
+      ],
+      "rationale": "学習設計上の選定: 友人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-friend-1",
+          "pos": "noun",
+          "meaningJa": "友人",
+          "example": "A friend recommended this language school.",
+          "translationJa": "友人がこの語学学校を勧めてくれました。",
+          "collocations": [
+            "a close friend"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-family",
+      "version": 1,
+      "lemma": "family",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "family-friendly"
+      ],
+      "rationale": "学習設計上の選定: 家族に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-family-1",
+          "pos": "noun",
+          "meaningJa": "家族",
+          "example": "The event welcomes families with young children.",
+          "translationJa": "催しは幼い子供連れの家族を歓迎します。",
+          "collocations": [
+            "a family member"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-parent",
+      "version": 1,
+      "lemma": "parent",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "parental"
+      ],
+      "rationale": "学習設計上の選定: 親に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-parent-1",
+          "pos": "noun",
+          "meaningJa": "親",
+          "example": "Parents may attend the school concert.",
+          "translationJa": "保護者は学校の演奏会に出席できます。",
+          "collocations": [
+            "a child's parent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-child",
+      "version": 1,
+      "lemma": "child",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "childhood"
+      ],
+      "rationale": "学習設計上の選定: 子供に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-child-1",
+          "pos": "noun",
+          "meaningJa": "子供",
+          "example": "Every child received a small book.",
+          "translationJa": "子供全員が小さな本を受け取りました。",
+          "collocations": [
+            "a young child"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-adult",
+      "version": 1,
+      "lemma": "adult",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "adulthood"
+      ],
+      "rationale": "学習設計上の選定: 大人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-adult-1",
+          "pos": "noun",
+          "meaningJa": "大人",
+          "example": "Children must be accompanied by an adult.",
+          "translationJa": "子供には大人の付き添いが必要です。",
+          "collocations": [
+            "a responsible adult"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-teenager",
+      "version": 2,
+      "lemma": "teenager",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "teenage"
+      ],
+      "rationale": "学習設計上の選定: 13〜19歳の若者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-teenager-1",
+          "pos": "noun",
+          "meaningJa": "13〜19歳の若者",
+          "example": "The library offers courses for teenagers.",
+          "translationJa": "図書館は13〜19歳向けの講座を開いています。",
+          "collocations": [
+            "a group of teenagers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-relative",
+      "version": 1,
+      "lemma": "relative",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "relation"
+      ],
+      "rationale": "学習設計上の選定: 親族に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-relative-1",
+          "pos": "noun",
+          "meaningJa": "親族",
+          "example": "Several relatives came to the celebration.",
+          "translationJa": "お祝いに親戚が何人か来ました。",
+          "collocations": [
+            "a close relative"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-couple",
+      "version": 1,
+      "lemma": "couple",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "coupled"
+      ],
+      "rationale": "学習設計上の選定: 一組、夫婦に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-couple-1",
+          "pos": "noun",
+          "meaningJa": "一組、夫婦",
+          "example": "The couple runs a small guesthouse.",
+          "translationJa": "その夫婦は小さな宿を営んでいます。",
+          "collocations": [
+            "a married couple"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-population",
+      "version": 1,
+      "lemma": "population",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "populate"
+      ],
+      "rationale": "学習設計上の選定: 人口に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-population-1",
+          "pos": "noun",
+          "meaningJa": "人口",
+          "example": "The town's population has grown steadily.",
+          "translationJa": "その町の人口は着実に増えています。",
+          "collocations": [
+            "the local population"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-resident",
+      "version": 1,
+      "lemma": "resident",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "residential"
+      ],
+      "rationale": "学習設計上の選定: 住民、居住者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-resident-1",
+          "pos": "noun",
+          "meaningJa": "住民、居住者",
+          "example": "Residents may use the garden at any time.",
+          "translationJa": "住民はいつでも庭を利用できます。",
+          "collocations": [
+            "a local resident"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-community",
+      "version": 1,
+      "lemma": "community",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "communal"
+      ],
+      "rationale": "学習設計上の選定: 地域社会、共同体に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-community-1",
+          "pos": "noun",
+          "meaningJa": "地域社会、共同体",
+          "example": "The community raised money for a playground.",
+          "translationJa": "地域の人々は遊び場の資金を集めました。",
+          "collocations": [
+            "the local community"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-public",
+      "version": 2,
+      "lemma": "public",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "publicly"
+      ],
+      "rationale": "学習設計上の選定: 一般市民、公衆に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-public-1",
+          "pos": "noun",
+          "meaningJa": "一般市民、公衆",
+          "example": "The garden is open to the public.",
+          "translationJa": "その庭園は一般公開されています。",
+          "collocations": [
+            "the general public"
+          ]
+        },
+        {
+          "id": "v-public-2",
+          "pos": "adjective",
+          "meaningJa": "公共の、公の",
+          "example": "The public library stays open until eight.",
+          "translationJa": "公共図書館は8時まで開いています。",
+          "collocations": [
+            "a public library"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-volunteer",
+      "version": 1,
+      "lemma": "volunteer",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "voluntary"
+      ],
+      "rationale": "学習設計上の選定: ボランティアに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-volunteer-1",
+          "pos": "noun",
+          "meaningJa": "ボランティア",
+          "example": "Volunteers guide visitors around the museum.",
+          "translationJa": "ボランティアは博物館内を案内します。",
+          "collocations": [
+            "a local volunteer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-worker",
+      "version": 1,
+      "lemma": "worker",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "workforce"
+      ],
+      "rationale": "学習設計上の選定: 働く人、作業員に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-worker-1",
+          "pos": "noun",
+          "meaningJa": "働く人、作業員",
+          "example": "Workers checked the building's electrical wiring.",
+          "translationJa": "作業員が建物の電気配線を点検しました。",
+          "collocations": [
+            "a factory worker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-professional",
+      "version": 1,
+      "lemma": "professional",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "professionalism"
+      ],
+      "rationale": "学習設計上の選定: 専門職の人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-professional-1",
+          "pos": "noun",
+          "meaningJa": "専門職の人",
+          "example": "Consult a professional before altering the wiring.",
+          "translationJa": "配線を変える前に専門家に相談してください。",
+          "collocations": [
+            "a qualified professional"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-expert",
+      "version": 1,
+      "lemma": "expert",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "expertise"
+      ],
+      "rationale": "学習設計上の選定: 専門家に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-expert-1",
+          "pos": "noun",
+          "meaningJa": "専門家",
+          "example": "An energy expert inspected the building.",
+          "translationJa": "エネルギーの専門家が建物を調査しました。",
+          "collocations": [
+            "an industry expert"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-specialist",
+      "version": 1,
+      "lemma": "specialist",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "specialize"
+      ],
+      "rationale": "学習設計上の選定: 特定分野の専門家に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-specialist-1",
+          "pos": "noun",
+          "meaningJa": "特定分野の専門家",
+          "example": "The specialist answered questions about hearing aids.",
+          "translationJa": "専門家は補聴器の質問に答えました。",
+          "collocations": [
+            "a medical specialist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-consultant",
+      "version": 1,
+      "lemma": "consultant",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "consultation"
+      ],
+      "rationale": "学習設計上の選定: コンサルタント、相談役に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-consultant-1",
+          "pos": "noun",
+          "meaningJa": "コンサルタント、相談役",
+          "example": "We hired a consultant to review costs.",
+          "translationJa": "費用の見直しに相談役を雇いました。",
+          "collocations": [
+            "a business consultant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-assistant",
+      "version": 1,
+      "lemma": "assistant",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "assist"
+      ],
+      "rationale": "学習設計上の選定: 助手、補佐役に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-assistant-1",
+          "pos": "noun",
+          "meaningJa": "助手、補佐役",
+          "example": "The assistant prepared the meeting materials.",
+          "translationJa": "助手が会議の資料を準備しました。",
+          "collocations": [
+            "a personal assistant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-secretary",
+      "version": 1,
+      "lemma": "secretary",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "secretarial"
+      ],
+      "rationale": "学習設計上の選定: 秘書に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-secretary-1",
+          "pos": "noun",
+          "meaningJa": "秘書",
+          "example": "The secretary arranged the director's appointments.",
+          "translationJa": "秘書が取締役の面会予定を調整しました。",
+          "collocations": [
+            "a company secretary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-receptionist",
+      "version": 1,
+      "lemma": "receptionist",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "reception"
+      ],
+      "rationale": "学習設計上の選定: 受付係に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-receptionist-1",
+          "pos": "noun",
+          "meaningJa": "受付係",
+          "example": "The receptionist printed a visitor pass.",
+          "translationJa": "受付係が来客証を印刷しました。",
+          "collocations": [
+            "a hotel receptionist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-agent",
+      "version": 1,
+      "lemma": "agent",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "agency"
+      ],
+      "rationale": "学習設計上の選定: 代理人、仲介人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-agent-1",
+          "pos": "noun",
+          "meaningJa": "代理人、仲介人",
+          "example": "A travel agent helped plan our route.",
+          "translationJa": "旅行代理店の担当者が旅程作成を手伝いました。",
+          "collocations": [
+            "a travel agent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-representative",
+      "version": 1,
+      "lemma": "representative",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "represent"
+      ],
+      "rationale": "学習設計上の選定: 担当者、代表者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-representative-1",
+          "pos": "noun",
+          "meaningJa": "担当者、代表者",
+          "example": "A sales representative visited our office.",
+          "translationJa": "営業担当者が事務所を訪れました。",
+          "collocations": [
+            "a sales representative"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-executive",
+      "version": 1,
+      "lemma": "executive",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "executive board"
+      ],
+      "rationale": "学習設計上の選定: 会社の幹部に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-executive-1",
+          "pos": "noun",
+          "meaningJa": "会社の幹部",
+          "example": "Several executives attended the opening ceremony.",
+          "translationJa": "幹部数名が開業式に出席しました。",
+          "collocations": [
+            "a senior executive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-leader",
+      "version": 1,
+      "lemma": "leader",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "leadership"
+      ],
+      "rationale": "学習設計上の選定: 指導者、リーダーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-leader-1",
+          "pos": "noun",
+          "meaningJa": "指導者、リーダー",
+          "example": "The team leader assigned today's tasks.",
+          "translationJa": "リーダーが今日の仕事を割り当てました。",
+          "collocations": [
+            "a team leader"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-owner",
+      "version": 1,
+      "lemma": "owner",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "ownership"
+      ],
+      "rationale": "学習設計上の選定: 所有者、経営者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-owner-1",
+          "pos": "noun",
+          "meaningJa": "所有者、経営者",
+          "example": "The owner greeted customers at the entrance.",
+          "translationJa": "経営者は入口で客を迎えました。",
+          "collocations": [
+            "a shop owner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-founder",
+      "version": 1,
+      "lemma": "founder",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "found"
+      ],
+      "rationale": "学習設計上の選定: 創設者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-founder-1",
+          "pos": "noun",
+          "meaningJa": "創設者",
+          "example": "The founder still advises the design team.",
+          "translationJa": "創設者は今も設計チームに助言しています。",
+          "collocations": [
+            "a company founder"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-engineer",
+      "version": 1,
+      "lemma": "engineer",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "engineering"
+      ],
+      "rationale": "学習設計上の選定: 技師、エンジニアに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-engineer-1",
+          "pos": "noun",
+          "meaningJa": "技師、エンジニア",
+          "example": "An engineer checked the bridge structure.",
+          "translationJa": "技師が橋の構造を点検しました。",
+          "collocations": [
+            "a civil engineer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-technician",
+      "version": 1,
+      "lemma": "technician",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "technical"
+      ],
+      "rationale": "学習設計上の選定: 技術者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-technician-1",
+          "pos": "noun",
+          "meaningJa": "技術者",
+          "example": "The technician installed a new network cable.",
+          "translationJa": "技術者が新しい通信ケーブルを設置しました。",
+          "collocations": [
+            "a laboratory technician"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-mechanic",
+      "version": 1,
+      "lemma": "mechanic",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "mechanical"
+      ],
+      "rationale": "学習設計上の選定: 整備士に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-mechanic-1",
+          "pos": "noun",
+          "meaningJa": "整備士",
+          "example": "A mechanic replaced the worn tires.",
+          "translationJa": "整備士はすり減ったタイヤを交換しました。",
+          "collocations": [
+            "a car mechanic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-electrician",
+      "version": 1,
+      "lemma": "electrician",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "electrical"
+      ],
+      "rationale": "学習設計上の選定: 電気工事士に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-electrician-1",
+          "pos": "noun",
+          "meaningJa": "電気工事士",
+          "example": "The electrician repaired the faulty switch.",
+          "translationJa": "電気工事士が故障したスイッチを修理しました。",
+          "collocations": [
+            "a licensed electrician"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-plumber",
+      "version": 1,
+      "lemma": "plumber",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "plumbing"
+      ],
+      "rationale": "学習設計上の選定: 配管工に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-plumber-1",
+          "pos": "noun",
+          "meaningJa": "配管工",
+          "example": "A plumber fixed the leaking pipe.",
+          "translationJa": "配管工が水漏れする管を修理しました。",
+          "collocations": [
+            "call a plumber"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-carpenter",
+      "version": 1,
+      "lemma": "carpenter",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "carpentry"
+      ],
+      "rationale": "学習設計上の選定: 大工に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-carpenter-1",
+          "pos": "noun",
+          "meaningJa": "大工",
+          "example": "The carpenter built shelves for the office.",
+          "translationJa": "大工は事務所用の棚を作りました。",
+          "collocations": [
+            "a skilled carpenter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-architect",
+      "version": 1,
+      "lemma": "architect",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "architecture"
+      ],
+      "rationale": "学習設計上の選定: 建築家に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-architect-1",
+          "pos": "noun",
+          "meaningJa": "建築家",
+          "example": "The architect presented the new library plans.",
+          "translationJa": "建築家が新図書館の設計案を示しました。",
+          "collocations": [
+            "a landscape architect"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-designer",
+      "version": 1,
+      "lemma": "designer",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "design"
+      ],
+      "rationale": "学習設計上の選定: デザイナー、設計者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-designer-1",
+          "pos": "noun",
+          "meaningJa": "デザイナー、設計者",
+          "example": "The designer chose lighter colors for the lobby.",
+          "translationJa": "デザイナーはロビーに明るめの色を選びました。",
+          "collocations": [
+            "a graphic designer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-artist",
+      "version": 1,
+      "lemma": "artist",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "artistic"
+      ],
+      "rationale": "学習設計上の選定: 芸術家に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-artist-1",
+          "pos": "noun",
+          "meaningJa": "芸術家",
+          "example": "The artist explained how she makes pottery.",
+          "translationJa": "芸術家は陶芸の制作方法を説明しました。",
+          "collocations": [
+            "a local artist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-author",
+      "version": 1,
+      "lemma": "author",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "authorship"
+      ],
+      "rationale": "学習設計上の選定: 著者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-author-1",
+          "pos": "noun",
+          "meaningJa": "著者",
+          "example": "The author signed copies after the talk.",
+          "translationJa": "著者は講演後に本にサインしました。",
+          "collocations": [
+            "a bestselling author"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-editor",
+      "version": 1,
+      "lemma": "editor",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "editorial"
+      ],
+      "rationale": "学習設計上の選定: 編集者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-editor-1",
+          "pos": "noun",
+          "meaningJa": "編集者",
+          "example": "The editor checked every caption carefully.",
+          "translationJa": "編集者は各説明文を丁寧に確認しました。",
+          "collocations": [
+            "a magazine editor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-journalist",
+      "version": 1,
+      "lemma": "journalist",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "journalism"
+      ],
+      "rationale": "学習設計上の選定: 記者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-journalist-1",
+          "pos": "noun",
+          "meaningJa": "記者",
+          "example": "A journalist interviewed the restaurant owner.",
+          "translationJa": "記者は飲食店の経営者に取材しました。",
+          "collocations": [
+            "a local journalist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-photographer",
+      "version": 1,
+      "lemma": "photographer",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "photography"
+      ],
+      "rationale": "学習設計上の選定: 写真家に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-photographer-1",
+          "pos": "noun",
+          "meaningJa": "写真家",
+          "example": "The photographer arrived before the ceremony.",
+          "translationJa": "写真家は式典の前に到着しました。",
+          "collocations": [
+            "a professional photographer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-translator",
+      "version": 1,
+      "lemma": "translator",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "translation"
+      ],
+      "rationale": "学習設計上の選定: 翻訳者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-translator-1",
+          "pos": "noun",
+          "meaningJa": "翻訳者",
+          "example": "A translator prepared the English brochure.",
+          "translationJa": "翻訳者が英語のパンフレットを作りました。",
+          "collocations": [
+            "a freelance translator"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-instructor",
+      "version": 1,
+      "lemma": "instructor",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "instruction"
+      ],
+      "rationale": "学習設計上の選定: 指導員、講師に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-instructor-1",
+          "pos": "noun",
+          "meaningJa": "指導員、講師",
+          "example": "The instructor demonstrated a safe lifting technique.",
+          "translationJa": "指導員は安全な持ち上げ方を実演しました。",
+          "collocations": [
+            "a fitness instructor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-teacher",
+      "version": 1,
+      "lemma": "teacher",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "teaching"
+      ],
+      "rationale": "学習設計上の選定: 教師に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-teacher-1",
+          "pos": "noun",
+          "meaningJa": "教師",
+          "example": "The teacher gave feedback on my presentation.",
+          "translationJa": "教師が私の発表に意見をくれました。",
+          "collocations": [
+            "a language teacher"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-student",
+      "version": 2,
+      "lemma": "student",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "student ID"
+      ],
+      "rationale": "学習設計上の選定: 学生に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-student-1",
+          "pos": "noun",
+          "meaningJa": "学生",
+          "example": "Students pay reduced admission prices.",
+          "translationJa": "学生は割引入場料で利用できます。",
+          "collocations": [
+            "a university student"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-trainee",
+      "version": 1,
+      "lemma": "trainee",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "training"
+      ],
+      "rationale": "学習設計上の選定: 研修生に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-trainee-1",
+          "pos": "noun",
+          "meaningJa": "研修生",
+          "example": "Each trainee works with an experienced colleague.",
+          "translationJa": "各研修生は経験豊富な同僚と働きます。",
+          "collocations": [
+            "a management trainee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-intern",
+      "version": 1,
+      "lemma": "intern",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "internship"
+      ],
+      "rationale": "学習設計上の選定: 実習生、インターンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-intern-1",
+          "pos": "noun",
+          "meaningJa": "実習生、インターン",
+          "example": "The intern helped organize the survey results.",
+          "translationJa": "実習生は調査結果の整理を手伝いました。",
+          "collocations": [
+            "a summer intern"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-graduate",
+      "version": 1,
+      "lemma": "graduate",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "graduation"
+      ],
+      "rationale": "学習設計上の選定: 卒業者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-graduate-1",
+          "pos": "noun",
+          "meaningJa": "卒業者",
+          "example": "The program welcomes recent college graduates.",
+          "translationJa": "その制度は大学の新卒者を受け入れています。",
+          "collocations": [
+            "a recent graduate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-coach",
+      "version": 1,
+      "lemma": "coach",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "coaching"
+      ],
+      "rationale": "学習設計上の選定: 指導者、コーチに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-coach-1",
+          "pos": "noun",
+          "meaningJa": "指導者、コーチ",
+          "example": "The coach planned a shorter practice session.",
+          "translationJa": "コーチは短めの練習を計画しました。",
+          "collocations": [
+            "a sports coach"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-nurse",
+      "version": 1,
+      "lemma": "nurse",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "nursing"
+      ],
+      "rationale": "学習設計上の選定: 看護師に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-nurse-1",
+          "pos": "noun",
+          "meaningJa": "看護師",
+          "example": "The nurse checked my temperature.",
+          "translationJa": "看護師が体温を測りました。",
+          "collocations": [
+            "a registered nurse"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-doctor",
+      "version": 1,
+      "lemma": "doctor",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "medical"
+      ],
+      "rationale": "学習設計上の選定: 医師に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-doctor-1",
+          "pos": "noun",
+          "meaningJa": "医師",
+          "example": "The doctor explained the test results.",
+          "translationJa": "医師が検査結果を説明しました。",
+          "collocations": [
+            "see a doctor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-dentist",
+      "version": 1,
+      "lemma": "dentist",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "dental"
+      ],
+      "rationale": "学習設計上の選定: 歯科医に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-dentist-1",
+          "pos": "noun",
+          "meaningJa": "歯科医",
+          "example": "My dentist recommended a softer toothbrush.",
+          "translationJa": "歯科医は柔らかめの歯ブラシを勧めました。",
+          "collocations": [
+            "visit a dentist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pharmacist",
+      "version": 1,
+      "lemma": "pharmacist",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "pharmacy"
+      ],
+      "rationale": "学習設計上の選定: 薬剤師に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pharmacist-1",
+          "pos": "noun",
+          "meaningJa": "薬剤師",
+          "example": "The pharmacist explained how to store the medicine.",
+          "translationJa": "薬剤師は薬の保管方法を説明しました。",
+          "collocations": [
+            "a licensed pharmacist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-patient",
+      "version": 1,
+      "lemma": "patient",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "outpatient"
+      ],
+      "rationale": "学習設計上の選定: 患者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-patient-1",
+          "pos": "noun",
+          "meaningJa": "患者",
+          "example": "The patient waited outside the examination room.",
+          "translationJa": "患者は診察室の外で待ちました。",
+          "collocations": [
+            "a hospital patient"
+          ]
+        },
+        {
+          "id": "v-patient-2",
+          "pos": "adjective",
+          "meaningJa": "辛抱強い",
+          "example": "Thank you for being patient during the delay.",
+          "translationJa": "遅れている間、辛抱強くお待ちくださりありがとうございます。",
+          "collocations": [
+            "be patient with someone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-hospital",
+      "version": 1,
+      "lemma": "hospital",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "hospitalize"
+      ],
+      "rationale": "学習設計上の選定: 病院に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-hospital-1",
+          "pos": "noun",
+          "meaningJa": "病院",
+          "example": "The hospital has a new emergency entrance.",
+          "translationJa": "病院には新しい救急入口があります。",
+          "collocations": [
+            "a local hospital"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-clinic",
+      "version": 1,
+      "lemma": "clinic",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "clinical"
+      ],
+      "rationale": "学習設計上の選定: 診療所に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-clinic-1",
+          "pos": "noun",
+          "meaningJa": "診療所",
+          "example": "The clinic accepts appointments by phone.",
+          "translationJa": "診療所は電話予約を受け付けています。",
+          "collocations": [
+            "a dental clinic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pharmacy",
+      "version": 1,
+      "lemma": "pharmacy",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "pharmacist"
+      ],
+      "rationale": "学習設計上の選定: 薬局に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pharmacy-1",
+          "pos": "noun",
+          "meaningJa": "薬局",
+          "example": "The pharmacy is next to the clinic.",
+          "translationJa": "薬局は診療所の隣です。",
+          "collocations": [
+            "a neighborhood pharmacy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-medicine",
+      "version": 1,
+      "lemma": "medicine",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "medicinal"
+      ],
+      "rationale": "学習設計上の選定: 薬に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-medicine-1",
+          "pos": "noun",
+          "meaningJa": "薬",
+          "example": "Keep this medicine away from direct sunlight.",
+          "translationJa": "この薬は直射日光を避けて保管してください。",
+          "collocations": [
+            "take medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-treatment",
+      "version": 1,
+      "lemma": "treatment",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "treat"
+      ],
+      "rationale": "学習設計上の選定: 治療に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-treatment-1",
+          "pos": "noun",
+          "meaningJa": "治療",
+          "example": "The doctor discussed several treatment options.",
+          "translationJa": "医師はいくつかの治療法について話しました。",
+          "collocations": [
+            "medical treatment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-surgery",
+      "version": 1,
+      "lemma": "surgery",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "surgeon"
+      ],
+      "rationale": "学習設計上の選定: 外科手術に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-surgery-1",
+          "pos": "noun",
+          "meaningJa": "外科手術",
+          "example": "She returned to work after her surgery.",
+          "translationJa": "彼女は手術後に職場復帰しました。",
+          "collocations": [
+            "undergo surgery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-injury",
+      "version": 1,
+      "lemma": "injury",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "injured"
+      ],
+      "rationale": "学習設計上の選定: けがに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-injury-1",
+          "pos": "noun",
+          "meaningJa": "けが",
+          "example": "A minor injury kept him from training.",
+          "translationJa": "軽いけがで彼は練習を休みました。",
+          "collocations": [
+            "a minor injury"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-illness",
+      "version": 1,
+      "lemma": "illness",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "ill"
+      ],
+      "rationale": "学習設計上の選定: 病気に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-illness-1",
+          "pos": "noun",
+          "meaningJa": "病気",
+          "example": "She missed the meeting because of illness.",
+          "translationJa": "病気のため彼女は会議を欠席しました。",
+          "collocations": [
+            "recover from illness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-disease",
+      "version": 1,
+      "lemma": "disease",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "diseased"
+      ],
+      "rationale": "学習設計上の選定: 疾病に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-disease-1",
+          "pos": "noun",
+          "meaningJa": "疾病",
+          "example": "The center conducts research on lung disease.",
+          "translationJa": "その施設は肺の病気を研究しています。",
+          "collocations": [
+            "prevent disease"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-symptom",
+      "version": 1,
+      "lemma": "symptom",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "symptomatic"
+      ],
+      "rationale": "学習設計上の選定: 症状に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-symptom-1",
+          "pos": "noun",
+          "meaningJa": "症状",
+          "example": "Describe your symptoms to the nurse.",
+          "translationJa": "看護師に症状を説明してください。",
+          "collocations": [
+            "a common symptom"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pain",
+      "version": 1,
+      "lemma": "pain",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "painful"
+      ],
+      "rationale": "学習設計上の選定: 痛みに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pain-1",
+          "pos": "noun",
+          "meaningJa": "痛み",
+          "example": "The patient reported pain in his shoulder.",
+          "translationJa": "患者は肩の痛みを訴えました。",
+          "collocations": [
+            "shoulder pain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fever",
+      "version": 1,
+      "lemma": "fever",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "feverish"
+      ],
+      "rationale": "学習設計上の選定: 発熱に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fever-1",
+          "pos": "noun",
+          "meaningJa": "発熱",
+          "example": "He stayed home because of a fever.",
+          "translationJa": "発熱のため彼は家で休みました。",
+          "collocations": [
+            "have a fever"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cough",
+      "version": 1,
+      "lemma": "cough",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "coughing"
+      ],
+      "rationale": "学習設計上の選定: せきに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cough-1",
+          "pos": "noun",
+          "meaningJa": "せき",
+          "example": "Her cough lasted for several days.",
+          "translationJa": "彼女のせきは数日続きました。",
+          "collocations": [
+            "a persistent cough"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cold",
+      "version": 1,
+      "lemma": "cold",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "common cold"
+      ],
+      "rationale": "学習設計上の選定: 風邪に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cold-1",
+          "pos": "noun",
+          "meaningJa": "風邪",
+          "example": "I missed two days of work with a cold.",
+          "translationJa": "風邪で仕事を2日休みました。",
+          "collocations": [
+            "catch a cold"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-allergy",
+      "version": 1,
+      "lemma": "allergy",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "allergic"
+      ],
+      "rationale": "学習設計上の選定: アレルギーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-allergy-1",
+          "pos": "noun",
+          "meaningJa": "アレルギー",
+          "example": "Tell the server about your food allergies.",
+          "translationJa": "給仕係に食物アレルギーを伝えてください。",
+          "collocations": [
+            "a food allergy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-infection",
+      "version": 1,
+      "lemma": "infection",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "infectious"
+      ],
+      "rationale": "学習設計上の選定: 感染、感染症に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-infection-1",
+          "pos": "noun",
+          "meaningJa": "感染、感染症",
+          "example": "The clinic treats minor skin infections.",
+          "translationJa": "その診療所は軽い皮膚感染症を治療します。",
+          "collocations": [
+            "prevent infection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-recovery",
+      "version": 1,
+      "lemma": "recovery",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "recover"
+      ],
+      "rationale": "学習設計上の選定: 回復に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-recovery-1",
+          "pos": "noun",
+          "meaningJa": "回復",
+          "example": "Rest was part of her recovery plan.",
+          "translationJa": "休養は彼女の回復計画の一部でした。",
+          "collocations": [
+            "a full recovery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-health",
+      "version": 1,
+      "lemma": "health",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "healthy"
+      ],
+      "rationale": "学習設計上の選定: 健康に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-health-1",
+          "pos": "noun",
+          "meaningJa": "健康",
+          "example": "The workshop focuses on workplace health.",
+          "translationJa": "研修会は職場の健康をテーマにしています。",
+          "collocations": [
+            "good health"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-safety",
+      "version": 1,
+      "lemma": "safety",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "safe"
+      ],
+      "rationale": "学習設計上の選定: 安全に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-safety-1",
+          "pos": "noun",
+          "meaningJa": "安全",
+          "example": "The staff attended a food safety course.",
+          "translationJa": "職員は食品安全講座に参加しました。",
+          "collocations": [
+            "workplace safety"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fitness",
+      "version": 1,
+      "lemma": "fitness",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "fit"
+      ],
+      "rationale": "学習設計上の選定: 体力、健康維持に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fitness-1",
+          "pos": "noun",
+          "meaningJa": "体力、健康維持",
+          "example": "The center offers fitness classes for beginners.",
+          "translationJa": "施設は初心者向け運動講座を開いています。",
+          "collocations": [
+            "a fitness class"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-exercise",
+      "version": 1,
+      "lemma": "exercise",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "workout"
+      ],
+      "rationale": "学習設計上の選定: 運動に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-exercise-1",
+          "pos": "noun",
+          "meaningJa": "運動",
+          "example": "Walking is his favorite form of exercise.",
+          "translationJa": "歩くことが彼のお気に入りの運動です。",
+          "collocations": [
+            "regular exercise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-diet",
+      "version": 1,
+      "lemma": "diet",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "dietary"
+      ],
+      "rationale": "学習設計上の選定: 日常の食事に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-diet-1",
+          "pos": "noun",
+          "meaningJa": "日常の食事",
+          "example": "Her diet includes plenty of vegetables.",
+          "translationJa": "彼女の食事には野菜が豊富です。",
+          "collocations": [
+            "a balanced diet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-nutrition",
+      "version": 1,
+      "lemma": "nutrition",
+      "domain": "health",
+      "difficulty": "standard",
+      "relatedWords": [
+        "nutritional"
+      ],
+      "rationale": "学習設計上の選定: 栄養に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-nutrition-1",
+          "pos": "noun",
+          "meaningJa": "栄養",
+          "example": "The course covers basic nutrition.",
+          "translationJa": "講座は栄養の基礎を扱います。",
+          "collocations": [
+            "good nutrition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-ingredient",
+      "version": 1,
+      "lemma": "ingredient",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "ingredient list"
+      ],
+      "rationale": "学習設計上の選定: 材料、原料に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-ingredient-1",
+          "pos": "noun",
+          "meaningJa": "材料、原料",
+          "example": "The label lists all ingredients.",
+          "translationJa": "ラベルにはすべての原料が載っています。",
+          "collocations": [
+            "fresh ingredients"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-portion",
+      "version": 1,
+      "lemma": "portion",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "portion size"
+      ],
+      "rationale": "学習設計上の選定: 一人前、取り分に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-portion-1",
+          "pos": "noun",
+          "meaningJa": "一人前、取り分",
+          "example": "The restaurant serves generous portions.",
+          "translationJa": "その飲食店は1人前の量が多いです。",
+          "collocations": [
+            "a small portion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-recipe",
+      "version": 1,
+      "lemma": "recipe",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "recipe book"
+      ],
+      "rationale": "学習設計上の選定: 調理法、レシピに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-recipe-1",
+          "pos": "noun",
+          "meaningJa": "調理法、レシピ",
+          "example": "This recipe makes enough soup for four.",
+          "translationJa": "このレシピで4人分のスープができます。",
+          "collocations": [
+            "follow a recipe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-beverage",
+      "version": 1,
+      "lemma": "beverage",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "drink"
+      ],
+      "rationale": "学習設計上の選定: 飲み物に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-beverage-1",
+          "pos": "noun",
+          "meaningJa": "飲み物",
+          "example": "Hot beverages are available in the lobby.",
+          "translationJa": "ロビーで温かい飲み物を利用できます。",
+          "collocations": [
+            "a hot beverage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-work",
+      "version": 1,
+      "lemma": "work",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "worker"
+      ],
+      "rationale": "学習設計上の選定: 働くに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-work-1",
+          "pos": "verb",
+          "meaningJa": "働く",
+          "example": "I work at the downtown branch.",
+          "translationJa": "私は中心街の支店で働いています。",
+          "collocations": [
+            "work for a company"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-employ",
+      "version": 1,
+      "lemma": "employ",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "employment"
+      ],
+      "rationale": "学習設計上の選定: 雇用するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-employ-1",
+          "pos": "verb",
+          "meaningJa": "雇用する",
+          "example": "The factory employs fifty local residents.",
+          "translationJa": "工場は地元住民50人を雇用しています。",
+          "collocations": [
+            "employ staff"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-hire",
+      "version": 1,
+      "lemma": "hire",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "hiring"
+      ],
+      "rationale": "学習設計上の選定: 雇うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-hire-1",
+          "pos": "verb",
+          "meaningJa": "雇う",
+          "example": "We hired two assistants for the summer.",
+          "translationJa": "夏の間、助手を2人雇いました。",
+          "collocations": [
+            "hire an assistant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-resign",
+      "version": 1,
+      "lemma": "resign",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "resignation"
+      ],
+      "rationale": "学習設計上の選定: 辞職するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-resign-1",
+          "pos": "verb",
+          "meaningJa": "辞職する",
+          "example": "She resigned to start her own business.",
+          "translationJa": "彼女は独立するために辞職しました。",
+          "collocations": [
+            "resign from a position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-retire",
+      "version": 1,
+      "lemma": "retire",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "retirement"
+      ],
+      "rationale": "学習設計上の選定: 退職する、引退するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-retire-1",
+          "pos": "verb",
+          "meaningJa": "退職する、引退する",
+          "example": "Our manager plans to retire next year.",
+          "translationJa": "部長は来年退職する予定です。",
+          "collocations": [
+            "retire from work"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-quit",
+      "version": 1,
+      "lemma": "quit",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "departure"
+      ],
+      "rationale": "学習設計上の選定: やめるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-quit-1",
+          "pos": "verb",
+          "meaningJa": "やめる",
+          "example": "He quit his job to study abroad.",
+          "translationJa": "彼は留学のため仕事をやめました。",
+          "collocations": [
+            "quit a job"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-motivate",
+      "version": 1,
+      "lemma": "motivate",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "motivation"
+      ],
+      "rationale": "学習設計上の選定: 意欲を引き出すに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-motivate-1",
+          "pos": "verb",
+          "meaningJa": "意欲を引き出す",
+          "example": "Clear goals help motivate the team.",
+          "translationJa": "明確な目標はチームの意欲を高めます。",
+          "collocations": [
+            "motivate employees"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-communicate",
+      "version": 1,
+      "lemma": "communicate",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "communication"
+      ],
+      "rationale": "学習設計上の選定: 意思を伝える、連絡するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-communicate-1",
+          "pos": "verb",
+          "meaningJa": "意思を伝える、連絡する",
+          "example": "Our teams communicate mainly through weekly calls.",
+          "translationJa": "各チームは主に週次の通話で連絡します。",
+          "collocations": [
+            "communicate clearly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-collaborate",
+      "version": 1,
+      "lemma": "collaborate",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "collaboration"
+      ],
+      "rationale": "学習設計上の選定: 協働するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-collaborate-1",
+          "pos": "verb",
+          "meaningJa": "協働する",
+          "example": "Two designers collaborated on the new logo.",
+          "translationJa": "2人のデザイナーが新ロゴを共同制作しました。",
+          "collocations": [
+            "collaborate on a project"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-greet",
+      "version": 1,
+      "lemma": "greet",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "greeting"
+      ],
+      "rationale": "学習設計上の選定: 挨拶して迎えるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-greet-1",
+          "pos": "verb",
+          "meaningJa": "挨拶して迎える",
+          "example": "Staff greeted every guest with a smile.",
+          "translationJa": "職員は全員の客を笑顔で迎えました。",
+          "collocations": [
+            "greet a visitor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-celebrate",
+      "version": 1,
+      "lemma": "celebrate",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "celebration"
+      ],
+      "rationale": "学習設計上の選定: 祝うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-celebrate-1",
+          "pos": "verb",
+          "meaningJa": "祝う",
+          "example": "We celebrated the store's tenth anniversary.",
+          "translationJa": "店の10周年を祝いました。",
+          "collocations": [
+            "celebrate an anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-respect",
+      "version": 1,
+      "lemma": "respect",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "respectful"
+      ],
+      "rationale": "学習設計上の選定: 尊重するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-respect-1",
+          "pos": "verb",
+          "meaningJa": "尊重する",
+          "example": "Please respect other passengers' privacy.",
+          "translationJa": "ほかの乗客のプライバシーを尊重してください。",
+          "collocations": [
+            "respect privacy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-trust",
+      "version": 1,
+      "lemma": "trust",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "trustworthy"
+      ],
+      "rationale": "学習設計上の選定: 信頼するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-trust-1",
+          "pos": "verb",
+          "meaningJa": "信頼する",
+          "example": "We trust our supplier to meet deadlines.",
+          "translationJa": "仕入先が納期を守ると信頼しています。",
+          "collocations": [
+            "trust a colleague"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-experience",
+      "version": 1,
+      "lemma": "experience",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "experienced"
+      ],
+      "rationale": "学習設計上の選定: 経験に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-experience-1",
+          "pos": "noun",
+          "meaningJa": "経験",
+          "example": "The job requires experience in customer service.",
+          "translationJa": "その仕事には顧客対応の経験が必要です。",
+          "collocations": [
+            "work experience"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-skill",
+      "version": 1,
+      "lemma": "skill",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "skilled"
+      ],
+      "rationale": "学習設計上の選定: 技能に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-skill-1",
+          "pos": "noun",
+          "meaningJa": "技能",
+          "example": "The course develops practical writing skills.",
+          "translationJa": "講座は実用的な文章力を養います。",
+          "collocations": [
+            "communication skills"
+          ]
+        }
+      ]
+    }
+  ]
+}

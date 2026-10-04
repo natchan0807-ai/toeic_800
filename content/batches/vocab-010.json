@@ -1,0 +1,2911 @@
+{
+  "id": "vocab-010",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-04T00:29:41.820057+00:00",
+  "author": "vocabulary_editor",
+  "model": null,
+  "input": "research policy v1",
+  "status": "generated",
+  "items": [
+    {
+      "id": "v-good",
+      "version": 1,
+      "lemma": "good",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "better"
+      ],
+      "rationale": "学習設計上の選定: 良いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-good-1",
+          "pos": "adjective",
+          "meaningJa": "良い",
+          "example": "The workshop received good feedback.",
+          "translationJa": "研修会は良い評価を受けました。",
+          "collocations": [
+            "a good impression"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bad",
+      "version": 1,
+      "lemma": "bad",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "worse"
+      ],
+      "rationale": "学習設計上の選定: 悪いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bad-1",
+          "pos": "adjective",
+          "meaningJa": "悪い",
+          "example": "Bad weather delayed the deliveries.",
+          "translationJa": "悪天候で配達が遅れました。",
+          "collocations": [
+            "bad weather"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-new",
+      "version": 1,
+      "lemma": "new",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "newly"
+      ],
+      "rationale": "学習設計上の選定: 新しいに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-new-1",
+          "pos": "adjective",
+          "meaningJa": "新しい",
+          "example": "Our new office opens next week.",
+          "translationJa": "新事務所は来週開きます。",
+          "collocations": [
+            "a new employee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-old",
+      "version": 1,
+      "lemma": "old",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "older"
+      ],
+      "rationale": "学習設計上の選定: 古いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-old-1",
+          "pos": "adjective",
+          "meaningJa": "古い",
+          "example": "We donated the old desks to a school.",
+          "translationJa": "古い机を学校に寄付しました。",
+          "collocations": [
+            "an old building"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-young",
+      "version": 1,
+      "lemma": "young",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "youth"
+      ],
+      "rationale": "学習設計上の選定: 若いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-young-1",
+          "pos": "adjective",
+          "meaningJa": "若い",
+          "example": "The program supports young business owners.",
+          "translationJa": "その制度は若い経営者を支援します。",
+          "collocations": [
+            "young people"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-long",
+      "version": 1,
+      "lemma": "long",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "length"
+      ],
+      "rationale": "学習設計上の選定: 長いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-long-1",
+          "pos": "adjective",
+          "meaningJa": "長い",
+          "example": "A long queue formed outside the store.",
+          "translationJa": "店の外に長い列ができました。",
+          "collocations": [
+            "a long delay"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-short",
+      "version": 1,
+      "lemma": "short",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "shorten"
+      ],
+      "rationale": "学習設計上の選定: 短いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-short-1",
+          "pos": "adjective",
+          "meaningJa": "短い",
+          "example": "We took a short break after lunch.",
+          "translationJa": "昼食後に短い休憩を取りました。",
+          "collocations": [
+            "a short meeting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-high",
+      "version": 1,
+      "lemma": "high",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "height"
+      ],
+      "rationale": "学習設計上の選定: 高いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-high-1",
+          "pos": "adjective",
+          "meaningJa": "高い",
+          "example": "The shelf is too high to reach.",
+          "translationJa": "棚は高すぎて手が届きません。",
+          "collocations": [
+            "a high shelf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-low",
+      "version": 1,
+      "lemma": "low",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "lower"
+      ],
+      "rationale": "学習設計上の選定: 低いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-low-1",
+          "pos": "adjective",
+          "meaningJa": "低い",
+          "example": "The room has a low ceiling.",
+          "translationJa": "部屋は天井が低いです。",
+          "collocations": [
+            "a low price"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-large",
+      "version": 1,
+      "lemma": "large",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "enlarge"
+      ],
+      "rationale": "学習設計上の選定: 大きいに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-large-1",
+          "pos": "adjective",
+          "meaningJa": "大きい",
+          "example": "The venue has a large parking area.",
+          "translationJa": "会場には広い駐車場があります。",
+          "collocations": [
+            "a large quantity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-small",
+      "version": 1,
+      "lemma": "small",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "smaller"
+      ],
+      "rationale": "学習設計上の選定: 小さいに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-small-1",
+          "pos": "adjective",
+          "meaningJa": "小さい",
+          "example": "A small team handles overseas orders.",
+          "translationJa": "少人数のチームが海外注文を担当します。",
+          "collocations": [
+            "a small business"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-early",
+      "version": 1,
+      "lemma": "early",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "earlier"
+      ],
+      "rationale": "学習設計上の選定: 早いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-early-1",
+          "pos": "adjective",
+          "meaningJa": "早い",
+          "example": "We booked an early flight to Osaka.",
+          "translationJa": "大阪行きの早朝便を予約しました。",
+          "collocations": [
+            "an early start"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-late",
+      "version": 1,
+      "lemma": "late",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "lateness"
+      ],
+      "rationale": "学習設計上の選定: 遅い、遅れたに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-late-1",
+          "pos": "adjective",
+          "meaningJa": "遅い、遅れた",
+          "example": "Late arrivals must use the side entrance.",
+          "translationJa": "遅れて来た人は脇の入口を使ってください。",
+          "collocations": [
+            "a late delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-different",
+      "version": 1,
+      "lemma": "different",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "difference"
+      ],
+      "rationale": "学習設計上の選定: 異なるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-different-1",
+          "pos": "adjective",
+          "meaningJa": "異なる",
+          "example": "The samples come in different colors.",
+          "translationJa": "試供品には異なる色があります。",
+          "collocations": [
+            "a different approach"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-similar",
+      "version": 1,
+      "lemma": "similar",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "similarity"
+      ],
+      "rationale": "学習設計上の選定: 似ているに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-similar-1",
+          "pos": "adjective",
+          "meaningJa": "似ている",
+          "example": "These two models have similar features.",
+          "translationJa": "この2機種は機能が似ています。",
+          "collocations": [
+            "similar results"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-common",
+      "version": 1,
+      "lemma": "common",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "commonly"
+      ],
+      "rationale": "学習設計上の選定: よくある、共通のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-common-1",
+          "pos": "adjective",
+          "meaningJa": "よくある、共通の",
+          "example": "This is a common printing error.",
+          "translationJa": "これはよくある印刷ミスです。",
+          "collocations": [
+            "a common problem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-special",
+      "version": 1,
+      "lemma": "special",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "specially"
+      ],
+      "rationale": "学習設計上の選定: 特別なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-special-1",
+          "pos": "adjective",
+          "meaningJa": "特別な",
+          "example": "Members receive special discounts in June.",
+          "translationJa": "会員は6月に特別割引を受けられます。",
+          "collocations": [
+            "a special offer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-particular",
+      "version": 1,
+      "lemma": "particular",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "particularly"
+      ],
+      "rationale": "学習設計上の選定: 特定のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-particular-1",
+          "pos": "adjective",
+          "meaningJa": "特定の",
+          "example": "Do you need a particular brand?",
+          "translationJa": "特定のブランドが必要ですか。",
+          "collocations": [
+            "a particular product"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-general",
+      "version": 1,
+      "lemma": "general",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "generally"
+      ],
+      "rationale": "学習設計上の選定: 一般的な、全般的なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-general-1",
+          "pos": "adjective",
+          "meaningJa": "一般的な、全般的な",
+          "example": "The brochure provides general information about membership.",
+          "translationJa": "パンフレットには会員制度の一般情報があります。",
+          "collocations": [
+            "general information"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-specific",
+      "version": 1,
+      "lemma": "specific",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "specifically"
+      ],
+      "rationale": "学習設計上の選定: 具体的な、特定のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-specific-1",
+          "pos": "adjective",
+          "meaningJa": "具体的な、特定の",
+          "example": "Please give specific examples in your report.",
+          "translationJa": "報告書には具体例を挙げてください。",
+          "collocations": [
+            "specific instructions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-possible",
+      "version": 1,
+      "lemma": "possible",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "possibility"
+      ],
+      "rationale": "学習設計上の選定: 可能なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-possible-1",
+          "pos": "adjective",
+          "meaningJa": "可能な",
+          "example": "A Friday delivery is still possible.",
+          "translationJa": "金曜日の配達はまだ可能です。",
+          "collocations": [
+            "a possible solution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-necessary",
+      "version": 1,
+      "lemma": "necessary",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "necessarily"
+      ],
+      "rationale": "学習設計上の選定: 必要なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-necessary-1",
+          "pos": "adjective",
+          "meaningJa": "必要な",
+          "example": "Protective gloves are necessary for this task.",
+          "translationJa": "この作業には保護手袋が必要です。",
+          "collocations": [
+            "necessary equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-important",
+      "version": 1,
+      "lemma": "important",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "importance"
+      ],
+      "rationale": "学習設計上の選定: 重要なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-important-1",
+          "pos": "adjective",
+          "meaningJa": "重要な",
+          "example": "Keep important documents in the cabinet.",
+          "translationJa": "重要書類は戸棚に保管してください。",
+          "collocations": [
+            "an important decision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-useful",
+      "version": 1,
+      "lemma": "useful",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "usefulness"
+      ],
+      "rationale": "学習設計上の選定: 役に立つに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-useful-1",
+          "pos": "adjective",
+          "meaningJa": "役に立つ",
+          "example": "The guide contains useful travel advice.",
+          "translationJa": "手引きには役立つ旅行の助言があります。",
+          "collocations": [
+            "useful information"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-helpful",
+      "version": 1,
+      "lemma": "helpful",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "helpfully"
+      ],
+      "rationale": "学習設計上の選定: 助けになる、親切なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-helpful-1",
+          "pos": "adjective",
+          "meaningJa": "助けになる、親切な",
+          "example": "The receptionist gave us helpful directions.",
+          "translationJa": "受付係が分かりやすい道案内をしてくれました。",
+          "collocations": [
+            "a helpful suggestion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-practical",
+      "version": 1,
+      "lemma": "practical",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "practically"
+      ],
+      "rationale": "学習設計上の選定: 実用的なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-practical-1",
+          "pos": "adjective",
+          "meaningJa": "実用的な",
+          "example": "The course offers practical advice for managers.",
+          "translationJa": "講座は管理職に実用的な助言をします。",
+          "collocations": [
+            "practical experience"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-convenient",
+      "version": 1,
+      "lemma": "convenient",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "convenience"
+      ],
+      "rationale": "学習設計上の選定: 便利なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-convenient-1",
+          "pos": "adjective",
+          "meaningJa": "便利な",
+          "example": "The location is convenient for commuters.",
+          "translationJa": "その場所は通勤者に便利です。",
+          "collocations": [
+            "a convenient location"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-comfortable",
+      "version": 1,
+      "lemma": "comfortable",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "comfort"
+      ],
+      "rationale": "学習設計上の選定: 快適なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-comfortable-1",
+          "pos": "adjective",
+          "meaningJa": "快適な",
+          "example": "These chairs are comfortable for long meetings.",
+          "translationJa": "この椅子は長い会議でも快適です。",
+          "collocations": [
+            "a comfortable seat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-suitable",
+      "version": 1,
+      "lemma": "suitable",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "suitability"
+      ],
+      "rationale": "学習設計上の選定: 適したに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-suitable-1",
+          "pos": "adjective",
+          "meaningJa": "適した",
+          "example": "The room is suitable for small workshops.",
+          "translationJa": "その部屋は小規模の研修会に適しています。",
+          "collocations": [
+            "suitable for beginners"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-appropriate",
+      "version": 1,
+      "lemma": "appropriate",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "appropriately"
+      ],
+      "rationale": "学習設計上の選定: 適切なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-appropriate-1",
+          "pos": "adjective",
+          "meaningJa": "適切な",
+          "example": "Choose appropriate clothing for the site visit.",
+          "translationJa": "現場訪問に適した服装を選んでください。",
+          "collocations": [
+            "appropriate action"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-relevant",
+      "version": 1,
+      "lemma": "relevant",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "relevance"
+      ],
+      "rationale": "学習設計上の選定: 関連のあるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-relevant-1",
+          "pos": "adjective",
+          "meaningJa": "関連のある",
+          "example": "Attach any relevant documents to your application.",
+          "translationJa": "申請書に関連書類を添付してください。",
+          "collocations": [
+            "relevant experience"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-accurate",
+      "version": 1,
+      "lemma": "accurate",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "accuracy"
+      ],
+      "rationale": "学習設計上の選定: 正確なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-accurate-1",
+          "pos": "adjective",
+          "meaningJa": "正確な",
+          "example": "We need accurate figures for the report.",
+          "translationJa": "報告書には正確な数値が必要です。",
+          "collocations": [
+            "accurate information"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-precise",
+      "version": 1,
+      "lemma": "precise",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "precision"
+      ],
+      "rationale": "学習設計上の選定: 厳密な、正確なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-precise-1",
+          "pos": "adjective",
+          "meaningJa": "厳密な、正確な",
+          "example": "The technician took precise measurements.",
+          "translationJa": "技術者は精密な測定を行いました。",
+          "collocations": [
+            "precise measurements"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-reliable",
+      "version": 1,
+      "lemma": "reliable",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "reliability"
+      ],
+      "rationale": "学習設計上の選定: 信頼できるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-reliable-1",
+          "pos": "adjective",
+          "meaningJa": "信頼できる",
+          "example": "We need a reliable delivery service.",
+          "translationJa": "信頼できる配達サービスが必要です。",
+          "collocations": [
+            "a reliable supplier"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-responsible",
+      "version": 1,
+      "lemma": "responsible",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "responsibility"
+      ],
+      "rationale": "学習設計上の選定: 責任を負うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-responsible-1",
+          "pos": "adjective",
+          "meaningJa": "責任を負う",
+          "example": "Mika is responsible for staff training.",
+          "translationJa": "ミカは職員研修を担当しています。",
+          "collocations": [
+            "responsible for a task"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-flexible",
+      "version": 1,
+      "lemma": "flexible",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "flexibility"
+      ],
+      "rationale": "学習設計上の選定: 柔軟なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-flexible-1",
+          "pos": "adjective",
+          "meaningJa": "柔軟な",
+          "example": "The company offers flexible working hours.",
+          "translationJa": "会社は柔軟な勤務時間を設けています。",
+          "collocations": [
+            "a flexible schedule"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-reasonable",
+      "version": 1,
+      "lemma": "reasonable",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "reasonably"
+      ],
+      "rationale": "学習設計上の選定: 妥当な、手頃なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-reasonable-1",
+          "pos": "adjective",
+          "meaningJa": "妥当な、手頃な",
+          "example": "The hotel charges reasonable rates.",
+          "translationJa": "ホテルは手頃な料金を設定しています。",
+          "collocations": [
+            "a reasonable price"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-affordable",
+      "version": 1,
+      "lemma": "affordable",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "afford"
+      ],
+      "rationale": "学習設計上の選定: 手頃な価格のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-affordable-1",
+          "pos": "adjective",
+          "meaningJa": "手頃な価格の",
+          "example": "The store sells affordable office furniture.",
+          "translationJa": "店は手頃な事務用家具を売っています。",
+          "collocations": [
+            "affordable housing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-expensive",
+      "version": 1,
+      "lemma": "expensive",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "expense"
+      ],
+      "rationale": "学習設計上の選定: 高価なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-expensive-1",
+          "pos": "adjective",
+          "meaningJa": "高価な",
+          "example": "Replacing the entire system would be expensive.",
+          "translationJa": "システム全体の交換は高額になります。",
+          "collocations": [
+            "expensive equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-free",
+      "version": 1,
+      "lemma": "free",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "free of charge"
+      ],
+      "rationale": "学習設計上の選定: 無料のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-free-1",
+          "pos": "adjective",
+          "meaningJa": "無料の",
+          "example": "Admission is free for children under six.",
+          "translationJa": "6歳未満の子供は入場無料です。",
+          "collocations": [
+            "free admission"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-busy",
+      "version": 1,
+      "lemma": "busy",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "busily"
+      ],
+      "rationale": "学習設計上の選定: 忙しい、混雑したに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-busy-1",
+          "pos": "adjective",
+          "meaningJa": "忙しい、混雑した",
+          "example": "The restaurant is busy at lunchtime.",
+          "translationJa": "その店は昼食時に混んでいます。",
+          "collocations": [
+            "a busy schedule"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-quiet",
+      "version": 1,
+      "lemma": "quiet",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "quietly"
+      ],
+      "rationale": "学習設計上の選定: 静かなに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-quiet-1",
+          "pos": "adjective",
+          "meaningJa": "静かな",
+          "example": "We found a quiet place to talk.",
+          "translationJa": "静かに話せる場所を見つけました。",
+          "collocations": [
+            "a quiet room"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-clear",
+      "version": 1,
+      "lemma": "clear",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "clearly"
+      ],
+      "rationale": "学習設計上の選定: 明確な、明瞭なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-clear-1",
+          "pos": "adjective",
+          "meaningJa": "明確な、明瞭な",
+          "example": "The signs give clear directions to reception.",
+          "translationJa": "標識は受付への道順を明確に示しています。",
+          "collocations": [
+            "clear instructions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-simple",
+      "version": 1,
+      "lemma": "simple",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "simply"
+      ],
+      "rationale": "学習設計上の選定: 簡単なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-simple-1",
+          "pos": "adjective",
+          "meaningJa": "簡単な",
+          "example": "The form asks a few simple questions.",
+          "translationJa": "用紙には簡単な質問がいくつかあります。",
+          "collocations": [
+            "a simple process"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-complex",
+      "version": 1,
+      "lemma": "complex",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "complexity"
+      ],
+      "rationale": "学習設計上の選定: 複雑なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-complex-1",
+          "pos": "adjective",
+          "meaningJa": "複雑な",
+          "example": "The technician explained the complex installation process.",
+          "translationJa": "技術者は複雑な設置手順を説明しました。",
+          "collocations": [
+            "a complex system"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-easy",
+      "version": 1,
+      "lemma": "easy",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "easily"
+      ],
+      "rationale": "学習設計上の選定: 簡単なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-easy-1",
+          "pos": "adjective",
+          "meaningJa": "簡単な",
+          "example": "The new website is easy to navigate.",
+          "translationJa": "新サイトは目的の場所へ進みやすいです。",
+          "collocations": [
+            "easy to use"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-difficult",
+      "version": 1,
+      "lemma": "difficult",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "difficulty"
+      ],
+      "rationale": "学習設計上の選定: 難しいに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-difficult-1",
+          "pos": "adjective",
+          "meaningJa": "難しい",
+          "example": "Finding parking is difficult on market days.",
+          "translationJa": "市場のある日は駐車場所探しが難しいです。",
+          "collocations": [
+            "a difficult task"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-safe",
+      "version": 1,
+      "lemma": "safe",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "safety"
+      ],
+      "rationale": "学習設計上の選定: 安全なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-safe-1",
+          "pos": "adjective",
+          "meaningJa": "安全な",
+          "example": "Keep the documents in a safe place.",
+          "translationJa": "書類を安全な場所に保管してください。",
+          "collocations": [
+            "a safe workplace"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-urgent",
+      "version": 1,
+      "lemma": "urgent",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "urgency"
+      ],
+      "rationale": "学習設計上の選定: 緊急のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-urgent-1",
+          "pos": "adjective",
+          "meaningJa": "緊急の",
+          "example": "Mark any urgent requests clearly.",
+          "translationJa": "急ぎの依頼には明確に印を付けてください。",
+          "collocations": [
+            "an urgent request"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-temporary",
+      "version": 1,
+      "lemma": "temporary",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "temporarily"
+      ],
+      "rationale": "学習設計上の選定: 一時的な、臨時のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-temporary-1",
+          "pos": "adjective",
+          "meaningJa": "一時的な、臨時の",
+          "example": "We hired temporary staff for the festival.",
+          "translationJa": "祭りのため臨時職員を雇いました。",
+          "collocations": [
+            "a temporary position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-permanent",
+      "version": 1,
+      "lemma": "permanent",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "permanently"
+      ],
+      "rationale": "学習設計上の選定: 恒久的な、常設のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-permanent-1",
+          "pos": "adjective",
+          "meaningJa": "恒久的な、常設の",
+          "example": "The museum now has a permanent cafe.",
+          "translationJa": "博物館には今は常設カフェがあります。",
+          "collocations": [
+            "a permanent position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-previous",
+      "version": 1,
+      "lemma": "previous",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "previously"
+      ],
+      "rationale": "学習設計上の選定: 以前のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-previous-1",
+          "pos": "adjective",
+          "meaningJa": "以前の",
+          "example": "The previous owner left detailed maintenance records.",
+          "translationJa": "前の所有者は詳しい保守記録を残しました。",
+          "collocations": [
+            "the previous version"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-current",
+      "version": 1,
+      "lemma": "current",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "currently"
+      ],
+      "rationale": "学習設計上の選定: 現在の、現行のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-current-1",
+          "pos": "adjective",
+          "meaningJa": "現在の、現行の",
+          "example": "Check the current timetable before traveling.",
+          "translationJa": "出発前に現行の時刻表を確認してください。",
+          "collocations": [
+            "the current schedule"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-recent",
+      "version": 1,
+      "lemma": "recent",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "recently"
+      ],
+      "rationale": "学習設計上の選定: 最近のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-recent-1",
+          "pos": "adjective",
+          "meaningJa": "最近の",
+          "example": "Recent repairs have improved the heating system.",
+          "translationJa": "最近の修理で暖房が改善しました。",
+          "collocations": [
+            "a recent change"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-modern",
+      "version": 1,
+      "lemma": "modern",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "modernize"
+      ],
+      "rationale": "学習設計上の選定: 現代的なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-modern-1",
+          "pos": "adjective",
+          "meaningJa": "現代的な",
+          "example": "The office combines modern furniture with traditional art.",
+          "translationJa": "事務所は現代的な家具と伝統美術を組み合わせています。",
+          "collocations": [
+            "modern equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-effective",
+      "version": 1,
+      "lemma": "effective",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "effectiveness"
+      ],
+      "rationale": "学習設計上の選定: 効果的なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-effective-1",
+          "pos": "adjective",
+          "meaningJa": "効果的な",
+          "example": "Regular reminders are an effective training tool.",
+          "translationJa": "定期的な注意喚起は効果的な研修手段です。",
+          "collocations": [
+            "an effective method"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-efficient",
+      "version": 1,
+      "lemma": "efficient",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "efficiency"
+      ],
+      "rationale": "学習設計上の選定: 効率的なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-efficient-1",
+          "pos": "adjective",
+          "meaningJa": "効率的な",
+          "example": "The new route is more efficient.",
+          "translationJa": "新しい経路はより効率的です。",
+          "collocations": [
+            "an efficient system"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-successful",
+      "version": 1,
+      "lemma": "successful",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "success"
+      ],
+      "rationale": "学習設計上の選定: 成功したに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-successful-1",
+          "pos": "adjective",
+          "meaningJa": "成功した",
+          "example": "The company completed a successful trial.",
+          "translationJa": "会社は試験を成功裏に終えました。",
+          "collocations": [
+            "a successful project"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-confident",
+      "version": 1,
+      "lemma": "confident",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "confidence"
+      ],
+      "rationale": "学習設計上の選定: 自信のあるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-confident-1",
+          "pos": "adjective",
+          "meaningJa": "自信のある",
+          "example": "She is confident about the presentation.",
+          "translationJa": "彼女は発表に自信を持っています。",
+          "collocations": [
+            "confident about a result"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-polite",
+      "version": 1,
+      "lemma": "polite",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "politely"
+      ],
+      "rationale": "学習設計上の選定: 礼儀正しいに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-polite-1",
+          "pos": "adjective",
+          "meaningJa": "礼儀正しい",
+          "example": "The staff remained polite during the busy shift.",
+          "translationJa": "職員は多忙な勤務中も丁寧に対応しました。",
+          "collocations": [
+            "a polite reply"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-honest",
+      "version": 1,
+      "lemma": "honest",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "honesty"
+      ],
+      "rationale": "学習設計上の選定: 正直なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-honest-1",
+          "pos": "adjective",
+          "meaningJa": "正直な",
+          "example": "We appreciate your honest feedback.",
+          "translationJa": "率直なご意見に感謝します。",
+          "collocations": [
+            "an honest answer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fair",
+      "version": 1,
+      "lemma": "fair",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "fairness"
+      ],
+      "rationale": "学習設計上の選定: 公平な、公正なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fair-1",
+          "pos": "adjective",
+          "meaningJa": "公平な、公正な",
+          "example": "The policy ensures fair treatment for everyone.",
+          "translationJa": "その方針は全員の公平な待遇を確保します。",
+          "collocations": [
+            "a fair decision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-equal",
+      "version": 1,
+      "lemma": "equal",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "equally"
+      ],
+      "rationale": "学習設計上の選定: 等しいに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-equal-1",
+          "pos": "adjective",
+          "meaningJa": "等しい",
+          "example": "Divide the material into equal portions.",
+          "translationJa": "材料を等しい分量に分けてください。",
+          "collocations": [
+            "equal amounts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-entire",
+      "version": 1,
+      "lemma": "entire",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "entirely"
+      ],
+      "rationale": "学習設計上の選定: 全体の、すべてのに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-entire-1",
+          "pos": "adjective",
+          "meaningJa": "全体の、すべての",
+          "example": "The entire team attended the safety briefing.",
+          "translationJa": "チーム全員が安全説明に出席しました。",
+          "collocations": [
+            "the entire building"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-full",
+      "version": 1,
+      "lemma": "full",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "fill"
+      ],
+      "rationale": "学習設計上の選定: 満杯の、満員のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-full-1",
+          "pos": "adjective",
+          "meaningJa": "満杯の、満員の",
+          "example": "The parking lot is already full.",
+          "translationJa": "駐車場はすでに満車です。",
+          "collocations": [
+            "a full container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-empty",
+      "version": 1,
+      "lemma": "empty",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "emptiness"
+      ],
+      "rationale": "学習設計上の選定: 空のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-empty-1",
+          "pos": "adjective",
+          "meaningJa": "空の",
+          "example": "Leave empty boxes beside the loading door.",
+          "translationJa": "空箱は搬入口の横に置いてください。",
+          "collocations": [
+            "an empty box"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-heavy",
+      "version": 1,
+      "lemma": "heavy",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "heavily"
+      ],
+      "rationale": "学習設計上の選定: 重いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-heavy-1",
+          "pos": "adjective",
+          "meaningJa": "重い",
+          "example": "Ask for help with heavy packages.",
+          "translationJa": "重い荷物は手助けを頼んでください。",
+          "collocations": [
+            "a heavy load"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-soft",
+      "version": 1,
+      "lemma": "soft",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "softness"
+      ],
+      "rationale": "学習設計上の選定: 柔らかいに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-soft-1",
+          "pos": "adjective",
+          "meaningJa": "柔らかい",
+          "example": "Use a soft cloth to clean the screen.",
+          "translationJa": "柔らかい布で画面を拭いてください。",
+          "collocations": [
+            "a soft cloth"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-hard",
+      "version": 1,
+      "lemma": "hard",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "hardness"
+      ],
+      "rationale": "学習設計上の選定: 硬いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-hard-1",
+          "pos": "adjective",
+          "meaningJa": "硬い",
+          "example": "Place the machine on a hard surface.",
+          "translationJa": "機械を硬い面に置いてください。",
+          "collocations": [
+            "a hard surface"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fresh",
+      "version": 1,
+      "lemma": "fresh",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "freshness"
+      ],
+      "rationale": "学習設計上の選定: 新鮮なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fresh-1",
+          "pos": "adjective",
+          "meaningJa": "新鮮な",
+          "example": "The cafe serves fresh fruit each morning.",
+          "translationJa": "カフェは毎朝新鮮な果物を出します。",
+          "collocations": [
+            "fresh produce"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-ready",
+      "version": 1,
+      "lemma": "ready",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "readiness"
+      ],
+      "rationale": "学習設計上の選定: 準備ができたに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-ready-1",
+          "pos": "adjective",
+          "meaningJa": "準備ができた",
+          "example": "Your order will be ready at noon.",
+          "translationJa": "注文品は正午に準備できます。",
+          "collocations": [
+            "ready for delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-eligible",
+      "version": 1,
+      "lemma": "eligible",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "eligibility"
+      ],
+      "rationale": "学習設計上の選定: 資格があるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-eligible-1",
+          "pos": "adjective",
+          "meaningJa": "資格がある",
+          "example": "Members are eligible for a free consultation.",
+          "translationJa": "会員は無料相談を受ける資格があります。",
+          "collocations": [
+            "eligible for a discount"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-valid",
+      "version": 1,
+      "lemma": "valid",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "validity"
+      ],
+      "rationale": "学習設計上の選定: 有効なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-valid-1",
+          "pos": "adjective",
+          "meaningJa": "有効な",
+          "example": "This ticket is valid until midnight.",
+          "translationJa": "この券は深夜0時まで有効です。",
+          "collocations": [
+            "a valid ticket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-additional",
+      "version": 1,
+      "lemma": "additional",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "addition"
+      ],
+      "rationale": "学習設計上の選定: 追加のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-additional-1",
+          "pos": "adjective",
+          "meaningJa": "追加の",
+          "example": "Additional chairs are available on request.",
+          "translationJa": "希望すれば追加の椅子を利用できます。",
+          "collocations": [
+            "additional information"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-alternative",
+      "version": 1,
+      "lemma": "alternative",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "alternatively"
+      ],
+      "rationale": "学習設計上の選定: 代わりの、別のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-alternative-1",
+          "pos": "adjective",
+          "meaningJa": "代わりの、別の",
+          "example": "We need an alternative route during construction.",
+          "translationJa": "工事中は別の経路が必要です。",
+          "collocations": [
+            "an alternative plan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-various",
+      "version": 1,
+      "lemma": "various",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "variety"
+      ],
+      "rationale": "学習設計上の選定: さまざまなに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-various-1",
+          "pos": "adjective",
+          "meaningJa": "さまざまな",
+          "example": "The store carries products from various countries.",
+          "translationJa": "店はさまざまな国の製品を扱っています。",
+          "collocations": [
+            "various options"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-always",
+      "version": 1,
+      "lemma": "always",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "every time"
+      ],
+      "rationale": "学習設計上の選定: いつも、必ずに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-always-1",
+          "pos": "adverb",
+          "meaningJa": "いつも、必ず",
+          "example": "Always check the address before shipping.",
+          "translationJa": "発送前には必ず住所を確認してください。",
+          "collocations": [
+            "always check"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-never",
+      "version": 1,
+      "lemma": "never",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "not ever"
+      ],
+      "rationale": "学習設計上の選定: 一度も〜ない、決して〜ないに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-never-1",
+          "pos": "adverb",
+          "meaningJa": "一度も〜ない、決して〜ない",
+          "example": "I have never used this booking system.",
+          "translationJa": "この予約システムは一度も使ったことがありません。",
+          "collocations": [
+            "never forget"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-often",
+      "version": 1,
+      "lemma": "often",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "frequently"
+      ],
+      "rationale": "学習設計上の選定: しばしばに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-often-1",
+          "pos": "adverb",
+          "meaningJa": "しばしば",
+          "example": "The manager often visits the warehouse.",
+          "translationJa": "部長はよく倉庫を訪れます。",
+          "collocations": [
+            "often visit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-usually",
+      "version": 1,
+      "lemma": "usually",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "normally"
+      ],
+      "rationale": "学習設計上の選定: 通常はに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-usually-1",
+          "pos": "adverb",
+          "meaningJa": "通常は",
+          "example": "The shop usually opens at nine.",
+          "translationJa": "店は通常9時に開きます。",
+          "collocations": [
+            "usually available"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sometimes",
+      "version": 1,
+      "lemma": "sometimes",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "occasionally"
+      ],
+      "rationale": "学習設計上の選定: 時々に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sometimes-1",
+          "pos": "adverb",
+          "meaningJa": "時々",
+          "example": "We sometimes hold meetings in the library.",
+          "translationJa": "時々図書館で会議をします。",
+          "collocations": [
+            "sometimes occur"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-rarely",
+      "version": 1,
+      "lemma": "rarely",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "seldom"
+      ],
+      "rationale": "学習設計上の選定: めったに〜ないに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-rarely-1",
+          "pos": "adverb",
+          "meaningJa": "めったに〜ない",
+          "example": "The printer rarely needs repairs.",
+          "translationJa": "プリンターはめったに修理が要りません。",
+          "collocations": [
+            "rarely used"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-frequently",
+      "version": 1,
+      "lemma": "frequently",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "frequent"
+      ],
+      "rationale": "学習設計上の選定: 頻繁にに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-frequently-1",
+          "pos": "adverb",
+          "meaningJa": "頻繁に",
+          "example": "Prices change frequently during peak season.",
+          "translationJa": "繁忙期には価格が頻繁に変わります。",
+          "collocations": [
+            "frequently asked questions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-regularly",
+      "version": 1,
+      "lemma": "regularly",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "regular"
+      ],
+      "rationale": "学習設計上の選定: 定期的にに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-regularly-1",
+          "pos": "adverb",
+          "meaningJa": "定期的に",
+          "example": "The filters must be cleaned regularly.",
+          "translationJa": "フィルターは定期的な清掃が必要です。",
+          "collocations": [
+            "inspect regularly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-currently",
+      "version": 1,
+      "lemma": "currently",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "current"
+      ],
+      "rationale": "学習設計上の選定: 現在に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-currently-1",
+          "pos": "adverb",
+          "meaningJa": "現在",
+          "example": "The elevator is currently out of service.",
+          "translationJa": "エレベーターは現在使用停止中です。",
+          "collocations": [
+            "currently available"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-recently",
+      "version": 1,
+      "lemma": "recently",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "recent"
+      ],
+      "rationale": "学習設計上の選定: 最近に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-recently-1",
+          "pos": "adverb",
+          "meaningJa": "最近",
+          "example": "The company recently opened a new branch.",
+          "translationJa": "会社は最近、新支店を開きました。",
+          "collocations": [
+            "recently renovated"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-already",
+      "version": 1,
+      "lemma": "already",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "previously"
+      ],
+      "rationale": "学習設計上の選定: すでにに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-already-1",
+          "pos": "adverb",
+          "meaningJa": "すでに",
+          "example": "The package has already been delivered.",
+          "translationJa": "小包はすでに配達されています。",
+          "collocations": [
+            "already completed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-still",
+      "version": 1,
+      "lemma": "still",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "continuing"
+      ],
+      "rationale": "学習設計上の選定: まだ、依然としてに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-still-1",
+          "pos": "adverb",
+          "meaningJa": "まだ、依然として",
+          "example": "We are still waiting for the samples.",
+          "translationJa": "まだ試供品を待っています。",
+          "collocations": [
+            "still available"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-almost",
+      "version": 1,
+      "lemma": "almost",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "nearly"
+      ],
+      "rationale": "学習設計上の選定: ほとんど、もう少しでに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-almost-1",
+          "pos": "adverb",
+          "meaningJa": "ほとんど、もう少しで",
+          "example": "The renovation is almost complete.",
+          "translationJa": "改装はほとんど完了しています。",
+          "collocations": [
+            "almost finished"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-nearly",
+      "version": 1,
+      "lemma": "nearly",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "almost"
+      ],
+      "rationale": "学習設計上の選定: ほぼ、約に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-nearly-1",
+          "pos": "adverb",
+          "meaningJa": "ほぼ、約",
+          "example": "Nearly fifty people attended the workshop.",
+          "translationJa": "50人近くが研修会に参加しました。",
+          "collocations": [
+            "nearly complete"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-enough",
+      "version": 1,
+      "lemma": "enough",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "sufficiently"
+      ],
+      "rationale": "学習設計上の選定: 十分にに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-enough-1",
+          "pos": "adverb",
+          "meaningJa": "十分に",
+          "example": "The box is strong enough to reuse.",
+          "translationJa": "箱は再利用できるほど丈夫です。",
+          "collocations": [
+            "large enough"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-especially",
+      "version": 1,
+      "lemma": "especially",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "particularly"
+      ],
+      "rationale": "学習設計上の選定: 特にに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-especially-1",
+          "pos": "adverb",
+          "meaningJa": "特に",
+          "example": "The park is especially busy on weekends.",
+          "translationJa": "公園は週末に特に混みます。",
+          "collocations": [
+            "especially useful"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-however",
+      "version": 1,
+      "lemma": "however",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "nevertheless"
+      ],
+      "rationale": "学習設計上の選定: しかしながらに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-however-1",
+          "pos": "adverb",
+          "meaningJa": "しかしながら",
+          "example": "The price is high; however, delivery is included.",
+          "translationJa": "価格は高いですが、配送料が含まれています。",
+          "collocations": [
+            "however, delivery is included"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-therefore",
+      "version": 1,
+      "lemma": "therefore",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "consequently"
+      ],
+      "rationale": "学習設計上の選定: それゆえに、したがってに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-therefore-1",
+          "pos": "adverb",
+          "meaningJa": "それゆえに、したがって",
+          "example": "Demand rose; therefore, we increased production.",
+          "translationJa": "需要が増えたため、生産を増やしました。",
+          "collocations": [
+            "therefore necessary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-otherwise",
+      "version": 1,
+      "lemma": "otherwise",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "or else"
+      ],
+      "rationale": "学習設計上の選定: そうでなければに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-otherwise-1",
+          "pos": "adverb",
+          "meaningJa": "そうでなければ",
+          "example": "Book today; otherwise, the discount may expire.",
+          "translationJa": "今日予約してください。さもないと割引が切れるかもしれません。",
+          "collocations": [
+            "otherwise unavailable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-instead",
+      "version": 1,
+      "lemma": "instead",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "in place of"
+      ],
+      "rationale": "学習設計上の選定: 代わりにに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-instead-1",
+          "pos": "adverb",
+          "meaningJa": "代わりに",
+          "example": "The cafe was full, so we ate outside instead.",
+          "translationJa": "カフェが満席だったので代わりに外で食べました。",
+          "collocations": [
+            "use this instead"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-together",
+      "version": 1,
+      "lemma": "together",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "jointly"
+      ],
+      "rationale": "学習設計上の選定: 一緒にに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-together-1",
+          "pos": "adverb",
+          "meaningJa": "一緒に",
+          "example": "Both departments worked together on the launch.",
+          "translationJa": "両部門は発売に向け一緒に取り組みました。",
+          "collocations": [
+            "work together"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-immediately",
+      "version": 1,
+      "lemma": "immediately",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "immediate"
+      ],
+      "rationale": "学習設計上の選定: 直ちにに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-immediately-1",
+          "pos": "adverb",
+          "meaningJa": "直ちに",
+          "example": "Please report any safety concerns immediately.",
+          "translationJa": "安全上の懸念は直ちに報告してください。",
+          "collocations": [
+            "respond immediately"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-carefully",
+      "version": 1,
+      "lemma": "carefully",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "careful"
+      ],
+      "rationale": "学習設計上の選定: 注意深くに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-carefully-1",
+          "pos": "adverb",
+          "meaningJa": "注意深く",
+          "example": "Read the agreement carefully before signing.",
+          "translationJa": "署名前に契約書を注意深く読んでください。",
+          "collocations": [
+            "check carefully"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-successfully",
+      "version": 1,
+      "lemma": "successfully",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "successful"
+      ],
+      "rationale": "学習設計上の選定: 成功裏に、無事にに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-successfully-1",
+          "pos": "adverb",
+          "meaningJa": "成功裏に、無事に",
+          "example": "The team successfully completed the installation.",
+          "translationJa": "チームは設置を無事に完了しました。",
+          "collocations": [
+            "successfully complete"
+          ]
+        }
+      ]
+    }
+  ]
+}

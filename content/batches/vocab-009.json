@@ -1,0 +1,2911 @@
+{
+  "id": "vocab-009",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-04T00:25:51.275656+00:00",
+  "author": "vocabulary_editor",
+  "model": null,
+  "input": "research policy v1",
+  "status": "generated",
+  "items": [
+    {
+      "id": "v-warehouse",
+      "version": 1,
+      "lemma": "warehouse",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "warehousing"
+      ],
+      "rationale": "学習設計上の選定: 倉庫に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-warehouse-1",
+          "pos": "noun",
+          "meaningJa": "倉庫",
+          "example": "The warehouse stores spare parts.",
+          "translationJa": "倉庫には予備部品が保管されています。",
+          "collocations": [
+            "a distribution warehouse"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-factory",
+      "version": 1,
+      "lemma": "factory",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "manufacturing"
+      ],
+      "rationale": "学習設計上の選定: 工場に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-factory-1",
+          "pos": "noun",
+          "meaningJa": "工場",
+          "example": "The factory operates six days a week.",
+          "translationJa": "工場は週6日稼働しています。",
+          "collocations": [
+            "a furniture factory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-plant",
+      "version": 1,
+      "lemma": "plant",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "planting"
+      ],
+      "rationale": "学習設計上の選定: 植物に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-plant-1",
+          "pos": "noun",
+          "meaningJa": "植物",
+          "example": "This plant grows well near a window.",
+          "translationJa": "この植物は窓の近くでよく育ちます。",
+          "collocations": [
+            "a potted plant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-shipment",
+      "version": 1,
+      "lemma": "shipment",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "ship"
+      ],
+      "rationale": "学習設計上の選定: 発送、発送品に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-shipment-1",
+          "pos": "noun",
+          "meaningJa": "発送、発送品",
+          "example": "The shipment arrived two days early.",
+          "translationJa": "発送品は2日早く届きました。",
+          "collocations": [
+            "a large shipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-delivery",
+      "version": 1,
+      "lemma": "delivery",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "deliver"
+      ],
+      "rationale": "学習設計上の選定: 配達に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-delivery-1",
+          "pos": "noun",
+          "meaningJa": "配達",
+          "example": "Delivery is included in the price.",
+          "translationJa": "配送料は価格に含まれています。",
+          "collocations": [
+            "free delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-package",
+      "version": 1,
+      "lemma": "package",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "packaging"
+      ],
+      "rationale": "学習設計上の選定: 小包、包みに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-package-1",
+          "pos": "noun",
+          "meaningJa": "小包、包み",
+          "example": "A package arrived for the sales team.",
+          "translationJa": "営業チーム宛ての小包が届きました。",
+          "collocations": [
+            "a sealed package"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-parcel",
+      "version": 1,
+      "lemma": "parcel",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "parcel service"
+      ],
+      "rationale": "学習設計上の選定: 小包に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-parcel-1",
+          "pos": "noun",
+          "meaningJa": "小包",
+          "example": "Please sign for this registered parcel.",
+          "translationJa": "この書留小包の受領に署名してください。",
+          "collocations": [
+            "send a parcel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-carton",
+      "version": 1,
+      "lemma": "carton",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "cardboard"
+      ],
+      "rationale": "学習設計上の選定: 紙箱、カートンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-carton-1",
+          "pos": "noun",
+          "meaningJa": "紙箱、カートン",
+          "example": "Each carton contains twelve bottles.",
+          "translationJa": "各箱には12本の瓶が入っています。",
+          "collocations": [
+            "a cardboard carton"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-crate",
+      "version": 1,
+      "lemma": "crate",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "crating"
+      ],
+      "rationale": "学習設計上の選定: 木箱、運搬用の箱に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-crate-1",
+          "pos": "noun",
+          "meaningJa": "木箱、運搬用の箱",
+          "example": "Workers loaded the crates onto the truck.",
+          "translationJa": "作業員は木箱をトラックに積みました。",
+          "collocations": [
+            "a wooden crate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-container",
+      "version": 1,
+      "lemma": "container",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "contain"
+      ],
+      "rationale": "学習設計上の選定: 容器、コンテナに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-container-1",
+          "pos": "noun",
+          "meaningJa": "容器、コンテナ",
+          "example": "Store the powder in a sealed container.",
+          "translationJa": "粉は密閉容器に保管してください。",
+          "collocations": [
+            "a shipping container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pallet",
+      "version": 1,
+      "lemma": "pallet",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "pallet jack"
+      ],
+      "rationale": "学習設計上の選定: 荷役用の台、パレットに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pallet-1",
+          "pos": "noun",
+          "meaningJa": "荷役用の台、パレット",
+          "example": "The boxes were stacked on a pallet.",
+          "translationJa": "箱はパレットに積まれていました。",
+          "collocations": [
+            "a wooden pallet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-box",
+      "version": 1,
+      "lemma": "box",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "boxed"
+      ],
+      "rationale": "学習設計上の選定: 箱に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-box-1",
+          "pos": "noun",
+          "meaningJa": "箱",
+          "example": "The box is too heavy to lift alone.",
+          "translationJa": "箱は1人で持ち上げるには重すぎます。",
+          "collocations": [
+            "a cardboard box"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-envelope",
+      "version": 1,
+      "lemma": "envelope",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "mailing envelope"
+      ],
+      "rationale": "学習設計上の選定: 封筒に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-envelope-1",
+          "pos": "noun",
+          "meaningJa": "封筒",
+          "example": "Put the signed form in this envelope.",
+          "translationJa": "署名済みの用紙をこの封筒に入れてください。",
+          "collocations": [
+            "a padded envelope"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-label",
+      "version": 1,
+      "lemma": "label",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "labeling"
+      ],
+      "rationale": "学習設計上の選定: ラベル、荷札に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-label-1",
+          "pos": "noun",
+          "meaningJa": "ラベル、荷札",
+          "example": "The label shows the destination address.",
+          "translationJa": "荷札には配送先の住所が載っています。",
+          "collocations": [
+            "a shipping label"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tag",
+      "version": 1,
+      "lemma": "tag",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "tagged"
+      ],
+      "rationale": "学習設計上の選定: 付け札に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tag-1",
+          "pos": "noun",
+          "meaningJa": "付け札",
+          "example": "Attach a name tag to each bag.",
+          "translationJa": "各かばんに名札を付けてください。",
+          "collocations": [
+            "a luggage tag"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-stamp",
+      "version": 1,
+      "lemma": "stamp",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "stamp collection"
+      ],
+      "rationale": "学習設計上の選定: 切手に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-stamp-1",
+          "pos": "noun",
+          "meaningJa": "切手",
+          "example": "The clerk weighed the letter before selling stamps.",
+          "translationJa": "係員は切手を売る前に手紙を量りました。",
+          "collocations": [
+            "a postage stamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-postage",
+      "version": 1,
+      "lemma": "postage",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "postal"
+      ],
+      "rationale": "学習設計上の選定: 郵送料に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-postage-1",
+          "pos": "noun",
+          "meaningJa": "郵送料",
+          "example": "The price includes packing and postage.",
+          "translationJa": "料金には梱包費と郵送料が含まれます。",
+          "collocations": [
+            "pay postage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-freight",
+      "version": 1,
+      "lemma": "freight",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "freight carrier"
+      ],
+      "rationale": "学習設計上の選定: 貨物、貨物輸送に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-freight-1",
+          "pos": "noun",
+          "meaningJa": "貨物、貨物輸送",
+          "example": "Most freight arrives by rail.",
+          "translationJa": "貨物の大半は鉄道で届きます。",
+          "collocations": [
+            "air freight"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cargo",
+      "version": 1,
+      "lemma": "cargo",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "cargo ship"
+      ],
+      "rationale": "学習設計上の選定: 積み荷に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cargo-1",
+          "pos": "noun",
+          "meaningJa": "積み荷",
+          "example": "The crew secured the cargo before departure.",
+          "translationJa": "乗組員は出発前に積み荷を固定しました。",
+          "collocations": [
+            "load cargo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-goods",
+      "version": 1,
+      "lemma": "goods",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "consumer goods"
+      ],
+      "rationale": "学習設計上の選定: 商品、品物に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-goods-1",
+          "pos": "noun",
+          "meaningJa": "商品、品物",
+          "example": "Check the goods before signing the receipt.",
+          "translationJa": "受領書に署名する前に品物を確認してください。",
+          "collocations": [
+            "damaged goods"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-inventory",
+      "version": 1,
+      "lemma": "inventory",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "inventory control"
+      ],
+      "rationale": "学習設計上の選定: 在庫、在庫一覧に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-inventory-1",
+          "pos": "noun",
+          "meaningJa": "在庫、在庫一覧",
+          "example": "We check inventory every Friday.",
+          "translationJa": "毎週金曜日に在庫を確認します。",
+          "collocations": [
+            "manage inventory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-merchandise",
+      "version": 1,
+      "lemma": "merchandise",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "merchandising"
+      ],
+      "rationale": "学習設計上の選定: 販売商品に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-merchandise-1",
+          "pos": "noun",
+          "meaningJa": "販売商品",
+          "example": "New merchandise is displayed near the entrance.",
+          "translationJa": "新商品は入口近くに陳列されています。",
+          "collocations": [
+            "display merchandise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-material",
+      "version": 1,
+      "lemma": "material",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "material cost"
+      ],
+      "rationale": "学習設計上の選定: 材料に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-material-1",
+          "pos": "noun",
+          "meaningJa": "材料",
+          "example": "This material resists water and heat.",
+          "translationJa": "この素材は水と熱に耐えます。",
+          "collocations": [
+            "raw materials"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-component",
+      "version": 1,
+      "lemma": "component",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "component part"
+      ],
+      "rationale": "学習設計上の選定: 構成部品に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-component-1",
+          "pos": "noun",
+          "meaningJa": "構成部品",
+          "example": "One damaged component stopped the machine.",
+          "translationJa": "1つの破損部品で機械が止まりました。",
+          "collocations": [
+            "an electronic component"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-part",
+      "version": 1,
+      "lemma": "part",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "part number"
+      ],
+      "rationale": "学習設計上の選定: 部品、部分に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-part-1",
+          "pos": "noun",
+          "meaningJa": "部品、部分",
+          "example": "The replacement part arrived this morning.",
+          "translationJa": "交換部品は今朝届きました。",
+          "collocations": [
+            "a spare part"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-piece",
+      "version": 1,
+      "lemma": "piece",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "piecemeal"
+      ],
+      "rationale": "学習設計上の選定: 一個、一片に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-piece-1",
+          "pos": "noun",
+          "meaningJa": "一個、一片",
+          "example": "Each piece of furniture has a number.",
+          "translationJa": "各家具に番号が付いています。",
+          "collocations": [
+            "a piece of equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-unit",
+      "version": 1,
+      "lemma": "unit",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "unit cost"
+      ],
+      "rationale": "学習設計上の選定: 単位、一台に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-unit-1",
+          "pos": "noun",
+          "meaningJa": "単位、一台",
+          "example": "The factory produces fifty units each day.",
+          "translationJa": "工場は毎日50台生産します。",
+          "collocations": [
+            "a production unit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-batch",
+      "version": 1,
+      "lemma": "batch",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "batch number"
+      ],
+      "rationale": "学習設計上の選定: 一組、一回の生産分に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-batch-1",
+          "pos": "noun",
+          "meaningJa": "一組、一回の生産分",
+          "example": "We tested a sample from each batch.",
+          "translationJa": "各生産分から試料を検査しました。",
+          "collocations": [
+            "a batch of products"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-quantity",
+      "version": 1,
+      "lemma": "quantity",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "quantitative"
+      ],
+      "rationale": "学習設計上の選定: 数量に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-quantity-1",
+          "pos": "noun",
+          "meaningJa": "数量",
+          "example": "Specify the quantity when placing your order.",
+          "translationJa": "注文時に数量を指定してください。",
+          "collocations": [
+            "a large quantity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-weight",
+      "version": 1,
+      "lemma": "weight",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "weigh"
+      ],
+      "rationale": "学習設計上の選定: 重さに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-weight-1",
+          "pos": "noun",
+          "meaningJa": "重さ",
+          "example": "The package exceeds the weight limit.",
+          "translationJa": "小包は重量制限を超えています。",
+          "collocations": [
+            "gross weight"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-height",
+      "version": 1,
+      "lemma": "height",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "high"
+      ],
+      "rationale": "学習設計上の選定: 高さに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-height-1",
+          "pos": "noun",
+          "meaningJa": "高さ",
+          "example": "Check the height of the loading entrance.",
+          "translationJa": "搬入口の高さを確認してください。",
+          "collocations": [
+            "maximum height"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-width",
+      "version": 1,
+      "lemma": "width",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "wide"
+      ],
+      "rationale": "学習設計上の選定: 幅に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-width-1",
+          "pos": "noun",
+          "meaningJa": "幅",
+          "example": "Measure the width before cutting the board.",
+          "translationJa": "板を切る前に幅を測ってください。",
+          "collocations": [
+            "the full width"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-length",
+      "version": 1,
+      "lemma": "length",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "long"
+      ],
+      "rationale": "学習設計上の選定: 長さに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-length-1",
+          "pos": "noun",
+          "meaningJa": "長さ",
+          "example": "We need a cable of sufficient length.",
+          "translationJa": "十分な長さのケーブルが必要です。",
+          "collocations": [
+            "the total length"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-depth",
+      "version": 1,
+      "lemma": "depth",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "deep"
+      ],
+      "rationale": "学習設計上の選定: 深さに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-depth-1",
+          "pos": "noun",
+          "meaningJa": "深さ",
+          "example": "The plan shows the depth of each shelf.",
+          "translationJa": "図面には各棚の奥行きが示されています。",
+          "collocations": [
+            "water depth"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-size",
+      "version": 1,
+      "lemma": "size",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "sized"
+      ],
+      "rationale": "学習設計上の選定: 大きさ、寸法に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-size-1",
+          "pos": "noun",
+          "meaningJa": "大きさ、寸法",
+          "example": "The boxes come in three sizes.",
+          "translationJa": "箱には3種類の大きさがあります。",
+          "collocations": [
+            "a standard size"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-shape",
+      "version": 1,
+      "lemma": "shape",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "shaped"
+      ],
+      "rationale": "学習設計上の選定: 形に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-shape-1",
+          "pos": "noun",
+          "meaningJa": "形",
+          "example": "The container's shape makes it easy to stack.",
+          "translationJa": "その容器は積みやすい形です。",
+          "collocations": [
+            "a rectangular shape"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-color",
+      "version": 1,
+      "lemma": "color",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "colorful"
+      ],
+      "rationale": "学習設計上の選定: 色に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-color-1",
+          "pos": "noun",
+          "meaningJa": "色",
+          "example": "Choose a color that matches the logo.",
+          "translationJa": "ロゴに合う色を選んでください。",
+          "collocations": [
+            "a bright color"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-surface",
+      "version": 1,
+      "lemma": "surface",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "surface area"
+      ],
+      "rationale": "学習設計上の選定: 表面に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-surface-1",
+          "pos": "noun",
+          "meaningJa": "表面",
+          "example": "Clean the surface before attaching the label.",
+          "translationJa": "ラベルを貼る前に表面を拭いてください。",
+          "collocations": [
+            "a smooth surface"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-edge",
+      "version": 1,
+      "lemma": "edge",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "edging"
+      ],
+      "rationale": "学習設計上の選定: 端、縁に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-edge-1",
+          "pos": "noun",
+          "meaningJa": "端、縁",
+          "example": "Keep heavy objects away from the shelf's edge.",
+          "translationJa": "重い物は棚の縁から離してください。",
+          "collocations": [
+            "a sharp edge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-corner",
+      "version": 1,
+      "lemma": "corner",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "cornerstone"
+      ],
+      "rationale": "学習設計上の選定: 角、隅に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-corner-1",
+          "pos": "noun",
+          "meaningJa": "角、隅",
+          "example": "Protect each corner with thick cardboard.",
+          "translationJa": "各角を厚い段ボールで保護してください。",
+          "collocations": [
+            "a rounded corner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-center",
+      "version": 1,
+      "lemma": "center",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "central"
+      ],
+      "rationale": "学習設計上の選定: 中央、中心に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-center-1",
+          "pos": "noun",
+          "meaningJa": "中央、中心",
+          "example": "Place the label in the center of the box.",
+          "translationJa": "箱の中央にラベルを貼ってください。",
+          "collocations": [
+            "the city center"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-side",
+      "version": 1,
+      "lemma": "side",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "sideways"
+      ],
+      "rationale": "学習設計上の選定: 側面、側に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-side-1",
+          "pos": "noun",
+          "meaningJa": "側面、側",
+          "example": "Write the number on both sides.",
+          "translationJa": "両側に番号を書いてください。",
+          "collocations": [
+            "the left side"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-base",
+      "version": 1,
+      "lemma": "base",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "baseplate"
+      ],
+      "rationale": "学習設計上の選定: 土台、底部に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-base-1",
+          "pos": "noun",
+          "meaningJa": "土台、底部",
+          "example": "The lamp has a heavy metal base.",
+          "translationJa": "ランプには重い金属の台座があります。",
+          "collocations": [
+            "a solid base"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-level",
+      "version": 1,
+      "lemma": "level",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "leveling"
+      ],
+      "rationale": "学習設計上の選定: 水準、高さに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-level-1",
+          "pos": "noun",
+          "meaningJa": "水準、高さ",
+          "example": "The water level rose after the rain.",
+          "translationJa": "雨の後に水位が上がりました。",
+          "collocations": [
+            "a high level"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-area",
+      "version": 1,
+      "lemma": "area",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "area code"
+      ],
+      "rationale": "学習設計上の選定: 区域、面積に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-area-1",
+          "pos": "noun",
+          "meaningJa": "区域、面積",
+          "example": "Keep this area clear for deliveries.",
+          "translationJa": "配達のためこの場所を空けてください。",
+          "collocations": [
+            "a storage area"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-space",
+      "version": 1,
+      "lemma": "space",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "spacious"
+      ],
+      "rationale": "学習設計上の選定: 空間、場所に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-space-1",
+          "pos": "noun",
+          "meaningJa": "空間、場所",
+          "example": "There is enough space for two desks.",
+          "translationJa": "机2台分の十分な場所があります。",
+          "collocations": [
+            "storage space"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-section",
+      "version": 1,
+      "lemma": "section",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "sectional"
+      ],
+      "rationale": "学習設計上の選定: 区画、部分に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-section-1",
+          "pos": "noun",
+          "meaningJa": "区画、部分",
+          "example": "Fragile items go in a separate section.",
+          "translationJa": "壊れやすい物は別区画に置きます。",
+          "collocations": [
+            "a separate section"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-zone",
+      "version": 1,
+      "lemma": "zone",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "zoning"
+      ],
+      "rationale": "学習設計上の選定: 地帯、区域に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-zone-1",
+          "pos": "noun",
+          "meaningJa": "地帯、区域",
+          "example": "Parking is prohibited in the loading zone.",
+          "translationJa": "荷積み区域は駐車禁止です。",
+          "collocations": [
+            "a loading zone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-site",
+      "version": 1,
+      "lemma": "site",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "on-site"
+      ],
+      "rationale": "学習設計上の選定: 敷地、現場に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-site-1",
+          "pos": "noun",
+          "meaningJa": "敷地、現場",
+          "example": "Visitors need helmets at the construction site.",
+          "translationJa": "工事現場では来訪者にヘルメットが必要です。",
+          "collocations": [
+            "a construction site"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-location",
+      "version": 1,
+      "lemma": "location",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "locate"
+      ],
+      "rationale": "学習設計上の選定: 場所、所在地に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-location-1",
+          "pos": "noun",
+          "meaningJa": "場所、所在地",
+          "example": "The new location is close to the highway.",
+          "translationJa": "新しい所在地は高速道路の近くです。",
+          "collocations": [
+            "a convenient location"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-construction",
+      "version": 1,
+      "lemma": "construction",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "construct"
+      ],
+      "rationale": "学習設計上の選定: 建設、工事に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-construction-1",
+          "pos": "noun",
+          "meaningJa": "建設、工事",
+          "example": "Construction of the warehouse begins in May.",
+          "translationJa": "倉庫の建設は5月に始まります。",
+          "collocations": [
+            "under construction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-building",
+      "version": 1,
+      "lemma": "building",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "builder"
+      ],
+      "rationale": "学習設計上の選定: 建物に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-building-1",
+          "pos": "noun",
+          "meaningJa": "建物",
+          "example": "The building has three loading entrances.",
+          "translationJa": "建物には搬入口が3つあります。",
+          "collocations": [
+            "an office building"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-structure",
+      "version": 1,
+      "lemma": "structure",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "structural"
+      ],
+      "rationale": "学習設計上の選定: 構造、建造物に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-structure-1",
+          "pos": "noun",
+          "meaningJa": "構造、建造物",
+          "example": "Engineers checked the structure after the storm.",
+          "translationJa": "技師が嵐の後に構造物を点検しました。",
+          "collocations": [
+            "a steel structure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-ground",
+      "version": 1,
+      "lemma": "ground",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "groundwater"
+      ],
+      "rationale": "学習設計上の選定: 地面に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-ground-1",
+          "pos": "noun",
+          "meaningJa": "地面",
+          "example": "The ground is still wet from rain.",
+          "translationJa": "地面は雨でまだぬれています。",
+          "collocations": [
+            "on the ground"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-land",
+      "version": 1,
+      "lemma": "land",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "landowner"
+      ],
+      "rationale": "学習設計上の選定: 土地に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-land-1",
+          "pos": "noun",
+          "meaningJa": "土地",
+          "example": "The company purchased land near the port.",
+          "translationJa": "会社は港の近くに土地を買いました。",
+          "collocations": [
+            "a plot of land"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-field",
+      "version": 1,
+      "lemma": "field",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "farmland"
+      ],
+      "rationale": "学習設計上の選定: 野原、畑に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-field-1",
+          "pos": "noun",
+          "meaningJa": "野原、畑",
+          "example": "The path runs beside a rice field.",
+          "translationJa": "道は水田の横を通っています。",
+          "collocations": [
+            "a rice field"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-farm",
+      "version": 1,
+      "lemma": "farm",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "farmer"
+      ],
+      "rationale": "学習設計上の選定: 農場に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-farm-1",
+          "pos": "noun",
+          "meaningJa": "農場",
+          "example": "The farm supplies vegetables to local restaurants.",
+          "translationJa": "農場は地元飲食店に野菜を供給します。",
+          "collocations": [
+            "a family farm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-forest",
+      "version": 1,
+      "lemma": "forest",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "forestry"
+      ],
+      "rationale": "学習設計上の選定: 森林に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-forest-1",
+          "pos": "noun",
+          "meaningJa": "森林",
+          "example": "A walking trail crosses the forest.",
+          "translationJa": "遊歩道が森を横切っています。",
+          "collocations": [
+            "a protected forest"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wood",
+      "version": 1,
+      "lemma": "wood",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "wooden"
+      ],
+      "rationale": "学習設計上の選定: 木材に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wood-1",
+          "pos": "noun",
+          "meaningJa": "木材",
+          "example": "The furniture is made from recycled wood.",
+          "translationJa": "家具は再利用した木材で作られています。",
+          "collocations": [
+            "solid wood"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tree",
+      "version": 1,
+      "lemma": "tree",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "tree planting"
+      ],
+      "rationale": "学習設計上の選定: 木に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tree-1",
+          "pos": "noun",
+          "meaningJa": "木",
+          "example": "Workers planted trees along the road.",
+          "translationJa": "作業員は道路沿いに木を植えました。",
+          "collocations": [
+            "plant a tree"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-flower",
+      "version": 1,
+      "lemma": "flower",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "floral"
+      ],
+      "rationale": "学習設計上の選定: 花に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-flower-1",
+          "pos": "noun",
+          "meaningJa": "花",
+          "example": "Fresh flowers decorate the reception desk.",
+          "translationJa": "生花が受付の机を飾っています。",
+          "collocations": [
+            "a flower arrangement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-grass",
+      "version": 1,
+      "lemma": "grass",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "grassy"
+      ],
+      "rationale": "学習設計上の選定: 草、芝に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-grass-1",
+          "pos": "noun",
+          "meaningJa": "草、芝",
+          "example": "Please keep bicycles off the grass.",
+          "translationJa": "芝生に自転車を入れないでください。",
+          "collocations": [
+            "cut the grass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-leaf",
+      "version": 1,
+      "lemma": "leaf",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "leafy"
+      ],
+      "rationale": "学習設計上の選定: 葉に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-leaf-1",
+          "pos": "noun",
+          "meaningJa": "葉",
+          "example": "The leaf has turned bright yellow.",
+          "translationJa": "その葉は鮮やかな黄色になりました。",
+          "collocations": [
+            "a green leaf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-root",
+      "version": 1,
+      "lemma": "root",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "rooted"
+      ],
+      "rationale": "学習設計上の選定: 根に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-root-1",
+          "pos": "noun",
+          "meaningJa": "根",
+          "example": "Tree roots can damage old pipes.",
+          "translationJa": "木の根は古い管を傷めることがあります。",
+          "collocations": [
+            "a tree root"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-seed",
+      "version": 1,
+      "lemma": "seed",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "seedling"
+      ],
+      "rationale": "学習設計上の選定: 種に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-seed-1",
+          "pos": "noun",
+          "meaningJa": "種",
+          "example": "Plant the seeds in moist soil.",
+          "translationJa": "湿った土に種を植えてください。",
+          "collocations": [
+            "sow seeds"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-soil",
+      "version": 1,
+      "lemma": "soil",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "soil quality"
+      ],
+      "rationale": "学習設計上の選定: 土壌、土に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-soil-1",
+          "pos": "noun",
+          "meaningJa": "土壌、土",
+          "example": "This soil holds water well.",
+          "translationJa": "この土は水をよく保持します。",
+          "collocations": [
+            "fertile soil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-water",
+      "version": 1,
+      "lemma": "water",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "waterproof"
+      ],
+      "rationale": "学習設計上の選定: 水に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-water-1",
+          "pos": "noun",
+          "meaningJa": "水",
+          "example": "The garden uses rainwater to save water.",
+          "translationJa": "庭では節水のため雨水を使います。",
+          "collocations": [
+            "drinking water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-air",
+      "version": 1,
+      "lemma": "air",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "airflow"
+      ],
+      "rationale": "学習設計上の選定: 空気に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-air-1",
+          "pos": "noun",
+          "meaningJa": "空気",
+          "example": "Open the window to let in fresh air.",
+          "translationJa": "窓を開けて新鮮な空気を入れてください。",
+          "collocations": [
+            "fresh air"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sunlight",
+      "version": 1,
+      "lemma": "sunlight",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "sunny"
+      ],
+      "rationale": "学習設計上の選定: 日光に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sunlight-1",
+          "pos": "noun",
+          "meaningJa": "日光",
+          "example": "The panels need direct sunlight.",
+          "translationJa": "そのパネルには直射日光が必要です。",
+          "collocations": [
+            "direct sunlight"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-rain",
+      "version": 1,
+      "lemma": "rain",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "rainy"
+      ],
+      "rationale": "学習設計上の選定: 雨に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-rain-1",
+          "pos": "noun",
+          "meaningJa": "雨",
+          "example": "Heavy rain delayed the outdoor work.",
+          "translationJa": "大雨で屋外作業が遅れました。",
+          "collocations": [
+            "heavy rain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wind",
+      "version": 1,
+      "lemma": "wind",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "windy"
+      ],
+      "rationale": "学習設計上の選定: 風に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wind-1",
+          "pos": "noun",
+          "meaningJa": "風",
+          "example": "Strong wind damaged the temporary sign.",
+          "translationJa": "強風で仮設の看板が壊れました。",
+          "collocations": [
+            "a strong wind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-snow",
+      "version": 1,
+      "lemma": "snow",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "snowy"
+      ],
+      "rationale": "学習設計上の選定: 雪に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-snow-1",
+          "pos": "noun",
+          "meaningJa": "雪",
+          "example": "Snow covered the road overnight.",
+          "translationJa": "一晩で道路が雪に覆われました。",
+          "collocations": [
+            "heavy snow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-ice",
+      "version": 1,
+      "lemma": "ice",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "icy"
+      ],
+      "rationale": "学習設計上の選定: 氷に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-ice-1",
+          "pos": "noun",
+          "meaningJa": "氷",
+          "example": "Watch for ice on the steps.",
+          "translationJa": "階段の氷に注意してください。",
+          "collocations": [
+            "thin ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cloud",
+      "version": 1,
+      "lemma": "cloud",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "cloudy"
+      ],
+      "rationale": "学習設計上の選定: 雲に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cloud-1",
+          "pos": "noun",
+          "meaningJa": "雲",
+          "example": "Dark clouds gathered above the harbor.",
+          "translationJa": "港の上に暗い雲が集まりました。",
+          "collocations": [
+            "a rain cloud"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-storm",
+      "version": 1,
+      "lemma": "storm",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "stormy"
+      ],
+      "rationale": "学習設計上の選定: 嵐に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-storm-1",
+          "pos": "noun",
+          "meaningJa": "嵐",
+          "example": "The storm interrupted ferry services.",
+          "translationJa": "嵐でフェリーの運航が中断しました。",
+          "collocations": [
+            "a severe storm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-weather",
+      "version": 1,
+      "lemma": "weather",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "weatherproof"
+      ],
+      "rationale": "学習設計上の選定: 天気に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-weather-1",
+          "pos": "noun",
+          "meaningJa": "天気",
+          "example": "The event depends on the weather.",
+          "translationJa": "催しの実施は天候次第です。",
+          "collocations": [
+            "a weather forecast"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-climate",
+      "version": 1,
+      "lemma": "climate",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "climatic"
+      ],
+      "rationale": "学習設計上の選定: 気候に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-climate-1",
+          "pos": "noun",
+          "meaningJa": "気候",
+          "example": "The region has a mild climate.",
+          "translationJa": "その地域は温暖な気候です。",
+          "collocations": [
+            "a dry climate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-temperature",
+      "version": 1,
+      "lemma": "temperature",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "thermometer"
+      ],
+      "rationale": "学習設計上の選定: 温度、気温に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-temperature-1",
+          "pos": "noun",
+          "meaningJa": "温度、気温",
+          "example": "Keep the room at a steady temperature.",
+          "translationJa": "室温を一定に保ってください。",
+          "collocations": [
+            "room temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-energy",
+      "version": 1,
+      "lemma": "energy",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "energetic"
+      ],
+      "rationale": "学習設計上の選定: エネルギーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-energy-1",
+          "pos": "noun",
+          "meaningJa": "エネルギー",
+          "example": "The new lights use less energy.",
+          "translationJa": "新しい照明は消費エネルギーが少ないです。",
+          "collocations": [
+            "save energy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-power",
+      "version": 1,
+      "lemma": "power",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "powered"
+      ],
+      "rationale": "学習設計上の選定: 電力に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-power-1",
+          "pos": "noun",
+          "meaningJa": "電力",
+          "example": "The backup generator supplies emergency power.",
+          "translationJa": "予備発電機が非常用電力を供給します。",
+          "collocations": [
+            "a power supply"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-electricity",
+      "version": 1,
+      "lemma": "electricity",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "electrical"
+      ],
+      "rationale": "学習設計上の選定: 電気に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-electricity-1",
+          "pos": "noun",
+          "meaningJa": "電気",
+          "example": "The building produces some of its own electricity.",
+          "translationJa": "建物は電力の一部を自家発電しています。",
+          "collocations": [
+            "generate electricity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fuel",
+      "version": 1,
+      "lemma": "fuel",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "refuel"
+      ],
+      "rationale": "学習設計上の選定: 燃料に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fuel-1",
+          "pos": "noun",
+          "meaningJa": "燃料",
+          "example": "The company monitors fuel use carefully.",
+          "translationJa": "会社は燃料使用量を細かく管理しています。",
+          "collocations": [
+            "fuel consumption"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-gas",
+      "version": 1,
+      "lemma": "gas",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "gas supply"
+      ],
+      "rationale": "学習設計上の選定: ガスに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-gas-1",
+          "pos": "noun",
+          "meaningJa": "ガス",
+          "example": "The kitchen uses gas for cooking.",
+          "translationJa": "厨房では調理にガスを使います。",
+          "collocations": [
+            "natural gas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-oil",
+      "version": 1,
+      "lemma": "oil",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "oily"
+      ],
+      "rationale": "学習設計上の選定: 油に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-oil-1",
+          "pos": "noun",
+          "meaningJa": "油",
+          "example": "The mechanic checked the engine oil.",
+          "translationJa": "整備士はエンジンオイルを確認しました。",
+          "collocations": [
+            "engine oil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pollution",
+      "version": 1,
+      "lemma": "pollution",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "pollute"
+      ],
+      "rationale": "学習設計上の選定: 汚染に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pollution-1",
+          "pos": "noun",
+          "meaningJa": "汚染",
+          "example": "The project aims to reduce air pollution.",
+          "translationJa": "計画は大気汚染の削減を目指しています。",
+          "collocations": [
+            "air pollution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-environment",
+      "version": 1,
+      "lemma": "environment",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "environmental"
+      ],
+      "rationale": "学習設計上の選定: 環境に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-environment-1",
+          "pos": "noun",
+          "meaningJa": "環境",
+          "example": "The policy helps protect the natural environment.",
+          "translationJa": "その方針は自然環境の保護に役立ちます。",
+          "collocations": [
+            "the natural environment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-recycling",
+      "version": 1,
+      "lemma": "recycling",
+      "domain": "environment",
+      "difficulty": "standard",
+      "relatedWords": [
+        "recycle"
+      ],
+      "rationale": "学習設計上の選定: 再資源化、リサイクルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-recycling-1",
+          "pos": "noun",
+          "meaningJa": "再資源化、リサイクル",
+          "example": "Separate paper for recycling.",
+          "translationJa": "リサイクル用に紙を分別してください。",
+          "collocations": [
+            "a recycling bin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-carry",
+      "version": 1,
+      "lemma": "carry",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "carrier"
+      ],
+      "rationale": "学習設計上の選定: 運ぶに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-carry-1",
+          "pos": "verb",
+          "meaningJa": "運ぶ",
+          "example": "Use both hands to carry the box.",
+          "translationJa": "両手で箱を運んでください。",
+          "collocations": [
+            "carry a load"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-lift",
+      "version": 1,
+      "lemma": "lift",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "lifting"
+      ],
+      "rationale": "学習設計上の選定: 持ち上げるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-lift-1",
+          "pos": "verb",
+          "meaningJa": "持ち上げる",
+          "example": "Two workers lifted the heavy crate.",
+          "translationJa": "2人の作業員が重い木箱を持ち上げました。",
+          "collocations": [
+            "lift a box"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-raise",
+      "version": 1,
+      "lemma": "raise",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "raised"
+      ],
+      "rationale": "学習設計上の選定: 上げるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-raise-1",
+          "pos": "verb",
+          "meaningJa": "上げる",
+          "example": "Raise the platform to the required height.",
+          "translationJa": "台を必要な高さまで上げてください。",
+          "collocations": [
+            "raise the level"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-lower",
+      "version": 1,
+      "lemma": "lower",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "lowering"
+      ],
+      "rationale": "学習設計上の選定: 下げるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-lower-1",
+          "pos": "verb",
+          "meaningJa": "下げる",
+          "example": "Lower the load slowly onto the pallet.",
+          "translationJa": "荷をゆっくりパレットに下ろしてください。",
+          "collocations": [
+            "lower a load"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-count",
+      "version": 1,
+      "lemma": "count",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "counting"
+      ],
+      "rationale": "学習設計上の選定: 数えるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-count-1",
+          "pos": "verb",
+          "meaningJa": "数える",
+          "example": "Count the boxes before signing the receipt.",
+          "translationJa": "受領書に署名する前に箱を数えてください。",
+          "collocations": [
+            "count items"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sort",
+      "version": 1,
+      "lemma": "sort",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "sorting"
+      ],
+      "rationale": "学習設計上の選定: 分類するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sort-1",
+          "pos": "verb",
+          "meaningJa": "分類する",
+          "example": "Sort the parcels by destination.",
+          "translationJa": "小包を宛先ごとに分類してください。",
+          "collocations": [
+            "sort packages"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-stack",
+      "version": 1,
+      "lemma": "stack",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "stackable"
+      ],
+      "rationale": "学習設計上の選定: 積み重ねるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-stack-1",
+          "pos": "verb",
+          "meaningJa": "積み重ねる",
+          "example": "Stack the empty trays beside the counter.",
+          "translationJa": "空のトレーをカウンター横に積んでください。",
+          "collocations": [
+            "stack boxes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-seal",
+      "version": 1,
+      "lemma": "seal",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "sealed"
+      ],
+      "rationale": "学習設計上の選定: 密封する、封をするに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-seal-1",
+          "pos": "verb",
+          "meaningJa": "密封する、封をする",
+          "example": "Seal each envelope before mailing it.",
+          "translationJa": "発送前に各封筒に封をしてください。",
+          "collocations": [
+            "seal a package"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-collect",
+      "version": 1,
+      "lemma": "collect",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "collection"
+      ],
+      "rationale": "学習設計上の選定: 集める、回収するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-collect-1",
+          "pos": "verb",
+          "meaningJa": "集める、回収する",
+          "example": "The driver collects parcels every afternoon.",
+          "translationJa": "運転手は毎日午後に小包を回収します。",
+          "collocations": [
+            "collect parcels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-separate",
+      "version": 1,
+      "lemma": "separate",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "separation"
+      ],
+      "rationale": "学習設計上の選定: 分けるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-separate-1",
+          "pos": "verb",
+          "meaningJa": "分ける",
+          "example": "Separate damaged items from the rest.",
+          "translationJa": "破損品をほかと分けてください。",
+          "collocations": [
+            "separate materials"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-inspect",
+      "version": 1,
+      "lemma": "inspect",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "inspection"
+      ],
+      "rationale": "学習設計上の選定: 点検するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-inspect-1",
+          "pos": "verb",
+          "meaningJa": "点検する",
+          "example": "Staff inspect each shipment on arrival.",
+          "translationJa": "職員は到着時に各発送品を点検します。",
+          "collocations": [
+            "inspect goods"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-test",
+      "version": 1,
+      "lemma": "test",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "testing"
+      ],
+      "rationale": "学習設計上の選定: 試験するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-test-1",
+          "pos": "verb",
+          "meaningJa": "試験する",
+          "example": "Test the brakes before using the bicycle.",
+          "translationJa": "自転車に乗る前にブレーキを試してください。",
+          "collocations": [
+            "test equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-shortage",
+      "version": 1,
+      "lemma": "shortage",
+      "domain": "logistics",
+      "difficulty": "standard",
+      "relatedWords": [
+        "short"
+      ],
+      "rationale": "学習設計上の選定: 不足に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-shortage-1",
+          "pos": "noun",
+          "meaningJa": "不足",
+          "example": "A driver shortage has delayed deliveries.",
+          "translationJa": "運転手不足で配送が遅れています。",
+          "collocations": [
+            "a shortage of staff"
+          ]
+        }
+      ]
+    }
+  ]
+}

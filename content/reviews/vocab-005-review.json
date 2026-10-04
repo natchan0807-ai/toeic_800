@@ -1,0 +1,711 @@
+{
+  "id": "vocab-005-review",
+  "batchId": "vocab-005",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:22:11.771618+00:00",
+  "method": "全100語100語義の英文・和訳・品詞・意味・コロケーション・関連語を展開してAIが実読。買物、調理、住居の文脈と語義の一致を確認。判定後JSONに整形。人手確認0。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "v-breakfast",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（朝食）の英文と和訳を読み、品詞・組み合わせ（have breakfast）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-lunch",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（昼食）の英文と和訳を読み、品詞・組み合わせ（a packed lunch）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-dinner",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（夕食）の英文と和訳を読み、品詞・組み合わせ（cook dinner）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-meal",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（食事）の英文と和訳を読み、品詞・組み合わせ（a hot meal）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-snack",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（軽食）の英文と和訳を読み、品詞・組み合わせ（a healthy snack）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-menu",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（メニュー）の英文と和訳を読み、品詞・組み合わせ（a lunch menu）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-dish",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（料理）の英文と和訳を読み、品詞・組み合わせ（a popular dish）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-bowl",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（鉢、ボウル）の英文と和訳を読み、品詞・組み合わせ（a soup bowl）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-plate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（皿）の英文と和訳を読み、品詞・組み合わせ（a dinner plate）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-cup",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（カップ）の英文と和訳を読み、品詞・組み合わせ（a cup of tea）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-glass",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（グラス）の英文と和訳を読み、品詞・組み合わせ（a glass of water）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-bottle",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（瓶、ボトル）の英文と和訳を読み、品詞・組み合わせ（a water bottle）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-fork",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（フォーク）の英文と和訳を読み、品詞・組み合わせ（a salad fork）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-spoon",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（スプーン）の英文と和訳を読み、品詞・組み合わせ（a wooden spoon）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-knife",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ナイフ、包丁）の英文と和訳を読み、品詞・組み合わせ（a kitchen knife）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-chopsticks",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（箸）の英文と和訳を読み、品詞・組み合わせ（a pair of chopsticks）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-napkin",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ナプキン）の英文と和訳を読み、品詞・組み合わせ（a paper napkin）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-table",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（テーブル）の英文と和訳を読み、品詞・組み合わせ（set the table）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-counter",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（カウンター、売り場の台）の英文と和訳を読み、品詞・組み合わせ（a checkout counter）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-tray",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（盆、トレー）の英文と和訳を読み、品詞・組み合わせ（a serving tray）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-restaurant",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（レストラン）の英文と和訳を読み、品詞・組み合わせ（a family restaurant）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-cafe",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（カフェ、喫茶店）の英文と和訳を読み、品詞・組み合わせ（a sidewalk cafe）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-bakery",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（パン店）の英文と和訳を読み、品詞・組み合わせ（a local bakery）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-grocery",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（食料雑貨品）の英文と和訳を読み、品詞・組み合わせ（grocery shopping）を照合。日常場面の用法・意味の対応は整合。 食料品は例文で複数形groceriesとなっていることを確認。"
+    },
+    {
+      "targetId": "v-supermarket",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（スーパーマーケット）の英文と和訳を読み、品詞・組み合わせ（a neighborhood supermarket）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-shop",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（店）の英文と和訳を読み、品詞・組み合わせ（a gift shop）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-mall",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ショッピングモール）の英文と和訳を読み、品詞・組み合わせ（a shopping mall）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-laundry",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（洗濯物、洗濯）の英文と和訳を読み、品詞・組み合わせ（do the laundry）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-appliance",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（家庭用電化製品）の英文と和訳を読み、品詞・組み合わせ（a kitchen appliance）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-oven",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（オーブン）の英文と和訳を読み、品詞・組み合わせ（an electric oven）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-stove",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（コンロ、ストーブ）の英文と和訳を読み、品詞・組み合わせ（a gas stove）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-refrigerator",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（冷蔵庫）の英文と和訳を読み、品詞・組み合わせ（a full refrigerator）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-freezer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（冷凍庫）の英文と和訳を読み、品詞・組み合わせ（a deep freezer）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-microwave",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（電子レンジ）の英文と和訳を読み、品詞・組み合わせ（a microwave oven）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-kettle",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（やかん、電気ケトル）の英文と和訳を読み、品詞・組み合わせ（an electric kettle）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-dishwasher",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（食器洗い機）の英文と和訳を読み、品詞・組み合わせ（an automatic dishwasher）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-towel",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（タオル）の英文と和訳を読み、品詞・組み合わせ（a bath towel）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-blanket",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（毛布）の英文と和訳を読み、品詞・組み合わせ（a warm blanket）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-pillow",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（枕）の英文と和訳を読み、品詞・組み合わせ（a soft pillow）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-sheet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（シーツ）の英文と和訳を読み、品詞・組み合わせ（a bed sheet）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-mattress",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（マットレス）の英文と和訳を読み、品詞・組み合わせ（a firm mattress）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-bed",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ベッド）の英文と和訳を読み、品詞・組み合わせ（make the bed）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-sofa",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ソファ）の英文と和訳を読み、品詞・組み合わせ（a leather sofa）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-curtain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（カーテン）の英文と和訳を読み、品詞・組み合わせ（draw the curtains）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-cushion",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（クッション）の英文と和訳を読み、品詞・組み合わせ（a seat cushion）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-mirror",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（鏡）の英文と和訳を読み、品詞・組み合わせ（a wall mirror）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-lamp",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ランプ、照明器具）の英文と和訳を読み、品詞・組み合わせ（a reading lamp）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-light",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（光、明かり）の英文と和訳を読み、品詞・組み合わせ（natural light）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-clock",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（時計）の英文と和訳を読み、品詞・組み合わせ（a wall clock）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-alarm",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（警報、目覚まし）の英文と和訳を読み、品詞・組み合わせ（a smoke alarm）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-key",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（鍵）の英文と和訳を読み、品詞・組み合わせ（a spare key）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-lock",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（錠）の英文と和訳を読み、品詞・組み合わせ（a door lock）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-handle",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（取っ手）の英文と和訳を読み、品詞・組み合わせ（a door handle）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-basket",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（かご）の英文と和訳を読み、品詞・組み合わせ（a laundry basket）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-bucket",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（バケツ）の英文と和訳を読み、品詞・組み合わせ（a water bucket）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-broom",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ほうき）の英文と和訳を読み、品詞・組み合わせ（a long-handled broom）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-brush",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ブラシ）の英文と和訳を読み、品詞・組み合わせ（a cleaning brush）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-soap",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（せっけん）の英文と和訳を読み、品詞・組み合わせ（liquid soap）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-detergent",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（洗剤）の英文と和訳を読み、品詞・組み合わせ（laundry detergent）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-shampoo",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（シャンプー）の英文と和訳を読み、品詞・組み合わせ（a bottle of shampoo）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-toothpaste",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（歯磨き粉）の英文と和訳を読み、品詞・組み合わせ（a tube of toothpaste）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-tissue",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ティッシュ）の英文と和訳を読み、品詞・組み合わせ（a paper tissue）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-toilet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（便器、トイレ）の英文と和訳を読み、品詞・組み合わせ（a public toilet）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-shower",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（シャワー）の英文と和訳を読み、品詞・組み合わせ（take a shower）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-bath",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（入浴、浴槽）の英文と和訳を読み、品詞・組み合わせ（take a bath）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-sink",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（流し、洗面台）の英文と和訳を読み、品詞・組み合わせ（a kitchen sink）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-tap",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（蛇口）の英文と和訳を読み、品詞・組み合わせ（a dripping tap）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-pipe",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（管、パイプ）の英文と和訳を読み、品詞・組み合わせ（a water pipe）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-drain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（排水口、排水管）の英文と和訳を読み、品詞・組み合わせ（a blocked drain）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-garbage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ごみ）の英文と和訳を読み、品詞・組み合わせ（garbage collection）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-waste",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（廃棄物、無駄）の英文と和訳を読み、品詞・組み合わせ（food waste）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-clean",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（掃除する）の英文と和訳を読み、品詞・組み合わせ（clean a room）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-wash",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（洗う）の英文と和訳を読み、品詞・組み合わせ（wash dishes）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-cook",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（調理する）の英文と和訳を読み、品詞・組み合わせ（cook a meal）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-bake",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（オーブンで焼く）の英文と和訳を読み、品詞・組み合わせ（bake bread）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-boil",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（沸かす、ゆでる）の英文と和訳を読み、品詞・組み合わせ（boil water）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-fry",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（油で炒める、揚げる）の英文と和訳を読み、品詞・組み合わせ（fry onions）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-grill",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（網などで焼く）の英文と和訳を読み、品詞・組み合わせ（grill vegetables）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-roast",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（じっくり焼く、焙煎する）の英文と和訳を読み、品詞・組み合わせ（roast coffee beans）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-chop",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（細かく切る）の英文と和訳を読み、品詞・組み合わせ（chop vegetables）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-slice",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（薄く切る）の英文と和訳を読み、品詞・組み合わせ（slice bread）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-mix",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（混ぜる）の英文と和訳を読み、品詞・組み合わせ（mix ingredients）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-stir",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（かき混ぜる）の英文と和訳を読み、品詞・組み合わせ（stir a sauce）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-pour",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（注ぐ）の英文と和訳を読み、品詞・組み合わせ（pour a drink）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-taste",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（味見する）の英文と和訳を読み、品詞・組み合わせ（taste a dish）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-smell",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（においがする）の英文と和訳を読み、品詞・組み合わせ（smell of bread）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-choose",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（選ぶ）の英文と和訳を読み、品詞・組み合わせ（choose an option）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-buy",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（買う）の英文と和訳を読み、品詞・組み合わせ（buy groceries）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-sell",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（売る）の英文と和訳を読み、品詞・組み合わせ（sell products）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-cost",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（費用がかかる）の英文と和訳を読み、品詞・組み合わせ（cost money）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-store",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（保管する）の英文と和訳を読み、品詞・組み合わせ（store supplies）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-pack",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（荷造りする、詰める）の英文と和訳を読み、品詞・組み合わせ（pack a suitcase）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-wrap",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（包む）の英文と和訳を読み、品詞・組み合わせ（wrap a gift）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-wear",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（身に着ける）の英文と和訳を読み、品詞・組み合わせ（wear a uniform）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-dress",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（服を着る、装う）の英文と和訳を読み、品詞・組み合わせ（dress casually）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-fit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（寸法が合う）の英文と和訳を読み、品詞・組み合わせ（fit well）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-match",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（調和する、一致する）の英文と和訳を読み、品詞・組み合わせ（match the decor）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-fold",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（折る、畳む）の英文と和訳を読み、品詞・組み合わせ（fold clothes）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-iron",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（アイロンをかける）の英文と和訳を読み、品詞・組み合わせ（iron a shirt）を照合。日常場面の用法・意味の対応は整合。"
+    },
+    {
+      "targetId": "v-home",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（自宅）の英文と和訳を読み、品詞・組み合わせ（at home）を照合。日常場面の用法・意味の対応は整合。"
+    }
+  ]
+}

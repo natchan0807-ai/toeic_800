@@ -1,0 +1,711 @@
+{
+  "id": "vocab-009-review",
+  "batchId": "vocab-009",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:26:43.652221+00:00",
+  "method": "100語100語義の英文・和訳・品詞・意味・コロケーション・関連語を全文展開しAIが実読。物流・材料・場所・自然の文脈と語義の対応を検査。判定後にJSONへ整形。人手確認0。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "v-warehouse",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（倉庫）の英文と和訳・品詞・組み合わせ（a distribution warehouse）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-factory",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（工場）の英文と和訳・品詞・組み合わせ（a furniture factory）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-plant",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（植物）の英文と和訳・品詞・組み合わせ（a potted plant）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-shipment",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（発送、発送品）の英文と和訳・品詞・組み合わせ（a large shipment）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-delivery",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（配達）の英文と和訳・品詞・組み合わせ（free delivery）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-package",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（小包、包み）の英文と和訳・品詞・組み合わせ（a sealed package）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-parcel",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（小包）の英文と和訳・品詞・組み合わせ（send a parcel）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-carton",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（紙箱、カートン）の英文と和訳・品詞・組み合わせ（a cardboard carton）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-crate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（木箱、運搬用の箱）の英文と和訳・品詞・組み合わせ（a wooden crate）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-container",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（容器、コンテナ）の英文と和訳・品詞・組み合わせ（a shipping container）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-pallet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（荷役用の台、パレット）の英文と和訳・品詞・組み合わせ（a wooden pallet）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-box",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（箱）の英文と和訳・品詞・組み合わせ（a cardboard box）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-envelope",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（封筒）の英文と和訳・品詞・組み合わせ（a padded envelope）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-label",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ラベル、荷札）の英文と和訳・品詞・組み合わせ（a shipping label）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-tag",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（付け札）の英文と和訳・品詞・組み合わせ（a luggage tag）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-stamp",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（切手）の英文と和訳・品詞・組み合わせ（a postage stamp）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-postage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（郵送料）の英文と和訳・品詞・組み合わせ（pay postage）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-freight",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（貨物、貨物輸送）の英文と和訳・品詞・組み合わせ（air freight）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-cargo",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（積み荷）の英文と和訳・品詞・組み合わせ（load cargo）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-goods",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（商品、品物）の英文と和訳・品詞・組み合わせ（damaged goods）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-inventory",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（在庫、在庫一覧）の英文と和訳・品詞・組み合わせ（manage inventory）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-merchandise",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（販売商品）の英文と和訳・品詞・組み合わせ（display merchandise）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-material",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（材料）の英文と和訳・品詞・組み合わせ（raw materials）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-component",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（構成部品）の英文と和訳・品詞・組み合わせ（an electronic component）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-part",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（部品、部分）の英文と和訳・品詞・組み合わせ（a spare part）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-piece",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（一個、一片）の英文と和訳・品詞・組み合わせ（a piece of equipment）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-unit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（単位、一台）の英文と和訳・品詞・組み合わせ（a production unit）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-batch",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（一組、一回の生産分）の英文と和訳・品詞・組み合わせ（a batch of products）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-quantity",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（数量）の英文と和訳・品詞・組み合わせ（a large quantity）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-weight",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（重さ）の英文と和訳・品詞・組み合わせ（gross weight）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-height",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（高さ）の英文と和訳・品詞・組み合わせ（maximum height）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-width",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（幅）の英文と和訳・品詞・組み合わせ（the full width）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-length",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（長さ）の英文と和訳・品詞・組み合わせ（the total length）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-depth",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（深さ）の英文と和訳・品詞・組み合わせ（water depth）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-size",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（大きさ、寸法）の英文と和訳・品詞・組み合わせ（a standard size）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-shape",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（形）の英文と和訳・品詞・組み合わせ（a rectangular shape）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-color",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（色）の英文と和訳・品詞・組み合わせ（a bright color）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-surface",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（表面）の英文と和訳・品詞・組み合わせ（a smooth surface）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-edge",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（端、縁）の英文と和訳・品詞・組み合わせ（a sharp edge）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-corner",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（角、隅）の英文と和訳・品詞・組み合わせ（a rounded corner）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-center",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（中央、中心）の英文と和訳・品詞・組み合わせ（the city center）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-side",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（側面、側）の英文と和訳・品詞・組み合わせ（the left side）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-base",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（土台、底部）の英文と和訳・品詞・組み合わせ（a solid base）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-level",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（水準、高さ）の英文と和訳・品詞・組み合わせ（a high level）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-area",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（区域、面積）の英文と和訳・品詞・組み合わせ（a storage area）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-space",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（空間、場所）の英文と和訳・品詞・組み合わせ（storage space）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-section",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（区画、部分）の英文と和訳・品詞・組み合わせ（a separate section）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-zone",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（地帯、区域）の英文と和訳・品詞・組み合わせ（a loading zone）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-site",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（敷地、現場）の英文と和訳・品詞・組み合わせ（a construction site）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-location",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（場所、所在地）の英文と和訳・品詞・組み合わせ（a convenient location）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-construction",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（建設、工事）の英文と和訳・品詞・組み合わせ（under construction）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-building",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（建物）の英文と和訳・品詞・組み合わせ（an office building）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-structure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（構造、建造物）の英文と和訳・品詞・組み合わせ（a steel structure）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-ground",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（地面）の英文と和訳・品詞・組み合わせ（on the ground）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-land",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（土地）の英文と和訳・品詞・組み合わせ（a plot of land）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-field",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（野原、畑）の英文と和訳・品詞・組み合わせ（a rice field）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-farm",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（農場）の英文と和訳・品詞・組み合わせ（a family farm）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-forest",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（森林）の英文と和訳・品詞・組み合わせ（a protected forest）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-wood",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（木材）の英文と和訳・品詞・組み合わせ（solid wood）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-tree",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（木）の英文と和訳・品詞・組み合わせ（plant a tree）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-flower",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（花）の英文と和訳・品詞・組み合わせ（a flower arrangement）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-grass",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（草、芝）の英文と和訳・品詞・組み合わせ（cut the grass）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-leaf",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（葉）の英文と和訳・品詞・組み合わせ（a green leaf）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-root",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（根）の英文と和訳・品詞・組み合わせ（a tree root）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-seed",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（種）の英文と和訳・品詞・組み合わせ（sow seeds）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-soil",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（土壌、土）の英文と和訳・品詞・組み合わせ（fertile soil）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-water",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（水）の英文と和訳・品詞・組み合わせ（drinking water）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-air",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（空気）の英文と和訳・品詞・組み合わせ（fresh air）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-sunlight",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（日光）の英文と和訳・品詞・組み合わせ（direct sunlight）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-rain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（雨）の英文と和訳・品詞・組み合わせ（heavy rain）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-wind",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（風）の英文と和訳・品詞・組み合わせ（a strong wind）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-snow",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（雪）の英文と和訳・品詞・組み合わせ（heavy snow）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-ice",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（氷）の英文と和訳・品詞・組み合わせ（thin ice）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-cloud",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（雲）の英文と和訳・品詞・組み合わせ（a rain cloud）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-storm",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（嵐）の英文と和訳・品詞・組み合わせ（a severe storm）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-weather",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（天気）の英文と和訳・品詞・組み合わせ（a weather forecast）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-climate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（気候）の英文と和訳・品詞・組み合わせ（a dry climate）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-temperature",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（温度、気温）の英文と和訳・品詞・組み合わせ（room temperature）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-energy",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（エネルギー）の英文と和訳・品詞・組み合わせ（save energy）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-power",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（電力）の英文と和訳・品詞・組み合わせ（a power supply）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-electricity",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（電気）の英文と和訳・品詞・組み合わせ（generate electricity）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-fuel",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（燃料）の英文と和訳・品詞・組み合わせ（fuel consumption）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-gas",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（ガス）の英文と和訳・品詞・組み合わせ（natural gas）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-oil",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（油）の英文と和訳・品詞・組み合わせ（engine oil）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-pollution",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（汚染）の英文と和訳・品詞・組み合わせ（air pollution）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-environment",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（環境）の英文と和訳・品詞・組み合わせ（the natural environment）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-recycling",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（再資源化、リサイクル）の英文と和訳・品詞・組み合わせ（a recycling bin）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-carry",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（運ぶ）の英文と和訳・品詞・組み合わせ（carry a load）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-lift",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（持ち上げる）の英文と和訳・品詞・組み合わせ（lift a box）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-raise",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（上げる）の英文と和訳・品詞・組み合わせ（raise the level）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-lower",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（下げる）の英文と和訳・品詞・組み合わせ（lower a load）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-count",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（数える）の英文と和訳・品詞・組み合わせ（count items）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-sort",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（分類する）の英文と和訳・品詞・組み合わせ（sort packages）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-stack",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（積み重ねる）の英文と和訳・品詞・組み合わせ（stack boxes）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-seal",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（密封する、封をする）の英文と和訳・品詞・組み合わせ（seal a package）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-collect",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（集める、回収する）の英文と和訳・品詞・組み合わせ（collect parcels）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-separate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（分ける）の英文と和訳・品詞・組み合わせ（separate materials）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-inspect",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（点検する）の英文と和訳・品詞・組み合わせ（inspect goods）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-test",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（試験する）の英文と和訳・品詞・組み合わせ（test equipment）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    },
+    {
+      "targetId": "v-shortage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "語義（不足）の英文と和訳・品詞・組み合わせ（a shortage of staff）を読み照合。語の対象、動作や状態、数・期間を含む訳と用法は整合。"
+    }
+  ]
+}

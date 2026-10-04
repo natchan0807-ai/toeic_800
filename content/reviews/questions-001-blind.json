@@ -1,0 +1,284 @@
+{
+  "id": "questions-001-blind",
+  "batchId": "questions-001",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:00:09.195170+00:00",
+  "method": "著者の正解・解説を未読の状態で、content/blind/questions-001.jsonの問題文と選択肢だけを全30問読んで独立解答。q-0011の曖昧性懸念という情報のみ親から受領。",
+  "inputSha256": "bedf937dce2a05b676d087bec30714b6568de7e252fc0c9dfabafdcf0b48b9f4",
+  "items": [
+    {
+      "targetId": "q-0001",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "finalの後に名詞approvalが必要。give approvalの承認。"
+    },
+    {
+      "targetId": "q-0002",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "descriptionを修飾する形容詞comprehensiveが必要。"
+    },
+    {
+      "targetId": "q-0003",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "readを修飾する副詞carefullyが必要。"
+    },
+    {
+      "targetId": "q-0004",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "yesterday afternoonで過去時点が確定しreplaced。"
+    },
+    {
+      "targetId": "q-0005",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "依頼が承認される受動態でmust be approved。"
+    },
+    {
+      "targetId": "q-0006",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "since it openedから現在までの継続はhas worked。"
+    },
+    {
+      "targetId": "q-0007",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "Each participantは単数でreceivesが有限動詞。"
+    },
+    {
+      "targetId": "q-0008",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "a number of＋複数名詞は複数扱いでare。"
+    },
+    {
+      "targetId": "q-0009",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "中心語listは単数でis。"
+    },
+    {
+      "targetId": "q-0010",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "badgesを修飾する所有格their。"
+    },
+    {
+      "targetId": "q-0011",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a",
+        "b"
+      ],
+      "reason": "同一人物ならhimself。ただし別の男性を紹介するhimも文脈を補えば成立し、一意性不足。"
+    },
+    {
+      "targetId": "q-0012",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "contactの目的語には目的格us。"
+    },
+    {
+      "targetId": "q-0013",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "提出完了の期限を表すby。"
+    },
+    {
+      "targetId": "q-0014",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "three weeksは期間なのでfor。"
+    },
+    {
+      "targetId": "q-0015",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "interest inという組み合わせ。"
+    },
+    {
+      "targetId": "q-0016",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "ほぼ満席なのに全員席を得たという譲歩でAlthough。"
+    },
+    {
+      "targetId": "q-0017",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "支払を受け取らない場合に取消という条件でunless。"
+    },
+    {
+      "targetId": "q-0018",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "a",
+        "c"
+      ],
+      "reason": "後ろが節なので目的のso that。even thoughも能力があるのにゆっくり話す読みは文法的に可能だが本文の意図は目的。"
+    },
+    {
+      "targetId": "q-0019",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "人を先行詞とし節の主語になるwho。"
+    },
+    {
+      "targetId": "q-0020",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "scannerを先行詞として非制限節の主語になるwhich。"
+    },
+    {
+      "targetId": "q-0021",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "consultantのexperienceを所有関係で導くwhose。"
+    },
+    {
+      "targetId": "q-0022",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "thanを伴う比較級cheaper。"
+    },
+    {
+      "targetId": "q-0023",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c",
+        "d"
+      ],
+      "reason": "三案中の最も単純な案ならsimplest。ただし三案から単純な案を選ぶsimpleも自然に成立し一意性不足。"
+    },
+    {
+      "targetId": "q-0024",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "as＋形容詞原級＋asでreliable。"
+    },
+    {
+      "targetId": "q-0025",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "不可算spaceの数量を表すmuch。"
+    },
+    {
+      "targetId": "q-0026",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "複数可算changesなのでa few。"
+    },
+    {
+      "targetId": "q-0027",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "別の1台が必要なのでanother one。"
+    },
+    {
+      "targetId": "q-0028",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "見積もり確認後の購入承認という文脈でapprove。"
+    },
+    {
+      "targetId": "q-0029",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "講演者の欠航で金曜まで延期するpostpone。"
+    },
+    {
+      "targetId": "q-0030",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "replace A with Bで損傷ケーブルの交換。"
+    }
+  ]
+}

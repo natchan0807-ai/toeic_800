@@ -1,0 +1,2911 @@
+{
+  "id": "vocab-005",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-04T00:10:58.421261+00:00",
+  "author": "vocabulary_editor",
+  "model": null,
+  "input": "research policy v1",
+  "status": "generated",
+  "items": [
+    {
+      "id": "v-breakfast",
+      "version": 1,
+      "lemma": "breakfast",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "breakfast buffet"
+      ],
+      "rationale": "学習設計上の選定: 朝食に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-breakfast-1",
+          "pos": "noun",
+          "meaningJa": "朝食",
+          "example": "Breakfast is served until ten.",
+          "translationJa": "朝食は10時まで提供されます。",
+          "collocations": [
+            "have breakfast"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-lunch",
+      "version": 1,
+      "lemma": "lunch",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "lunchtime"
+      ],
+      "rationale": "学習設計上の選定: 昼食に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-lunch-1",
+          "pos": "noun",
+          "meaningJa": "昼食",
+          "example": "We brought lunch to the park.",
+          "translationJa": "昼食を公園に持っていきました。",
+          "collocations": [
+            "a packed lunch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-dinner",
+      "version": 1,
+      "lemma": "dinner",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "dinner guest"
+      ],
+      "rationale": "学習設計上の選定: 夕食に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-dinner-1",
+          "pos": "noun",
+          "meaningJa": "夕食",
+          "example": "Dinner will be ready in twenty minutes.",
+          "translationJa": "夕食は20分で用意できます。",
+          "collocations": [
+            "cook dinner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-meal",
+      "version": 1,
+      "lemma": "meal",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "mealtime"
+      ],
+      "rationale": "学習設計上の選定: 食事に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-meal-1",
+          "pos": "noun",
+          "meaningJa": "食事",
+          "example": "The ticket includes a light meal.",
+          "translationJa": "その券には軽い食事が含まれます。",
+          "collocations": [
+            "a hot meal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-snack",
+      "version": 1,
+      "lemma": "snack",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "snack bar"
+      ],
+      "rationale": "学習設計上の選定: 軽食に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-snack-1",
+          "pos": "noun",
+          "meaningJa": "軽食",
+          "example": "Fruit makes a convenient afternoon snack.",
+          "translationJa": "果物は手軽な午後のおやつになります。",
+          "collocations": [
+            "a healthy snack"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-menu",
+      "version": 1,
+      "lemma": "menu",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "menu item"
+      ],
+      "rationale": "学習設計上の選定: メニューに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-menu-1",
+          "pos": "noun",
+          "meaningJa": "メニュー",
+          "example": "The menu changes with the seasons.",
+          "translationJa": "メニューは季節に合わせて変わります。",
+          "collocations": [
+            "a lunch menu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-dish",
+      "version": 1,
+      "lemma": "dish",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "side dish"
+      ],
+      "rationale": "学習設計上の選定: 料理に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-dish-1",
+          "pos": "noun",
+          "meaningJa": "料理",
+          "example": "This dish contains nuts.",
+          "translationJa": "この料理にはナッツが含まれています。",
+          "collocations": [
+            "a popular dish"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bowl",
+      "version": 1,
+      "lemma": "bowl",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "mixing bowl"
+      ],
+      "rationale": "学習設計上の選定: 鉢、ボウルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bowl-1",
+          "pos": "noun",
+          "meaningJa": "鉢、ボウル",
+          "example": "Serve the soup in a warm bowl.",
+          "translationJa": "スープは温かい器で出してください。",
+          "collocations": [
+            "a soup bowl"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-plate",
+      "version": 1,
+      "lemma": "plate",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "platter"
+      ],
+      "rationale": "学習設計上の選定: 皿に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-plate-1",
+          "pos": "noun",
+          "meaningJa": "皿",
+          "example": "Put the sandwiches on a large plate.",
+          "translationJa": "サンドイッチを大皿に載せてください。",
+          "collocations": [
+            "a dinner plate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cup",
+      "version": 1,
+      "lemma": "cup",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cupboard"
+      ],
+      "rationale": "学習設計上の選定: カップに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cup-1",
+          "pos": "noun",
+          "meaningJa": "カップ",
+          "example": "Would you like a cup of tea?",
+          "translationJa": "紅茶を1杯いかがですか。",
+          "collocations": [
+            "a cup of tea"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-glass",
+      "version": 1,
+      "lemma": "glass",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "glassware"
+      ],
+      "rationale": "学習設計上の選定: グラスに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-glass-1",
+          "pos": "noun",
+          "meaningJa": "グラス",
+          "example": "Please bring a glass of water.",
+          "translationJa": "水を1杯持ってきてください。",
+          "collocations": [
+            "a glass of water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bottle",
+      "version": 1,
+      "lemma": "bottle",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "bottled water"
+      ],
+      "rationale": "学習設計上の選定: 瓶、ボトルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bottle-1",
+          "pos": "noun",
+          "meaningJa": "瓶、ボトル",
+          "example": "This bottle holds one liter.",
+          "translationJa": "このボトルには1リットル入ります。",
+          "collocations": [
+            "a water bottle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fork",
+      "version": 1,
+      "lemma": "fork",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cutlery"
+      ],
+      "rationale": "学習設計上の選定: フォークに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fork-1",
+          "pos": "noun",
+          "meaningJa": "フォーク",
+          "example": "Extra forks are in the drawer.",
+          "translationJa": "予備のフォークは引き出しにあります。",
+          "collocations": [
+            "a salad fork"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-spoon",
+      "version": 1,
+      "lemma": "spoon",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "teaspoon"
+      ],
+      "rationale": "学習設計上の選定: スプーンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-spoon-1",
+          "pos": "noun",
+          "meaningJa": "スプーン",
+          "example": "Stir the soup with a wooden spoon.",
+          "translationJa": "木のスプーンでスープを混ぜてください。",
+          "collocations": [
+            "a wooden spoon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-knife",
+      "version": 1,
+      "lemma": "knife",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "blade"
+      ],
+      "rationale": "学習設計上の選定: ナイフ、包丁に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-knife-1",
+          "pos": "noun",
+          "meaningJa": "ナイフ、包丁",
+          "example": "Use a sharp knife to slice bread.",
+          "translationJa": "よく切れるナイフでパンを切ってください。",
+          "collocations": [
+            "a kitchen knife"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-chopsticks",
+      "version": 1,
+      "lemma": "chopsticks",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "utensil"
+      ],
+      "rationale": "学習設計上の選定: 箸に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-chopsticks-1",
+          "pos": "noun",
+          "meaningJa": "箸",
+          "example": "Reusable chopsticks are beside the plates.",
+          "translationJa": "再利用できる箸は皿の横にあります。",
+          "collocations": [
+            "a pair of chopsticks"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-napkin",
+      "version": 1,
+      "lemma": "napkin",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "table linen"
+      ],
+      "rationale": "学習設計上の選定: ナプキンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-napkin-1",
+          "pos": "noun",
+          "meaningJa": "ナプキン",
+          "example": "A clean napkin is under each fork.",
+          "translationJa": "各フォークの下に清潔なナプキンがあります。",
+          "collocations": [
+            "a paper napkin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-table",
+      "version": 1,
+      "lemma": "table",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "tablecloth"
+      ],
+      "rationale": "学習設計上の選定: テーブルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-table-1",
+          "pos": "noun",
+          "meaningJa": "テーブル",
+          "example": "We reserved a table by the window.",
+          "translationJa": "窓際のテーブルを予約しました。",
+          "collocations": [
+            "set the table"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-counter",
+      "version": 1,
+      "lemma": "counter",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "countertop"
+      ],
+      "rationale": "学習設計上の選定: カウンター、売り場の台に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-counter-1",
+          "pos": "noun",
+          "meaningJa": "カウンター、売り場の台",
+          "example": "Pay at the counter near the exit.",
+          "translationJa": "出口近くのカウンターでお支払いください。",
+          "collocations": [
+            "a checkout counter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tray",
+      "version": 1,
+      "lemma": "tray",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "tray table"
+      ],
+      "rationale": "学習設計上の選定: 盆、トレーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tray-1",
+          "pos": "noun",
+          "meaningJa": "盆、トレー",
+          "example": "Place your empty tray on the rack.",
+          "translationJa": "空のトレーはラックに置いてください。",
+          "collocations": [
+            "a serving tray"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-restaurant",
+      "version": 1,
+      "lemma": "restaurant",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "restaurateur"
+      ],
+      "rationale": "学習設計上の選定: レストランに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-restaurant-1",
+          "pos": "noun",
+          "meaningJa": "レストラン",
+          "example": "The restaurant specializes in seafood.",
+          "translationJa": "そのレストランは魚介料理が専門です。",
+          "collocations": [
+            "a family restaurant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cafe",
+      "version": 1,
+      "lemma": "cafe",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "coffee shop"
+      ],
+      "rationale": "学習設計上の選定: カフェ、喫茶店に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cafe-1",
+          "pos": "noun",
+          "meaningJa": "カフェ、喫茶店",
+          "example": "The cafe serves locally roasted coffee.",
+          "translationJa": "そのカフェは地元で焙煎したコーヒーを出します。",
+          "collocations": [
+            "a sidewalk cafe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bakery",
+      "version": 1,
+      "lemma": "bakery",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "baker"
+      ],
+      "rationale": "学習設計上の選定: パン店に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bakery-1",
+          "pos": "noun",
+          "meaningJa": "パン店",
+          "example": "The bakery opens early every morning.",
+          "translationJa": "そのパン店は毎朝早く開きます。",
+          "collocations": [
+            "a local bakery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-grocery",
+      "version": 1,
+      "lemma": "grocery",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "grocer"
+      ],
+      "rationale": "学習設計上の選定: 食料雑貨品に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-grocery-1",
+          "pos": "noun",
+          "meaningJa": "食料雑貨品",
+          "example": "We buy most groceries at the market.",
+          "translationJa": "食料品の多くを市場で買います。",
+          "collocations": [
+            "grocery shopping"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-supermarket",
+      "version": 1,
+      "lemma": "supermarket",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "grocery store"
+      ],
+      "rationale": "学習設計上の選定: スーパーマーケットに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-supermarket-1",
+          "pos": "noun",
+          "meaningJa": "スーパーマーケット",
+          "example": "The supermarket sells fresh fish on Fridays.",
+          "translationJa": "スーパーでは金曜日に鮮魚を販売します。",
+          "collocations": [
+            "a neighborhood supermarket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-shop",
+      "version": 1,
+      "lemma": "shop",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "shopkeeper"
+      ],
+      "rationale": "学習設計上の選定: 店に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-shop-1",
+          "pos": "noun",
+          "meaningJa": "店",
+          "example": "The flower shop closes at six.",
+          "translationJa": "花屋は6時に閉まります。",
+          "collocations": [
+            "a gift shop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-mall",
+      "version": 1,
+      "lemma": "mall",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "shopping center"
+      ],
+      "rationale": "学習設計上の選定: ショッピングモールに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-mall-1",
+          "pos": "noun",
+          "meaningJa": "ショッピングモール",
+          "example": "The mall has a children's play area.",
+          "translationJa": "そのモールには子供の遊び場があります。",
+          "collocations": [
+            "a shopping mall"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-laundry",
+      "version": 1,
+      "lemma": "laundry",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "laundromat"
+      ],
+      "rationale": "学習設計上の選定: 洗濯物、洗濯に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-laundry-1",
+          "pos": "noun",
+          "meaningJa": "洗濯物、洗濯",
+          "example": "The hotel collects laundry before nine.",
+          "translationJa": "ホテルは9時前に洗濯物を回収します。",
+          "collocations": [
+            "do the laundry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-appliance",
+      "version": 1,
+      "lemma": "appliance",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "appliance store"
+      ],
+      "rationale": "学習設計上の選定: 家庭用電化製品に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-appliance-1",
+          "pos": "noun",
+          "meaningJa": "家庭用電化製品",
+          "example": "This appliance uses very little electricity.",
+          "translationJa": "この電化製品は消費電力がとても少ないです。",
+          "collocations": [
+            "a kitchen appliance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-oven",
+      "version": 1,
+      "lemma": "oven",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "ovenproof"
+      ],
+      "rationale": "学習設計上の選定: オーブンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-oven-1",
+          "pos": "noun",
+          "meaningJa": "オーブン",
+          "example": "Preheat the oven before baking.",
+          "translationJa": "焼く前にオーブンを予熱してください。",
+          "collocations": [
+            "an electric oven"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-stove",
+      "version": 1,
+      "lemma": "stove",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "stovetop"
+      ],
+      "rationale": "学習設計上の選定: コンロ、ストーブに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-stove-1",
+          "pos": "noun",
+          "meaningJa": "コンロ、ストーブ",
+          "example": "Turn off the stove after cooking.",
+          "translationJa": "調理後はコンロを消してください。",
+          "collocations": [
+            "a gas stove"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-refrigerator",
+      "version": 1,
+      "lemma": "refrigerator",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "refrigeration"
+      ],
+      "rationale": "学習設計上の選定: 冷蔵庫に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-refrigerator-1",
+          "pos": "noun",
+          "meaningJa": "冷蔵庫",
+          "example": "Keep the milk in the refrigerator.",
+          "translationJa": "牛乳は冷蔵庫に入れてください。",
+          "collocations": [
+            "a full refrigerator"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-freezer",
+      "version": 1,
+      "lemma": "freezer",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "frozen"
+      ],
+      "rationale": "学習設計上の選定: 冷凍庫に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-freezer-1",
+          "pos": "noun",
+          "meaningJa": "冷凍庫",
+          "example": "There is ice cream in the freezer.",
+          "translationJa": "冷凍庫にアイスクリームがあります。",
+          "collocations": [
+            "a deep freezer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-microwave",
+      "version": 1,
+      "lemma": "microwave",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "microwaveable"
+      ],
+      "rationale": "学習設計上の選定: 電子レンジに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-microwave-1",
+          "pos": "noun",
+          "meaningJa": "電子レンジ",
+          "example": "Heat the soup in the microwave.",
+          "translationJa": "電子レンジでスープを温めてください。",
+          "collocations": [
+            "a microwave oven"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-kettle",
+      "version": 1,
+      "lemma": "kettle",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "boiling water"
+      ],
+      "rationale": "学習設計上の選定: やかん、電気ケトルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-kettle-1",
+          "pos": "noun",
+          "meaningJa": "やかん、電気ケトル",
+          "example": "The kettle switches off automatically.",
+          "translationJa": "そのケトルは自動で電源が切れます。",
+          "collocations": [
+            "an electric kettle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-dishwasher",
+      "version": 1,
+      "lemma": "dishwasher",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "dishwashing"
+      ],
+      "rationale": "学習設計上の選定: 食器洗い機に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-dishwasher-1",
+          "pos": "noun",
+          "meaningJa": "食器洗い機",
+          "example": "Load the dishwasher after dinner.",
+          "translationJa": "夕食後、食器を食洗機に入れてください。",
+          "collocations": [
+            "an automatic dishwasher"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-towel",
+      "version": 1,
+      "lemma": "towel",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "hand towel"
+      ],
+      "rationale": "学習設計上の選定: タオルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-towel-1",
+          "pos": "noun",
+          "meaningJa": "タオル",
+          "example": "Clean towels are on the shelf.",
+          "translationJa": "清潔なタオルは棚にあります。",
+          "collocations": [
+            "a bath towel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-blanket",
+      "version": 1,
+      "lemma": "blanket",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "bedding"
+      ],
+      "rationale": "学習設計上の選定: 毛布に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-blanket-1",
+          "pos": "noun",
+          "meaningJa": "毛布",
+          "example": "Ask reception for an extra blanket.",
+          "translationJa": "追加の毛布は受付に頼んでください。",
+          "collocations": [
+            "a warm blanket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pillow",
+      "version": 1,
+      "lemma": "pillow",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "pillowcase"
+      ],
+      "rationale": "学習設計上の選定: 枕に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pillow-1",
+          "pos": "noun",
+          "meaningJa": "枕",
+          "example": "This pillow is too firm for me.",
+          "translationJa": "この枕は私には硬すぎます。",
+          "collocations": [
+            "a soft pillow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sheet",
+      "version": 1,
+      "lemma": "sheet",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "linen"
+      ],
+      "rationale": "学習設計上の選定: シーツに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sheet-1",
+          "pos": "noun",
+          "meaningJa": "シーツ",
+          "example": "The cleaner changed the bed sheets.",
+          "translationJa": "清掃員はベッドのシーツを交換しました。",
+          "collocations": [
+            "a bed sheet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-mattress",
+      "version": 1,
+      "lemma": "mattress",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "bedding"
+      ],
+      "rationale": "学習設計上の選定: マットレスに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-mattress-1",
+          "pos": "noun",
+          "meaningJa": "マットレス",
+          "example": "The new mattress supports my back.",
+          "translationJa": "新しいマットレスは背中を支えます。",
+          "collocations": [
+            "a firm mattress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bed",
+      "version": 1,
+      "lemma": "bed",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "bedroom"
+      ],
+      "rationale": "学習設計上の選定: ベッドに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bed-1",
+          "pos": "noun",
+          "meaningJa": "ベッド",
+          "example": "The room has two single beds.",
+          "translationJa": "部屋にはシングルベッドが2台あります。",
+          "collocations": [
+            "make the bed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sofa",
+      "version": 1,
+      "lemma": "sofa",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "couch"
+      ],
+      "rationale": "学習設計上の選定: ソファに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sofa-1",
+          "pos": "noun",
+          "meaningJa": "ソファ",
+          "example": "The sofa seats three people comfortably.",
+          "translationJa": "そのソファには3人がゆったり座れます。",
+          "collocations": [
+            "a leather sofa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-curtain",
+      "version": 1,
+      "lemma": "curtain",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "drape"
+      ],
+      "rationale": "学習設計上の選定: カーテンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-curtain-1",
+          "pos": "noun",
+          "meaningJa": "カーテン",
+          "example": "Close the curtains to block the sunlight.",
+          "translationJa": "日光を遮るためカーテンを閉めてください。",
+          "collocations": [
+            "draw the curtains"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cushion",
+      "version": 1,
+      "lemma": "cushion",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cushioned"
+      ],
+      "rationale": "学習設計上の選定: クッションに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cushion-1",
+          "pos": "noun",
+          "meaningJa": "クッション",
+          "example": "A cushion made the chair more comfortable.",
+          "translationJa": "クッションで椅子が快適になりました。",
+          "collocations": [
+            "a seat cushion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-mirror",
+      "version": 1,
+      "lemma": "mirror",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "reflection"
+      ],
+      "rationale": "学習設計上の選定: 鏡に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-mirror-1",
+          "pos": "noun",
+          "meaningJa": "鏡",
+          "example": "A large mirror hangs above the sink.",
+          "translationJa": "洗面台の上に大きな鏡があります。",
+          "collocations": [
+            "a wall mirror"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-lamp",
+      "version": 1,
+      "lemma": "lamp",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "lampshade"
+      ],
+      "rationale": "学習設計上の選定: ランプ、照明器具に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-lamp-1",
+          "pos": "noun",
+          "meaningJa": "ランプ、照明器具",
+          "example": "The desk lamp needs a new bulb.",
+          "translationJa": "卓上ランプは電球交換が必要です。",
+          "collocations": [
+            "a reading lamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-light",
+      "version": 1,
+      "lemma": "light",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "lighting"
+      ],
+      "rationale": "学習設計上の選定: 光、明かりに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-light-1",
+          "pos": "noun",
+          "meaningJa": "光、明かり",
+          "example": "Natural light enters through the roof windows.",
+          "translationJa": "天窓から自然光が入ります。",
+          "collocations": [
+            "natural light"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-clock",
+      "version": 1,
+      "lemma": "clock",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "clockwise"
+      ],
+      "rationale": "学習設計上の選定: 時計に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-clock-1",
+          "pos": "noun",
+          "meaningJa": "時計",
+          "example": "The wall clock is five minutes fast.",
+          "translationJa": "壁時計は5分進んでいます。",
+          "collocations": [
+            "a wall clock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-alarm",
+      "version": 1,
+      "lemma": "alarm",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "alarm system"
+      ],
+      "rationale": "学習設計上の選定: 警報、目覚ましに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-alarm-1",
+          "pos": "noun",
+          "meaningJa": "警報、目覚まし",
+          "example": "The smoke alarm sounded during the drill.",
+          "translationJa": "訓練中に煙警報器が鳴りました。",
+          "collocations": [
+            "a smoke alarm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-key",
+      "version": 1,
+      "lemma": "key",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "key ring"
+      ],
+      "rationale": "学習設計上の選定: 鍵に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-key-1",
+          "pos": "noun",
+          "meaningJa": "鍵",
+          "example": "Leave the room key at reception.",
+          "translationJa": "部屋の鍵は受付に預けてください。",
+          "collocations": [
+            "a spare key"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-lock",
+      "version": 1,
+      "lemma": "lock",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "locksmith"
+      ],
+      "rationale": "学習設計上の選定: 錠に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-lock-1",
+          "pos": "noun",
+          "meaningJa": "錠",
+          "example": "The front door has a new lock.",
+          "translationJa": "玄関には新しい錠が付いています。",
+          "collocations": [
+            "a door lock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-handle",
+      "version": 1,
+      "lemma": "handle",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "handgrip"
+      ],
+      "rationale": "学習設計上の選定: 取っ手に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-handle-1",
+          "pos": "noun",
+          "meaningJa": "取っ手",
+          "example": "The suitcase handle broke at the airport.",
+          "translationJa": "空港でスーツケースの取っ手が壊れました。",
+          "collocations": [
+            "a door handle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-basket",
+      "version": 1,
+      "lemma": "basket",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "basketry"
+      ],
+      "rationale": "学習設計上の選定: かごに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-basket-1",
+          "pos": "noun",
+          "meaningJa": "かご",
+          "example": "Put the dirty clothes in the basket.",
+          "translationJa": "汚れた服はかごに入れてください。",
+          "collocations": [
+            "a laundry basket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bucket",
+      "version": 1,
+      "lemma": "bucket",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "pail"
+      ],
+      "rationale": "学習設計上の選定: バケツに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bucket-1",
+          "pos": "noun",
+          "meaningJa": "バケツ",
+          "example": "Fill the bucket with warm water.",
+          "translationJa": "バケツにぬるま湯を入れてください。",
+          "collocations": [
+            "a water bucket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-broom",
+      "version": 1,
+      "lemma": "broom",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "sweep"
+      ],
+      "rationale": "学習設計上の選定: ほうきに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-broom-1",
+          "pos": "noun",
+          "meaningJa": "ほうき",
+          "example": "Use a broom to sweep the steps.",
+          "translationJa": "ほうきで階段を掃いてください。",
+          "collocations": [
+            "a long-handled broom"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-brush",
+      "version": 1,
+      "lemma": "brush",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "bristle"
+      ],
+      "rationale": "学習設計上の選定: ブラシに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-brush-1",
+          "pos": "noun",
+          "meaningJa": "ブラシ",
+          "example": "A soft brush removes dust safely.",
+          "translationJa": "柔らかいブラシで安全にほこりを落とせます。",
+          "collocations": [
+            "a cleaning brush"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-soap",
+      "version": 1,
+      "lemma": "soap",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "soapy"
+      ],
+      "rationale": "学習設計上の選定: せっけんに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-soap-1",
+          "pos": "noun",
+          "meaningJa": "せっけん",
+          "example": "Wash your hands with soap.",
+          "translationJa": "せっけんで手を洗ってください。",
+          "collocations": [
+            "liquid soap"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-detergent",
+      "version": 1,
+      "lemma": "detergent",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cleaning agent"
+      ],
+      "rationale": "学習設計上の選定: 洗剤に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-detergent-1",
+          "pos": "noun",
+          "meaningJa": "洗剤",
+          "example": "Use less detergent for a small load.",
+          "translationJa": "洗濯物が少ないときは洗剤を減らしてください。",
+          "collocations": [
+            "laundry detergent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-shampoo",
+      "version": 1,
+      "lemma": "shampoo",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "hair care"
+      ],
+      "rationale": "学習設計上の選定: シャンプーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-shampoo-1",
+          "pos": "noun",
+          "meaningJa": "シャンプー",
+          "example": "The bathroom has refillable shampoo bottles.",
+          "translationJa": "浴室には詰め替え式のシャンプーボトルがあります。",
+          "collocations": [
+            "a bottle of shampoo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-toothpaste",
+      "version": 1,
+      "lemma": "toothpaste",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "toothbrush"
+      ],
+      "rationale": "学習設計上の選定: 歯磨き粉に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-toothpaste-1",
+          "pos": "noun",
+          "meaningJa": "歯磨き粉",
+          "example": "I forgot to pack my toothpaste.",
+          "translationJa": "歯磨き粉を荷物に入れ忘れました。",
+          "collocations": [
+            "a tube of toothpaste"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tissue",
+      "version": 1,
+      "lemma": "tissue",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "tissue box"
+      ],
+      "rationale": "学習設計上の選定: ティッシュに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tissue-1",
+          "pos": "noun",
+          "meaningJa": "ティッシュ",
+          "example": "A box of tissues is on the desk.",
+          "translationJa": "机の上にティッシュの箱があります。",
+          "collocations": [
+            "a paper tissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-toilet",
+      "version": 1,
+      "lemma": "toilet",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "toiletries"
+      ],
+      "rationale": "学習設計上の選定: 便器、トイレに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-toilet-1",
+          "pos": "noun",
+          "meaningJa": "便器、トイレ",
+          "example": "The toilet needs a minor repair.",
+          "translationJa": "トイレには簡単な修理が必要です。",
+          "collocations": [
+            "a public toilet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-shower",
+      "version": 1,
+      "lemma": "shower",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "showerhead"
+      ],
+      "rationale": "学習設計上の選定: シャワーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-shower-1",
+          "pos": "noun",
+          "meaningJa": "シャワー",
+          "example": "The room has a shower but no bath.",
+          "translationJa": "部屋にはシャワーがありますが浴槽はありません。",
+          "collocations": [
+            "take a shower"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bath",
+      "version": 1,
+      "lemma": "bath",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "bathtub"
+      ],
+      "rationale": "学習設計上の選定: 入浴、浴槽に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bath-1",
+          "pos": "noun",
+          "meaningJa": "入浴、浴槽",
+          "example": "A warm bath helped me relax.",
+          "translationJa": "温かい風呂でくつろげました。",
+          "collocations": [
+            "take a bath"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sink",
+      "version": 1,
+      "lemma": "sink",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "washbasin"
+      ],
+      "rationale": "学習設計上の選定: 流し、洗面台に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sink-1",
+          "pos": "noun",
+          "meaningJa": "流し、洗面台",
+          "example": "Rinse the cups in the sink.",
+          "translationJa": "流しでカップをすすいでください。",
+          "collocations": [
+            "a kitchen sink"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tap",
+      "version": 1,
+      "lemma": "tap",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "faucet"
+      ],
+      "rationale": "学習設計上の選定: 蛇口に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tap-1",
+          "pos": "noun",
+          "meaningJa": "蛇口",
+          "example": "Turn the tap off firmly.",
+          "translationJa": "蛇口をしっかり閉めてください。",
+          "collocations": [
+            "a dripping tap"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pipe",
+      "version": 1,
+      "lemma": "pipe",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "piping"
+      ],
+      "rationale": "学習設計上の選定: 管、パイプに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pipe-1",
+          "pos": "noun",
+          "meaningJa": "管、パイプ",
+          "example": "A frozen pipe burst last night.",
+          "translationJa": "昨夜、凍結した管が破裂しました。",
+          "collocations": [
+            "a water pipe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-drain",
+      "version": 1,
+      "lemma": "drain",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "drainage"
+      ],
+      "rationale": "学習設計上の選定: 排水口、排水管に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-drain-1",
+          "pos": "noun",
+          "meaningJa": "排水口、排水管",
+          "example": "Remove the leaves from the drain.",
+          "translationJa": "排水口から葉を取り除いてください。",
+          "collocations": [
+            "a blocked drain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-garbage",
+      "version": 1,
+      "lemma": "garbage",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "rubbish"
+      ],
+      "rationale": "学習設計上の選定: ごみに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-garbage-1",
+          "pos": "noun",
+          "meaningJa": "ごみ",
+          "example": "Garbage is collected on Tuesday mornings.",
+          "translationJa": "ごみは火曜の朝に回収されます。",
+          "collocations": [
+            "garbage collection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-waste",
+      "version": 1,
+      "lemma": "waste",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "wasteful"
+      ],
+      "rationale": "学習設計上の選定: 廃棄物、無駄に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-waste-1",
+          "pos": "noun",
+          "meaningJa": "廃棄物、無駄",
+          "example": "The cafe aims to reduce food waste.",
+          "translationJa": "カフェは食品廃棄の削減を目指しています。",
+          "collocations": [
+            "food waste"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-clean",
+      "version": 1,
+      "lemma": "clean",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cleaner"
+      ],
+      "rationale": "学習設計上の選定: 掃除するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-clean-1",
+          "pos": "verb",
+          "meaningJa": "掃除する",
+          "example": "Please clean the table after lunch.",
+          "translationJa": "昼食後にテーブルを拭いてください。",
+          "collocations": [
+            "clean a room"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wash",
+      "version": 1,
+      "lemma": "wash",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "washing"
+      ],
+      "rationale": "学習設計上の選定: 洗うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wash-1",
+          "pos": "verb",
+          "meaningJa": "洗う",
+          "example": "Wash the vegetables before cutting them.",
+          "translationJa": "切る前に野菜を洗ってください。",
+          "collocations": [
+            "wash dishes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cook",
+      "version": 1,
+      "lemma": "cook",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cooking"
+      ],
+      "rationale": "学習設計上の選定: 調理するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cook-1",
+          "pos": "verb",
+          "meaningJa": "調理する",
+          "example": "We cooked dinner together last night.",
+          "translationJa": "昨夜は一緒に夕食を作りました。",
+          "collocations": [
+            "cook a meal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bake",
+      "version": 1,
+      "lemma": "bake",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "baker"
+      ],
+      "rationale": "学習設計上の選定: オーブンで焼くに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bake-1",
+          "pos": "verb",
+          "meaningJa": "オーブンで焼く",
+          "example": "The bakery bakes bread before sunrise.",
+          "translationJa": "パン店は日の出前にパンを焼きます。",
+          "collocations": [
+            "bake bread"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-boil",
+      "version": 1,
+      "lemma": "boil",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "boiling point"
+      ],
+      "rationale": "学習設計上の選定: 沸かす、ゆでるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-boil-1",
+          "pos": "verb",
+          "meaningJa": "沸かす、ゆでる",
+          "example": "Boil the water before adding the noodles.",
+          "translationJa": "麺を入れる前に湯を沸かしてください。",
+          "collocations": [
+            "boil water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fry",
+      "version": 1,
+      "lemma": "fry",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "frying pan"
+      ],
+      "rationale": "学習設計上の選定: 油で炒める、揚げるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fry-1",
+          "pos": "verb",
+          "meaningJa": "油で炒める、揚げる",
+          "example": "Fry the onions until they soften.",
+          "translationJa": "玉ねぎを柔らかくなるまで炒めてください。",
+          "collocations": [
+            "fry onions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-grill",
+      "version": 1,
+      "lemma": "grill",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "grilled fish"
+      ],
+      "rationale": "学習設計上の選定: 網などで焼くに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-grill-1",
+          "pos": "verb",
+          "meaningJa": "網などで焼く",
+          "example": "We grilled vegetables on the balcony.",
+          "translationJa": "バルコニーで野菜を網焼きにしました。",
+          "collocations": [
+            "grill vegetables"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-roast",
+      "version": 1,
+      "lemma": "roast",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "roasted"
+      ],
+      "rationale": "学習設計上の選定: じっくり焼く、焙煎するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-roast-1",
+          "pos": "verb",
+          "meaningJa": "じっくり焼く、焙煎する",
+          "example": "The cafe roasts its own coffee beans.",
+          "translationJa": "そのカフェは自家焙煎しています。",
+          "collocations": [
+            "roast coffee beans"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-chop",
+      "version": 1,
+      "lemma": "chop",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "chopping board"
+      ],
+      "rationale": "学習設計上の選定: 細かく切るに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-chop-1",
+          "pos": "verb",
+          "meaningJa": "細かく切る",
+          "example": "Chop the carrots into small pieces.",
+          "translationJa": "ニンジンを小さく切ってください。",
+          "collocations": [
+            "chop vegetables"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-slice",
+      "version": 1,
+      "lemma": "slice",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "sliced"
+      ],
+      "rationale": "学習設計上の選定: 薄く切るに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-slice-1",
+          "pos": "verb",
+          "meaningJa": "薄く切る",
+          "example": "Slice the bread with this knife.",
+          "translationJa": "このナイフでパンを薄く切ってください。",
+          "collocations": [
+            "slice bread"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-mix",
+      "version": 1,
+      "lemma": "mix",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "mixture"
+      ],
+      "rationale": "学習設計上の選定: 混ぜるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-mix-1",
+          "pos": "verb",
+          "meaningJa": "混ぜる",
+          "example": "Mix the flour and water slowly.",
+          "translationJa": "小麦粉と水をゆっくり混ぜてください。",
+          "collocations": [
+            "mix ingredients"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-stir",
+      "version": 1,
+      "lemma": "stir",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "stirring"
+      ],
+      "rationale": "学習設計上の選定: かき混ぜるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-stir-1",
+          "pos": "verb",
+          "meaningJa": "かき混ぜる",
+          "example": "Stir the sauce over low heat.",
+          "translationJa": "弱火でソースをかき混ぜてください。",
+          "collocations": [
+            "stir a sauce"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pour",
+      "version": 1,
+      "lemma": "pour",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "pouring"
+      ],
+      "rationale": "学習設計上の選定: 注ぐに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pour-1",
+          "pos": "verb",
+          "meaningJa": "注ぐ",
+          "example": "Pour the juice into a glass.",
+          "translationJa": "ジュースをグラスに注いでください。",
+          "collocations": [
+            "pour a drink"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-taste",
+      "version": 1,
+      "lemma": "taste",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "tasty"
+      ],
+      "rationale": "学習設計上の選定: 味見するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-taste-1",
+          "pos": "verb",
+          "meaningJa": "味見する",
+          "example": "Taste the soup before adding salt.",
+          "translationJa": "塩を加える前にスープを味見してください。",
+          "collocations": [
+            "taste a dish"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-smell",
+      "version": 1,
+      "lemma": "smell",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "scent"
+      ],
+      "rationale": "学習設計上の選定: においがするに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-smell-1",
+          "pos": "verb",
+          "meaningJa": "においがする",
+          "example": "The kitchen smells of fresh bread.",
+          "translationJa": "台所には焼きたてのパンの香りがします。",
+          "collocations": [
+            "smell of bread"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-choose",
+      "version": 1,
+      "lemma": "choose",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "choice"
+      ],
+      "rationale": "学習設計上の選定: 選ぶに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-choose-1",
+          "pos": "verb",
+          "meaningJa": "選ぶ",
+          "example": "Choose any two items from the menu.",
+          "translationJa": "メニューから2品選んでください。",
+          "collocations": [
+            "choose an option"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-buy",
+      "version": 1,
+      "lemma": "buy",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "buyer"
+      ],
+      "rationale": "学習設計上の選定: 買うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-buy-1",
+          "pos": "verb",
+          "meaningJa": "買う",
+          "example": "We bought fresh flowers for the lobby.",
+          "translationJa": "ロビー用に生花を買いました。",
+          "collocations": [
+            "buy groceries"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sell",
+      "version": 1,
+      "lemma": "sell",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "seller"
+      ],
+      "rationale": "学習設計上の選定: 売るに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sell-1",
+          "pos": "verb",
+          "meaningJa": "売る",
+          "example": "This shop sells handmade pottery.",
+          "translationJa": "この店は手作りの陶器を売っています。",
+          "collocations": [
+            "sell products"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cost",
+      "version": 1,
+      "lemma": "cost",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "costly"
+      ],
+      "rationale": "学習設計上の選定: 費用がかかるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cost-1",
+          "pos": "verb",
+          "meaningJa": "費用がかかる",
+          "example": "The repair will cost about fifty dollars.",
+          "translationJa": "修理は約50ドルかかります。",
+          "collocations": [
+            "cost money"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-store",
+      "version": 1,
+      "lemma": "store",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "storage"
+      ],
+      "rationale": "学習設計上の選定: 保管するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-store-1",
+          "pos": "verb",
+          "meaningJa": "保管する",
+          "example": "Store the medicine in a cool place.",
+          "translationJa": "薬は涼しい場所に保管してください。",
+          "collocations": [
+            "store supplies"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pack",
+      "version": 1,
+      "lemma": "pack",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "packing"
+      ],
+      "rationale": "学習設計上の選定: 荷造りする、詰めるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pack-1",
+          "pos": "verb",
+          "meaningJa": "荷造りする、詰める",
+          "example": "Pack the fragile cups separately.",
+          "translationJa": "壊れやすいカップは別々に詰めてください。",
+          "collocations": [
+            "pack a suitcase"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wrap",
+      "version": 1,
+      "lemma": "wrap",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "wrapping"
+      ],
+      "rationale": "学習設計上の選定: 包むに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wrap-1",
+          "pos": "verb",
+          "meaningJa": "包む",
+          "example": "Could you wrap this as a gift?",
+          "translationJa": "これを贈り物用に包んでいただけますか。",
+          "collocations": [
+            "wrap a gift"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wear",
+      "version": 1,
+      "lemma": "wear",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "clothing"
+      ],
+      "rationale": "学習設計上の選定: 身に着けるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wear-1",
+          "pos": "verb",
+          "meaningJa": "身に着ける",
+          "example": "Staff wear name tags during their shifts.",
+          "translationJa": "職員は勤務中に名札を着けます。",
+          "collocations": [
+            "wear a uniform"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-dress",
+      "version": 1,
+      "lemma": "dress",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "dress code"
+      ],
+      "rationale": "学習設計上の選定: 服を着る、装うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-dress-1",
+          "pos": "verb",
+          "meaningJa": "服を着る、装う",
+          "example": "Employees may dress casually on Fridays.",
+          "translationJa": "従業員は金曜日に普段着で勤務できます。",
+          "collocations": [
+            "dress casually"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fit",
+      "version": 1,
+      "lemma": "fit",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "fitting"
+      ],
+      "rationale": "学習設計上の選定: 寸法が合うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fit-1",
+          "pos": "verb",
+          "meaningJa": "寸法が合う",
+          "example": "These shoes fit better than the others.",
+          "translationJa": "この靴はほかの靴より足に合います。",
+          "collocations": [
+            "fit well"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-match",
+      "version": 1,
+      "lemma": "match",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "matching"
+      ],
+      "rationale": "学習設計上の選定: 調和する、一致するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-match-1",
+          "pos": "verb",
+          "meaningJa": "調和する、一致する",
+          "example": "The curtains match the blue sofa.",
+          "translationJa": "カーテンは青いソファと調和しています。",
+          "collocations": [
+            "match the decor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fold",
+      "version": 1,
+      "lemma": "fold",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "folding"
+      ],
+      "rationale": "学習設計上の選定: 折る、畳むに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fold-1",
+          "pos": "verb",
+          "meaningJa": "折る、畳む",
+          "example": "Fold the towels before putting them away.",
+          "translationJa": "タオルを畳んでから収納してください。",
+          "collocations": [
+            "fold clothes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-iron",
+      "version": 1,
+      "lemma": "iron",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "ironing board"
+      ],
+      "rationale": "学習設計上の選定: アイロンをかけるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-iron-1",
+          "pos": "verb",
+          "meaningJa": "アイロンをかける",
+          "example": "Please iron the shirts on low heat.",
+          "translationJa": "シャツは低温でアイロンをかけてください。",
+          "collocations": [
+            "iron a shirt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-home",
+      "version": 1,
+      "lemma": "home",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "homemade"
+      ],
+      "rationale": "学習設計上の選定: 自宅に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-home-1",
+          "pos": "noun",
+          "meaningJa": "自宅",
+          "example": "Our new home has a small garden.",
+          "translationJa": "新居には小さな庭があります。",
+          "collocations": [
+            "at home"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "id": "questions-001-review",
+  "batchId": "questions-001",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:19:47.412532+00:00",
+  "method": "全30問を著者解答未読で独立解答しquestions-001-blind.jsonに保存。その後version 1の著者正解・和訳・全選択肢解説・技能・語義参照を全件読んで比較。第一選択は30/30一致したが、複数解の疑義3問を除外。人手確認0。 v2の4問を先に再解答後、解説を比較。3問を採用、q-0011は再修正。 q-0011 v3を同様に再検査し採用。現行版30問すべて採用候補。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "q-0001",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "give final approvalの名詞。英文選択肢はv1と同じ。 修正版の著者正解・和訳・全選択肢説明・語義参照を再検査して整合。"
+    },
+    {
+      "targetId": "q-0002",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "descriptionを修飾する形容詞comprehensiveが必要。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0003",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "readを修飾する副詞carefullyが必要。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0004",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "yesterday afternoonで過去時点が確定しreplaced。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0005",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "依頼が承認される受動態でmust be approved。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0006",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "since it openedから現在までの継続はhas worked。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0007",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "Each participantは単数でreceivesが有限動詞。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0008",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "a number of＋複数名詞は複数扱いでare。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0009",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "中心語listは単数でis。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0010",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "badgesを修飾する所有格their。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0011",
+      "targetVersion": 3,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "v3を盲検再解答保存後に著者解説と比較。himselfが正解で一致。ourselvesへの差し替えにより通常目的格の他人参照と単数theyの問題を解消。日本語訳と各誤答理由・語義参照も整合。"
+    },
+    {
+      "targetId": "q-0012",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "contactの目的語には目的格us。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0013",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "提出完了の期限を表すby。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0014",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "three weeksは期間なのでfor。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0015",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "interest inという組み合わせ。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0016",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "ほぼ満席なのに全員席を得たという譲歩でAlthough。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0017",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "支払を受け取らない場合に取消という条件でunless。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0018",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "全員が指示に従えるようにという目的節を導けるのはso that。残りは節を直接取れない。 修正版の著者正解・和訳・全選択肢説明・語義参照を再検査して整合。"
+    },
+    {
+      "targetId": "q-0019",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "人を先行詞とし節の主語になるwho。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0020",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "scannerを先行詞として非制限節の主語になるwhich。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0021",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "consultantのexperienceを所有関係で導くwhose。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0022",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "thanを伴う比較級cheaper。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0023",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "三案の範囲で最も単純なものという比較にはsimplest。原級simpleの選択肢はなくなり、simplicityは名詞で不適合。 修正版の著者正解・和訳・全選択肢説明・語義参照を再検査して整合。"
+    },
+    {
+      "targetId": "q-0024",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "as＋形容詞原級＋asでreliable。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0025",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "不可算spaceの数量を表すmuch。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0026",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "複数可算changesなのでa few。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0027",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "別の1台が必要なのでanother one。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0028",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "見積もり確認後の購入承認という文脈でapprove。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0029",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "講演者の欠航で金曜まで延期するpostpone。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0030",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "replace A with Bで損傷ケーブルの交換。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    }
+  ],
+  "revisionHistory": [
+    {
+      "targetId": "q-0001",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "finalの後に名詞approvalが必要。give approvalの承認。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。"
+    },
+    {
+      "targetId": "q-0011",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "a",
+      "issues": [
+        "himが文脈中の別の男性を指す場合も自然に成立する。本文に同一人物との拘束がなく、解説はその同一性を前提にしている。誤答をthemselves等へ変更するか文脈を限定する。"
+      ],
+      "reason": "同一人物ならhimself。ただし別の男性を紹介するhimも文脈を補えば成立し、一意性不足。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。 一致しても曖昧性があるため修正後の再検査が必要。"
+    },
+    {
+      "targetId": "q-0018",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "c",
+      "issues": [
+        "even thoughで「理解できたにもかかわらずゆっくり話した」という解釈も文法・意味上成立する。despite等、節を直接続けられない選択肢への修正を推奨。",
+        "v-follow-1は「従う」だが、本文和訳は「理解できる」。和訳を指示に従えるようとするか、理解する語義を独立して登録する。"
+      ],
+      "reason": "後ろが節なので目的のso that。even thoughも能力があるのにゆっくり話す読みは文法的に可能だが本文の意図は目的。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。 一致しても曖昧性があるため修正後の再検査が必要。"
+    },
+    {
+      "targetId": "q-0023",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "c",
+      "issues": [
+        "Of the three proposalsでもthe simple solutionは3案の中の単純な案を選んだという自然な文になる。最上級を選ぶことを必須とする条件が足りない。simpleをsimplicity等へ変更する。"
+      ],
+      "reason": "三案中の最も単純な案ならsimplest。ただし三案から単純な案を選ぶsimpleも自然に成立し一意性不足。 著者の正解と一致。和訳・各選択肢解説・主技能・語義参照を照合。 一致しても曖昧性があるため修正後の再検査が必要。"
+    },
+    {
+      "targetId": "q-0011",
+      "targetVersion": 2,
+      "decision": "revise",
+      "independentAnswerId": "a",
+      "issues": [
+        "themselvesは単数theyの再帰形にも用いられるため、常に複数とする説明は不正確。dをourselvesに変更し人称の不一致で説明する。"
+      ],
+      "reason": "通常はhimselfを選ぶが、単数theyの再帰形の用法を誤って排除する説明が残るため選択肢と説明を再修正する。"
+    }
+  ]
+}

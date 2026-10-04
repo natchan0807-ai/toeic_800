@@ -1,0 +1,2941 @@
+{
+  "id": "vocab-002",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-04T00:01:33.390975+00:00",
+  "author": "vocabulary_editor",
+  "model": null,
+  "input": "research policy v1",
+  "status": "generated",
+  "items": [
+    {
+      "id": "v-agenda",
+      "version": 1,
+      "lemma": "agenda",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "agenda item"
+      ],
+      "rationale": "学習設計上の選定: 議題、議事日程に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-agenda-1",
+          "pos": "noun",
+          "meaningJa": "議題、議事日程",
+          "example": "The agenda lists three topics.",
+          "translationJa": "議事日程には3つの議題があります。",
+          "collocations": [
+            "set an agenda"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-appointment",
+      "version": 1,
+      "lemma": "appointment",
+      "domain": "health",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "appointment book"
+      ],
+      "rationale": "学習設計上の選定: 予約、面会の約束に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-appointment-1",
+          "pos": "noun",
+          "meaningJa": "予約、面会の約束",
+          "example": "My dental appointment is at two.",
+          "translationJa": "歯科の予約は2時です。",
+          "collocations": [
+            "make an appointment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-document",
+      "version": 1,
+      "lemma": "document",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "documentation"
+      ],
+      "rationale": "学習設計上の選定: 文書に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-document-1",
+          "pos": "noun",
+          "meaningJa": "文書",
+          "example": "Keep this document in a safe place.",
+          "translationJa": "この文書は安全な場所に保管してください。",
+          "collocations": [
+            "an official document"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-file",
+      "version": 1,
+      "lemma": "file",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "filing"
+      ],
+      "rationale": "学習設計上の選定: ファイルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-file-1",
+          "pos": "noun",
+          "meaningJa": "ファイル",
+          "example": "The file contains last year's accounts.",
+          "translationJa": "ファイルには昨年の会計記録が入っています。",
+          "collocations": [
+            "open a file"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-folder",
+      "version": 1,
+      "lemma": "folder",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "directory"
+      ],
+      "rationale": "学習設計上の選定: フォルダーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-folder-1",
+          "pos": "noun",
+          "meaningJa": "フォルダー",
+          "example": "Put the receipts in this folder.",
+          "translationJa": "領収書をこのフォルダーに入れてください。",
+          "collocations": [
+            "a shared folder"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-form",
+      "version": 1,
+      "lemma": "form",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "format"
+      ],
+      "rationale": "学習設計上の選定: 用紙、書式に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-form-1",
+          "pos": "noun",
+          "meaningJa": "用紙、書式",
+          "example": "Please complete the form in ink.",
+          "translationJa": "用紙にはインクで記入してください。",
+          "collocations": [
+            "an application form"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-letter",
+      "version": 1,
+      "lemma": "letter",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "correspondence"
+      ],
+      "rationale": "学習設計上の選定: 手紙に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-letter-1",
+          "pos": "noun",
+          "meaningJa": "手紙",
+          "example": "A letter arrived from our supplier.",
+          "translationJa": "仕入先から手紙が届きました。",
+          "collocations": [
+            "write a letter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-notice",
+      "version": 1,
+      "lemma": "notice",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "notification"
+      ],
+      "rationale": "学習設計上の選定: 掲示、通知に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-notice-1",
+          "pos": "noun",
+          "meaningJa": "掲示、通知",
+          "example": "A notice explains the new opening hours.",
+          "translationJa": "掲示に新しい営業時間が説明されています。",
+          "collocations": [
+            "post a notice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-memo",
+      "version": 1,
+      "lemma": "memo",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "memorandum"
+      ],
+      "rationale": "学習設計上の選定: 社内連絡文、メモに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-memo-1",
+          "pos": "noun",
+          "meaningJa": "社内連絡文、メモ",
+          "example": "The memo outlines our new policy.",
+          "translationJa": "社内連絡文は新方針の概要を示しています。",
+          "collocations": [
+            "an internal memo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-message",
+      "version": 1,
+      "lemma": "message",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "messaging"
+      ],
+      "rationale": "学習設計上の選定: 伝言、メッセージに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-message-1",
+          "pos": "noun",
+          "meaningJa": "伝言、メッセージ",
+          "example": "Could you leave a message for Ken?",
+          "translationJa": "ケンへの伝言を残していただけますか。",
+          "collocations": [
+            "leave a message"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-email",
+      "version": 1,
+      "lemma": "email",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "inbox"
+      ],
+      "rationale": "学習設計上の選定: 電子メールに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-email-1",
+          "pos": "noun",
+          "meaningJa": "電子メール",
+          "example": "Your email reached me this morning.",
+          "translationJa": "メールは今朝届きました。",
+          "collocations": [
+            "send an email"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-address",
+      "version": 1,
+      "lemma": "address",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "postcode"
+      ],
+      "rationale": "学習設計上の選定: 住所に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-address-1",
+          "pos": "noun",
+          "meaningJa": "住所",
+          "example": "Write your address below your name.",
+          "translationJa": "名前の下に住所を書いてください。",
+          "collocations": [
+            "a mailing address"
+          ]
+        },
+        {
+          "id": "v-address-2",
+          "pos": "verb",
+          "meaningJa": "問題などに対処する",
+          "example": "The new policy addresses customer concerns.",
+          "translationJa": "新方針は顧客の懸念に対処します。",
+          "collocations": [
+            "address a concern"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-department",
+      "version": 1,
+      "lemma": "department",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "department head"
+      ],
+      "rationale": "学習設計上の選定: 部門に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-department-1",
+          "pos": "noun",
+          "meaningJa": "部門",
+          "example": "The marketing department needs another designer.",
+          "translationJa": "マーケティング部門にはデザイナーがもう1人必要です。",
+          "collocations": [
+            "the marketing department"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-division",
+      "version": 1,
+      "lemma": "division",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "divisional"
+      ],
+      "rationale": "学習設計上の選定: 事業部に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-division-1",
+          "pos": "noun",
+          "meaningJa": "事業部",
+          "example": "Our software division is expanding.",
+          "translationJa": "当社のソフトウェア事業部は拡大しています。",
+          "collocations": [
+            "a sales division"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-branch",
+      "version": 1,
+      "lemma": "branch",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "branch manager"
+      ],
+      "rationale": "学習設計上の選定: 支店に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-branch-1",
+          "pos": "noun",
+          "meaningJa": "支店",
+          "example": "The bank has a branch nearby.",
+          "translationJa": "その銀行には近くに支店があります。",
+          "collocations": [
+            "a local branch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-headquarters",
+      "version": 1,
+      "lemma": "headquarters",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "head office"
+      ],
+      "rationale": "学習設計上の選定: 本社、本部に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-headquarters-1",
+          "pos": "noun",
+          "meaningJa": "本社、本部",
+          "example": "Our headquarters is in Yokohama.",
+          "translationJa": "当社の本社は横浜にあります。",
+          "collocations": [
+            "corporate headquarters"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-committee",
+      "version": 1,
+      "lemma": "committee",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "committee member"
+      ],
+      "rationale": "学習設計上の選定: 委員会に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-committee-1",
+          "pos": "noun",
+          "meaningJa": "委員会",
+          "example": "The committee meets every Thursday.",
+          "translationJa": "委員会は毎週木曜日に開かれます。",
+          "collocations": [
+            "a planning committee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-board",
+      "version": 1,
+      "lemma": "board",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "board member"
+      ],
+      "rationale": "学習設計上の選定: 取締役会に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-board-1",
+          "pos": "noun",
+          "meaningJa": "取締役会",
+          "example": "The board approved the expansion plan.",
+          "translationJa": "取締役会は拡張計画を承認しました。",
+          "collocations": [
+            "the board of directors"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-director",
+      "version": 1,
+      "lemma": "director",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "directorship"
+      ],
+      "rationale": "学習設計上の選定: 取締役、部門責任者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-director-1",
+          "pos": "noun",
+          "meaningJa": "取締役、部門責任者",
+          "example": "The director welcomed the visiting team.",
+          "translationJa": "責任者は訪問団を迎えました。",
+          "collocations": [
+            "a managing director"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-manager",
+      "version": 1,
+      "lemma": "manager",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "management"
+      ],
+      "rationale": "学習設計上の選定: 管理職、支配人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-manager-1",
+          "pos": "noun",
+          "meaningJa": "管理職、支配人",
+          "example": "Ask the manager about group rates.",
+          "translationJa": "団体料金は支配人にお尋ねください。",
+          "collocations": [
+            "a hotel manager"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-supervisor",
+      "version": 1,
+      "lemma": "supervisor",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "supervision"
+      ],
+      "rationale": "学習設計上の選定: 監督者、直属の上司に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-supervisor-1",
+          "pos": "noun",
+          "meaningJa": "監督者、直属の上司",
+          "example": "My supervisor checked the final report.",
+          "translationJa": "直属の上司が最終報告を確認しました。",
+          "collocations": [
+            "a shift supervisor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-colleague",
+      "version": 1,
+      "lemma": "colleague",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "coworker"
+      ],
+      "rationale": "学習設計上の選定: 同僚に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-colleague-1",
+          "pos": "noun",
+          "meaningJa": "同僚",
+          "example": "A colleague helped me move the desk.",
+          "translationJa": "同僚が机の移動を手伝いました。",
+          "collocations": [
+            "a former colleague"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-employee",
+      "version": 1,
+      "lemma": "employee",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "employment"
+      ],
+      "rationale": "学習設計上の選定: 従業員に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-employee-1",
+          "pos": "noun",
+          "meaningJa": "従業員",
+          "example": "Each employee receives a security badge.",
+          "translationJa": "各従業員には入館証が配られます。",
+          "collocations": [
+            "a full-time employee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-employer",
+      "version": 1,
+      "lemma": "employer",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "employment"
+      ],
+      "rationale": "学習設計上の選定: 雇用主に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-employer-1",
+          "pos": "noun",
+          "meaningJa": "雇用主",
+          "example": "Her employer pays for language classes.",
+          "translationJa": "彼女の雇用主は語学講座の費用を負担します。",
+          "collocations": [
+            "a prospective employer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-staff",
+      "version": 1,
+      "lemma": "staff",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "staffing"
+      ],
+      "rationale": "学習設計上の選定: 職員、スタッフに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-staff-1",
+          "pos": "noun",
+          "meaningJa": "職員、スタッフ",
+          "example": "The staff room is upstairs.",
+          "translationJa": "職員室は上の階です。",
+          "collocations": [
+            "staff members"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-candidate",
+      "version": 1,
+      "lemma": "candidate",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "candidacy"
+      ],
+      "rationale": "学習設計上の選定: 候補者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-candidate-1",
+          "pos": "noun",
+          "meaningJa": "候補者",
+          "example": "We interviewed five candidates yesterday.",
+          "translationJa": "昨日5人の候補者に面接しました。",
+          "collocations": [
+            "a suitable candidate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-applicant",
+      "version": 1,
+      "lemma": "applicant",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "application"
+      ],
+      "rationale": "学習設計上の選定: 応募者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-applicant-1",
+          "pos": "noun",
+          "meaningJa": "応募者",
+          "example": "Applicants must submit a short essay.",
+          "translationJa": "応募者は短い作文を提出しなければなりません。",
+          "collocations": [
+            "a job applicant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-interview",
+      "version": 1,
+      "lemma": "interview",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "interviewer"
+      ],
+      "rationale": "学習設計上の選定: 面接に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-interview-1",
+          "pos": "noun",
+          "meaningJa": "面接",
+          "example": "My interview lasted forty minutes.",
+          "translationJa": "面接は40分間続きました。",
+          "collocations": [
+            "a job interview"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-vacancy",
+      "version": 1,
+      "lemma": "vacancy",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "vacant"
+      ],
+      "rationale": "学習設計上の選定: 空き、欠員に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-vacancy-1",
+          "pos": "noun",
+          "meaningJa": "空き、欠員",
+          "example": "There is a vacancy in accounting.",
+          "translationJa": "経理部に欠員があります。",
+          "collocations": [
+            "fill a vacancy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-position",
+      "version": 1,
+      "lemma": "position",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "job opening"
+      ],
+      "rationale": "学習設計上の選定: 職、役職に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-position-1",
+          "pos": "noun",
+          "meaningJa": "職、役職",
+          "example": "This position requires some travel.",
+          "translationJa": "この職には多少の出張が必要です。",
+          "collocations": [
+            "a permanent position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-role",
+      "version": 1,
+      "lemma": "role",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "responsibility"
+      ],
+      "rationale": "学習設計上の選定: 役割に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-role-1",
+          "pos": "noun",
+          "meaningJa": "役割",
+          "example": "Each volunteer has a clear role.",
+          "translationJa": "各ボランティアには明確な役割があります。",
+          "collocations": [
+            "play a role"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-task",
+      "version": 1,
+      "lemma": "task",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "assignment"
+      ],
+      "rationale": "学習設計上の選定: 作業、任務に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-task-1",
+          "pos": "noun",
+          "meaningJa": "作業、任務",
+          "example": "The first task is checking inventory.",
+          "translationJa": "最初の作業は在庫確認です。",
+          "collocations": [
+            "complete a task"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-duty",
+      "version": 1,
+      "lemma": "duty",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "responsibility"
+      ],
+      "rationale": "学習設計上の選定: 職務、義務に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-duty-1",
+          "pos": "noun",
+          "meaningJa": "職務、義務",
+          "example": "Her duties include answering customer calls.",
+          "translationJa": "彼女の職務には顧客からの電話対応が含まれます。",
+          "collocations": [
+            "perform a duty"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-responsibility",
+      "version": 1,
+      "lemma": "responsibility",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "responsible"
+      ],
+      "rationale": "学習設計上の選定: 責任に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-responsibility-1",
+          "pos": "noun",
+          "meaningJa": "責任",
+          "example": "Safety is everyone's responsibility.",
+          "translationJa": "安全は全員の責任です。",
+          "collocations": [
+            "take responsibility"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-project",
+      "version": 1,
+      "lemma": "project",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "project manager"
+      ],
+      "rationale": "学習設計上の選定: 計画、事業に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-project-1",
+          "pos": "noun",
+          "meaningJa": "計画、事業",
+          "example": "The bridge project will take two years.",
+          "translationJa": "橋の建設事業には2年かかります。",
+          "collocations": [
+            "a construction project"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-deadline",
+      "version": 1,
+      "lemma": "deadline",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "due date"
+      ],
+      "rationale": "学習設計上の選定: 締め切りに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-deadline-1",
+          "pos": "noun",
+          "meaningJa": "締め切り",
+          "example": "The deadline has moved to Friday.",
+          "translationJa": "締め切りは金曜日に変わりました。",
+          "collocations": [
+            "meet a deadline"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-goal",
+      "version": 1,
+      "lemma": "goal",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "objective"
+      ],
+      "rationale": "学習設計上の選定: 目標に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-goal-1",
+          "pos": "noun",
+          "meaningJa": "目標",
+          "example": "Our goal is faster customer service.",
+          "translationJa": "目標は顧客対応の迅速化です。",
+          "collocations": [
+            "reach a goal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-target",
+      "version": 1,
+      "lemma": "target",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "target audience"
+      ],
+      "rationale": "学習設計上の選定: 目標値、対象に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-target-1",
+          "pos": "noun",
+          "meaningJa": "目標値、対象",
+          "example": "We exceeded our weekly sales target.",
+          "translationJa": "週間売上目標を上回りました。",
+          "collocations": [
+            "a sales target"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-progress",
+      "version": 1,
+      "lemma": "progress",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "progressive"
+      ],
+      "rationale": "学習設計上の選定: 進捗、進歩に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-progress-1",
+          "pos": "noun",
+          "meaningJa": "進捗、進歩",
+          "example": "The builders are making steady progress.",
+          "translationJa": "建設作業員は着実に作業を進めています。",
+          "collocations": [
+            "make progress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-result",
+      "version": 1,
+      "lemma": "result",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "outcome"
+      ],
+      "rationale": "学習設計上の選定: 結果に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-result-1",
+          "pos": "noun",
+          "meaningJa": "結果",
+          "example": "The survey results surprised the team.",
+          "translationJa": "調査結果はチームを驚かせました。",
+          "collocations": [
+            "survey results"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-feedback",
+      "version": 1,
+      "lemma": "feedback",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "comment"
+      ],
+      "rationale": "学習設計上の選定: 意見、反応に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-feedback-1",
+          "pos": "noun",
+          "meaningJa": "意見、反応",
+          "example": "Your feedback helps us improve service.",
+          "translationJa": "ご意見はサービス改善に役立ちます。",
+          "collocations": [
+            "customer feedback"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-equipment",
+      "version": 1,
+      "lemma": "equipment",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "equip"
+      ],
+      "rationale": "学習設計上の選定: 機器、設備に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-equipment-1",
+          "pos": "noun",
+          "meaningJa": "機器、設備",
+          "example": "The laboratory needs new safety equipment.",
+          "translationJa": "研究所には新しい安全設備が必要です。",
+          "collocations": [
+            "safety equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-facility",
+      "version": 1,
+      "lemma": "facility",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "amenity"
+      ],
+      "rationale": "学習設計上の選定: 施設に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-facility-1",
+          "pos": "noun",
+          "meaningJa": "施設",
+          "example": "The sports facility opens at seven.",
+          "translationJa": "スポーツ施設は7時に開きます。",
+          "collocations": [
+            "a training facility"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-furniture",
+      "version": 1,
+      "lemma": "furniture",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "furnish"
+      ],
+      "rationale": "学習設計上の選定: 家具に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-furniture-1",
+          "pos": "noun",
+          "meaningJa": "家具",
+          "example": "The movers covered the furniture carefully.",
+          "translationJa": "引越し作業員は家具を丁寧に覆いました。",
+          "collocations": [
+            "office furniture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-desk",
+      "version": 1,
+      "lemma": "desk",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "desktop"
+      ],
+      "rationale": "学習設計上の選定: 机に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-desk-1",
+          "pos": "noun",
+          "meaningJa": "机",
+          "example": "I left the keys on your desk.",
+          "translationJa": "鍵はあなたの机に置きました。",
+          "collocations": [
+            "a writing desk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-drawer",
+      "version": 1,
+      "lemma": "drawer",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cabinet"
+      ],
+      "rationale": "学習設計上の選定: 引き出しに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-drawer-1",
+          "pos": "noun",
+          "meaningJa": "引き出し",
+          "example": "Spare pens are in the top drawer.",
+          "translationJa": "予備のペンは一番上の引き出しにあります。",
+          "collocations": [
+            "a desk drawer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cabinet",
+      "version": 1,
+      "lemma": "cabinet",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cupboard"
+      ],
+      "rationale": "学習設計上の選定: 戸棚、収納棚に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cabinet-1",
+          "pos": "noun",
+          "meaningJa": "戸棚、収納棚",
+          "example": "Lock the cabinet after removing the files.",
+          "translationJa": "ファイルを取り出したら戸棚を施錠してください。",
+          "collocations": [
+            "a filing cabinet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-shelf",
+      "version": 1,
+      "lemma": "shelf",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "shelving"
+      ],
+      "rationale": "学習設計上の選定: 棚に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-shelf-1",
+          "pos": "noun",
+          "meaningJa": "棚",
+          "example": "Place heavy boxes on the bottom shelf.",
+          "translationJa": "重い箱は最下段の棚に置いてください。",
+          "collocations": [
+            "a storage shelf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-carpet",
+      "version": 1,
+      "lemma": "carpet",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "carpeting"
+      ],
+      "rationale": "学習設計上の選定: カーペットに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-carpet-1",
+          "pos": "noun",
+          "meaningJa": "カーペット",
+          "example": "The lobby carpet needs cleaning.",
+          "translationJa": "ロビーのカーペットには清掃が必要です。",
+          "collocations": [
+            "clean a carpet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-ceiling",
+      "version": 1,
+      "lemma": "ceiling",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "roof"
+      ],
+      "rationale": "学習設計上の選定: 天井に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-ceiling-1",
+          "pos": "noun",
+          "meaningJa": "天井",
+          "example": "The ceiling has several bright lights.",
+          "translationJa": "天井には明るい照明がいくつもあります。",
+          "collocations": [
+            "a high ceiling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-floor",
+      "version": 1,
+      "lemma": "floor",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "floor plan"
+      ],
+      "rationale": "学習設計上の選定: 階に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-floor-1",
+          "pos": "noun",
+          "meaningJa": "階",
+          "example": "Our office is on the third floor.",
+          "translationJa": "事務所は3階にあります。",
+          "collocations": [
+            "the third floor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wall",
+      "version": 1,
+      "lemma": "wall",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "partition"
+      ],
+      "rationale": "学習設計上の選定: 壁に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wall-1",
+          "pos": "noun",
+          "meaningJa": "壁",
+          "example": "Hang the calendar on that wall.",
+          "translationJa": "あの壁にカレンダーを掛けてください。",
+          "collocations": [
+            "a brick wall"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-door",
+      "version": 1,
+      "lemma": "door",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "doorway"
+      ],
+      "rationale": "学習設計上の選定: ドアに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-door-1",
+          "pos": "noun",
+          "meaningJa": "ドア",
+          "example": "Please close the door quietly.",
+          "translationJa": "ドアを静かに閉めてください。",
+          "collocations": [
+            "a sliding door"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-window",
+      "version": 1,
+      "lemma": "window",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "window frame"
+      ],
+      "rationale": "学習設計上の選定: 窓に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-window-1",
+          "pos": "noun",
+          "meaningJa": "窓",
+          "example": "The window overlooks a small park.",
+          "translationJa": "窓から小さな公園を見渡せます。",
+          "collocations": [
+            "open a window"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-entrance",
+      "version": 1,
+      "lemma": "entrance",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "entry"
+      ],
+      "rationale": "学習設計上の選定: 入口に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-entrance-1",
+          "pos": "noun",
+          "meaningJa": "入口",
+          "example": "The main entrance faces the station.",
+          "translationJa": "正面入口は駅に面しています。",
+          "collocations": [
+            "the main entrance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-exit",
+      "version": 1,
+      "lemma": "exit",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "way out"
+      ],
+      "rationale": "学習設計上の選定: 出口に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-exit-1",
+          "pos": "noun",
+          "meaningJa": "出口",
+          "example": "Do not block the emergency exit.",
+          "translationJa": "非常口をふさがないでください。",
+          "collocations": [
+            "an emergency exit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-lobby",
+      "version": 1,
+      "lemma": "lobby",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "foyer"
+      ],
+      "rationale": "学習設計上の選定: ロビーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-lobby-1",
+          "pos": "noun",
+          "meaningJa": "ロビー",
+          "example": "Your guide is waiting in the lobby.",
+          "translationJa": "ガイドがロビーでお待ちです。",
+          "collocations": [
+            "a hotel lobby"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-reception",
+      "version": 1,
+      "lemma": "reception",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "receptionist"
+      ],
+      "rationale": "学習設計上の選定: 受付に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-reception-1",
+          "pos": "noun",
+          "meaningJa": "受付",
+          "example": "Collect your visitor badge at reception.",
+          "translationJa": "受付で来客用の入館証を受け取ってください。",
+          "collocations": [
+            "the reception desk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-elevator",
+      "version": 1,
+      "lemma": "elevator",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "lift"
+      ],
+      "rationale": "学習設計上の選定: エレベーターに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-elevator-1",
+          "pos": "noun",
+          "meaningJa": "エレベーター",
+          "example": "This elevator goes to the rooftop restaurant.",
+          "translationJa": "このエレベーターは屋上レストランに行きます。",
+          "collocations": [
+            "take an elevator"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-escalator",
+      "version": 1,
+      "lemma": "escalator",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "moving stairs"
+      ],
+      "rationale": "学習設計上の選定: エスカレーターに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-escalator-1",
+          "pos": "noun",
+          "meaningJa": "エスカレーター",
+          "example": "The escalator leads to the food court.",
+          "translationJa": "エスカレーターは飲食店街につながっています。",
+          "collocations": [
+            "ride an escalator"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-corridor",
+      "version": 1,
+      "lemma": "corridor",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "hallway"
+      ],
+      "rationale": "学習設計上の選定: 廊下に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-corridor-1",
+          "pos": "noun",
+          "meaningJa": "廊下",
+          "example": "The meeting room is along this corridor.",
+          "translationJa": "会議室はこの廊下の先です。",
+          "collocations": [
+            "a long corridor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-staircase",
+      "version": 1,
+      "lemma": "staircase",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "stairs"
+      ],
+      "rationale": "学習設計上の選定: 階段に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-staircase-1",
+          "pos": "noun",
+          "meaningJa": "階段",
+          "example": "Use the staircase during an emergency.",
+          "translationJa": "緊急時は階段を使ってください。",
+          "collocations": [
+            "a spiral staircase"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-basement",
+      "version": 1,
+      "lemma": "basement",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "underground"
+      ],
+      "rationale": "学習設計上の選定: 地下室、地階に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-basement-1",
+          "pos": "noun",
+          "meaningJa": "地下室、地階",
+          "example": "Bicycles may be stored in the basement.",
+          "translationJa": "自転車は地下室に保管できます。",
+          "collocations": [
+            "the basement level"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-roof",
+      "version": 1,
+      "lemma": "roof",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "rooftop"
+      ],
+      "rationale": "学習設計上の選定: 屋根に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-roof-1",
+          "pos": "noun",
+          "meaningJa": "屋根",
+          "example": "Workers repaired the roof after the storm.",
+          "translationJa": "嵐の後、作業員が屋根を修理しました。",
+          "collocations": [
+            "repair a roof"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-room",
+      "version": 1,
+      "lemma": "room",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "room number"
+      ],
+      "rationale": "学習設計上の選定: 部屋に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-room-1",
+          "pos": "noun",
+          "meaningJa": "部屋",
+          "example": "This room seats twenty people.",
+          "translationJa": "この部屋は20人が座れます。",
+          "collocations": [
+            "a meeting room"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen",
+      "version": 1,
+      "lemma": "kitchen",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "kitchenware"
+      ],
+      "rationale": "学習設計上の選定: 台所に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-kitchen-1",
+          "pos": "noun",
+          "meaningJa": "台所",
+          "example": "The shared kitchen has a microwave.",
+          "translationJa": "共用の台所には電子レンジがあります。",
+          "collocations": [
+            "a shared kitchen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-restroom",
+      "version": 1,
+      "lemma": "restroom",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "washroom"
+      ],
+      "rationale": "学習設計上の選定: お手洗いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-restroom-1",
+          "pos": "noun",
+          "meaningJa": "お手洗い",
+          "example": "The restrooms are beside the elevators.",
+          "translationJa": "お手洗いはエレベーターの隣です。",
+          "collocations": [
+            "a public restroom"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-parking",
+      "version": 1,
+      "lemma": "parking",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "parking lot"
+      ],
+      "rationale": "学習設計上の選定: 駐車、駐車場に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-parking-1",
+          "pos": "noun",
+          "meaningJa": "駐車、駐車場",
+          "example": "Free parking is limited to two hours.",
+          "translationJa": "無料駐車は2時間までです。",
+          "collocations": [
+            "a parking space"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-security",
+      "version": 1,
+      "lemma": "security",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "secure"
+      ],
+      "rationale": "学習設計上の選定: 警備、防犯に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-security-1",
+          "pos": "noun",
+          "meaningJa": "警備、防犯",
+          "example": "Security staff check bags at the entrance.",
+          "translationJa": "警備員が入口でかばんを確認します。",
+          "collocations": [
+            "a security check"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-badge",
+      "version": 1,
+      "lemma": "badge",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "name tag"
+      ],
+      "rationale": "学習設計上の選定: 名札、身分証に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-badge-1",
+          "pos": "noun",
+          "meaningJa": "名札、身分証",
+          "example": "Wear your badge inside the building.",
+          "translationJa": "建物内では身分証を着用してください。",
+          "collocations": [
+            "an identification badge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-password",
+      "version": 1,
+      "lemma": "password",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "authentication"
+      ],
+      "rationale": "学習設計上の選定: パスワードに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-password-1",
+          "pos": "noun",
+          "meaningJa": "パスワード",
+          "example": "Choose a password you have never used.",
+          "translationJa": "未使用のパスワードを選んでください。",
+          "collocations": [
+            "reset a password"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-permission",
+      "version": 1,
+      "lemma": "permission",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "permit"
+      ],
+      "rationale": "学習設計上の選定: 許可に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-permission-1",
+          "pos": "noun",
+          "meaningJa": "許可",
+          "example": "You need permission to photograph the artwork.",
+          "translationJa": "美術品の撮影には許可が必要です。",
+          "collocations": [
+            "get permission"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-policy",
+      "version": 1,
+      "lemma": "policy",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "policyholder"
+      ],
+      "rationale": "学習設計上の選定: 方針、規定に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-policy-1",
+          "pos": "noun",
+          "meaningJa": "方針、規定",
+          "example": "Our refund policy is printed below.",
+          "translationJa": "当店の返金規定は下に記載されています。",
+          "collocations": [
+            "a company policy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-procedure",
+      "version": 1,
+      "lemma": "procedure",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "procedural"
+      ],
+      "rationale": "学習設計上の選定: 手順に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-procedure-1",
+          "pos": "noun",
+          "meaningJa": "手順",
+          "example": "Follow the procedure for reporting accidents.",
+          "translationJa": "事故報告の手順に従ってください。",
+          "collocations": [
+            "a standard procedure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-instruction",
+      "version": 1,
+      "lemma": "instruction",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "instruct"
+      ],
+      "rationale": "学習設計上の選定: 指示に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-instruction-1",
+          "pos": "noun",
+          "meaningJa": "指示",
+          "example": "Read the instructions before using the machine.",
+          "translationJa": "機械を使う前に指示を読んでください。",
+          "collocations": [
+            "follow instructions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-regulation",
+      "version": 1,
+      "lemma": "regulation",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "regulate"
+      ],
+      "rationale": "学習設計上の選定: 規則、規制に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-regulation-1",
+          "pos": "noun",
+          "meaningJa": "規則、規制",
+          "example": "New regulations limit noise after ten.",
+          "translationJa": "新しい規則で10時以降の騒音が制限されます。",
+          "collocations": [
+            "safety regulations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-requirement",
+      "version": 1,
+      "lemma": "requirement",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "required"
+      ],
+      "rationale": "学習設計上の選定: 要件に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-requirement-1",
+          "pos": "noun",
+          "meaningJa": "要件",
+          "example": "A driving license is a job requirement.",
+          "translationJa": "運転免許は応募の要件です。",
+          "collocations": [
+            "meet a requirement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-guideline",
+      "version": 1,
+      "lemma": "guideline",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "guidance"
+      ],
+      "rationale": "学習設計上の選定: 指針に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-guideline-1",
+          "pos": "noun",
+          "meaningJa": "指針",
+          "example": "These guidelines help staff handle complaints.",
+          "translationJa": "これらの指針は苦情対応に役立ちます。",
+          "collocations": [
+            "follow guidelines"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-standard",
+      "version": 1,
+      "lemma": "standard",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "standardize"
+      ],
+      "rationale": "学習設計上の選定: 基準に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-standard-1",
+          "pos": "noun",
+          "meaningJa": "基準",
+          "example": "All products meet international safety standards.",
+          "translationJa": "全製品が国際安全基準を満たします。",
+          "collocations": [
+            "a safety standard"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-rule",
+      "version": 2,
+      "lemma": "rule",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "ruling"
+      ],
+      "rationale": "学習設計上の選定: 規則に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-rule-1",
+          "pos": "noun",
+          "meaningJa": "規則",
+          "example": "One rule prohibits food in the laboratory.",
+          "translationJa": "ある規則は実験室への食べ物の持ち込みを禁じています。",
+          "collocations": [
+            "obey a rule"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-exception",
+      "version": 1,
+      "lemma": "exception",
+      "domain": "logistics",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "exceptional"
+      ],
+      "rationale": "学習設計上の選定: 例外に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-exception-1",
+          "pos": "noun",
+          "meaningJa": "例外",
+          "example": "Weekend deliveries are an exception.",
+          "translationJa": "週末の配達は例外です。",
+          "collocations": [
+            "make an exception"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-issue",
+      "version": 1,
+      "lemma": "issue",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "problem"
+      ],
+      "rationale": "学習設計上の選定: 問題、課題に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-issue-1",
+          "pos": "noun",
+          "meaningJa": "問題、課題",
+          "example": "We resolved the issue before opening.",
+          "translationJa": "開店前に問題を解決しました。",
+          "collocations": [
+            "resolve an issue"
+          ]
+        },
+        {
+          "id": "v-issue-2",
+          "pos": "verb",
+          "meaningJa": "発行する",
+          "example": "The desk issues temporary visitor passes.",
+          "translationJa": "窓口は来客用の一時入館証を発行します。",
+          "collocations": [
+            "issue a pass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-problem",
+      "version": 1,
+      "lemma": "problem",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "problematic"
+      ],
+      "rationale": "学習設計上の選定: 問題に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-problem-1",
+          "pos": "noun",
+          "meaningJa": "問題",
+          "example": "The technician found the electrical problem.",
+          "translationJa": "技術者は電気系統の問題を発見しました。",
+          "collocations": [
+            "solve a problem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-solution",
+      "version": 1,
+      "lemma": "solution",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "solve"
+      ],
+      "rationale": "学習設計上の選定: 解決策に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-solution-1",
+          "pos": "noun",
+          "meaningJa": "解決策",
+          "example": "The team proposed a simple solution.",
+          "translationJa": "チームは簡単な解決策を提案しました。",
+          "collocations": [
+            "find a solution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-method",
+      "version": 1,
+      "lemma": "method",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "methodology"
+      ],
+      "rationale": "学習設計上の選定: 方法に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-method-1",
+          "pos": "noun",
+          "meaningJa": "方法",
+          "example": "This method saves both time and money.",
+          "translationJa": "この方法は時間と費用を節約します。",
+          "collocations": [
+            "a research method"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-process",
+      "version": 1,
+      "lemma": "process",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "processing"
+      ],
+      "rationale": "学習設計上の選定: 工程、過程に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-process-1",
+          "pos": "noun",
+          "meaningJa": "工程、過程",
+          "example": "The hiring process takes several weeks.",
+          "translationJa": "採用の過程には数週間かかります。",
+          "collocations": [
+            "the hiring process"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-system",
+      "version": 1,
+      "lemma": "system",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "systematic"
+      ],
+      "rationale": "学習設計上の選定: 仕組み、システムに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-system-1",
+          "pos": "noun",
+          "meaningJa": "仕組み、システム",
+          "example": "The booking system is temporarily unavailable.",
+          "translationJa": "予約システムは一時的に利用できません。",
+          "collocations": [
+            "a booking system"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-record",
+      "version": 1,
+      "lemma": "record",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "recording"
+      ],
+      "rationale": "学習設計上の選定: 記録に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-record-1",
+          "pos": "noun",
+          "meaningJa": "記録",
+          "example": "Keep a record of all expenses.",
+          "translationJa": "すべての経費の記録を残してください。",
+          "collocations": [
+            "keep a record"
+          ]
+        },
+        {
+          "id": "v-record-2",
+          "pos": "verb",
+          "meaningJa": "記録する",
+          "example": "Record the temperature every hour.",
+          "translationJa": "1時間ごとに温度を記録してください。",
+          "collocations": [
+            "record the temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-detail",
+      "version": 1,
+      "lemma": "detail",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "detailed"
+      ],
+      "rationale": "学習設計上の選定: 詳細に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-detail-1",
+          "pos": "noun",
+          "meaningJa": "詳細",
+          "example": "Further details will be sent tomorrow.",
+          "translationJa": "詳しい情報は明日送られます。",
+          "collocations": [
+            "contact details"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-information",
+      "version": 1,
+      "lemma": "information",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "informative"
+      ],
+      "rationale": "学習設計上の選定: 情報に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-information-1",
+          "pos": "noun",
+          "meaningJa": "情報",
+          "example": "The website provides information about local events.",
+          "translationJa": "サイトには地元行事の情報があります。",
+          "collocations": [
+            "useful information"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-evidence",
+      "version": 1,
+      "lemma": "evidence",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "evident"
+      ],
+      "rationale": "学習設計上の選定: 証拠に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-evidence-1",
+          "pos": "noun",
+          "meaningJa": "証拠",
+          "example": "The photos provide evidence of the damage.",
+          "translationJa": "写真は損傷の証拠になります。",
+          "collocations": [
+            "provide evidence"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-reference",
+      "version": 1,
+      "lemma": "reference",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "refer"
+      ],
+      "rationale": "学習設計上の選定: 参照に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-reference-1",
+          "pos": "noun",
+          "meaningJa": "参照",
+          "example": "Keep this guide for future reference.",
+          "translationJa": "今後の参照用にこの手引きを保管してください。",
+          "collocations": [
+            "for future reference"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-copy",
+      "version": 1,
+      "lemma": "copy",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "photocopy"
+      ],
+      "rationale": "学習設計上の選定: 写し、部に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-copy-1",
+          "pos": "noun",
+          "meaningJa": "写し、部",
+          "example": "Please bring a copy of your passport.",
+          "translationJa": "パスポートのコピーを持参してください。",
+          "collocations": [
+            "a printed copy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-original",
+      "version": 1,
+      "lemma": "original",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "originally"
+      ],
+      "rationale": "学習設計上の選定: 元の、原本のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-original-1",
+          "pos": "adjective",
+          "meaningJa": "元の、原本の",
+          "example": "Keep the original receipt for your records.",
+          "translationJa": "記録用に領収書の原本を保管してください。",
+          "collocations": [
+            "the original document"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-draft",
+      "version": 1,
+      "lemma": "draft",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "drafting"
+      ],
+      "rationale": "学習設計上の選定: 草案、下書きに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-draft-1",
+          "pos": "noun",
+          "meaningJa": "草案、下書き",
+          "example": "Please review the first draft by Friday.",
+          "translationJa": "金曜日までに初稿を確認してください。",
+          "collocations": [
+            "a first draft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-version",
+      "version": 1,
+      "lemma": "version",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "upgrade"
+      ],
+      "rationale": "学習設計上の選定: 版に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-version-1",
+          "pos": "noun",
+          "meaningJa": "版",
+          "example": "The latest version includes a search feature.",
+          "translationJa": "最新版には検索機能があります。",
+          "collocations": [
+            "the latest version"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-auditorium",
+      "version": 1,
+      "lemma": "auditorium",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "lecture hall"
+      ],
+      "rationale": "学習設計上の選定: 講堂に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-auditorium-1",
+          "pos": "noun",
+          "meaningJa": "講堂",
+          "example": "The lecture will be in the auditorium.",
+          "translationJa": "講演は講堂で行われます。",
+          "collocations": [
+            "a spacious auditorium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-conference",
+      "version": 1,
+      "lemma": "conference",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "conference hall"
+      ],
+      "rationale": "学習設計上の選定: 会議、学会に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-conference-1",
+          "pos": "noun",
+          "meaningJa": "会議、学会",
+          "example": "The conference attracted researchers from twenty countries.",
+          "translationJa": "会議には20か国の研究者が集まりました。",
+          "collocations": [
+            "attend a conference"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-presentation",
+      "version": 1,
+      "lemma": "presentation",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "presenter"
+      ],
+      "rationale": "学習設計上の選定: 発表、説明に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-presentation-1",
+          "pos": "noun",
+          "meaningJa": "発表、説明",
+          "example": "Her presentation included a product demonstration.",
+          "translationJa": "彼女の発表には製品実演が含まれていました。",
+          "collocations": [
+            "give a presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-approval",
+      "version": 1,
+      "lemma": "approval",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "approve"
+      ],
+      "rationale": "学習設計上の選定: 承認に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-approval-1",
+          "pos": "noun",
+          "meaningJa": "承認",
+          "example": "The project needs final approval.",
+          "translationJa": "その計画には最終承認が必要です。",
+          "collocations": [
+            "obtain approval"
+          ]
+        }
+      ]
+    }
+  ]
+}

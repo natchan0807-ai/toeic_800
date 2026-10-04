@@ -1,0 +1,695 @@
+{
+  "id": "questions-001",
+  "items": [
+    {
+      "id": "q-0001",
+      "version": 2,
+      "stem": "The board gave its final _____ for the renovation, so work can begin next week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "approve"
+        },
+        {
+          "id": "b",
+          "text": "approval"
+        },
+        {
+          "id": "c",
+          "text": "approving"
+        },
+        {
+          "id": "d",
+          "text": "approvingly"
+        }
+      ]
+    },
+    {
+      "id": "q-0002",
+      "version": 1,
+      "stem": "Applicants need to provide a _____ description of their previous responsibilities.",
+      "options": [
+        {
+          "id": "a",
+          "text": "comprehension"
+        },
+        {
+          "id": "b",
+          "text": "comprehensively"
+        },
+        {
+          "id": "c",
+          "text": "comprehensive"
+        },
+        {
+          "id": "d",
+          "text": "comprehend"
+        }
+      ]
+    },
+    {
+      "id": "q-0003",
+      "version": 1,
+      "stem": "Please read the cancellation policy _____ before you reserve a room.",
+      "options": [
+        {
+          "id": "a",
+          "text": "carefully"
+        },
+        {
+          "id": "b",
+          "text": "carefulness"
+        },
+        {
+          "id": "c",
+          "text": "care"
+        },
+        {
+          "id": "d",
+          "text": "careful"
+        }
+      ]
+    },
+    {
+      "id": "q-0004",
+      "version": 1,
+      "stem": "The facilities team _____ the damaged lock yesterday afternoon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has replaced"
+        },
+        {
+          "id": "b",
+          "text": "replaced"
+        },
+        {
+          "id": "c",
+          "text": "replaces"
+        },
+        {
+          "id": "d",
+          "text": "will replace"
+        }
+      ]
+    },
+    {
+      "id": "q-0005",
+      "version": 1,
+      "stem": "All travel requests must _____ by a department manager before tickets are purchased.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be approving"
+        },
+        {
+          "id": "b",
+          "text": "be approved"
+        },
+        {
+          "id": "c",
+          "text": "approved"
+        },
+        {
+          "id": "d",
+          "text": "approve"
+        }
+      ]
+    },
+    {
+      "id": "q-0006",
+      "version": 2,
+      "stem": "Ms. Chen _____ at the Osaka office since it opened in 2019.",
+      "options": [
+        {
+          "id": "a",
+          "text": "worked"
+        },
+        {
+          "id": "b",
+          "text": "will work"
+        },
+        {
+          "id": "c",
+          "text": "works"
+        },
+        {
+          "id": "d",
+          "text": "has worked"
+        }
+      ]
+    },
+    {
+      "id": "q-0007",
+      "version": 1,
+      "stem": "Each participant _____ a printed schedule at the start of the workshop.",
+      "options": [
+        {
+          "id": "a",
+          "text": "receive"
+        },
+        {
+          "id": "b",
+          "text": "receives"
+        },
+        {
+          "id": "c",
+          "text": "receiving"
+        },
+        {
+          "id": "d",
+          "text": "to receive"
+        }
+      ]
+    },
+    {
+      "id": "q-0008",
+      "version": 1,
+      "stem": "A number of local shops _____ now offering discounts to festival visitors.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "be"
+        },
+        {
+          "id": "c",
+          "text": "being"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "id": "q-0009",
+      "version": 1,
+      "stem": "The list of available meeting rooms _____ on the reception desk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "being"
+        },
+        {
+          "id": "c",
+          "text": "be"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "id": "q-0010",
+      "version": 1,
+      "stem": "We ask all visitors to keep _____ identification badges visible while in the building.",
+      "options": [
+        {
+          "id": "a",
+          "text": "them"
+        },
+        {
+          "id": "b",
+          "text": "theirs"
+        },
+        {
+          "id": "c",
+          "text": "they"
+        },
+        {
+          "id": "d",
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "id": "q-0011",
+      "version": 3,
+      "stem": "Before meeting the clients, Mr. Park introduced _____ to the new project team.",
+      "options": [
+        {
+          "id": "a",
+          "text": "himself"
+        },
+        {
+          "id": "b",
+          "text": "itself"
+        },
+        {
+          "id": "c",
+          "text": "herself"
+        },
+        {
+          "id": "d",
+          "text": "ourselves"
+        }
+      ]
+    },
+    {
+      "id": "q-0012",
+      "version": 1,
+      "stem": "If you need a signed copy of the agreement, please contact _____ directly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "we"
+        },
+        {
+          "id": "b",
+          "text": "ours"
+        },
+        {
+          "id": "c",
+          "text": "our"
+        },
+        {
+          "id": "d",
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "id": "q-0013",
+      "version": 1,
+      "stem": "To be included in this month's newsletter, submit your article _____ Friday at noon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "during"
+        },
+        {
+          "id": "b",
+          "text": "since"
+        },
+        {
+          "id": "c",
+          "text": "until"
+        },
+        {
+          "id": "d",
+          "text": "by"
+        }
+      ]
+    },
+    {
+      "id": "q-0014",
+      "version": 1,
+      "stem": "The replacement parts will be stored here _____ three weeks while the workshop is renovated.",
+      "options": [
+        {
+          "id": "a",
+          "text": "since"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "for"
+        },
+        {
+          "id": "d",
+          "text": "by"
+        }
+      ]
+    },
+    {
+      "id": "q-0015",
+      "version": 1,
+      "stem": "The survey revealed strong interest _____ a shuttle service between the station and the hotel.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "id": "q-0016",
+      "version": 1,
+      "stem": "_____ the auditorium was nearly full, the organizers found seats for our entire group.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unless"
+        },
+        {
+          "id": "b",
+          "text": "Although"
+        },
+        {
+          "id": "c",
+          "text": "Despite"
+        },
+        {
+          "id": "d",
+          "text": "Because"
+        }
+      ]
+    },
+    {
+      "id": "q-0017",
+      "version": 1,
+      "stem": "Your reservation will be canceled _____ we receive payment by the end of today.",
+      "options": [
+        {
+          "id": "a",
+          "text": "once"
+        },
+        {
+          "id": "b",
+          "text": "although"
+        },
+        {
+          "id": "c",
+          "text": "unless"
+        },
+        {
+          "id": "d",
+          "text": "because"
+        }
+      ]
+    },
+    {
+      "id": "q-0018",
+      "version": 2,
+      "stem": "The trainer spoke slowly _____ everyone could follow the safety instructions.",
+      "options": [
+        {
+          "id": "a",
+          "text": "despite"
+        },
+        {
+          "id": "b",
+          "text": "so as to"
+        },
+        {
+          "id": "c",
+          "text": "so that"
+        },
+        {
+          "id": "d",
+          "text": "because of"
+        }
+      ]
+    },
+    {
+      "id": "q-0019",
+      "version": 1,
+      "stem": "Employees _____ wish to join the weekend tour should sign up by Wednesday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "whose"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "whom"
+        }
+      ]
+    },
+    {
+      "id": "q-0020",
+      "version": 2,
+      "stem": "The new scanner, _____ can process both sides of a page, is beside the copier.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whose"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "id": "q-0021",
+      "version": 1,
+      "stem": "We invited a consultant _____ experience includes several hospital construction projects.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whom"
+        },
+        {
+          "id": "b",
+          "text": "whose"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "id": "q-0022",
+      "version": 1,
+      "stem": "The express bus is _____ than a taxi for travelers on a tight budget.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cheap"
+        },
+        {
+          "id": "b",
+          "text": "cheaper"
+        },
+        {
+          "id": "c",
+          "text": "cheaply"
+        },
+        {
+          "id": "d",
+          "text": "cheapest"
+        }
+      ]
+    },
+    {
+      "id": "q-0023",
+      "version": 2,
+      "stem": "Of the three proposals, the committee selected the _____ solution.",
+      "options": [
+        {
+          "id": "a",
+          "text": "simply"
+        },
+        {
+          "id": "b",
+          "text": "simpler"
+        },
+        {
+          "id": "c",
+          "text": "simplest"
+        },
+        {
+          "id": "d",
+          "text": "simplicity"
+        }
+      ]
+    },
+    {
+      "id": "q-0024",
+      "version": 2,
+      "stem": "After the repair, the original printer is as _____ as the newer model.",
+      "options": [
+        {
+          "id": "a",
+          "text": "reliable"
+        },
+        {
+          "id": "b",
+          "text": "more reliable"
+        },
+        {
+          "id": "c",
+          "text": "reliably"
+        },
+        {
+          "id": "d",
+          "text": "most reliable"
+        }
+      ]
+    },
+    {
+      "id": "q-0025",
+      "version": 2,
+      "stem": "There is not _____ space left in the cabinet, so please store the folders elsewhere.",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "a few"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "several"
+        }
+      ]
+    },
+    {
+      "id": "q-0026",
+      "version": 1,
+      "stem": "The designer made _____ minor changes before sending the final drawing to the client.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a little"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "each"
+        },
+        {
+          "id": "d",
+          "text": "a few"
+        }
+      ]
+    },
+    {
+      "id": "q-0027",
+      "version": 1,
+      "stem": "This projector is already booked, so we will need _____ one for the afternoon session.",
+      "options": [
+        {
+          "id": "a",
+          "text": "another"
+        },
+        {
+          "id": "b",
+          "text": "every"
+        },
+        {
+          "id": "c",
+          "text": "others"
+        },
+        {
+          "id": "d",
+          "text": "other"
+        }
+      ]
+    },
+    {
+      "id": "q-0028",
+      "version": 1,
+      "stem": "The director cannot _____ the purchase until she has reviewed the cost estimate.",
+      "options": [
+        {
+          "id": "a",
+          "text": "repair"
+        },
+        {
+          "id": "b",
+          "text": "attend"
+        },
+        {
+          "id": "c",
+          "text": "approve"
+        },
+        {
+          "id": "d",
+          "text": "borrow"
+        }
+      ]
+    },
+    {
+      "id": "q-0029",
+      "version": 1,
+      "stem": "Because the speaker's flight was canceled, the organizers had to _____ the seminar until Friday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "postpone"
+        },
+        {
+          "id": "b",
+          "text": "collect"
+        },
+        {
+          "id": "c",
+          "text": "publish"
+        },
+        {
+          "id": "d",
+          "text": "replace"
+        }
+      ]
+    },
+    {
+      "id": "q-0030",
+      "version": 1,
+      "stem": "Please _____ the damaged cable with a new one before using the monitor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "remind"
+        },
+        {
+          "id": "b",
+          "text": "borrow"
+        },
+        {
+          "id": "c",
+          "text": "attend"
+        },
+        {
+          "id": "d",
+          "text": "replace"
+        }
+      ]
+    }
+  ]
+}

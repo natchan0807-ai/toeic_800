@@ -1,0 +1,12 @@
+[
+  {"id":"pos","name":"品詞・語形","description":"空所の文中の役割を読み、名詞・動詞・形容詞・副詞などの語形を選ぶ。","parent":"grammar"},
+  {"id":"verb","name":"動詞・時制","description":"時を示す手掛かり、態、動詞の後続形に合う形を選ぶ。","parent":"grammar"},
+  {"id":"agreement","name":"主語と動詞の一致","description":"主語の中心語と数を捉え、挿入句に惑わされず動詞を一致させる。","parent":"grammar"},
+  {"id":"pronoun","name":"代名詞","description":"指示対象と格を確認し、人称・所有・再帰・指示代名詞を使い分ける。","parent":"grammar"},
+  {"id":"preposition","name":"前置詞","description":"時間・場所・関係や定型の組み合わせに適した前置詞を選ぶ。","parent":"grammar"},
+  {"id":"conjunction","name":"接続詞","description":"節同士の関係を読み、理由・条件・譲歩・時を示す接続表現を選ぶ。","parent":"grammar"},
+  {"id":"relative","name":"関係詞","description":"先行詞と関係節内の不足要素を特定し、関係代名詞・関係副詞を選ぶ。","parent":"grammar"},
+  {"id":"comparison","name":"比較","description":"比較対象と構文に応じ、原級・比較級・最上級と修飾表現を選ぶ。","parent":"grammar"},
+  {"id":"determiner","name":"冠詞・数量表現","description":"可算・不可算、単複、限定の有無に合う冠詞や数量表現を選ぶ。","parent":"grammar"},
+  {"id":"vocabulary","name":"語彙・語法","description":"文脈に合う語義と自然な語の組み合わせを判断する。","parent":"lexical"}
+]

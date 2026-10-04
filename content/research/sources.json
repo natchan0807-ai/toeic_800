@@ -1,0 +1,79 @@
+[
+  {
+    "id": "iibc-samples",
+    "url": "https://www.iibc-global.org/toeic/toeic_program/sample_all.html",
+    "title": "IIBC：TOEIC Programのサンプル問題を見てみよう",
+    "checkedAt": "2026-10-04",
+    "publishedYear": null,
+    "scope": "各テストの形式一覧、L&Rサンプルへの導線、ページ末尾の著作権注記を確認。音声の再生検証は実施していない。",
+    "terms": "ディレクションとサンプルの権利がETSに帰属し、許可のない複製利用を禁じる旨の注記を確認。本文・設問・画像・音声は教材へ取り込まない。",
+    "limitations": "更新年の明示を確認できない。入口ページだけではPart 5の技能分布や語彙頻度は分からない。",
+    "evidenceType": "official"
+  },
+  {
+    "id": "iibc-format",
+    "url": "https://www.iibc-global.org/toeic/test/lr/about/format.html",
+    "title": "IIBC：TOEIC Listening & Reading Test テストの形式と構成",
+    "checkedAt": "2026-10-04",
+    "publishedYear": null,
+    "scope": "セクション別構成とPart 5の説明を確認。Part 5は短文穴埋め30問で、4選択肢から適切な答えを選ぶ形式。",
+    "terms": "形式の事実を独自に要約して参照する。ETS/IIBCのロゴ、本文、図表の転載許可は取得していない。",
+    "limitations": "形式の根拠であり、10技能への分類・配分・難易度・個別語の頻度を示す資料ではない。公開年は確認できない。",
+    "evidenceType": "official"
+  },
+  {
+    "id": "iibc-part5",
+    "url": "https://www.iibc-global.org/toeic/test/lr/about/format/sample05.html",
+    "title": "IIBC：TOEIC Listening & Reading Test Part 5 サンプル問題",
+    "checkedAt": "2026-10-04",
+    "publishedYear": null,
+    "scope": "101–105の5問と解答、形式説明、著作権注記を閲覧。品詞、接続表現、代名詞、文脈語彙の学習対象を観察した。",
+    "terms": "ETSの許可を得ない複製利用を禁止する注記あり。問題文・選択肢・解説は本アプリへ複製せず、設計方針のみ参考にする。",
+    "limitations": "5問のみ。ETSのPDFと同一問題のため独立した10問として数えない。本試験の技能頻度や順位を推定できない。公開年は確認できない。",
+    "evidenceType": "official"
+  },
+  {
+    "id": "iibc-preparation",
+    "url": "https://www.iibc-global.org/toeic/support/prep.html",
+    "title": "IIBC：公式教材・問題集",
+    "checkedAt": "2026-10-04",
+    "publishedYear": null,
+    "scope": "L&R公式教材の案内、対象・刊行年月の掲載を確認。市販教材の収録語・例文・解説本文は取得していない。",
+    "terms": "書誌案内へのリンクのみ利用。市販単語帳の見出し語集合、並び順、訳文、例文を転用しない。転載・再配布の許諾は取得していない。",
+    "limitations": "公式教材の存在は確認できるが、本アプリの1000語が公式頻出語リストと一致する根拠にはならない。ページ自身の公開年は不明。",
+    "evidenceType": "official"
+  },
+  {
+    "id": "ets-preparation",
+    "url": "https://www.ets.org/toeic/test-takers/prepare.html",
+    "title": "ETS：Preparation Materials for the TOEIC Tests",
+    "checkedAt": "2026-10-04",
+    "publishedYear": null,
+    "scope": "公式準備資料の案内とL&R sample tests PDFのリンクを確認し、リンク先を閲覧した。",
+    "terms": "準備資料への参照のみ。資料の一般的な再配布・改変許諾は確認していない。リンク先PDFの権利注記を尊重する。",
+    "limitations": "紹介ページは網羅的な語彙・技能データではない。公開年の明示は確認できない。",
+    "evidenceType": "official"
+  },
+  {
+    "id": "ets-sample",
+    "url": "https://www.ets.org/content/dam/ets-org/pdfs/toeic/toeic-listening-reading-sample-test.pdf",
+    "title": "ETS：TOEIC Listening & Reading Sample Tests (Paper-delivered testing)",
+    "checkedAt": "2026-10-04",
+    "publishedYear": null,
+    "scope": "34ページのPDFを取得。表紙・権利表記・PDF12ページ目（印刷9ページ）のPart 5の5問と方向説明・解答表を確認。",
+    "terms": "All rights reservedと複製・再利用を禁じる注記を確認。全文・問題・音声を配信教材へ取り込まない。",
+    "limitations": "末尾©2025、テスト本体©2016、音声原稿©2015が混在し、これらを初版公開年と断定しない。Part 5はIIBCと同一の5問で現在の本試験頻度ではない。",
+    "evidenceType": "official"
+  },
+  {
+    "id": "iibc-vocabulary-study",
+    "url": "https://www.iibc-global.org/library/default/toeic/official_data/lr/research_02/pdf/6_J.pdf",
+    "title": "卯城祐司・濱田彰：新課程の英語教科書コーパスに基づくTOEIC語彙の特徴と難易度の推定",
+    "checkedAt": "2026-10-04",
+    "publishedYear": null,
+    "scope": "36ページを取得し、概要、方法3.1、結果3.2・3.3.3、参加者4.1・測定具4.2を確認。旧公式問題集vol.1–6の12テストと中高15冊の比較。語義分析は3語、別調査は大学生580名。付録リストは教材へ転用していない。",
+    "terms": "確認範囲に再配布を許すライセンス表示は見つからない。方法・限界を独自に要約し、表・語彙リスト・例文を複製しない。",
+    "limitations": "指定groupドメインURLは閲覧ツールでInternal Error。公式旧URLで確認。2012/2013年施行課程の教科書と古い問題集を扱い、最新頻度ではない。公開年は確証がないためnull。PDF画像の取得は失敗し、研究表の数値をOCRから詳細転記していない。",
+    "evidenceType": "research"
+  }
+]

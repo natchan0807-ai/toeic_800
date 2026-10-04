@@ -1,0 +1,722 @@
+{
+  "id": "vocab-002-review",
+  "batchId": "vocab-002",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:17:34.167236+00:00",
+  "method": "100見出し語103語義の全文を展開してAIが意味・英文・和訳・コロケーション・関連語を実読。判定を決定した後にJSONを整形。自動形式検査による内容合格ではない。人手確認0。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "v-agenda",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（議題、議事日程）について、英文・和訳・品詞と組み合わせ（set an agenda）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-appointment",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（予約、面会の約束）について、英文・和訳・品詞と組み合わせ（make an appointment）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-document",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（文書）について、英文・和訳・品詞と組み合わせ（an official document）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-file",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ファイル）について、英文・和訳・品詞と組み合わせ（open a file）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-folder",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（フォルダー）について、英文・和訳・品詞と組み合わせ（a shared folder）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-form",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（用紙、書式）について、英文・和訳・品詞と組み合わせ（an application form）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-letter",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（手紙）について、英文・和訳・品詞と組み合わせ（write a letter）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-notice",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（掲示、通知）について、英文・和訳・品詞と組み合わせ（post a notice）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-memo",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（社内連絡文、メモ）について、英文・和訳・品詞と組み合わせ（an internal memo）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-message",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（伝言、メッセージ）について、英文・和訳・品詞と組み合わせ（leave a message）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-email",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（電子メール）について、英文・和訳・品詞と組み合わせ（send an email）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-address",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（住所 / 問題などに対処する）について、英文・和訳・品詞と組み合わせ（a mailing address / address a concern）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-department",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（部門）について、英文・和訳・品詞と組み合わせ（the marketing department）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-division",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（事業部）について、英文・和訳・品詞と組み合わせ（a sales division）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-branch",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（支店）について、英文・和訳・品詞と組み合わせ（a local branch）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-headquarters",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（本社、本部）について、英文・和訳・品詞と組み合わせ（corporate headquarters）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-committee",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（委員会）について、英文・和訳・品詞と組み合わせ（a planning committee）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-board",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（取締役会）について、英文・和訳・品詞と組み合わせ（the board of directors）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-director",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（取締役、部門責任者）について、英文・和訳・品詞と組み合わせ（a managing director）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-manager",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（管理職、支配人）について、英文・和訳・品詞と組み合わせ（a hotel manager）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-supervisor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（監督者、直属の上司）について、英文・和訳・品詞と組み合わせ（a shift supervisor）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-colleague",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（同僚）について、英文・和訳・品詞と組み合わせ（a former colleague）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-employee",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（従業員）について、英文・和訳・品詞と組み合わせ（a full-time employee）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-employer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（雇用主）について、英文・和訳・品詞と組み合わせ（a prospective employer）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-staff",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（職員、スタッフ）について、英文・和訳・品詞と組み合わせ（staff members）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-candidate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（候補者）について、英文・和訳・品詞と組み合わせ（a suitable candidate）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-applicant",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（応募者）について、英文・和訳・品詞と組み合わせ（a job applicant）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-interview",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（面接）について、英文・和訳・品詞と組み合わせ（a job interview）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-vacancy",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（空き、欠員）について、英文・和訳・品詞と組み合わせ（fill a vacancy）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-position",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（職、役職）について、英文・和訳・品詞と組み合わせ（a permanent position）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-role",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（役割）について、英文・和訳・品詞と組み合わせ（play a role）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-task",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（作業、任務）について、英文・和訳・品詞と組み合わせ（complete a task）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-duty",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（職務、義務）について、英文・和訳・品詞と組み合わせ（perform a duty）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-responsibility",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（責任）について、英文・和訳・品詞と組み合わせ（take responsibility）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-project",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（計画、事業）について、英文・和訳・品詞と組み合わせ（a construction project）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-deadline",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（締め切り）について、英文・和訳・品詞と組み合わせ（meet a deadline）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-goal",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（目標）について、英文・和訳・品詞と組み合わせ（reach a goal）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-target",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（目標値、対象）について、英文・和訳・品詞と組み合わせ（a sales target）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-progress",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（進捗、進歩）について、英文・和訳・品詞と組み合わせ（make progress）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-result",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（結果）について、英文・和訳・品詞と組み合わせ（survey results）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-feedback",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（意見、反応）について、英文・和訳・品詞と組み合わせ（customer feedback）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-equipment",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（機器、設備）について、英文・和訳・品詞と組み合わせ（safety equipment）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-facility",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（施設）について、英文・和訳・品詞と組み合わせ（a training facility）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-furniture",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（家具）について、英文・和訳・品詞と組み合わせ（office furniture）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-desk",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（机）について、英文・和訳・品詞と組み合わせ（a writing desk）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-drawer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（引き出し）について、英文・和訳・品詞と組み合わせ（a desk drawer）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-cabinet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（戸棚、収納棚）について、英文・和訳・品詞と組み合わせ（a filing cabinet）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-shelf",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（棚）について、英文・和訳・品詞と組み合わせ（a storage shelf）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-carpet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（カーペット）について、英文・和訳・品詞と組み合わせ（clean a carpet）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-ceiling",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（天井）について、英文・和訳・品詞と組み合わせ（a high ceiling）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-floor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（階）について、英文・和訳・品詞と組み合わせ（the third floor）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-wall",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（壁）について、英文・和訳・品詞と組み合わせ（a brick wall）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-door",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ドア）について、英文・和訳・品詞と組み合わせ（a sliding door）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-window",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（窓）について、英文・和訳・品詞と組み合わせ（open a window）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-entrance",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（入口）について、英文・和訳・品詞と組み合わせ（the main entrance）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-exit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（出口）について、英文・和訳・品詞と組み合わせ（an emergency exit）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-lobby",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ロビー）について、英文・和訳・品詞と組み合わせ（a hotel lobby）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-reception",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（受付）について、英文・和訳・品詞と組み合わせ（the reception desk）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-elevator",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（エレベーター）について、英文・和訳・品詞と組み合わせ（take an elevator）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-escalator",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（エスカレーター）について、英文・和訳・品詞と組み合わせ（ride an escalator）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-corridor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（廊下）について、英文・和訳・品詞と組み合わせ（a long corridor）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-staircase",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（階段）について、英文・和訳・品詞と組み合わせ（a spiral staircase）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-basement",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（地下室、地階）について、英文・和訳・品詞と組み合わせ（the basement level）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-roof",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（屋根）について、英文・和訳・品詞と組み合わせ（repair a roof）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-room",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（部屋）について、英文・和訳・品詞と組み合わせ（a meeting room）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-kitchen",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（台所）について、英文・和訳・品詞と組み合わせ（a shared kitchen）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-restroom",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（お手洗い）について、英文・和訳・品詞と組み合わせ（a public restroom）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-parking",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（駐車、駐車場）について、英文・和訳・品詞と組み合わせ（a parking space）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-security",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（警備、防犯）について、英文・和訳・品詞と組み合わせ（a security check）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-badge",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（名札、身分証）について、英文・和訳・品詞と組み合わせ（an identification badge）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-password",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（パスワード）について、英文・和訳・品詞と組み合わせ（reset a password）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-permission",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（許可）について、英文・和訳・品詞と組み合わせ（get permission）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-policy",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（方針、規定）について、英文・和訳・品詞と組み合わせ（a company policy）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-procedure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（手順）について、英文・和訳・品詞と組み合わせ（a standard procedure）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-instruction",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（指示）について、英文・和訳・品詞と組み合わせ（follow instructions）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-regulation",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（規則、規制）について、英文・和訳・品詞と組み合わせ（safety regulations）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-requirement",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（要件）について、英文・和訳・品詞と組み合わせ（meet a requirement）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-guideline",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（指針）について、英文・和訳・品詞と組み合わせ（follow guidelines）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-standard",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（基準）について、英文・和訳・品詞と組み合わせ（a safety standard）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-rule",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "version 2の英文と和訳を再読。foodが「食べ物の持ち込み」に対応し、飲料を追加する訳が修正された。規則の語義とobey a ruleも自然。"
+    },
+    {
+      "targetId": "v-exception",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（例外）について、英文・和訳・品詞と組み合わせ（make an exception）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-issue",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（問題、課題 / 発行する）について、英文・和訳・品詞と組み合わせ（resolve an issue / issue a pass）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-problem",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（問題）について、英文・和訳・品詞と組み合わせ（solve a problem）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-solution",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（解決策）について、英文・和訳・品詞と組み合わせ（find a solution）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-method",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（方法）について、英文・和訳・品詞と組み合わせ（a research method）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-process",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（工程、過程）について、英文・和訳・品詞と組み合わせ（the hiring process）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-system",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（仕組み、システム）について、英文・和訳・品詞と組み合わせ（a booking system）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-record",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（記録 / 記録する）について、英文・和訳・品詞と組み合わせ（keep a record / record the temperature）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-detail",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（詳細）について、英文・和訳・品詞と組み合わせ（contact details）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-information",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（情報）について、英文・和訳・品詞と組み合わせ（useful information）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-evidence",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（証拠）について、英文・和訳・品詞と組み合わせ（provide evidence）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-reference",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（参照）について、英文・和訳・品詞と組み合わせ（for future reference）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-copy",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（写し、部）について、英文・和訳・品詞と組み合わせ（a printed copy）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-original",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（元の、原本の）について、英文・和訳・品詞と組み合わせ（the original document）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-draft",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（草案、下書き）について、英文・和訳・品詞と組み合わせ（a first draft）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-version",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（版）について、英文・和訳・品詞と組み合わせ（the latest version）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-auditorium",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（講堂）について、英文・和訳・品詞と組み合わせ（a spacious auditorium）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-conference",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（会議、学会）について、英文・和訳・品詞と組み合わせ（attend a conference）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-presentation",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（発表、説明）について、英文・和訳・品詞と組み合わせ（give a presentation）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    },
+    {
+      "targetId": "v-approval",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（承認）について、英文・和訳・品詞と組み合わせ（obtain approval）を読み照合。対象語義に対応する使い方で、意味を変える訳の不一致・不自然な組み合わせを認めなかった。"
+    }
+  ],
+  "revisionHistory": [
+    {
+      "targetId": "v-rule",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "v-rule-1.translationJa: foodは飲料まで含める根拠に乏しいため「飲食を禁じる」を「食べ物の持ち込みを禁じる」等へ修正する。"
+      ],
+      "reason": "全語義（規則）について、英文・和訳・品詞と組み合わせ（obey a rule）を読み照合。和訳が飲料まで対象を広げている点を要修正。"
+    }
+  ]
+}

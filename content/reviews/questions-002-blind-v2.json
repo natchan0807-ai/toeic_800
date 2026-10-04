@@ -1,0 +1,19 @@
+{
+  "id": "questions-002-blind-v2",
+  "batchId": "questions-002",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:23:17.325333+00:00",
+  "method": "q-0032 v2の盲検を再読して著者の新版説明を読む前に保存。旧版正解は既知。",
+  "items": [
+    {
+      "targetId": "q-0032",
+      "targetVersion": 2,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "entertainingは人を楽しませる物語を表す形容詞。entertaininglyは副詞、entertainは動詞、entertainedは感情の受け手でstoryに合わない。"
+    }
+  ]
+}

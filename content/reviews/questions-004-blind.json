@@ -1,0 +1,220 @@
+{
+  "id": "questions-004-blind",
+  "batchId": "questions-004",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:33:16.897942+00:00",
+  "method": "著者解答・解説・和訳を読む前に、blindのstem/optionsだけから全30問を独立解答。",
+  "items": [
+    {
+      "targetId": "q-0091",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "allの後の複数名詞requirements",
+      "issues": []
+    },
+    {
+      "targetId": "q-0092",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "passwordを修飾する形容詞secure",
+      "issues": []
+    },
+    {
+      "targetId": "q-0093",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "seemの補語となる形容詞clear",
+      "issues": []
+    },
+    {
+      "targetId": "q-0094",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "since1985から続く現在完了",
+      "issues": []
+    },
+    {
+      "targetId": "q-0095",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "last Octoberで過去形",
+      "issues": []
+    },
+    {
+      "targetId": "q-0096",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "should be keptの受動態",
+      "issues": []
+    },
+    {
+      "targetId": "q-0097",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "Each invoiceの単数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0098",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "主語deliveryの単数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0099",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "A number of passengersの複数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0100",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "複数volunteersの再帰themselves",
+      "issues": []
+    },
+    {
+      "targetId": "q-0101",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "所有代名詞hisがreportを代用",
+      "issues": []
+    },
+    {
+      "targetId": "q-0102",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "単数refrigeratorの代用one",
+      "issues": []
+    },
+    {
+      "targetId": "q-0103",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "interest inの語法",
+      "issues": []
+    },
+    {
+      "targetId": "q-0104",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "期間のfor",
+      "issues": []
+    },
+    {
+      "targetId": "q-0105",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "完了期限のby",
+      "issues": []
+    },
+    {
+      "targetId": "q-0106",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "receipt提示が必要条件のunless",
+      "issues": []
+    },
+    {
+      "targetId": "q-0107",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "高価でも修理が安いという譲歩Although",
+      "issues": []
+    },
+    {
+      "targetId": "q-0108",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "目的を表すso that＋節",
+      "issues": []
+    },
+    {
+      "targetId": "q-0109",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "subscriptionsの所有者を示すwhose",
+      "issues": []
+    },
+    {
+      "targetId": "q-0110",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "非制限用法でrouteを説明するwhich",
+      "issues": []
+    },
+    {
+      "targetId": "q-0111",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "workshopを場所として受けるwhere",
+      "issues": []
+    },
+    {
+      "targetId": "q-0112",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "as bright asの原級",
+      "issues": []
+    },
+    {
+      "targetId": "q-0113",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "among allでlowest",
+      "issues": []
+    },
+    {
+      "targetId": "q-0114",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "可算複数complaintsを修飾するfewer",
+      "issues": []
+    },
+    {
+      "targetId": "q-0115",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "不可算timeにmuch",
+      "issues": []
+    },
+    {
+      "targetId": "q-0116",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "可算複数batteriesにa few",
+      "issues": []
+    },
+    {
+      "targetId": "q-0117",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "破損した一つの代替にanother sample",
+      "issues": []
+    },
+    {
+      "targetId": "q-0118",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "在庫数を確認するinventory",
+      "issues": []
+    },
+    {
+      "targetId": "q-0119",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "客室の利用可能状況availability",
+      "issues": []
+    },
+    {
+      "targetId": "q-0120",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "同じ基準で評価するevaluate",
+      "issues": []
+    }
+  ]
+}

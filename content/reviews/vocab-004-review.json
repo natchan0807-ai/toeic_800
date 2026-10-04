@@ -1,0 +1,722 @@
+{
+  "id": "vocab-004-review",
+  "batchId": "vocab-004",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:23:44.858366+00:00",
+  "method": "全100語100語義の英文、和訳、意味、コロケーション、関連語をAIが読み比較。判定を決めてからJSONを整形。人手確認0。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "v-trip",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（旅行、出張）の英文、和訳、品詞、組み合わせ（a business trip）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-journey",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（旅、移動）の英文、和訳、品詞、組み合わせ（a long journey）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-tour",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（見学、周遊旅行）の英文、和訳、品詞、組み合わせ（a guided tour）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-vacation",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（休暇）の英文、和訳、品詞、組み合わせ（take a vacation）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-holiday",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（休日、休暇）の英文、和訳、品詞、組み合わせ（a public holiday）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-destination",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（目的地）の英文、和訳、品詞、組み合わせ（a final destination）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-route",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（経路）の英文、和訳、品詞、組み合わせ（a bus route）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-itinerary",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（旅程）の英文、和訳、品詞、組み合わせ（a detailed itinerary）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-map",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（地図）の英文、和訳、品詞、組み合わせ（a street map）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-guide",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（案内人、ガイド）の英文、和訳、品詞、組み合わせ（a tour guide）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-passenger",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（乗客）の英文、和訳、品詞、組み合わせ（a train passenger）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-visitor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（訪問者、来場者）の英文、和訳、品詞、組み合わせ（a first-time visitor）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-tourist",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（観光客）の英文、和訳、品詞、組み合わせ（foreign tourists）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-guest",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（宿泊客、招待客）の英文、和訳、品詞、組み合わせ（a hotel guest）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-host",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（主催者、もてなす人）の英文、和訳、品詞、組み合わせ（an event host）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-luggage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（旅行用の荷物）の英文、和訳、品詞、組み合わせ（store luggage）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-baggage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（手荷物）の英文、和訳、品詞、組み合わせ（baggage claim）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-suitcase",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（スーツケース）の英文、和訳、品詞、組み合わせ（pack a suitcase）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-backpack",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（リュックサック）の英文、和訳、品詞、組み合わせ（carry a backpack）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-ticket",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（切符、入場券）の英文、和訳、品詞、組み合わせ（a return ticket）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-fare",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（運賃）の英文、和訳、品詞、組み合わせ（a bus fare）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-flight",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（航空便）の英文、和訳、品詞、組み合わせ（a direct flight）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-airline",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（航空会社）の英文、和訳、品詞、組み合わせ（a regional airline）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-airport",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（空港）の英文、和訳、品詞、組み合わせ（an international airport）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-terminal",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ターミナル）の英文、和訳、品詞、組み合わせ（a bus terminal）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-gate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（搭乗口、門）の英文、和訳、品詞、組み合わせ（a departure gate）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-runway",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（滑走路）の英文、和訳、品詞、組み合わせ（an airport runway）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-departure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（出発）の英文、和訳、品詞、組み合わせ（departure time）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-arrival",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（到着）の英文、和訳、品詞、組み合わせ（on arrival）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-delay",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（遅れ）の英文、和訳、品詞、組み合わせ（a flight delay）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-transfer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（乗り換え）の英文、和訳、品詞、組み合わせ（a train transfer）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-transit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（輸送中の状態、通過）の英文、和訳、品詞、組み合わせ（in transit）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-transport",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（輸送、交通手段）の英文、和訳、品詞、組み合わせ（public transport）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-vehicle",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（車両）の英文、和訳、品詞、組み合わせ（a delivery vehicle）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-car",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（車）の英文、和訳、品詞、組み合わせ（a rental car）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-bus",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（バス）の英文、和訳、品詞、組み合わせ（catch a bus）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-railway",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（鉄道）の英文、和訳、品詞、組み合わせ（a railway line）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-subway",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（地下鉄）の英文、和訳、品詞、組み合わせ（a subway station）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-tram",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（路面電車）の英文、和訳、品詞、組み合わせ（a tram stop）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-ferry",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（フェリー）の英文、和訳、品詞、組み合わせ（a passenger ferry）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-ship",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（大型船）の英文、和訳、品詞、組み合わせ（a cargo ship）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-boat",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（小型船、ボート）の英文、和訳、品詞、組み合わせ（a fishing boat）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-taxi",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（タクシー）の英文、和訳、品詞、組み合わせ（take a taxi）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-bicycle",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（自転車）の英文、和訳、品詞、組み合わせ（ride a bicycle）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-motorcycle",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（オートバイ）の英文、和訳、品詞、組み合わせ（ride a motorcycle）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-van",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（バン、小型貨物車）の英文、和訳、品詞、組み合わせ（a delivery van）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-truck",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "v2を再読。荷下ろしする主語をdriverに変更し、truckはfromの目的語になった。自然な英文と和訳に修正済み。"
+    },
+    {
+      "targetId": "v-driver",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（運転手）の英文、和訳、品詞、組み合わせ（a bus driver）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-pilot",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（操縦士）の英文、和訳、品詞、組み合わせ（an airline pilot）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-crew",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（乗務員、作業班）の英文、和訳、品詞、組み合わせ（a cabin crew）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-seat",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（座席）の英文、和訳、品詞、組み合わせ（a window seat）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-aisle",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（通路）の英文、和訳、品詞、組み合わせ（an aisle seat）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-platform",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ホーム）の英文、和訳、品詞、組み合わせ（a station platform）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-station",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（駅）の英文、和訳、品詞、組み合わせ（a railway station）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-stop",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（停留所）の英文、和訳、品詞、組み合わせ（a bus stop）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-timetable",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（時刻表、時間割）の英文、和訳、品詞、組み合わせ（a train timetable）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-passport",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（パスポート）の英文、和訳、品詞、組み合わせ（a valid passport）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-visa",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（査証、ビザ）の英文、和訳、品詞、組み合わせ（apply for a visa）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-border",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（国境、境界）の英文、和訳、品詞、組み合わせ（cross a border）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-customs",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（税関）の英文、和訳、品詞、組み合わせ（go through customs）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-immigration",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（入国審査、移住）の英文、和訳、品詞、組み合わせ（immigration control）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-currency",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（通貨）の英文、和訳、品詞、組み合わせ（foreign currency）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-abroad",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（海外へ、海外で）の英文、和訳、品詞、組み合わせ（travel abroad）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-overseas",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（海外の）の英文、和訳、品詞、組み合わせ（an overseas office）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-domestic",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（国内の）の英文、和訳、品詞、組み合わせ（a domestic flight）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-international",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（国際的な）の英文、和訳、品詞、組み合わせ（an international event）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-local",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（地元の）の英文、和訳、品詞、組み合わせ（a local restaurant）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-nearby",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（近くの）の英文、和訳、品詞、組み合わせ（a nearby station）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-distance",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（距離）の英文、和訳、品詞、組み合わせ（walking distance）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-direction",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（方向、道順）の英文、和訳、品詞、組み合わせ（ask for directions）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-north",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（北）の英文、和訳、品詞、組み合わせ（in the north）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-south",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（南）の英文、和訳、品詞、組み合わせ（toward the south）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-east",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（東）の英文、和訳、品詞、組み合わせ（the east of the island）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-west",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（西）の英文、和訳、品詞、組み合わせ（from the west）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-road",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（道路）の英文、和訳、品詞、組み合わせ（a main road）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-street",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（通り）の英文、和訳、品詞、組み合わせ（a busy street）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-avenue",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（大通り）の英文、和訳、品詞、組み合わせ（a tree-lined avenue）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-intersection",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（交差点）の英文、和訳、品詞、組み合わせ（a busy intersection）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-traffic",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（交通量、車の流れ）の英文、和訳、品詞、組み合わせ（heavy traffic）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-highway",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（幹線道路、高速道路）の英文、和訳、品詞、組み合わせ（a major highway）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-bridge",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（橋）の英文、和訳、品詞、組み合わせ（cross a bridge）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-tunnel",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（トンネル）の英文、和訳、品詞、組み合わせ（a railway tunnel）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-sidewalk",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（歩道）の英文、和訳、品詞、組み合わせ（a wide sidewalk）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-crossing",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（横断場所、踏切）の英文、和訳、品詞、組み合わせ（a pedestrian crossing）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-harbor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（港、入り江）の英文、和訳、品詞、組み合わせ（a fishing harbor）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-port",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（港）の英文、和訳、品詞、組み合わせ（a commercial port）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-beach",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（浜辺）の英文、和訳、品詞、組み合わせ（a sandy beach）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-island",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（島）の英文、和訳、品詞、組み合わせ（a nearby island）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-coast",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（海岸、沿岸地域）の英文、和訳、品詞、組み合わせ（along the coast）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-mountain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（山）の英文、和訳、品詞、組み合わせ（a mountain trail）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-valley",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（谷）の英文、和訳、品詞、組み合わせ（a river valley）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-countryside",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（田園地方）の英文、和訳、品詞、組み合わせ（explore the countryside）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-scenery",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（景色）の英文、和訳、品詞、組み合わせ（enjoy the scenery）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-landmark",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（名所、目印）の英文、和訳、品詞、組み合わせ（a famous landmark）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-museum",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（博物館、美術館）の英文、和訳、品詞、組み合わせ（visit a museum）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-gallery",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（画廊、展示室）の英文、和訳、品詞、組み合わせ（an art gallery）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-theater",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（劇場）の英文、和訳、品詞、組み合わせ（a local theater）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-attraction",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（呼び物、名所）の英文、和訳、品詞、組み合わせ（a tourist attraction）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-accommodation",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（宿泊施設）の英文、和訳、品詞、組み合わせ（book accommodation）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    },
+    {
+      "targetId": "v-hotel",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ホテル）の英文、和訳、品詞、組み合わせ（a business hotel）を実読して照合。交通・旅行場面で語義の使い方と和訳の意味が整合している。"
+    }
+  ],
+  "revisionHistory": [
+    {
+      "targetId": "v-truck",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "v-truck-1: 荷下ろし動作の主語を運転手とし、The driver unloaded crates from the truck behind the store.／運転手は店の裏でトラックから木箱を降ろしました。へ修正推奨。"
+      ],
+      "reason": "全語義（トラック）の英文、和訳、品詞、組み合わせ（a delivery truck）を実読して照合。truck自体が木箱を荷下ろしする主語となる例を自然な動作主に変える。"
+    }
+  ]
+}

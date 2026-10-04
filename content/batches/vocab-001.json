@@ -1,0 +1,3061 @@
+{
+  "id": "vocab-001",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-03T23:54:31.180181+00:00",
+  "author": "vocabulary_editor",
+  "model": null,
+  "input": "research policy v1",
+  "status": "generated",
+  "items": [
+    {
+      "id": "v-approve",
+      "version": 1,
+      "lemma": "approve",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "approval"
+      ],
+      "rationale": "学習設計上の選定: 承認するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-approve-1",
+          "pos": "verb",
+          "meaningJa": "承認する",
+          "example": "The manager approved our travel request.",
+          "translationJa": "部長は出張申請を承認しました。",
+          "collocations": [
+            "approve a request"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-apply",
+      "version": 1,
+      "lemma": "apply",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "application"
+      ],
+      "rationale": "学習設計上の選定: 応募する、申請するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-apply-1",
+          "pos": "verb",
+          "meaningJa": "応募する、申請する",
+          "example": "Lena applied for a sales position.",
+          "translationJa": "レナは営業職に応募しました。",
+          "collocations": [
+            "apply for a position"
+          ]
+        },
+        {
+          "id": "v-apply-2",
+          "pos": "verb",
+          "meaningJa": "適用される",
+          "example": "The discount applies to online orders.",
+          "translationJa": "割引はオンライン注文に適用されます。",
+          "collocations": [
+            "apply to orders"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-arrange",
+      "version": 1,
+      "lemma": "arrange",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "arrangement"
+      ],
+      "rationale": "学習設計上の選定: 手配するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-arrange-1",
+          "pos": "verb",
+          "meaningJa": "手配する",
+          "example": "I arranged a taxi for our guests.",
+          "translationJa": "来客のタクシーを手配しました。",
+          "collocations": [
+            "arrange a taxi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-attend",
+      "version": 1,
+      "lemma": "attend",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "attendance"
+      ],
+      "rationale": "学習設計上の選定: 出席するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-attend-1",
+          "pos": "verb",
+          "meaningJa": "出席する",
+          "example": "All new staff attended the workshop.",
+          "translationJa": "新入社員全員が研修会に出席しました。",
+          "collocations": [
+            "attend a workshop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-avoid",
+      "version": 1,
+      "lemma": "avoid",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "avoidable"
+      ],
+      "rationale": "学習設計上の選定: 避けるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-avoid-1",
+          "pos": "verb",
+          "meaningJa": "避ける",
+          "example": "Take the train to avoid traffic.",
+          "translationJa": "渋滞を避けるため電車を利用してください。",
+          "collocations": [
+            "avoid traffic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-book",
+      "version": 1,
+      "lemma": "book",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "booking"
+      ],
+      "rationale": "学習設計上の選定: 予約するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-book-1",
+          "pos": "verb",
+          "meaningJa": "予約する",
+          "example": "We booked a room near the station.",
+          "translationJa": "駅の近くの部屋を予約しました。",
+          "collocations": [
+            "book a room"
+          ]
+        },
+        {
+          "id": "v-book-2",
+          "pos": "noun",
+          "meaningJa": "本",
+          "example": "This book explains basic accounting.",
+          "translationJa": "この本は会計の基礎を解説しています。",
+          "collocations": [
+            "read a book"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-borrow",
+      "version": 1,
+      "lemma": "borrow",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "lender"
+      ],
+      "rationale": "学習設計上の選定: 借りるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-borrow-1",
+          "pos": "verb",
+          "meaningJa": "借りる",
+          "example": "May I borrow your calculator today?",
+          "translationJa": "今日は電卓を借りてもいいですか。",
+          "collocations": [
+            "borrow a calculator"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cancel",
+      "version": 1,
+      "lemma": "cancel",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cancellation"
+      ],
+      "rationale": "学習設計上の選定: 取り消すに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cancel-1",
+          "pos": "verb",
+          "meaningJa": "取り消す",
+          "example": "Heavy snow forced us to cancel the tour.",
+          "translationJa": "大雪でツアーを中止せざるを得ませんでした。",
+          "collocations": [
+            "cancel a tour"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-check",
+      "version": 1,
+      "lemma": "check",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "verification"
+      ],
+      "rationale": "学習設計上の選定: 確認するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-check-1",
+          "pos": "verb",
+          "meaningJa": "確認する",
+          "example": "Please check the address before sending this.",
+          "translationJa": "発送前に住所を確認してください。",
+          "collocations": [
+            "check an address"
+          ]
+        },
+        {
+          "id": "v-check-2",
+          "pos": "noun",
+          "meaningJa": "点検",
+          "example": "The equipment needs a safety check.",
+          "translationJa": "その機器には安全点検が必要です。",
+          "collocations": [
+            "a safety check"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-confirm",
+      "version": 1,
+      "lemma": "confirm",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "confirmation"
+      ],
+      "rationale": "学習設計上の選定: 確認して確定するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-confirm-1",
+          "pos": "verb",
+          "meaningJa": "確認して確定する",
+          "example": "The hotel confirmed our reservation by email.",
+          "translationJa": "ホテルは予約確定をメールで知らせました。",
+          "collocations": [
+            "confirm a reservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-contact",
+      "version": 1,
+      "lemma": "contact",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "contact information"
+      ],
+      "rationale": "学習設計上の選定: 連絡するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-contact-1",
+          "pos": "verb",
+          "meaningJa": "連絡する",
+          "example": "Contact the help desk for assistance.",
+          "translationJa": "支援が必要なら窓口に連絡してください。",
+          "collocations": [
+            "contact the help desk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-deliver",
+      "version": 1,
+      "lemma": "deliver",
+      "domain": "logistics",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "delivery"
+      ],
+      "rationale": "学習設計上の選定: 配達するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-deliver-1",
+          "pos": "verb",
+          "meaningJa": "配達する",
+          "example": "The store delivers groceries every morning.",
+          "translationJa": "その店は毎朝食料品を配達します。",
+          "collocations": [
+            "deliver groceries"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-discuss",
+      "version": 1,
+      "lemma": "discuss",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "discussion"
+      ],
+      "rationale": "学習設計上の選定: 話し合うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-discuss-1",
+          "pos": "verb",
+          "meaningJa": "話し合う",
+          "example": "We discussed the proposal over lunch.",
+          "translationJa": "昼食を取りながら提案について話しました。",
+          "collocations": [
+            "discuss a proposal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-earn",
+      "version": 1,
+      "lemma": "earn",
+      "domain": "finance",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "earnings"
+      ],
+      "rationale": "学習設計上の選定: 稼ぐに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-earn-1",
+          "pos": "verb",
+          "meaningJa": "稼ぐ",
+          "example": "She earns extra income by tutoring.",
+          "translationJa": "彼女は個別指導で副収入を得ています。",
+          "collocations": [
+            "earn income"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-expect",
+      "version": 1,
+      "lemma": "expect",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "expectation"
+      ],
+      "rationale": "学習設計上の選定: 予想する、見込むに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-expect-1",
+          "pos": "verb",
+          "meaningJa": "予想する、見込む",
+          "example": "We expect the repairs to finish Friday.",
+          "translationJa": "修理は金曜日に終わる見込みです。",
+          "collocations": [
+            "expect a delay"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-explain",
+      "version": 1,
+      "lemma": "explain",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "explanation"
+      ],
+      "rationale": "学習設計上の選定: 説明するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-explain-1",
+          "pos": "verb",
+          "meaningJa": "説明する",
+          "example": "The guide explained the safety rules.",
+          "translationJa": "ガイドが安全規則を説明しました。",
+          "collocations": [
+            "explain the rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fill",
+      "version": 1,
+      "lemma": "fill",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "full"
+      ],
+      "rationale": "学習設計上の選定: 満たすに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fill-1",
+          "pos": "verb",
+          "meaningJa": "満たす",
+          "example": "Fill the tank before returning the car.",
+          "translationJa": "車を返す前に燃料を満タンにしてください。",
+          "collocations": [
+            "fill a tank"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-follow",
+      "version": 1,
+      "lemma": "follow",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "following"
+      ],
+      "rationale": "学習設計上の選定: 従うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-follow-1",
+          "pos": "verb",
+          "meaningJa": "従う",
+          "example": "Please follow the instructions on the label.",
+          "translationJa": "ラベルの指示に従ってください。",
+          "collocations": [
+            "follow instructions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-improve",
+      "version": 1,
+      "lemma": "improve",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "improvement"
+      ],
+      "rationale": "学習設計上の選定: 改善するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-improve-1",
+          "pos": "verb",
+          "meaningJa": "改善する",
+          "example": "Better lighting improved conditions in the office.",
+          "translationJa": "照明の改善で職場環境がよくなりました。",
+          "collocations": [
+            "improve conditions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-include",
+      "version": 1,
+      "lemma": "include",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "inclusion"
+      ],
+      "rationale": "学習設計上の選定: 含むに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-include-1",
+          "pos": "verb",
+          "meaningJa": "含む",
+          "example": "The price includes breakfast and parking.",
+          "translationJa": "料金には朝食と駐車が含まれます。",
+          "collocations": [
+            "include breakfast"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-introduce",
+      "version": 1,
+      "lemma": "introduce",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "introduction"
+      ],
+      "rationale": "学習設計上の選定: 紹介するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-introduce-1",
+          "pos": "verb",
+          "meaningJa": "紹介する",
+          "example": "Let me introduce our new accountant.",
+          "translationJa": "新しい経理担当者を紹介します。",
+          "collocations": [
+            "introduce a colleague"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-invite",
+      "version": 1,
+      "lemma": "invite",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "invitation"
+      ],
+      "rationale": "学習設計上の選定: 招待するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-invite-1",
+          "pos": "verb",
+          "meaningJa": "招待する",
+          "example": "We invited our neighbors to dinner.",
+          "translationJa": "近所の人を夕食に招待しました。",
+          "collocations": [
+            "invite guests"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-join",
+      "version": 1,
+      "lemma": "join",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "membership"
+      ],
+      "rationale": "学習設計上の選定: 参加するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-join-1",
+          "pos": "verb",
+          "meaningJa": "参加する",
+          "example": "Would you like to join our team?",
+          "translationJa": "私たちのチームに参加しませんか。",
+          "collocations": [
+            "join a team"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-keep",
+      "version": 1,
+      "lemma": "keep",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "retain"
+      ],
+      "rationale": "学習設計上の選定: 保管するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-keep-1",
+          "pos": "verb",
+          "meaningJa": "保管する",
+          "example": "Keep your receipt until the refund arrives.",
+          "translationJa": "返金されるまで領収書を保管してください。",
+          "collocations": [
+            "keep a receipt"
+          ]
+        },
+        {
+          "id": "v-keep-2",
+          "pos": "verb",
+          "meaningJa": "ある状態を保つ",
+          "example": "Keep the emergency exit clear.",
+          "translationJa": "非常口をふさがないでください。",
+          "collocations": [
+            "keep an exit clear"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-leave",
+      "version": 1,
+      "lemma": "leave",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "departure"
+      ],
+      "rationale": "学習設計上の選定: 去る、出発するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-leave-1",
+          "pos": "verb",
+          "meaningJa": "去る、出発する",
+          "example": "The last bus leaves at ten.",
+          "translationJa": "最終バスは10時に出発します。",
+          "collocations": [
+            "leave the station"
+          ]
+        },
+        {
+          "id": "v-leave-2",
+          "pos": "noun",
+          "meaningJa": "休暇",
+          "example": "She is on leave until Thursday.",
+          "translationJa": "彼女は木曜日まで休暇中です。",
+          "collocations": [
+            "on leave"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-lend",
+      "version": 1,
+      "lemma": "lend",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "loan"
+      ],
+      "rationale": "学習設計上の選定: 貸すに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-lend-1",
+          "pos": "verb",
+          "meaningJa": "貸す",
+          "example": "The library lends laptops to members.",
+          "translationJa": "図書館は会員にノートパソコンを貸します。",
+          "collocations": [
+            "lend a laptop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-make",
+      "version": 1,
+      "lemma": "make",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "manufacturer"
+      ],
+      "rationale": "学習設計上の選定: 作るに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-make-1",
+          "pos": "verb",
+          "meaningJa": "作る",
+          "example": "This factory makes parts for bicycles.",
+          "translationJa": "この工場は自転車の部品を作ります。",
+          "collocations": [
+            "make parts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-meet",
+      "version": 1,
+      "lemma": "meet",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "meeting"
+      ],
+      "rationale": "学習設計上の選定: 会うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-meet-1",
+          "pos": "verb",
+          "meaningJa": "会う",
+          "example": "I met the designer at the entrance.",
+          "translationJa": "入口でデザイナーに会いました。",
+          "collocations": [
+            "meet a client"
+          ]
+        },
+        {
+          "id": "v-meet-2",
+          "pos": "verb",
+          "meaningJa": "条件などを満たす",
+          "example": "This model meets our safety standards.",
+          "translationJa": "この型は当社の安全基準を満たしています。",
+          "collocations": [
+            "meet a standard"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-move",
+      "version": 1,
+      "lemma": "move",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "relocation"
+      ],
+      "rationale": "学習設計上の選定: 移動するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-move-1",
+          "pos": "verb",
+          "meaningJa": "移動する",
+          "example": "Our office moved to a larger building.",
+          "translationJa": "事務所は広い建物に移転しました。",
+          "collocations": [
+            "move to a building"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-offer",
+      "version": 1,
+      "lemma": "offer",
+      "domain": "health",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "offering"
+      ],
+      "rationale": "学習設計上の選定: 提供するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-offer-1",
+          "pos": "verb",
+          "meaningJa": "提供する",
+          "example": "The clinic offers free health checks.",
+          "translationJa": "その診療所は無料の健康診断を提供します。",
+          "collocations": [
+            "offer a service"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-order",
+      "version": 1,
+      "lemma": "order",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "order form"
+      ],
+      "rationale": "学習設計上の選定: 注文するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-order-1",
+          "pos": "verb",
+          "meaningJa": "注文する",
+          "example": "We ordered new chairs for the lobby.",
+          "translationJa": "ロビー用の新しい椅子を注文しました。",
+          "collocations": [
+            "order furniture"
+          ]
+        },
+        {
+          "id": "v-order-2",
+          "pos": "noun",
+          "meaningJa": "順序",
+          "example": "List the names in alphabetical order.",
+          "translationJa": "名前をアルファベット順に並べてください。",
+          "collocations": [
+            "in alphabetical order"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pay",
+      "version": 1,
+      "lemma": "pay",
+      "domain": "finance",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "payment"
+      ],
+      "rationale": "学習設計上の選定: 支払うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pay-1",
+          "pos": "verb",
+          "meaningJa": "支払う",
+          "example": "You can pay by credit card.",
+          "translationJa": "クレジットカードで支払えます。",
+          "collocations": [
+            "pay by card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-plan",
+      "version": 1,
+      "lemma": "plan",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "planning"
+      ],
+      "rationale": "学習設計上の選定: 計画するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-plan-1",
+          "pos": "verb",
+          "meaningJa": "計画する",
+          "example": "They plan to open another branch.",
+          "translationJa": "彼らは別の支店を開く予定です。",
+          "collocations": [
+            "plan an event"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-prepare",
+      "version": 2,
+      "lemma": "prepare",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "preparation"
+      ],
+      "rationale": "学習設計上の選定: 準備するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-prepare-1",
+          "pos": "verb",
+          "meaningJa": "準備する",
+          "example": "Please prepare the slides before tomorrow.",
+          "translationJa": "明日になる前にスライドを準備してください。",
+          "collocations": [
+            "prepare slides"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-promise",
+      "version": 1,
+      "lemma": "promise",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "commitment"
+      ],
+      "rationale": "学習設計上の選定: 約束するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-promise-1",
+          "pos": "verb",
+          "meaningJa": "約束する",
+          "example": "The supplier promised to deliver by noon.",
+          "translationJa": "供給業者は正午までの納品を約束しました。",
+          "collocations": [
+            "promise to deliver"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-provide",
+      "version": 1,
+      "lemma": "provide",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "provider"
+      ],
+      "rationale": "学習設計上の選定: 提供するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-provide-1",
+          "pos": "verb",
+          "meaningJa": "提供する",
+          "example": "The venue provides tables and chairs.",
+          "translationJa": "会場では机と椅子を用意しています。",
+          "collocations": [
+            "provide equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-purchase",
+      "version": 1,
+      "lemma": "purchase",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "buyer"
+      ],
+      "rationale": "学習設計上の選定: 購入するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-purchase-1",
+          "pos": "verb",
+          "meaningJa": "購入する",
+          "example": "We purchased the equipment last month.",
+          "translationJa": "先月その機器を購入しました。",
+          "collocations": [
+            "purchase equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-receive",
+      "version": 1,
+      "lemma": "receive",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "recipient"
+      ],
+      "rationale": "学習設計上の選定: 受け取るに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-receive-1",
+          "pos": "verb",
+          "meaningJa": "受け取る",
+          "example": "Did you receive the updated schedule?",
+          "translationJa": "更新された予定表を受け取りましたか。",
+          "collocations": [
+            "receive a schedule"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-recommend",
+      "version": 1,
+      "lemma": "recommend",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "recommendation"
+      ],
+      "rationale": "学習設計上の選定: 勧めるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-recommend-1",
+          "pos": "verb",
+          "meaningJa": "勧める",
+          "example": "The clerk recommended a lighter suitcase.",
+          "translationJa": "店員はもっと軽いスーツケースを勧めました。",
+          "collocations": [
+            "recommend a product"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-reduce",
+      "version": 1,
+      "lemma": "reduce",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "reduction"
+      ],
+      "rationale": "学習設計上の選定: 減らすに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-reduce-1",
+          "pos": "verb",
+          "meaningJa": "減らす",
+          "example": "The new system reduced waiting times.",
+          "translationJa": "新しいシステムで待ち時間が減りました。",
+          "collocations": [
+            "reduce waiting times"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-remember",
+      "version": 1,
+      "lemma": "remember",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "memory"
+      ],
+      "rationale": "学習設計上の選定: 覚えているに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-remember-1",
+          "pos": "verb",
+          "meaningJa": "覚えている",
+          "example": "I remember the name of that cafe.",
+          "translationJa": "そのカフェの名前を覚えています。",
+          "collocations": [
+            "remember a name"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-remind",
+      "version": 1,
+      "lemma": "remind",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "reminder"
+      ],
+      "rationale": "学習設計上の選定: 思い出させるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-remind-1",
+          "pos": "verb",
+          "meaningJa": "思い出させる",
+          "example": "Please remind me to call the dentist.",
+          "translationJa": "歯科医への電話を忘れないよう声をかけてください。",
+          "collocations": [
+            "remind someone to call"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-rent",
+      "version": 1,
+      "lemma": "rent",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "rental"
+      ],
+      "rationale": "学習設計上の選定: 賃借するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-rent-1",
+          "pos": "verb",
+          "meaningJa": "賃借する",
+          "example": "We rented bicycles for the afternoon.",
+          "translationJa": "午後の間、自転車を借りました。",
+          "collocations": [
+            "rent a bicycle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-repair",
+      "version": 1,
+      "lemma": "repair",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "repair shop"
+      ],
+      "rationale": "学習設計上の選定: 修理するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-repair-1",
+          "pos": "verb",
+          "meaningJa": "修理する",
+          "example": "A technician repaired the broken printer.",
+          "translationJa": "技術者が故障したプリンターを修理しました。",
+          "collocations": [
+            "repair a printer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-replace",
+      "version": 1,
+      "lemma": "replace",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "replacement"
+      ],
+      "rationale": "学習設計上の選定: 交換するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-replace-1",
+          "pos": "verb",
+          "meaningJa": "交換する",
+          "example": "We replaced the damaged window yesterday.",
+          "translationJa": "昨日、破損した窓を交換しました。",
+          "collocations": [
+            "replace a window"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-reply",
+      "version": 1,
+      "lemma": "reply",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "response"
+      ],
+      "rationale": "学習設計上の選定: 返事をするに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-reply-1",
+          "pos": "verb",
+          "meaningJa": "返事をする",
+          "example": "Please reply to this email by Tuesday.",
+          "translationJa": "火曜日までにこのメールに返信してください。",
+          "collocations": [
+            "reply to an email"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-report",
+      "version": 1,
+      "lemma": "report",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "reporter"
+      ],
+      "rationale": "学習設計上の選定: 報告するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-report-1",
+          "pos": "verb",
+          "meaningJa": "報告する",
+          "example": "Report any damage to the supervisor.",
+          "translationJa": "破損があれば監督者に報告してください。",
+          "collocations": [
+            "report damage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-request",
+      "version": 1,
+      "lemma": "request",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "request form"
+      ],
+      "rationale": "学習設計上の選定: 依頼するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-request-1",
+          "pos": "verb",
+          "meaningJa": "依頼する",
+          "example": "The customer requested a printed receipt.",
+          "translationJa": "客は紙の領収書を求めました。",
+          "collocations": [
+            "request a receipt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-reserve",
+      "version": 1,
+      "lemma": "reserve",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "reservation"
+      ],
+      "rationale": "学習設計上の選定: 予約して確保するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-reserve-1",
+          "pos": "verb",
+          "meaningJa": "予約して確保する",
+          "example": "I reserved two seats near the stage.",
+          "translationJa": "舞台近くの席を2つ予約しました。",
+          "collocations": [
+            "reserve a seat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-return",
+      "version": 1,
+      "lemma": "return",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "arrival"
+      ],
+      "rationale": "学習設計上の選定: 戻るに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-return-1",
+          "pos": "verb",
+          "meaningJa": "戻る",
+          "example": "Our director returns from Osaka tonight.",
+          "translationJa": "取締役は今夜大阪から戻ります。",
+          "collocations": [
+            "return from a trip"
+          ]
+        },
+        {
+          "id": "v-return-2",
+          "pos": "verb",
+          "meaningJa": "返却する",
+          "example": "Return the key to reception.",
+          "translationJa": "鍵を受付に返してください。",
+          "collocations": [
+            "return a key"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-review",
+      "version": 1,
+      "lemma": "review",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "reviewer"
+      ],
+      "rationale": "学習設計上の選定: 検討する、見直すに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-review-1",
+          "pos": "verb",
+          "meaningJa": "検討する、見直す",
+          "example": "The team reviewed the budget carefully.",
+          "translationJa": "チームは予算を慎重に見直しました。",
+          "collocations": [
+            "review a budget"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-save",
+      "version": 1,
+      "lemma": "save",
+      "domain": "finance",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "savings"
+      ],
+      "rationale": "学習設計上の選定: 節約するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-save-1",
+          "pos": "verb",
+          "meaningJa": "節約する",
+          "example": "Buying a monthly pass saves money.",
+          "translationJa": "定期券を買うと節約になります。",
+          "collocations": [
+            "save money"
+          ]
+        },
+        {
+          "id": "v-save-2",
+          "pos": "verb",
+          "meaningJa": "保存する",
+          "example": "Save your work before closing the program.",
+          "translationJa": "プログラムを閉じる前に作業内容を保存してください。",
+          "collocations": [
+            "save a file"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-schedule",
+      "version": 1,
+      "lemma": "schedule",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "timetable"
+      ],
+      "rationale": "学習設計上の選定: 予定を組むに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-schedule-1",
+          "pos": "verb",
+          "meaningJa": "予定を組む",
+          "example": "We scheduled the inspection for Monday.",
+          "translationJa": "点検を月曜日に予定しました。",
+          "collocations": [
+            "schedule an inspection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-select",
+      "version": 1,
+      "lemma": "select",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "selection"
+      ],
+      "rationale": "学習設計上の選定: 選ぶに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-select-1",
+          "pos": "verb",
+          "meaningJa": "選ぶ",
+          "example": "Select your preferred language from the menu.",
+          "translationJa": "メニューから希望の言語を選んでください。",
+          "collocations": [
+            "select an option"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-send",
+      "version": 1,
+      "lemma": "send",
+      "domain": "logistics",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "sender"
+      ],
+      "rationale": "学習設計上の選定: 送るに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-send-1",
+          "pos": "verb",
+          "meaningJa": "送る",
+          "example": "I sent the samples by express mail.",
+          "translationJa": "速達でサンプルを送りました。",
+          "collocations": [
+            "send samples"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-share",
+      "version": 1,
+      "lemma": "share",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "shared workspace"
+      ],
+      "rationale": "学習設計上の選定: 共有するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-share-1",
+          "pos": "verb",
+          "meaningJa": "共有する",
+          "example": "Our two teams share one meeting room.",
+          "translationJa": "2つのチームは1つの会議室を共有しています。",
+          "collocations": [
+            "share a room"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sign",
+      "version": 1,
+      "lemma": "sign",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "signature"
+      ],
+      "rationale": "学習設計上の選定: 署名するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sign-1",
+          "pos": "verb",
+          "meaningJa": "署名する",
+          "example": "Please sign at the bottom of the form.",
+          "translationJa": "用紙の一番下に署名してください。",
+          "collocations": [
+            "sign a form"
+          ]
+        },
+        {
+          "id": "v-sign-2",
+          "pos": "noun",
+          "meaningJa": "標識",
+          "example": "Follow the signs to baggage claim.",
+          "translationJa": "手荷物受取所への標識に従ってください。",
+          "collocations": [
+            "follow the signs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-spend",
+      "version": 1,
+      "lemma": "spend",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "expenditure"
+      ],
+      "rationale": "学習設計上の選定: 費やすに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-spend-1",
+          "pos": "verb",
+          "meaningJa": "費やす",
+          "example": "We spent three hours checking the figures.",
+          "translationJa": "数値の確認に3時間を費やしました。",
+          "collocations": [
+            "spend time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-start",
+      "version": 2,
+      "lemma": "start",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "beginning"
+      ],
+      "rationale": "学習設計上の選定: 始まる、始めるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-start-1",
+          "pos": "verb",
+          "meaningJa": "始まる、始める",
+          "example": "The orientation starts after lunch.",
+          "translationJa": "昼食後に説明会が始まります。",
+          "collocations": [
+            "start a session"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-submit",
+      "version": 1,
+      "lemma": "submit",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "submission"
+      ],
+      "rationale": "学習設計上の選定: 提出するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-submit-1",
+          "pos": "verb",
+          "meaningJa": "提出する",
+          "example": "Submit your application before the deadline.",
+          "translationJa": "締め切り前に申請書を提出してください。",
+          "collocations": [
+            "submit an application"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-suggest",
+      "version": 1,
+      "lemma": "suggest",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "suggestion"
+      ],
+      "rationale": "学習設計上の選定: 提案するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-suggest-1",
+          "pos": "verb",
+          "meaningJa": "提案する",
+          "example": "Mina suggested holding the meeting online.",
+          "translationJa": "ミナはオンラインでの会議を提案しました。",
+          "collocations": [
+            "suggest a solution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-support",
+      "version": 1,
+      "lemma": "support",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "supporter"
+      ],
+      "rationale": "学習設計上の選定: 支援するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-support-1",
+          "pos": "verb",
+          "meaningJa": "支援する",
+          "example": "Local businesses support the annual festival.",
+          "translationJa": "地元企業は毎年の祭りを支援しています。",
+          "collocations": [
+            "support an event"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-take",
+      "version": 1,
+      "lemma": "take",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "transport"
+      ],
+      "rationale": "学習設計上の選定: 乗り物を利用するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-take-1",
+          "pos": "verb",
+          "meaningJa": "乗り物を利用する",
+          "example": "Take the elevator to the fifth floor.",
+          "translationJa": "エレベーターで5階へお越しください。",
+          "collocations": [
+            "take the elevator"
+          ]
+        },
+        {
+          "id": "v-take-2",
+          "pos": "verb",
+          "meaningJa": "時間などがかかる",
+          "example": "The repair will take two hours.",
+          "translationJa": "修理には2時間かかります。",
+          "collocations": [
+            "take two hours"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tell",
+      "version": 1,
+      "lemma": "tell",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "inform"
+      ],
+      "rationale": "学習設計上の選定: 伝えるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tell-1",
+          "pos": "verb",
+          "meaningJa": "伝える",
+          "example": "Tell the receptionist your appointment time.",
+          "translationJa": "受付係に予約時刻を伝えてください。",
+          "collocations": [
+            "tell someone the time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-thank",
+      "version": 1,
+      "lemma": "thank",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "thanks"
+      ],
+      "rationale": "学習設計上の選定: 感謝するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-thank-1",
+          "pos": "verb",
+          "meaningJa": "感謝する",
+          "example": "We thanked the volunteers for their help.",
+          "translationJa": "ボランティアに支援への感謝を伝えました。",
+          "collocations": [
+            "thank someone for help"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-train",
+      "version": 1,
+      "lemma": "train",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "training"
+      ],
+      "rationale": "学習設計上の選定: 訓練するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-train-1",
+          "pos": "verb",
+          "meaningJa": "訓練する",
+          "example": "The company trains all new drivers.",
+          "translationJa": "会社は新人運転手全員を訓練します。",
+          "collocations": [
+            "train employees"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-travel",
+      "version": 1,
+      "lemma": "travel",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "traveler"
+      ],
+      "rationale": "学習設計上の選定: 旅行する、移動するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-travel-1",
+          "pos": "verb",
+          "meaningJa": "旅行する、移動する",
+          "example": "She travels abroad twice a year.",
+          "translationJa": "彼女は年に2回海外へ行きます。",
+          "collocations": [
+            "travel abroad"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-try",
+      "version": 1,
+      "lemma": "try",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "attempt"
+      ],
+      "rationale": "学習設計上の選定: 試すに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-try-1",
+          "pos": "verb",
+          "meaningJa": "試す",
+          "example": "Try restarting the computer first.",
+          "translationJa": "まずパソコンの再起動を試してください。",
+          "collocations": [
+            "try restarting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-update",
+      "version": 1,
+      "lemma": "update",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "latest information"
+      ],
+      "rationale": "学習設計上の選定: 更新するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-update-1",
+          "pos": "verb",
+          "meaningJa": "更新する",
+          "example": "Please update your address in the system.",
+          "translationJa": "システムの住所情報を更新してください。",
+          "collocations": [
+            "update an address"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-use",
+      "version": 1,
+      "lemma": "use",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "usage"
+      ],
+      "rationale": "学習設計上の選定: 使うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-use-1",
+          "pos": "verb",
+          "meaningJa": "使う",
+          "example": "Use the side entrance after six.",
+          "translationJa": "6時以降は脇の入口を使ってください。",
+          "collocations": [
+            "use an entrance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-visit",
+      "version": 1,
+      "lemma": "visit",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "visitor"
+      ],
+      "rationale": "学習設計上の選定: 訪れるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-visit-1",
+          "pos": "verb",
+          "meaningJa": "訪れる",
+          "example": "Our sales team visited the new store.",
+          "translationJa": "営業チームは新店舗を訪問しました。",
+          "collocations": [
+            "visit a store"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wait",
+      "version": 1,
+      "lemma": "wait",
+      "domain": "daily",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "waiting room"
+      ],
+      "rationale": "学習設計上の選定: 待つに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wait-1",
+          "pos": "verb",
+          "meaningJa": "待つ",
+          "example": "Please wait here until your name is called.",
+          "translationJa": "名前が呼ばれるまでここでお待ちください。",
+          "collocations": [
+            "wait for a turn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-welcome",
+      "version": 1,
+      "lemma": "welcome",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "greeting"
+      ],
+      "rationale": "学習設計上の選定: 歓迎するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-welcome-1",
+          "pos": "verb",
+          "meaningJa": "歓迎する",
+          "example": "We welcome feedback from every customer.",
+          "translationJa": "すべてのお客様のご意見を歓迎します。",
+          "collocations": [
+            "welcome feedback"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-accept",
+      "version": 1,
+      "lemma": "accept",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "acceptance"
+      ],
+      "rationale": "学習設計上の選定: 受け入れるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-accept-1",
+          "pos": "verb",
+          "meaningJa": "受け入れる",
+          "example": "The store accepts returns within thirty days.",
+          "translationJa": "その店は30日以内の返品を受け付けます。",
+          "collocations": [
+            "accept returns"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-achieve",
+      "version": 1,
+      "lemma": "achieve",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "achievement"
+      ],
+      "rationale": "学習設計上の選定: 達成するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-achieve-1",
+          "pos": "verb",
+          "meaningJa": "達成する",
+          "example": "The team achieved its monthly sales target.",
+          "translationJa": "チームは月間売上目標を達成しました。",
+          "collocations": [
+            "achieve a target"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-add",
+      "version": 1,
+      "lemma": "add",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "addition"
+      ],
+      "rationale": "学習設計上の選定: 加えるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-add-1",
+          "pos": "verb",
+          "meaningJa": "加える",
+          "example": "Add your name to the mailing list.",
+          "translationJa": "配信リストに名前を追加してください。",
+          "collocations": [
+            "add a name"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-adjust",
+      "version": 1,
+      "lemma": "adjust",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "adjustment"
+      ],
+      "rationale": "学習設計上の選定: 調整するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-adjust-1",
+          "pos": "verb",
+          "meaningJa": "調整する",
+          "example": "Adjust the chair to a comfortable height.",
+          "translationJa": "椅子を快適な高さに調整してください。",
+          "collocations": [
+            "adjust the height"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-advise",
+      "version": 1,
+      "lemma": "advise",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "advice"
+      ],
+      "rationale": "学習設計上の選定: 助言するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-advise-1",
+          "pos": "verb",
+          "meaningJa": "助言する",
+          "example": "The agent advised us to book early.",
+          "translationJa": "担当者は早めの予約を勧めました。",
+          "collocations": [
+            "advise someone to book"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-agree",
+      "version": 1,
+      "lemma": "agree",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "agreement"
+      ],
+      "rationale": "学習設計上の選定: 同意するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-agree-1",
+          "pos": "verb",
+          "meaningJa": "同意する",
+          "example": "We agreed to extend the deadline.",
+          "translationJa": "締め切りの延長に同意しました。",
+          "collocations": [
+            "agree to a proposal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-allow",
+      "version": 1,
+      "lemma": "allow",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "permission"
+      ],
+      "rationale": "学習設計上の選定: 許可するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-allow-1",
+          "pos": "verb",
+          "meaningJa": "許可する",
+          "example": "This ticket allows entry to both museums.",
+          "translationJa": "この券で両方の博物館に入れます。",
+          "collocations": [
+            "allow entry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-announce",
+      "version": 1,
+      "lemma": "announce",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "announcement"
+      ],
+      "rationale": "学習設計上の選定: 発表するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-announce-1",
+          "pos": "verb",
+          "meaningJa": "発表する",
+          "example": "The director announced the opening date.",
+          "translationJa": "取締役が開業日を発表しました。",
+          "collocations": [
+            "announce a date"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-answer",
+      "version": 1,
+      "lemma": "answer",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "response"
+      ],
+      "rationale": "学習設計上の選定: 答えるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-answer-1",
+          "pos": "verb",
+          "meaningJa": "答える",
+          "example": "A specialist will answer your questions.",
+          "translationJa": "専門家が質問に答えます。",
+          "collocations": [
+            "answer a question"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-apologize",
+      "version": 1,
+      "lemma": "apologize",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "apology"
+      ],
+      "rationale": "学習設計上の選定: 謝罪するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-apologize-1",
+          "pos": "verb",
+          "meaningJa": "謝罪する",
+          "example": "We apologize for the delayed shipment.",
+          "translationJa": "発送の遅れをおわびします。",
+          "collocations": [
+            "apologize for a delay"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-appear",
+      "version": 1,
+      "lemma": "appear",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "appearance"
+      ],
+      "rationale": "学習設計上の選定: 現れるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-appear-1",
+          "pos": "verb",
+          "meaningJa": "現れる",
+          "example": "A warning message appeared on the screen.",
+          "translationJa": "画面に警告メッセージが現れました。",
+          "collocations": [
+            "appear on a screen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-assess",
+      "version": 1,
+      "lemma": "assess",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "assessment"
+      ],
+      "rationale": "学習設計上の選定: 評価するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-assess-1",
+          "pos": "verb",
+          "meaningJa": "評価する",
+          "example": "Engineers assessed the damage after the storm.",
+          "translationJa": "技師が嵐の後の被害を評価しました。",
+          "collocations": [
+            "assess damage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-assign",
+      "version": 1,
+      "lemma": "assign",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "assignment"
+      ],
+      "rationale": "学習設計上の選定: 割り当てるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-assign-1",
+          "pos": "verb",
+          "meaningJa": "割り当てる",
+          "example": "The supervisor assigned each worker a task.",
+          "translationJa": "監督者は各作業員に仕事を割り当てました。",
+          "collocations": [
+            "assign a task"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-assist",
+      "version": 1,
+      "lemma": "assist",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "assistance"
+      ],
+      "rationale": "学習設計上の選定: 手伝うに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-assist-1",
+          "pos": "verb",
+          "meaningJa": "手伝う",
+          "example": "Two volunteers assisted with registration.",
+          "translationJa": "2人のボランティアが受付を手伝いました。",
+          "collocations": [
+            "assist with registration"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-assume",
+      "version": 1,
+      "lemma": "assume",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "assumption"
+      ],
+      "rationale": "学習設計上の選定: そうだと考える、仮定するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-assume-1",
+          "pos": "verb",
+          "meaningJa": "そうだと考える、仮定する",
+          "example": "I assumed the fee included delivery.",
+          "translationJa": "料金には配送料が含まれると思っていました。",
+          "collocations": [
+            "assume the fee includes delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-attach",
+      "version": 1,
+      "lemma": "attach",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "attachment"
+      ],
+      "rationale": "学習設計上の選定: 添付するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-attach-1",
+          "pos": "verb",
+          "meaningJa": "添付する",
+          "example": "Attach a copy of your receipt.",
+          "translationJa": "領収書のコピーを添付してください。",
+          "collocations": [
+            "attach a receipt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-attract",
+      "version": 1,
+      "lemma": "attract",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "attraction"
+      ],
+      "rationale": "学習設計上の選定: 引き付けるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-attract-1",
+          "pos": "verb",
+          "meaningJa": "引き付ける",
+          "example": "The exhibition attracted visitors from overseas.",
+          "translationJa": "展示会は海外からの来場者を引き付けました。",
+          "collocations": [
+            "attract visitors"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-available",
+      "version": 1,
+      "lemma": "available",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "availability"
+      ],
+      "rationale": "学習設計上の選定: 利用できるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-available-1",
+          "pos": "adjective",
+          "meaningJa": "利用できる",
+          "example": "Free parking is available behind the hotel.",
+          "translationJa": "ホテルの裏で無料駐車場が利用できます。",
+          "collocations": [
+            "available parking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-balance",
+      "version": 1,
+      "lemma": "balance",
+      "domain": "finance",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "balanced"
+      ],
+      "rationale": "学習設計上の選定: 残高に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-balance-1",
+          "pos": "noun",
+          "meaningJa": "残高",
+          "example": "Check your account balance before paying.",
+          "translationJa": "支払い前に口座残高を確認してください。",
+          "collocations": [
+            "account balance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-benefit",
+      "version": 1,
+      "lemma": "benefit",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "beneficial"
+      ],
+      "rationale": "学習設計上の選定: 利点、恩恵に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-benefit-1",
+          "pos": "noun",
+          "meaningJa": "利点、恩恵",
+          "example": "Flexible hours are a major benefit.",
+          "translationJa": "柔軟な勤務時間は大きな利点です。",
+          "collocations": [
+            "a major benefit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-budget",
+      "version": 1,
+      "lemma": "budget",
+      "domain": "finance",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "budgeting"
+      ],
+      "rationale": "学習設計上の選定: 予算に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-budget-1",
+          "pos": "noun",
+          "meaningJa": "予算",
+          "example": "The renovation stayed within our budget.",
+          "translationJa": "改装は予算内に収まりました。",
+          "collocations": [
+            "within the budget"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-charge",
+      "version": 1,
+      "lemma": "charge",
+      "domain": "finance",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "fee"
+      ],
+      "rationale": "学習設計上の選定: 料金に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-charge-1",
+          "pos": "noun",
+          "meaningJa": "料金",
+          "example": "There is no charge for delivery.",
+          "translationJa": "配送料はかかりません。",
+          "collocations": [
+            "delivery charge"
+          ]
+        },
+        {
+          "id": "v-charge-2",
+          "pos": "verb",
+          "meaningJa": "充電する",
+          "example": "Charge the tablet before your trip.",
+          "translationJa": "旅行前にタブレットを充電してください。",
+          "collocations": [
+            "charge a battery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-claim",
+      "version": 1,
+      "lemma": "claim",
+      "domain": "finance",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "claim form"
+      ],
+      "rationale": "学習設計上の選定: 請求するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-claim-1",
+          "pos": "verb",
+          "meaningJa": "請求する",
+          "example": "Employees may claim travel expenses online.",
+          "translationJa": "従業員はオンラインで出張費を請求できます。",
+          "collocations": [
+            "claim expenses"
+          ]
+        },
+        {
+          "id": "v-claim-2",
+          "pos": "verb",
+          "meaningJa": "主張する",
+          "example": "The manufacturer claims this coating lasts longer.",
+          "translationJa": "メーカーはこの塗料がより長持ちすると主張しています。",
+          "collocations": [
+            "claim an advantage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-company",
+      "version": 1,
+      "lemma": "company",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "corporation"
+      ],
+      "rationale": "学習設計上の選定: 会社に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-company-1",
+          "pos": "noun",
+          "meaningJa": "会社",
+          "example": "The company opened a branch in Kobe.",
+          "translationJa": "その会社は神戸に支店を開きました。",
+          "collocations": [
+            "join a company"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-complete",
+      "version": 1,
+      "lemma": "complete",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "completion"
+      ],
+      "rationale": "学習設計上の選定: 完了するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-complete-1",
+          "pos": "verb",
+          "meaningJa": "完了する",
+          "example": "We completed the project ahead of schedule.",
+          "translationJa": "予定より早く計画を完了しました。",
+          "collocations": [
+            "complete a project"
+          ]
+        },
+        {
+          "id": "v-complete-2",
+          "pos": "adjective",
+          "meaningJa": "全部そろった、完全な",
+          "example": "A complete list is available online.",
+          "translationJa": "完全な一覧をオンラインで確認できます。",
+          "collocations": [
+            "a complete list"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-concern",
+      "version": 1,
+      "lemma": "concern",
+      "domain": "office",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "concerned"
+      ],
+      "rationale": "学習設計上の選定: 懸念に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-concern-1",
+          "pos": "noun",
+          "meaningJa": "懸念",
+          "example": "Safety remains our main concern.",
+          "translationJa": "安全性は引き続き最大の懸念です。",
+          "collocations": [
+            "a major concern"
+          ]
+        },
+        {
+          "id": "v-concern-2",
+          "pos": "verb",
+          "meaningJa": "関係する",
+          "example": "This notice concerns all building users.",
+          "translationJa": "この通知は建物の全利用者に関係します。",
+          "collocations": [
+            "concern all staff"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-consider",
+      "version": 1,
+      "lemma": "consider",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "consideration"
+      ],
+      "rationale": "学習設計上の選定: 検討するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-consider-1",
+          "pos": "verb",
+          "meaningJa": "検討する",
+          "example": "We are considering a different supplier.",
+          "translationJa": "別の供給業者を検討しています。",
+          "collocations": [
+            "consider an option"
+          ]
+        }
+      ]
+    }
+  ]
+}

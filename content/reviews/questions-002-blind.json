@@ -1,0 +1,280 @@
+{
+  "id": "questions-002-blind",
+  "batchId": "questions-002",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:20:49.395872+00:00",
+  "method": "著者正解と解説を読む前に盲検ファイルの30問すべてを独立して解答。",
+  "items": [
+    {
+      "targetId": "q-0031",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "remainの補語には形容詞valid。"
+    },
+    {
+      "targetId": "q-0032",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "物語が人を楽しませるのでentertaining。"
+    },
+    {
+      "targetId": "q-0033",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "応募者が落胆する受け手なのでdisappointed。"
+    },
+    {
+      "targetId": "q-0034",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "明日のこの時点に進行するwill be testing。"
+    },
+    {
+      "targetId": "q-0035",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "plan to doの形でto extend。"
+    },
+    {
+      "targetId": "q-0036",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "consider doingの形でleasing。"
+    },
+    {
+      "targetId": "q-0037",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "Both copiesは複数でare。"
+    },
+    {
+      "targetId": "q-0038",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "不可算informationは単数でis。"
+    },
+    {
+      "targetId": "q-0039",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "動名詞句全体が主語なのでis。"
+    },
+    {
+      "targetId": "q-0040",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "私たちの倉庫を表す独立所有代名詞ours。"
+    },
+    {
+      "targetId": "q-0041",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "technicians自身の強調としてthemselves。"
+    },
+    {
+      "targetId": "q-0042",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "a lighterに続く単数代名詞one。"
+    },
+    {
+      "targetId": "q-0043",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "曜日の前置詞はon。"
+    },
+    {
+      "targetId": "q-0044",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "二地点の間を表すbetween。"
+    },
+    {
+      "targetId": "q-0045",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "名詞句の前で譲歩を表すDespite。"
+    },
+    {
+      "targetId": "q-0046",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "道路閉鎖が遅延の理由なのでbecause。"
+    },
+    {
+      "targetId": "q-0047",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "機器を開く前に電源を切るbefore。"
+    },
+    {
+      "targetId": "q-0048",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "ツアーを待つ間を表すwhile。"
+    },
+    {
+      "targetId": "q-0049",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "loungeは場所、後ろは完全文なのでwhere。"
+    },
+    {
+      "targetId": "q-0050",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "timeは時、後ろは完全文なのでwhen。"
+    },
+    {
+      "targetId": "q-0051",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "前置詞withの目的語となる関係詞whom。"
+    },
+    {
+      "targetId": "q-0052",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "比較級fasterを強めるmuch。"
+    },
+    {
+      "targetId": "q-0053",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "可算複数signaturesの比較級は標準的な書き言葉ではfewer。"
+    },
+    {
+      "targetId": "q-0054",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "the比較級,the比較級でwider。"
+    },
+    {
+      "targetId": "q-0055",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "単数employeeを直接伴うEach。"
+    },
+    {
+      "targetId": "q-0056",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "不可算saltの量を表すa little。"
+    },
+    {
+      "targetId": "q-0057",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "theに続き複数doorsを修飾するother。"
+    },
+    {
+      "targetId": "q-0058",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "possibleAnswerIds": [
+        "d"
+      ],
+      "reason": "領収書付き請求から経費精算のreimbursement。"
+    },
+    {
+      "targetId": "q-0059",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "退職者の補充を採用するrecruit。"
+    },
+    {
+      "targetId": "q-0060",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "追跡番号で確認する配送状況status。"
+    }
+  ]
+}

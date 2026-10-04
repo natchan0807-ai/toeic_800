@@ -1,0 +1,722 @@
+{
+  "id": "vocab-003-review",
+  "batchId": "vocab-003",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:19:47.425348+00:00",
+  "method": "100語の全英文・語義・和訳・コロケーション・関連語をAIが読んで比較。判定後JSONに整形。人手確認0。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "v-customer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（顧客）について英文、和訳、品詞、組み合わせ（a regular customer）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-client",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（依頼人、取引先）について英文、和訳、品詞、組み合わせ（meet a client）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-consumer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（消費者）について英文、和訳、品詞、組み合わせ（consumer demand）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-audience",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（聴衆、観客）について英文、和訳、品詞、組み合わせ（a large audience）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-market",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（市場）について英文、和訳、品詞、組み合わせ（an overseas market）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-industry",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（産業、業界）について英文、和訳、品詞、組み合わせ（the tourism industry）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-competition",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（競争）について英文、和訳、品詞、組み合わせ（strong competition）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-strategy",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（戦略）について英文、和訳、品詞、組み合わせ（a marketing strategy）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-campaign",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（販促活動、運動）について英文、和訳、品詞、組み合わせ（an advertising campaign）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-brand",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（ブランド、銘柄）について英文、和訳、品詞、組み合わせ（a popular brand）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-product",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（製品）について英文、和訳、品詞、組み合わせ（launch a product）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-service",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（サービス、業務）について英文、和訳、品詞、組み合わせ（customer service）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-quality",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（品質）について英文、和訳、品詞、組み合わせ（quality control）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-value",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（価値）について英文、和訳、品詞、組み合わせ（good value）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-price",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（価格）について英文、和訳、品詞、組み合わせ（a reasonable price）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-sale",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（販売）について英文、和訳、品詞、組み合わせ（ticket sales）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-discount",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（割引）について英文、和訳、品詞、組み合わせ（a group discount）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-profit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（利益）について英文、和訳、品詞、組み合わせ（make a profit）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-revenue",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（売上高、収入）について英文、和訳、品詞、組み合わせ（annual revenue）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-growth",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（成長、増加）について英文、和訳、品詞、組み合わせ（economic growth）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-demand",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（需要）について英文、和訳、品詞、組み合わせ（meet demand）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-supply",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（供給、蓄え）について英文、和訳、品詞、組み合わせ（a steady supply）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-contract",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（契約、契約書）について英文、和訳、品詞、組み合わせ（sign a contract）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-agreement",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（合意、契約）について英文、和訳、品詞、組み合わせ（reach an agreement）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-partnership",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（提携、協力関係）について英文、和訳、品詞、組み合わせ（form a partnership）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-research",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（研究、調査）について英文、和訳、品詞、組み合わせ（conduct research）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-survey",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（アンケート、調査）について英文、和訳、品詞、組み合わせ（conduct a survey）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-analysis",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（分析）について英文、和訳、品詞、組み合わせ（data analysis）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-trend",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "version 2を再読。Remote workとリモート勤務の対応に修正され、在宅に限定してしまう訳を解消。語義とgrowing trendの用法も整合。"
+    },
+    {
+      "targetId": "v-opportunity",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（機会）について英文、和訳、品詞、組み合わせ（a business opportunity）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-risk",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（危険性、リスク）について英文、和訳、品詞、組み合わせ（reduce risk）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-advantage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（利点、有利な点）について英文、和訳、品詞、組み合わせ（a competitive advantage）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-disadvantage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（不利な点）について英文、和訳、品詞、組み合わせ（a major disadvantage）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-success",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（成功）について英文、和訳、品詞、組み合わせ（achieve success）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-failure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（失敗、故障）について英文、和訳、品詞、組み合わせ（a power failure）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-performance",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（業績、能力）について英文、和訳、品詞、組み合わせ（job performance）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-productivity",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（生産性）について英文、和訳、品詞、組み合わせ（improve productivity）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-efficiency",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（効率）について英文、和訳、品詞、組み合わせ（improve efficiency）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-capacity",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（収容力、生産能力）について英文、和訳、品詞、組み合わせ（at full capacity）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-objective",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（目的、目標）について英文、和訳、品詞、組み合わせ（a clear objective）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-purpose",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（目的）について英文、和訳、品詞、組み合わせ（the main purpose）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-priority",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（優先事項）について英文、和訳、品詞、組み合わせ（a top priority）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-resource",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（資源、資力）について英文、和訳、品詞、組み合わせ（human resources）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-expense",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（経費、費用）について英文、和訳、品詞、組み合わせ（travel expenses）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-income",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（収入）について英文、和訳、品詞、組み合わせ（household income）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-input",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（意見、助言）について英文、和訳、品詞、組み合わせ（provide input）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-approach",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（取り組み方）について英文、和訳、品詞、組み合わせ（a practical approach）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-proposal",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（提案、提案書）について英文、和訳、品詞、組み合わせ（submit a proposal）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-expand",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（拡大する）について英文、和訳、品詞、組み合わせ（expand a business）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-launch",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（開始する、発売する）について英文、和訳、品詞、組み合わせ（launch a service）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-promote",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（促進する、宣伝する）について英文、和訳、品詞、組み合わせ（promote a product）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-advertise",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（広告する）について英文、和訳、品詞、組み合わせ（advertise a vacancy）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-negotiate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（交渉する）について英文、和訳、品詞、組み合わせ（negotiate a price）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-compete",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（競争する）について英文、和訳、品詞、組み合わせ（compete with rivals）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-cooperate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（協力する）について英文、和訳、品詞、組み合わせ（cooperate with a team）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-combine",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（組み合わせる）について英文、和訳、品詞、組み合わせ（combine two methods）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-create",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（作り出す）について英文、和訳、品詞、組み合わせ（create jobs）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-design",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（設計する）について英文、和訳、品詞、組み合わせ（design furniture）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-develop",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（開発する）について英文、和訳、品詞、組み合わせ（develop a product）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-establish",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（設立する、確立する）について英文、和訳、品詞、組み合わせ（establish a company）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-estimate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（見積もる）について英文、和訳、品詞、組み合わせ（estimate a cost）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-evaluate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（評価する）について英文、和訳、品詞、組み合わせ（evaluate options）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-examine",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（調べる）について英文、和訳、品詞、組み合わせ（examine equipment）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-explore",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（検討する、探る）について英文、和訳、品詞、組み合わせ（explore opportunities）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-extend",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（延長する）について英文、和訳、品詞、組み合わせ（extend a deadline）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-manage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（管理する）について英文、和訳、品詞、組み合わせ（manage a store）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-maintain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（維持する、保守する）について英文、和訳、品詞、組み合わせ（maintain quality）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-measure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（測る）について英文、和訳、品詞、組み合わせ（measure the width）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-monitor",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（継続して確認する、監視する）について英文、和訳、品詞、組み合わせ（monitor temperature）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-organize",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（企画する、整理する）について英文、和訳、品詞、組み合わせ（organize a workshop）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-operate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（操作する、運営する）について英文、和訳、品詞、組み合わせ（operate machinery）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-produce",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（生産する）について英文、和訳、品詞、組み合わせ（produce goods）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-publish",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（出版する、公表する）について英文、和訳、品詞、組み合わせ（publish a newsletter）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-recruit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（採用する、募集する）について英文、和訳、品詞、組み合わせ（recruit staff）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-retain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（保持する）について英文、和訳、品詞、組み合わせ（retain employees）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-revise",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（修正する）について英文、和訳、品詞、組み合わせ（revise a proposal）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-solve",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（解決する）について英文、和訳、品詞、組み合わせ（solve a problem）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-specify",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（明記する、指定する）について英文、和訳、品詞、組み合わせ（specify a date）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-generate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（生み出す）について英文、和訳、品詞、組み合わせ（generate interest）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-demonstrate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（実演する、示す）について英文、和訳、品詞、組み合わせ（demonstrate a technique）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-determine",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（決定する、突き止める）について英文、和訳、品詞、組み合わせ（determine a cause）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-enable",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（可能にする）について英文、和訳、品詞、組み合わせ（enable access）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-encourage",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（勧める、励ます）について英文、和訳、品詞、組み合わせ（encourage participation）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-ensure",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（確実にする）について英文、和訳、品詞、組み合わせ（ensure safety）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-identify",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（特定する）について英文、和訳、品詞、組み合わせ（identify an error）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-implement",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（実施する、導入する）について英文、和訳、品詞、組み合わせ（implement a policy）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-invest",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（投資する）について英文、和訳、品詞、組み合わせ（invest in equipment）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-lead",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（率いる）について英文、和訳、品詞、組み合わせ（lead a team）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-locate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（見つける、所在を特定する）について英文、和訳、品詞、組み合わせ（locate a package）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-obtain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（得る）について英文、和訳、品詞、組み合わせ（obtain approval）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-participate",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（参加する）について英文、和訳、品詞、組み合わせ（participate in an event）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-perform",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（行う）について英文、和訳、品詞、組み合わせ（perform an inspection）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-prevent",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（防ぐ）について英文、和訳、品詞、組み合わせ（prevent damage）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-protect",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（守る）について英文、和訳、品詞、組み合わせ（protect equipment）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-prove",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（証明する）について英文、和訳、品詞、組み合わせ（prove a claim）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-recognize",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（認識する、評価する）について英文、和訳、品詞、組み合わせ（recognize an achievement）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-require",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（必要とする）について英文、和訳、品詞、組み合わせ（require assistance）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-resolve",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（解決する）について英文、和訳、品詞、組み合わせ（resolve a complaint）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-respond",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（返答する、対応する）について英文、和訳、品詞、組み合わせ（respond to a request）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    },
+    {
+      "targetId": "v-postpone",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "全語義（延期する）について英文、和訳、品詞、組み合わせ（postpone an event）を実読して照合。文脈と訳の意味、対象語義の用法は整合。"
+    }
+  ],
+  "revisionHistory": [
+    {
+      "targetId": "v-trend",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "v-trend-1.translationJa: remote workは自宅以外でも可能なため、「在宅勤務」を「リモート勤務」に変更して範囲を合わせる。"
+      ],
+      "reason": "全語義（傾向）について英文、和訳、品詞、組み合わせ（a recent trend）を実読して照合。勤務場所を自宅に限定する訳を修正する。"
+    }
+  ]
+}

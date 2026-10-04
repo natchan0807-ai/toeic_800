@@ -1,0 +1,2921 @@
+{
+  "id": "vocab-006",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-04T00:14:24.756169+00:00",
+  "author": "vocabulary_editor",
+  "model": null,
+  "input": "research policy v1",
+  "status": "generated",
+  "items": [
+    {
+      "id": "v-account",
+      "version": 2,
+      "lemma": "account",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "account holder"
+      ],
+      "rationale": "学習設計上の選定: 口座に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-account-1",
+          "pos": "noun",
+          "meaningJa": "口座",
+          "example": "I opened a savings account last week.",
+          "translationJa": "先週、貯蓄用口座を開きました。",
+          "collocations": [
+            "a bank account"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bank",
+      "version": 1,
+      "lemma": "bank",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "banking"
+      ],
+      "rationale": "学習設計上の選定: 銀行に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bank-1",
+          "pos": "noun",
+          "meaningJa": "銀行",
+          "example": "The bank closes at three on weekdays.",
+          "translationJa": "銀行は平日の3時に閉まります。",
+          "collocations": [
+            "a local bank"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cash",
+      "version": 1,
+      "lemma": "cash",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "cashless"
+      ],
+      "rationale": "学習設計上の選定: 現金に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cash-1",
+          "pos": "noun",
+          "meaningJa": "現金",
+          "example": "This small cafe accepts only cash.",
+          "translationJa": "この小さなカフェは現金のみ受け付けます。",
+          "collocations": [
+            "pay in cash"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-coin",
+      "version": 1,
+      "lemma": "coin",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "coin-operated"
+      ],
+      "rationale": "学習設計上の選定: 硬貨に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-coin-1",
+          "pos": "noun",
+          "meaningJa": "硬貨",
+          "example": "The machine takes coins and cards.",
+          "translationJa": "この機械は硬貨とカードが使えます。",
+          "collocations": [
+            "a silver coin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-note",
+      "version": 1,
+      "lemma": "note",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "banknote"
+      ],
+      "rationale": "学習設計上の選定: 紙幣に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-note-1",
+          "pos": "noun",
+          "meaningJa": "紙幣",
+          "example": "Can you change this ten-pound note?",
+          "translationJa": "この10ポンド紙幣を崩せますか。",
+          "collocations": [
+            "a bank note"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bill",
+      "version": 1,
+      "lemma": "bill",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "billing"
+      ],
+      "rationale": "学習設計上の選定: 請求書、勘定に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bill-1",
+          "pos": "noun",
+          "meaningJa": "請求書、勘定",
+          "example": "The bill includes a service charge.",
+          "translationJa": "勘定にはサービス料が含まれます。",
+          "collocations": [
+            "pay a bill"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-receipt",
+      "version": 1,
+      "lemma": "receipt",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "proof of purchase"
+      ],
+      "rationale": "学習設計上の選定: 領収書、レシートに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-receipt-1",
+          "pos": "noun",
+          "meaningJa": "領収書、レシート",
+          "example": "Keep your receipt for the return.",
+          "translationJa": "返品のためレシートを保管してください。",
+          "collocations": [
+            "a sales receipt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-invoice",
+      "version": 1,
+      "lemma": "invoice",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "invoicing"
+      ],
+      "rationale": "学習設計上の選定: 請求書に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-invoice-1",
+          "pos": "noun",
+          "meaningJa": "請求書",
+          "example": "The invoice lists each item separately.",
+          "translationJa": "請求書には各品目が個別に記載されています。",
+          "collocations": [
+            "issue an invoice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-payment",
+      "version": 1,
+      "lemma": "payment",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "pay"
+      ],
+      "rationale": "学習設計上の選定: 支払いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-payment-1",
+          "pos": "noun",
+          "meaningJa": "支払い",
+          "example": "Payment is due within thirty days.",
+          "translationJa": "支払期限は30日以内です。",
+          "collocations": [
+            "make a payment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-transaction",
+      "version": 1,
+      "lemma": "transaction",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "transact"
+      ],
+      "rationale": "学習設計上の選定: 取引に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-transaction-1",
+          "pos": "noun",
+          "meaningJa": "取引",
+          "example": "The transaction appears on your statement.",
+          "translationJa": "その取引は明細書に載っています。",
+          "collocations": [
+            "a bank transaction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-deposit",
+      "version": 2,
+      "lemma": "deposit",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "depositor"
+      ],
+      "rationale": "学習設計上の選定: 預金、頭金、手付金に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-deposit-1",
+          "pos": "noun",
+          "meaningJa": "預金、頭金、手付金",
+          "example": "A small deposit secures your booking.",
+          "translationJa": "少額の手付金で予約を確保できます。",
+          "collocations": [
+            "pay a deposit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-withdrawal",
+      "version": 1,
+      "lemma": "withdrawal",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "withdraw"
+      ],
+      "rationale": "学習設計上の選定: 引き出しに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-withdrawal-1",
+          "pos": "noun",
+          "meaningJa": "引き出し",
+          "example": "The bank charges a fee for cash withdrawals.",
+          "translationJa": "その銀行は現金引き出しに手数料を取ります。",
+          "collocations": [
+            "a cash withdrawal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-loan",
+      "version": 1,
+      "lemma": "loan",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "lender"
+      ],
+      "rationale": "学習設計上の選定: 貸付、ローンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-loan-1",
+          "pos": "noun",
+          "meaningJa": "貸付、ローン",
+          "example": "The loan helped us buy new equipment.",
+          "translationJa": "融資のおかげで新しい機器を買えました。",
+          "collocations": [
+            "apply for a loan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-debt",
+      "version": 1,
+      "lemma": "debt",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "debtor"
+      ],
+      "rationale": "学習設計上の選定: 借金、負債に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-debt-1",
+          "pos": "noun",
+          "meaningJa": "借金、負債",
+          "example": "The firm reduced its debt last year.",
+          "translationJa": "その会社は昨年負債を減らしました。",
+          "collocations": [
+            "repay a debt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-credit",
+      "version": 1,
+      "lemma": "credit",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "creditworthy"
+      ],
+      "rationale": "学習設計上の選定: 信用貸し、後払いに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-credit-1",
+          "pos": "noun",
+          "meaningJa": "信用貸し、後払い",
+          "example": "The supplier lets us buy on credit.",
+          "translationJa": "仕入先は後払いでの購入を認めています。",
+          "collocations": [
+            "buy on credit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-debit",
+      "version": 1,
+      "lemma": "debit",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "debit card"
+      ],
+      "rationale": "学習設計上の選定: 口座からの引き落としに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-debit-1",
+          "pos": "noun",
+          "meaningJa": "口座からの引き落とし",
+          "example": "A debit appeared on my bank statement.",
+          "translationJa": "銀行明細に引き落としが記載されました。",
+          "collocations": [
+            "a direct debit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-interest",
+      "version": 1,
+      "lemma": "interest",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "interested"
+      ],
+      "rationale": "学習設計上の選定: 関心に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-interest-1",
+          "pos": "noun",
+          "meaningJa": "関心",
+          "example": "The exhibit attracted interest from local schools.",
+          "translationJa": "展示は地元の学校の関心を集めました。",
+          "collocations": [
+            "show interest"
+          ]
+        },
+        {
+          "id": "v-interest-2",
+          "pos": "noun",
+          "meaningJa": "利息",
+          "example": "The bank pays interest on this account.",
+          "translationJa": "銀行はこの口座に利息を支払います。",
+          "collocations": [
+            "earn interest"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-savings",
+      "version": 1,
+      "lemma": "savings",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "save"
+      ],
+      "rationale": "学習設計上の選定: 貯金、蓄えに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-savings-1",
+          "pos": "noun",
+          "meaningJa": "貯金、蓄え",
+          "example": "She used her savings to open a bakery.",
+          "translationJa": "彼女は貯金でパン店を開きました。",
+          "collocations": [
+            "personal savings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-investment",
+      "version": 1,
+      "lemma": "investment",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "investor"
+      ],
+      "rationale": "学習設計上の選定: 投資に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-investment-1",
+          "pos": "noun",
+          "meaningJa": "投資",
+          "example": "The new equipment is a long-term investment.",
+          "translationJa": "新しい機器は長期的な投資です。",
+          "collocations": [
+            "a long-term investment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tax",
+      "version": 1,
+      "lemma": "tax",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "taxation"
+      ],
+      "rationale": "学習設計上の選定: 税金に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tax-1",
+          "pos": "noun",
+          "meaningJa": "税金",
+          "example": "The displayed price includes sales tax.",
+          "translationJa": "表示価格には売上税が含まれます。",
+          "collocations": [
+            "pay tax"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fee",
+      "version": 1,
+      "lemma": "fee",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "fee waiver"
+      ],
+      "rationale": "学習設計上の選定: 手数料、料金に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fee-1",
+          "pos": "noun",
+          "meaningJa": "手数料、料金",
+          "example": "The course fee covers all materials.",
+          "translationJa": "受講料には教材費がすべて含まれます。",
+          "collocations": [
+            "an admission fee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-commission",
+      "version": 1,
+      "lemma": "commission",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "commission rate"
+      ],
+      "rationale": "学習設計上の選定: 歩合、手数料に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-commission-1",
+          "pos": "noun",
+          "meaningJa": "歩合、手数料",
+          "example": "Agents earn commission on each sale.",
+          "translationJa": "代理人は販売ごとに歩合を得ます。",
+          "collocations": [
+            "earn commission"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-salary",
+      "version": 1,
+      "lemma": "salary",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "salaried"
+      ],
+      "rationale": "学習設計上の選定: 給料、年俸に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-salary-1",
+          "pos": "noun",
+          "meaningJa": "給料、年俸",
+          "example": "The position offers a competitive salary.",
+          "translationJa": "その職には競争力のある給与が提示されています。",
+          "collocations": [
+            "an annual salary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wage",
+      "version": 1,
+      "lemma": "wage",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "wage increase"
+      ],
+      "rationale": "学習設計上の選定: 賃金に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wage-1",
+          "pos": "noun",
+          "meaningJa": "賃金",
+          "example": "Workers received a higher hourly wage.",
+          "translationJa": "作業員は時給が上がりました。",
+          "collocations": [
+            "an hourly wage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bonus",
+      "version": 1,
+      "lemma": "bonus",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "bonus payment"
+      ],
+      "rationale": "学習設計上の選定: 賞与、追加報酬に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bonus-1",
+          "pos": "noun",
+          "meaningJa": "賞与、追加報酬",
+          "example": "The team received a performance bonus.",
+          "translationJa": "チームは業績に応じた賞与を受けました。",
+          "collocations": [
+            "an annual bonus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-allowance",
+      "version": 1,
+      "lemma": "allowance",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "allowable"
+      ],
+      "rationale": "学習設計上の選定: 手当、支給額に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-allowance-1",
+          "pos": "noun",
+          "meaningJa": "手当、支給額",
+          "example": "Employees receive a monthly travel allowance.",
+          "translationJa": "従業員には毎月交通手当が支給されます。",
+          "collocations": [
+            "a travel allowance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pension",
+      "version": 1,
+      "lemma": "pension",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "pensioner"
+      ],
+      "rationale": "学習設計上の選定: 年金に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pension-1",
+          "pos": "noun",
+          "meaningJa": "年金",
+          "example": "She receives a pension each month.",
+          "translationJa": "彼女は毎月年金を受け取ります。",
+          "collocations": [
+            "a pension plan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-insurance",
+      "version": 1,
+      "lemma": "insurance",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "insurer"
+      ],
+      "rationale": "学習設計上の選定: 保険に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-insurance-1",
+          "pos": "noun",
+          "meaningJa": "保険",
+          "example": "Travel insurance covers certain unexpected costs.",
+          "translationJa": "旅行保険は所定の予期せぬ費用を補償します。",
+          "collocations": [
+            "travel insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-premium",
+      "version": 1,
+      "lemma": "premium",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "premium payment"
+      ],
+      "rationale": "学習設計上の選定: 保険料に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-premium-1",
+          "pos": "noun",
+          "meaningJa": "保険料",
+          "example": "Our annual insurance premium increased slightly.",
+          "translationJa": "年間保険料が少し上がりました。",
+          "collocations": [
+            "an insurance premium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-refund",
+      "version": 1,
+      "lemma": "refund",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "refundable"
+      ],
+      "rationale": "学習設計上の選定: 返金に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-refund-1",
+          "pos": "noun",
+          "meaningJa": "返金",
+          "example": "You can request a refund online.",
+          "translationJa": "オンラインで返金を申請できます。",
+          "collocations": [
+            "a full refund"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-reimbursement",
+      "version": 1,
+      "lemma": "reimbursement",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "reimburse"
+      ],
+      "rationale": "学習設計上の選定: 経費の払い戻しに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-reimbursement-1",
+          "pos": "noun",
+          "meaningJa": "経費の払い戻し",
+          "example": "Submit receipts to receive reimbursement.",
+          "translationJa": "経費精算のため領収書を提出してください。",
+          "collocations": [
+            "expense reimbursement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-accountant",
+      "version": 1,
+      "lemma": "accountant",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "accounting"
+      ],
+      "rationale": "学習設計上の選定: 会計担当者、会計士に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-accountant-1",
+          "pos": "noun",
+          "meaningJa": "会計担当者、会計士",
+          "example": "Our accountant prepares the monthly statements.",
+          "translationJa": "会計担当者は月次明細書を作成します。",
+          "collocations": [
+            "a qualified accountant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-auditor",
+      "version": 1,
+      "lemma": "auditor",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "audit"
+      ],
+      "rationale": "学習設計上の選定: 監査人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-auditor-1",
+          "pos": "noun",
+          "meaningJa": "監査人",
+          "example": "The auditor checked the travel expense records.",
+          "translationJa": "監査人は出張費の記録を確認しました。",
+          "collocations": [
+            "an external auditor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-audit",
+      "version": 1,
+      "lemma": "audit",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "auditor"
+      ],
+      "rationale": "学習設計上の選定: 監査に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-audit-1",
+          "pos": "noun",
+          "meaningJa": "監査",
+          "example": "The annual audit begins next week.",
+          "translationJa": "年次監査は来週始まります。",
+          "collocations": [
+            "conduct an audit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-asset",
+      "version": 1,
+      "lemma": "asset",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "asset management"
+      ],
+      "rationale": "学習設計上の選定: 資産に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-asset-1",
+          "pos": "noun",
+          "meaningJa": "資産",
+          "example": "The company sold an unused asset.",
+          "translationJa": "会社は使っていない資産を売却しました。",
+          "collocations": [
+            "a valuable asset"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-liability",
+      "version": 1,
+      "lemma": "liability",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "liable"
+      ],
+      "rationale": "学習設計上の選定: 負債、法的責任に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-liability-1",
+          "pos": "noun",
+          "meaningJa": "負債、法的責任",
+          "example": "The balance sheet lists assets and liabilities.",
+          "translationJa": "貸借対照表には資産と負債が載っています。",
+          "collocations": [
+            "current liabilities"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-capital",
+      "version": 1,
+      "lemma": "capital",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "capital investment"
+      ],
+      "rationale": "学習設計上の選定: 事業資金、資本に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-capital-1",
+          "pos": "noun",
+          "meaningJa": "事業資金、資本",
+          "example": "They raised capital to open another shop.",
+          "translationJa": "別店舗の開設資金を集めました。",
+          "collocations": [
+            "raise capital"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fund",
+      "version": 1,
+      "lemma": "fund",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "funding"
+      ],
+      "rationale": "学習設計上の選定: 資金、基金に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fund-1",
+          "pos": "noun",
+          "meaningJa": "資金、基金",
+          "example": "The fund supports local arts projects.",
+          "translationJa": "その基金は地元の芸術活動を支援します。",
+          "collocations": [
+            "a scholarship fund"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-stock",
+      "version": 1,
+      "lemma": "stock",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "stockholder"
+      ],
+      "rationale": "学習設計上の選定: 株式に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-stock-1",
+          "pos": "noun",
+          "meaningJa": "株式",
+          "example": "Employees may buy company stock.",
+          "translationJa": "従業員は自社株を購入できます。",
+          "collocations": [
+            "company stock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-amount",
+      "version": 1,
+      "lemma": "amount",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "quantity"
+      ],
+      "rationale": "学習設計上の選定: 金額、量に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-amount-1",
+          "pos": "noun",
+          "meaningJa": "金額、量",
+          "example": "Enter the amount shown on the receipt.",
+          "translationJa": "領収書の金額を入力してください。",
+          "collocations": [
+            "the total amount"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-total",
+      "version": 1,
+      "lemma": "total",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "totaling"
+      ],
+      "rationale": "学習設計上の選定: 合計に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-total-1",
+          "pos": "noun",
+          "meaningJa": "合計",
+          "example": "The total includes delivery and tax.",
+          "translationJa": "合計には配送費と税が含まれます。",
+          "collocations": [
+            "a grand total"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sum",
+      "version": 1,
+      "lemma": "sum",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "sum total"
+      ],
+      "rationale": "学習設計上の選定: 合計額、金額に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sum-1",
+          "pos": "noun",
+          "meaningJa": "合計額、金額",
+          "example": "A small sum is reserved for repairs.",
+          "translationJa": "修理用に少額を確保しています。",
+          "collocations": [
+            "a fixed sum"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-figure",
+      "version": 1,
+      "lemma": "figure",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "numerical"
+      ],
+      "rationale": "学習設計上の選定: 数値に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-figure-1",
+          "pos": "noun",
+          "meaningJa": "数値",
+          "example": "Check each figure against the original invoice.",
+          "translationJa": "各数値を元の請求書と照合してください。",
+          "collocations": [
+            "sales figures"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-rate",
+      "version": 1,
+      "lemma": "rate",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "rate increase"
+      ],
+      "rationale": "学習設計上の選定: 割合、料金水準に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-rate-1",
+          "pos": "noun",
+          "meaningJa": "割合、料金水準",
+          "example": "The hotel offers a lower weekly rate.",
+          "translationJa": "ホテルには割安な週単位の料金があります。",
+          "collocations": [
+            "an interest rate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-ratio",
+      "version": 1,
+      "lemma": "ratio",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "proportion"
+      ],
+      "rationale": "学習設計上の選定: 比率に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-ratio-1",
+          "pos": "noun",
+          "meaningJa": "比率",
+          "example": "The ratio of staff to guests improved.",
+          "translationJa": "宿泊客に対する職員数の比率が改善しました。",
+          "collocations": [
+            "the ratio of costs to sales"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-percentage",
+      "version": 1,
+      "lemma": "percentage",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "percent"
+      ],
+      "rationale": "学習設計上の選定: 百分率、割合に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-percentage-1",
+          "pos": "noun",
+          "meaningJa": "百分率、割合",
+          "example": "What percentage of sales comes from exports?",
+          "translationJa": "売上の何パーセントが輸出によるものですか。",
+          "collocations": [
+            "a small percentage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-exchange",
+      "version": 1,
+      "lemma": "exchange",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "exchange rate"
+      ],
+      "rationale": "学習設計上の選定: 交換、両替に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-exchange-1",
+          "pos": "noun",
+          "meaningJa": "交換、両替",
+          "example": "Currency exchange is available near the entrance.",
+          "translationJa": "入口近くで外貨両替ができます。",
+          "collocations": [
+            "currency exchange"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-due",
+      "version": 1,
+      "lemma": "due",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "due date"
+      ],
+      "rationale": "学習設計上の選定: 支払い期限の、予定のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-due-1",
+          "pos": "adjective",
+          "meaningJa": "支払い期限の、予定の",
+          "example": "The final payment is due tomorrow.",
+          "translationJa": "最終支払いの期限は明日です。",
+          "collocations": [
+            "due tomorrow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-overdue",
+      "version": 1,
+      "lemma": "overdue",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "past due"
+      ],
+      "rationale": "学習設計上の選定: 期限を過ぎたに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-overdue-1",
+          "pos": "adjective",
+          "meaningJa": "期限を過ぎた",
+          "example": "The invoice is now two weeks overdue.",
+          "translationJa": "請求書の支払期限から2週間過ぎています。",
+          "collocations": [
+            "an overdue payment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-outstanding",
+      "version": 1,
+      "lemma": "outstanding",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "unpaid"
+      ],
+      "rationale": "学習設計上の選定: 未払いの、未処理のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-outstanding-1",
+          "pos": "adjective",
+          "meaningJa": "未払いの、未処理の",
+          "example": "Please settle the outstanding balance.",
+          "translationJa": "未払い残高を清算してください。",
+          "collocations": [
+            "an outstanding balance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-annual",
+      "version": 1,
+      "lemma": "annual",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "annually"
+      ],
+      "rationale": "学習設計上の選定: 毎年の、年次のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-annual-1",
+          "pos": "adjective",
+          "meaningJa": "毎年の、年次の",
+          "example": "The annual fee is payable in April.",
+          "translationJa": "年会費は4月に支払います。",
+          "collocations": [
+            "an annual fee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-quarterly",
+      "version": 1,
+      "lemma": "quarterly",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "quarter"
+      ],
+      "rationale": "学習設計上の選定: 四半期ごとのに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-quarterly-1",
+          "pos": "adjective",
+          "meaningJa": "四半期ごとの",
+          "example": "The quarterly report shows steady growth.",
+          "translationJa": "四半期報告は着実な成長を示しています。",
+          "collocations": [
+            "a quarterly report"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-monthly",
+      "version": 1,
+      "lemma": "monthly",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "month"
+      ],
+      "rationale": "学習設計上の選定: 毎月のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-monthly-1",
+          "pos": "adjective",
+          "meaningJa": "毎月の",
+          "example": "Our monthly rent includes water.",
+          "translationJa": "毎月の家賃には水道代が含まれます。",
+          "collocations": [
+            "a monthly payment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-weekly",
+      "version": 1,
+      "lemma": "weekly",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "week"
+      ],
+      "rationale": "学習設計上の選定: 毎週のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-weekly-1",
+          "pos": "adjective",
+          "meaningJa": "毎週の",
+          "example": "The weekly budget covers food and transport.",
+          "translationJa": "週の予算には食費と交通費が含まれます。",
+          "collocations": [
+            "a weekly budget"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-financial",
+      "version": 1,
+      "lemma": "financial",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "finance"
+      ],
+      "rationale": "学習設計上の選定: 財務の、金銭のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-financial-1",
+          "pos": "adjective",
+          "meaningJa": "財務の、金銭の",
+          "example": "The manager reviewed the financial report.",
+          "translationJa": "部長は財務報告を確認しました。",
+          "collocations": [
+            "financial statements"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fiscal",
+      "version": 1,
+      "lemma": "fiscal",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "fiscally"
+      ],
+      "rationale": "学習設計上の選定: 会計年度の、財政のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fiscal-1",
+          "pos": "adjective",
+          "meaningJa": "会計年度の、財政の",
+          "example": "Our fiscal year ends in March.",
+          "translationJa": "当社の会計年度は3月に終わります。",
+          "collocations": [
+            "a fiscal year"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-economic",
+      "version": 1,
+      "lemma": "economic",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "economy"
+      ],
+      "rationale": "学習設計上の選定: 経済のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-economic-1",
+          "pos": "adjective",
+          "meaningJa": "経済の",
+          "example": "The report describes recent economic changes.",
+          "translationJa": "報告書は最近の経済変化を説明しています。",
+          "collocations": [
+            "economic growth"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-commercial",
+      "version": 1,
+      "lemma": "commercial",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "commerce"
+      ],
+      "rationale": "学習設計上の選定: 商業のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-commercial-1",
+          "pos": "adjective",
+          "meaningJa": "商業の",
+          "example": "The building has space for commercial use.",
+          "translationJa": "建物には商業利用向けの場所があります。",
+          "collocations": [
+            "commercial property"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wholesale",
+      "version": 1,
+      "lemma": "wholesale",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "wholesaler"
+      ],
+      "rationale": "学習設計上の選定: 卸売りのに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wholesale-1",
+          "pos": "adjective",
+          "meaningJa": "卸売りの",
+          "example": "Large orders qualify for wholesale prices.",
+          "translationJa": "大量注文には卸売価格が適用されます。",
+          "collocations": [
+            "wholesale prices"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-retail",
+      "version": 1,
+      "lemma": "retail",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "retailer"
+      ],
+      "rationale": "学習設計上の選定: 小売りのに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-retail-1",
+          "pos": "adjective",
+          "meaningJa": "小売りの",
+          "example": "The retail price is printed on the box.",
+          "translationJa": "小売価格は箱に記載されています。",
+          "collocations": [
+            "a retail store"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bargain",
+      "version": 1,
+      "lemma": "bargain",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "bargaining"
+      ],
+      "rationale": "学習設計上の選定: お買い得品に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bargain-1",
+          "pos": "noun",
+          "meaningJa": "お買い得品",
+          "example": "This used desk was a real bargain.",
+          "translationJa": "この中古机はとてもお買い得でした。",
+          "collocations": [
+            "a great bargain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-deal",
+      "version": 1,
+      "lemma": "deal",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "dealer"
+      ],
+      "rationale": "学習設計上の選定: 取引、契約に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-deal-1",
+          "pos": "noun",
+          "meaningJa": "取引、契約",
+          "example": "The deal includes three years of maintenance.",
+          "translationJa": "その契約には3年間の保守が含まれます。",
+          "collocations": [
+            "close a deal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-coupon",
+      "version": 1,
+      "lemma": "coupon",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "coupon code"
+      ],
+      "rationale": "学習設計上の選定: 割引券に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-coupon-1",
+          "pos": "noun",
+          "meaningJa": "割引券",
+          "example": "This coupon expires at the end of May.",
+          "translationJa": "この割引券は5月末に期限が切れます。",
+          "collocations": [
+            "a discount coupon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-voucher",
+      "version": 1,
+      "lemma": "voucher",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "gift certificate"
+      ],
+      "rationale": "学習設計上の選定: 商品券、引換券に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-voucher-1",
+          "pos": "noun",
+          "meaningJa": "商品券、引換券",
+          "example": "The voucher can be used for lunch.",
+          "translationJa": "その引換券は昼食に使えます。",
+          "collocations": [
+            "a gift voucher"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-checkout",
+      "version": 1,
+      "lemma": "checkout",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "checkout counter"
+      ],
+      "rationale": "学習設計上の選定: 会計場所、決済手続きに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-checkout-1",
+          "pos": "noun",
+          "meaningJa": "会計場所、決済手続き",
+          "example": "Enter the discount code at checkout.",
+          "translationJa": "決済時に割引コードを入力してください。",
+          "collocations": [
+            "an express checkout"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cashier",
+      "version": 1,
+      "lemma": "cashier",
+      "domain": "people",
+      "difficulty": "standard",
+      "relatedWords": [
+        "cash register"
+      ],
+      "rationale": "学習設計上の選定: レジ係に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cashier-1",
+          "pos": "noun",
+          "meaningJa": "レジ係",
+          "example": "The cashier gave me the wrong change.",
+          "translationJa": "レジ係は釣り銭を間違えました。",
+          "collocations": [
+            "a store cashier"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-register",
+      "version": 1,
+      "lemma": "register",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "till"
+      ],
+      "rationale": "学習設計上の選定: レジに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-register-1",
+          "pos": "noun",
+          "meaningJa": "レジ",
+          "example": "The register is beside the main entrance.",
+          "translationJa": "レジは正面入口の横です。",
+          "collocations": [
+            "a cash register"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-guarantee",
+      "version": 1,
+      "lemma": "guarantee",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "guarantor"
+      ],
+      "rationale": "学習設計上の選定: 保証に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-guarantee-1",
+          "pos": "noun",
+          "meaningJa": "保証",
+          "example": "The service comes with a satisfaction guarantee.",
+          "translationJa": "そのサービスには満足保証が付いています。",
+          "collocations": [
+            "a written guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-warranty",
+      "version": 2,
+      "lemma": "warranty",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "under warranty"
+      ],
+      "rationale": "学習設計上の選定: 製品保証に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-warranty-1",
+          "pos": "noun",
+          "meaningJa": "製品保証",
+          "example": "The warranty covers defects for one year.",
+          "translationJa": "保証は1年間、製品の欠陥を対象とします。",
+          "collocations": [
+            "a manufacturer's warranty"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-complaint",
+      "version": 1,
+      "lemma": "complaint",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "complain"
+      ],
+      "rationale": "学習設計上の選定: 苦情に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-complaint-1",
+          "pos": "noun",
+          "meaningJa": "苦情",
+          "example": "We received a complaint about late delivery.",
+          "translationJa": "配達の遅れについて苦情が来ました。",
+          "collocations": [
+            "handle a complaint"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-inquiry",
+      "version": 1,
+      "lemma": "inquiry",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "inquire"
+      ],
+      "rationale": "学習設計上の選定: 問い合わせに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-inquiry-1",
+          "pos": "noun",
+          "meaningJa": "問い合わせ",
+          "example": "Send your inquiry to the sales team.",
+          "translationJa": "問い合わせは営業チームに送ってください。",
+          "collocations": [
+            "a customer inquiry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-catalog",
+      "version": 1,
+      "lemma": "catalog",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "catalog entry"
+      ],
+      "rationale": "学習設計上の選定: 商品一覧、カタログに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-catalog-1",
+          "pos": "noun",
+          "meaningJa": "商品一覧、カタログ",
+          "example": "The catalog shows the full furniture range.",
+          "translationJa": "カタログには家具の全商品が載っています。",
+          "collocations": [
+            "a product catalog"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-brochure",
+      "version": 1,
+      "lemma": "brochure",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "booklet"
+      ],
+      "rationale": "学習設計上の選定: パンフレットに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-brochure-1",
+          "pos": "noun",
+          "meaningJa": "パンフレット",
+          "example": "The brochure explains our training programs.",
+          "translationJa": "パンフレットは研修内容を説明しています。",
+          "collocations": [
+            "a travel brochure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-leaflet",
+      "version": 1,
+      "lemma": "leaflet",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "flyer"
+      ],
+      "rationale": "学習設計上の選定: チラシに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-leaflet-1",
+          "pos": "noun",
+          "meaningJa": "チラシ",
+          "example": "Staff handed out leaflets about the exhibition.",
+          "translationJa": "職員は展示会のチラシを配りました。",
+          "collocations": [
+            "an information leaflet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-poster",
+      "version": 1,
+      "lemma": "poster",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "notice board"
+      ],
+      "rationale": "学習設計上の選定: ポスターに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-poster-1",
+          "pos": "noun",
+          "meaningJa": "ポスター",
+          "example": "A poster advertises the summer concert.",
+          "translationJa": "ポスターが夏の演奏会を宣伝しています。",
+          "collocations": [
+            "display a poster"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-advertisement",
+      "version": 1,
+      "lemma": "advertisement",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "advertise"
+      ],
+      "rationale": "学習設計上の選定: 広告に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-advertisement-1",
+          "pos": "noun",
+          "meaningJa": "広告",
+          "example": "I found the vacancy in an advertisement.",
+          "translationJa": "広告でその求人を見つけました。",
+          "collocations": [
+            "a newspaper advertisement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-subscription",
+      "version": 1,
+      "lemma": "subscription",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "subscriber"
+      ],
+      "rationale": "学習設計上の選定: 定期購読、継続利用契約に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-subscription-1",
+          "pos": "noun",
+          "meaningJa": "定期購読、継続利用契約",
+          "example": "My magazine subscription expires next month.",
+          "translationJa": "雑誌の定期購読は来月切れます。",
+          "collocations": [
+            "renew a subscription"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-membership",
+      "version": 1,
+      "lemma": "membership",
+      "domain": "daily",
+      "difficulty": "standard",
+      "relatedWords": [
+        "member"
+      ],
+      "rationale": "学習設計上の選定: 会員資格に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-membership-1",
+          "pos": "noun",
+          "meaningJa": "会員資格",
+          "example": "Membership includes free entry to exhibitions.",
+          "translationJa": "会員資格には展示会の無料入場が含まれます。",
+          "collocations": [
+            "annual membership"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-installment",
+      "version": 1,
+      "lemma": "installment",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "installment plan"
+      ],
+      "rationale": "学習設計上の選定: 分割払いの1回分に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-installment-1",
+          "pos": "noun",
+          "meaningJa": "分割払いの1回分",
+          "example": "We paid the first installment yesterday.",
+          "translationJa": "昨日、分割払いの初回分を支払いました。",
+          "collocations": [
+            "pay in installments"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bid",
+      "version": 1,
+      "lemma": "bid",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "bidder"
+      ],
+      "rationale": "学習設計上の選定: 入札、提示額に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bid-1",
+          "pos": "noun",
+          "meaningJa": "入札、提示額",
+          "example": "The lowest bid came from a local firm.",
+          "translationJa": "最安の入札は地元企業によるものでした。",
+          "collocations": [
+            "submit a bid"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-auction",
+      "version": 1,
+      "lemma": "auction",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "auctioneer"
+      ],
+      "rationale": "学習設計上の選定: 競売、オークションに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-auction-1",
+          "pos": "noun",
+          "meaningJa": "競売、オークション",
+          "example": "The painting was sold at auction.",
+          "translationJa": "その絵画は競売で売られました。",
+          "collocations": [
+            "a charity auction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-donation",
+      "version": 1,
+      "lemma": "donation",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "donor"
+      ],
+      "rationale": "学習設計上の選定: 寄付に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-donation-1",
+          "pos": "noun",
+          "meaningJa": "寄付",
+          "example": "Your donation helps purchase library books.",
+          "translationJa": "寄付は図書館の本の購入に役立ちます。",
+          "collocations": [
+            "make a donation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-charity",
+      "version": 1,
+      "lemma": "charity",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "charitable"
+      ],
+      "rationale": "学習設計上の選定: 慈善団体、慈善活動に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-charity-1",
+          "pos": "noun",
+          "meaningJa": "慈善団体、慈善活動",
+          "example": "The charity provides meals for local families.",
+          "translationJa": "その慈善団体は地元の家庭に食事を提供します。",
+          "collocations": [
+            "a local charity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-nonprofit",
+      "version": 1,
+      "lemma": "nonprofit",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "not-for-profit"
+      ],
+      "rationale": "学習設計上の選定: 非営利のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-nonprofit-1",
+          "pos": "adjective",
+          "meaningJa": "非営利の",
+          "example": "She works for a nonprofit organization.",
+          "translationJa": "彼女は非営利団体で働いています。",
+          "collocations": [
+            "a nonprofit organization"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-lender",
+      "version": 1,
+      "lemma": "lender",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "lend"
+      ],
+      "rationale": "学習設計上の選定: 貸し手、融資機関に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-lender-1",
+          "pos": "noun",
+          "meaningJa": "貸し手、融資機関",
+          "example": "The lender requested additional business records.",
+          "translationJa": "融資機関は追加の事業記録を求めました。",
+          "collocations": [
+            "a mortgage lender"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-beneficiary",
+      "version": 1,
+      "lemma": "beneficiary",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "benefit"
+      ],
+      "rationale": "学習設計上の選定: 受益者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-beneficiary-1",
+          "pos": "noun",
+          "meaningJa": "受益者",
+          "example": "The fund's beneficiaries include local schools.",
+          "translationJa": "その基金の受益者には地元の学校が含まれます。",
+          "collocations": [
+            "a named beneficiary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-mortgage",
+      "version": 1,
+      "lemma": "mortgage",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "mortgage lender"
+      ],
+      "rationale": "学習設計上の選定: 住宅ローン、抵当融資に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-mortgage-1",
+          "pos": "noun",
+          "meaningJa": "住宅ローン、抵当融資",
+          "example": "Their mortgage payments are due monthly.",
+          "translationJa": "住宅ローンの返済は毎月です。",
+          "collocations": [
+            "a mortgage payment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-lease",
+      "version": 1,
+      "lemma": "lease",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "lessee"
+      ],
+      "rationale": "学習設計上の選定: 賃貸借契約に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-lease-1",
+          "pos": "noun",
+          "meaningJa": "賃貸借契約",
+          "example": "The office lease ends next June.",
+          "translationJa": "事務所の賃貸契約は来年6月に終了します。",
+          "collocations": [
+            "sign a lease"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-calculate",
+      "version": 1,
+      "lemma": "calculate",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "calculation"
+      ],
+      "rationale": "学習設計上の選定: 計算するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-calculate-1",
+          "pos": "verb",
+          "meaningJa": "計算する",
+          "example": "Calculate the total before adding tax.",
+          "translationJa": "税を加える前に合計を計算してください。",
+          "collocations": [
+            "calculate a cost"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-compare",
+      "version": 1,
+      "lemma": "compare",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "comparison"
+      ],
+      "rationale": "学習設計上の選定: 比較するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-compare-1",
+          "pos": "verb",
+          "meaningJa": "比較する",
+          "example": "Compare prices before choosing a supplier.",
+          "translationJa": "仕入先を選ぶ前に価格を比較してください。",
+          "collocations": [
+            "compare prices"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-afford",
+      "version": 2,
+      "lemma": "afford",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "affordable"
+      ],
+      "rationale": "学習設計上の選定: 費用を負担する余裕があるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-afford-1",
+          "pos": "verb",
+          "meaningJa": "費用を負担する余裕がある",
+          "example": "We cannot afford a larger office yet.",
+          "translationJa": "まだ広い事務所を借りる余裕はありません。",
+          "collocations": [
+            "afford a purchase"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-owe",
+      "version": 1,
+      "lemma": "owe",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "owing"
+      ],
+      "rationale": "学習設計上の選定: 借りがある、支払う義務があるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-owe-1",
+          "pos": "verb",
+          "meaningJa": "借りがある、支払う義務がある",
+          "example": "I still owe the supplier fifty dollars.",
+          "translationJa": "仕入先にまだ50ドル支払う必要があります。",
+          "collocations": [
+            "owe money"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-own",
+      "version": 1,
+      "lemma": "own",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "ownership"
+      ],
+      "rationale": "学習設計上の選定: 所有するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-own-1",
+          "pos": "verb",
+          "meaningJa": "所有する",
+          "example": "The family owns three small restaurants.",
+          "translationJa": "その家族は小さな飲食店を3店所有しています。",
+          "collocations": [
+            "own a business"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-insure",
+      "version": 1,
+      "lemma": "insure",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "insurance"
+      ],
+      "rationale": "学習設計上の選定: 保険をかけるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-insure-1",
+          "pos": "verb",
+          "meaningJa": "保険をかける",
+          "example": "We insured the equipment against theft.",
+          "translationJa": "機器に盗難保険をかけました。",
+          "collocations": [
+            "insure equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-distribute",
+      "version": 1,
+      "lemma": "distribute",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "distribution"
+      ],
+      "rationale": "学習設計上の選定: 配る、流通させるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-distribute-1",
+          "pos": "verb",
+          "meaningJa": "配る、流通させる",
+          "example": "The company distributes books to local stores.",
+          "translationJa": "会社は地元店舗に本を卸しています。",
+          "collocations": [
+            "distribute products"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-import",
+      "version": 1,
+      "lemma": "import",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "importer"
+      ],
+      "rationale": "学習設計上の選定: 輸入するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-import-1",
+          "pos": "verb",
+          "meaningJa": "輸入する",
+          "example": "The shop imports tea from several countries.",
+          "translationJa": "その店は数か国から茶を輸入しています。",
+          "collocations": [
+            "import goods"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-export",
+      "version": 1,
+      "lemma": "export",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "exporter"
+      ],
+      "rationale": "学習設計上の選定: 輸出するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-export-1",
+          "pos": "verb",
+          "meaningJa": "輸出する",
+          "example": "This factory exports bicycles to Europe.",
+          "translationJa": "この工場は欧州へ自転車を輸出します。",
+          "collocations": [
+            "export products"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-manufacture",
+      "version": 1,
+      "lemma": "manufacture",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "manufacturer"
+      ],
+      "rationale": "学習設計上の選定: 製造するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-manufacture-1",
+          "pos": "verb",
+          "meaningJa": "製造する",
+          "example": "The plant manufactures parts for medical devices.",
+          "translationJa": "工場は医療機器の部品を製造します。",
+          "collocations": [
+            "manufacture components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-trade",
+      "version": 1,
+      "lemma": "trade",
+      "domain": "business",
+      "difficulty": "standard",
+      "relatedWords": [
+        "trader"
+      ],
+      "rationale": "学習設計上の選定: 貿易、商取引に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-trade-1",
+          "pos": "noun",
+          "meaningJa": "貿易、商取引",
+          "example": "The port supports international trade.",
+          "translationJa": "その港は国際貿易を支えています。",
+          "collocations": [
+            "international trade"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wealth",
+      "version": 1,
+      "lemma": "wealth",
+      "domain": "finance",
+      "difficulty": "standard",
+      "relatedWords": [
+        "wealthy"
+      ],
+      "rationale": "学習設計上の選定: 富、財産に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wealth-1",
+          "pos": "noun",
+          "meaningJa": "富、財産",
+          "example": "The program teaches children about income and wealth.",
+          "translationJa": "その講座は子供に所得と資産を教えます。",
+          "collocations": [
+            "personal wealth"
+          ]
+        }
+      ]
+    }
+  ]
+}

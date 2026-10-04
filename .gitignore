@@ -1,0 +1,7 @@
+dist/
+.browser-test/
+test-results/
+*.local
+node_modules/
+__pycache__/
+*.py[cod]

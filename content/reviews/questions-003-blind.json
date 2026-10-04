@@ -1,0 +1,222 @@
+{
+  "id": "questions-003-blind",
+  "batchId": "questions-003",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:32:17.967551+00:00",
+  "method": "著者解答・解説・和訳を開く前に、content/blindのstem/optionsのみから全30問を独立解答。",
+  "items": [
+    {
+      "targetId": "q-0061",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "severalの後の可算複数名詞",
+      "issues": []
+    },
+    {
+      "targetId": "q-0062",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "toolを修飾する形容詞",
+      "issues": []
+    },
+    {
+      "targetId": "q-0063",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "explainedを修飾する副詞",
+      "issues": []
+    },
+    {
+      "targetId": "q-0064",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "過去の電話より先に完了した発見",
+      "issues": []
+    },
+    {
+      "targetId": "q-0065",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "paintingを主語にした過去受動態",
+      "issues": []
+    },
+    {
+      "targetId": "q-0066",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "let＋目的語＋動詞原形",
+      "issues": []
+    },
+    {
+      "targetId": "q-0067",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "oneが主語で単数is",
+      "issues": []
+    },
+    {
+      "targetId": "q-0068",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "several chairsが複数",
+      "issues": []
+    },
+    {
+      "targetId": "q-0069",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "neitherの単数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0070",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "複数のrental ratesを受けるthose",
+      "issues": []
+    },
+    {
+      "targetId": "q-0071",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "laptopを限定する所有格her",
+      "issues": []
+    },
+    {
+      "targetId": "q-0072",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "sentの間接目的語us",
+      "issues": []
+    },
+    {
+      "targetId": "q-0073",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "responsible forの語法",
+      "issues": []
+    },
+    {
+      "targetId": "q-0074",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "according toの固定表現",
+      "issues": []
+    },
+    {
+      "targetId": "q-0075",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "年の前のin",
+      "issues": []
+    },
+    {
+      "targetId": "q-0076",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "eitherとorの対応",
+      "issues": []
+    },
+    {
+      "targetId": "q-0077",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "bothとandの対応",
+      "issues": []
+    },
+    {
+      "targetId": "q-0078",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "whetherとorの選択",
+      "issues": []
+    },
+    {
+      "targetId": "q-0079",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "前置詞intoの直後のwhich",
+      "issues": []
+    },
+    {
+      "targetId": "q-0080",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "目的語を含むwhatが最も自然だがwhichも選択対象を受ける疑問代名詞になり得る",
+      "issues": [
+        "whichも省略された選択対象を指す疑問代名詞として解釈できるため、唯一性を強める選択肢へ変更を推奨。"
+      ]
+    },
+    {
+      "targetId": "q-0081",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "人を先行詞にした主格who",
+      "issues": []
+    },
+    {
+      "targetId": "q-0082",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "twice as long asの形",
+      "issues": []
+    },
+    {
+      "targetId": "q-0083",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "二者から選ぶ比較級better",
+      "issues": []
+    },
+    {
+      "targetId": "q-0084",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "thanに対応するlarger",
+      "issues": []
+    },
+    {
+      "targetId": "q-0085",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "母音で始まるexperiencedの前のan",
+      "issues": []
+    },
+    {
+      "targetId": "q-0086",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "複数documentsに合うAll of",
+      "issues": []
+    },
+    {
+      "targetId": "q-0087",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "両方閉鎖なのでneither",
+      "issues": []
+    },
+    {
+      "targetId": "q-0088",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "notify人of事柄の語法",
+      "issues": []
+    },
+    {
+      "targetId": "q-0089",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "ケーブル点検と潤滑はmaintenance",
+      "issues": []
+    },
+    {
+      "targetId": "q-0090",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "comply with規則の語法",
+      "issues": []
+    }
+  ]
+}

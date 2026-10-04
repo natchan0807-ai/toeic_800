@@ -1,0 +1,222 @@
+{
+  "id": "questions-008-blind",
+  "batchId": "questions-008",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:35:18.651859+00:00",
+  "method": "著者解答・解説・和訳を読む前に、blindのstem/optionsだけから全30問を独立解答。",
+  "items": [
+    {
+      "targetId": "q-0211",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "promptの後の名詞response",
+      "issues": []
+    },
+    {
+      "targetId": "q-0212",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "descriptionを修飾するaccurate",
+      "issues": []
+    },
+    {
+      "targetId": "q-0213",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "attachedを修飾するcorrectly",
+      "issues": []
+    },
+    {
+      "targetId": "q-0214",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "前置詞withoutの後の動名詞informing",
+      "issues": []
+    },
+    {
+      "targetId": "q-0215",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "未来条件節の現在形remains",
+      "issues": []
+    },
+    {
+      "targetId": "q-0216",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "must be storedの受動態",
+      "issues": []
+    },
+    {
+      "targetId": "q-0217",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "不可算furnitureの単数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0218",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "動名詞主語Reducing...の単数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0219",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "A number of customersの複数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0220",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "Ms Grantを受ける主格she",
+      "issues": []
+    },
+    {
+      "targetId": "q-0221",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "be動詞補語の所有代名詞theirs",
+      "issues": []
+    },
+    {
+      "targetId": "q-0222",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "単数envelopeを受けるone",
+      "issues": []
+    },
+    {
+      "targetId": "q-0223",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "midnightの前のat",
+      "issues": []
+    },
+    {
+      "targetId": "q-0224",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "depend onの語法",
+      "issues": []
+    },
+    {
+      "targetId": "q-0225",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "終了から7日以内のwithin",
+      "issues": []
+    },
+    {
+      "targetId": "q-0226",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "not only but alsoの対応",
+      "issues": []
+    },
+    {
+      "targetId": "q-0227",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "bothとandの対応",
+      "issues": []
+    },
+    {
+      "targetId": "q-0228",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "送信前の確認before＋節",
+      "issues": []
+    },
+    {
+      "targetId": "q-0229",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "daysを受けるwhen",
+      "issues": []
+    },
+    {
+      "targetId": "q-0230",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "saidの内容を含むwhatが最適だがwhichの文脈依存解釈も排除するとよい",
+      "issues": [
+        "whichの選択的疑問代名詞としての解釈を排除する選択肢への変更を推奨。"
+      ]
+    },
+    {
+      "targetId": "q-0231",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "前置詞to直後のwhom",
+      "issues": []
+    },
+    {
+      "targetId": "q-0232",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "不可算timeの比較less",
+      "issues": []
+    },
+    {
+      "targetId": "q-0233",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "the closerに対応するthe easier",
+      "issues": []
+    },
+    {
+      "targetId": "q-0234",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "as durable asの原級",
+      "issues": []
+    },
+    {
+      "targetId": "q-0235",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "単数vehicleの前のeach",
+      "issues": []
+    },
+    {
+      "targetId": "q-0236",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "independentの母音前のan",
+      "issues": []
+    },
+    {
+      "targetId": "q-0237",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "All of＋複数participants",
+      "issues": []
+    },
+    {
+      "targetId": "q-0238",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "不明瞭な手順を明確化するclarify",
+      "issues": []
+    },
+    {
+      "targetId": "q-0239",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "被覆破損の電源コードはdefective",
+      "issues": []
+    },
+    {
+      "targetId": "q-0240",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "補講を必須とするmandatory",
+      "issues": []
+    }
+  ]
+}

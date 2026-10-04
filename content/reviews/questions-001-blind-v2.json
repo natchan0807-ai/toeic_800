@@ -1,0 +1,46 @@
+{
+  "id": "questions-001-blind-v2",
+  "batchId": "questions-001",
+  "createdAt": "2026-10-04T00:16:39.657260+00:00",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "method": "修正4問の問題文と選択肢を先に再読。旧版の解答を知っているため初回と同じ独立性はなく、選択肢修正の一意性を再確認した。v2著者解説比較前に保存。",
+  "items": [
+    {
+      "targetId": "q-0001",
+      "targetVersion": 2,
+      "independentAnswerId": "b",
+      "possibleAnswerIds": [
+        "b"
+      ],
+      "reason": "give final approvalの名詞。英文選択肢はv1と同じ。"
+    },
+    {
+      "targetId": "q-0011",
+      "targetVersion": 2,
+      "independentAnswerId": "a",
+      "possibleAnswerIds": [
+        "a"
+      ],
+      "reason": "Mr. Parkに一致する再帰代名詞はhimself。他の選択肢は数・性・人と物が合わない。"
+    },
+    {
+      "targetId": "q-0018",
+      "targetVersion": 2,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "全員が指示に従えるようにという目的節を導けるのはso that。残りは節を直接取れない。"
+    },
+    {
+      "targetId": "q-0023",
+      "targetVersion": 2,
+      "independentAnswerId": "c",
+      "possibleAnswerIds": [
+        "c"
+      ],
+      "reason": "三案の範囲で最も単純なものという比較にはsimplest。原級simpleの選択肢はなくなり、simplicityは名詞で不適合。"
+    }
+  ]
+}

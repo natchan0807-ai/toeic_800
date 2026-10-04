@@ -1,0 +1,2911 @@
+{
+  "id": "vocab-004",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-04T00:07:43.374637+00:00",
+  "author": "vocabulary_editor",
+  "model": null,
+  "input": "research policy v1",
+  "status": "generated",
+  "items": [
+    {
+      "id": "v-trip",
+      "version": 1,
+      "lemma": "trip",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "travel"
+      ],
+      "rationale": "学習設計上の選定: 旅行、出張に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-trip-1",
+          "pos": "noun",
+          "meaningJa": "旅行、出張",
+          "example": "How was your business trip to Nagoya?",
+          "translationJa": "名古屋への出張はいかがでしたか。",
+          "collocations": [
+            "a business trip"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-journey",
+      "version": 1,
+      "lemma": "journey",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "traveler"
+      ],
+      "rationale": "学習設計上の選定: 旅、移動に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-journey-1",
+          "pos": "noun",
+          "meaningJa": "旅、移動",
+          "example": "The train journey takes three hours.",
+          "translationJa": "列車での移動には3時間かかります。",
+          "collocations": [
+            "a long journey"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tour",
+      "version": 1,
+      "lemma": "tour",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "tour guide"
+      ],
+      "rationale": "学習設計上の選定: 見学、周遊旅行に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tour-1",
+          "pos": "noun",
+          "meaningJa": "見学、周遊旅行",
+          "example": "The factory tour begins at nine.",
+          "translationJa": "工場見学は9時に始まります。",
+          "collocations": [
+            "a guided tour"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-vacation",
+      "version": 1,
+      "lemma": "vacation",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "vacationer"
+      ],
+      "rationale": "学習設計上の選定: 休暇に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-vacation-1",
+          "pos": "noun",
+          "meaningJa": "休暇",
+          "example": "We spent our vacation by the lake.",
+          "translationJa": "湖のほとりで休暇を過ごしました。",
+          "collocations": [
+            "take a vacation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-holiday",
+      "version": 1,
+      "lemma": "holiday",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "holiday season"
+      ],
+      "rationale": "学習設計上の選定: 休日、休暇に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-holiday-1",
+          "pos": "noun",
+          "meaningJa": "休日、休暇",
+          "example": "The office is closed for the holiday.",
+          "translationJa": "事務所は祝日のため休みです。",
+          "collocations": [
+            "a public holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-destination",
+      "version": 1,
+      "lemma": "destination",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "destination airport"
+      ],
+      "rationale": "学習設計上の選定: 目的地に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-destination-1",
+          "pos": "noun",
+          "meaningJa": "目的地",
+          "example": "The screen shows our next destination.",
+          "translationJa": "画面に次の目的地が表示されています。",
+          "collocations": [
+            "a final destination"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-route",
+      "version": 1,
+      "lemma": "route",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "routing"
+      ],
+      "rationale": "学習設計上の選定: 経路に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-route-1",
+          "pos": "noun",
+          "meaningJa": "経路",
+          "example": "This route avoids the busy city center.",
+          "translationJa": "この経路は混雑する都心を避けます。",
+          "collocations": [
+            "a bus route"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-itinerary",
+      "version": 1,
+      "lemma": "itinerary",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "travel plan"
+      ],
+      "rationale": "学習設計上の選定: 旅程に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-itinerary-1",
+          "pos": "noun",
+          "meaningJa": "旅程",
+          "example": "Your itinerary includes two museum visits.",
+          "translationJa": "旅程には2か所の博物館見学が含まれます。",
+          "collocations": [
+            "a detailed itinerary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-map",
+      "version": 1,
+      "lemma": "map",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "mapping"
+      ],
+      "rationale": "学習設計上の選定: 地図に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-map-1",
+          "pos": "noun",
+          "meaningJa": "地図",
+          "example": "The hotel gave us a city map.",
+          "translationJa": "ホテルは市街地の地図をくれました。",
+          "collocations": [
+            "a street map"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-guide",
+      "version": 1,
+      "lemma": "guide",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "guidebook"
+      ],
+      "rationale": "学習設計上の選定: 案内人、ガイドに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-guide-1",
+          "pos": "noun",
+          "meaningJa": "案内人、ガイド",
+          "example": "Our guide explained the castle's history.",
+          "translationJa": "ガイドが城の歴史を説明しました。",
+          "collocations": [
+            "a tour guide"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-passenger",
+      "version": 1,
+      "lemma": "passenger",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "passenger seat"
+      ],
+      "rationale": "学習設計上の選定: 乗客に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-passenger-1",
+          "pos": "noun",
+          "meaningJa": "乗客",
+          "example": "Passengers should keep the aisle clear.",
+          "translationJa": "乗客は通路をふさがないようにしてください。",
+          "collocations": [
+            "a train passenger"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-visitor",
+      "version": 1,
+      "lemma": "visitor",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "visit"
+      ],
+      "rationale": "学習設計上の選定: 訪問者、来場者に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-visitor-1",
+          "pos": "noun",
+          "meaningJa": "訪問者、来場者",
+          "example": "Visitors must register at the front desk.",
+          "translationJa": "来訪者は受付で登録が必要です。",
+          "collocations": [
+            "a first-time visitor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tourist",
+      "version": 1,
+      "lemma": "tourist",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "tourism"
+      ],
+      "rationale": "学習設計上の選定: 観光客に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tourist-1",
+          "pos": "noun",
+          "meaningJa": "観光客",
+          "example": "Tourists often photograph this old bridge.",
+          "translationJa": "観光客はこの古い橋をよく撮影します。",
+          "collocations": [
+            "foreign tourists"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-guest",
+      "version": 1,
+      "lemma": "guest",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "guest room"
+      ],
+      "rationale": "学習設計上の選定: 宿泊客、招待客に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-guest-1",
+          "pos": "noun",
+          "meaningJa": "宿泊客、招待客",
+          "example": "Hotel guests may use the gym free.",
+          "translationJa": "宿泊客はジムを無料で利用できます。",
+          "collocations": [
+            "a hotel guest"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-host",
+      "version": 1,
+      "lemma": "host",
+      "domain": "people",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "hosting"
+      ],
+      "rationale": "学習設計上の選定: 主催者、もてなす人に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-host-1",
+          "pos": "noun",
+          "meaningJa": "主催者、もてなす人",
+          "example": "Our host greeted us at the door.",
+          "translationJa": "主人は玄関で私たちを迎えました。",
+          "collocations": [
+            "an event host"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-luggage",
+      "version": 1,
+      "lemma": "luggage",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "luggage tag"
+      ],
+      "rationale": "学習設計上の選定: 旅行用の荷物に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-luggage-1",
+          "pos": "noun",
+          "meaningJa": "旅行用の荷物",
+          "example": "Leave your luggage at the front desk.",
+          "translationJa": "荷物はフロントに預けてください。",
+          "collocations": [
+            "store luggage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-baggage",
+      "version": 1,
+      "lemma": "baggage",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "baggage allowance"
+      ],
+      "rationale": "学習設計上の選定: 手荷物に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-baggage-1",
+          "pos": "noun",
+          "meaningJa": "手荷物",
+          "example": "Baggage is inspected before boarding.",
+          "translationJa": "搭乗前に手荷物の検査があります。",
+          "collocations": [
+            "baggage claim"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-suitcase",
+      "version": 1,
+      "lemma": "suitcase",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "luggage"
+      ],
+      "rationale": "学習設計上の選定: スーツケースに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-suitcase-1",
+          "pos": "noun",
+          "meaningJa": "スーツケース",
+          "example": "My suitcase fits in the overhead compartment.",
+          "translationJa": "私のスーツケースは頭上の収納に収まります。",
+          "collocations": [
+            "pack a suitcase"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-backpack",
+      "version": 1,
+      "lemma": "backpack",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "backpacker"
+      ],
+      "rationale": "学習設計上の選定: リュックサックに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-backpack-1",
+          "pos": "noun",
+          "meaningJa": "リュックサック",
+          "example": "She packed water in her backpack.",
+          "translationJa": "彼女はリュックサックに水を入れました。",
+          "collocations": [
+            "carry a backpack"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-ticket",
+      "version": 1,
+      "lemma": "ticket",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "ticket office"
+      ],
+      "rationale": "学習設計上の選定: 切符、入場券に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-ticket-1",
+          "pos": "noun",
+          "meaningJa": "切符、入場券",
+          "example": "Show your ticket at the entrance.",
+          "translationJa": "入口で切符を見せてください。",
+          "collocations": [
+            "a return ticket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-fare",
+      "version": 1,
+      "lemma": "fare",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "fare adjustment"
+      ],
+      "rationale": "学習設計上の選定: 運賃に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-fare-1",
+          "pos": "noun",
+          "meaningJa": "運賃",
+          "example": "The fare includes one checked bag.",
+          "translationJa": "運賃には預け荷物1個が含まれます。",
+          "collocations": [
+            "a bus fare"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-flight",
+      "version": 1,
+      "lemma": "flight",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "flight attendant"
+      ],
+      "rationale": "学習設計上の選定: 航空便に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-flight-1",
+          "pos": "noun",
+          "meaningJa": "航空便",
+          "example": "Our flight departs at six tomorrow morning.",
+          "translationJa": "私たちの便は明朝6時に出発します。",
+          "collocations": [
+            "a direct flight"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-airline",
+      "version": 1,
+      "lemma": "airline",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "air carrier"
+      ],
+      "rationale": "学習設計上の選定: 航空会社に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-airline-1",
+          "pos": "noun",
+          "meaningJa": "航空会社",
+          "example": "The airline sent a schedule change notice.",
+          "translationJa": "航空会社から時刻変更の通知が届きました。",
+          "collocations": [
+            "a regional airline"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-airport",
+      "version": 1,
+      "lemma": "airport",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "airport terminal"
+      ],
+      "rationale": "学習設計上の選定: 空港に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-airport-1",
+          "pos": "noun",
+          "meaningJa": "空港",
+          "example": "A shuttle connects the hotel and airport.",
+          "translationJa": "送迎車がホテルと空港を結んでいます。",
+          "collocations": [
+            "an international airport"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-terminal",
+      "version": 1,
+      "lemma": "terminal",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "terminal building"
+      ],
+      "rationale": "学習設計上の選定: ターミナルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-terminal-1",
+          "pos": "noun",
+          "meaningJa": "ターミナル",
+          "example": "Domestic flights use the smaller terminal.",
+          "translationJa": "国内線は小さいターミナルを使用します。",
+          "collocations": [
+            "a bus terminal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-gate",
+      "version": 1,
+      "lemma": "gate",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "gateway"
+      ],
+      "rationale": "学習設計上の選定: 搭乗口、門に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-gate-1",
+          "pos": "noun",
+          "meaningJa": "搭乗口、門",
+          "example": "Boarding begins at gate twelve.",
+          "translationJa": "12番搭乗口で搭乗が始まります。",
+          "collocations": [
+            "a departure gate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-runway",
+      "version": 1,
+      "lemma": "runway",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "landing strip"
+      ],
+      "rationale": "学習設計上の選定: 滑走路に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-runway-1",
+          "pos": "noun",
+          "meaningJa": "滑走路",
+          "example": "The runway closed briefly for an inspection.",
+          "translationJa": "点検で滑走路が一時閉鎖されました。",
+          "collocations": [
+            "an airport runway"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-departure",
+      "version": 1,
+      "lemma": "departure",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "depart"
+      ],
+      "rationale": "学習設計上の選定: 出発に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-departure-1",
+          "pos": "noun",
+          "meaningJa": "出発",
+          "example": "Please arrive one hour before departure.",
+          "translationJa": "出発の1時間前にお越しください。",
+          "collocations": [
+            "departure time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-arrival",
+      "version": 1,
+      "lemma": "arrival",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "arrive"
+      ],
+      "rationale": "学習設計上の選定: 到着に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-arrival-1",
+          "pos": "noun",
+          "meaningJa": "到着",
+          "example": "Let us know your expected arrival time.",
+          "translationJa": "到着予定時刻をお知らせください。",
+          "collocations": [
+            "on arrival"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-delay",
+      "version": 1,
+      "lemma": "delay",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "delayed"
+      ],
+      "rationale": "学習設計上の選定: 遅れに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-delay-1",
+          "pos": "noun",
+          "meaningJa": "遅れ",
+          "example": "Fog caused a thirty-minute delay.",
+          "translationJa": "霧で30分の遅れが生じました。",
+          "collocations": [
+            "a flight delay"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-transfer",
+      "version": 1,
+      "lemma": "transfer",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "transfer station"
+      ],
+      "rationale": "学習設計上の選定: 乗り換えに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-transfer-1",
+          "pos": "noun",
+          "meaningJa": "乗り換え",
+          "example": "The ticket includes one free transfer.",
+          "translationJa": "切符には1回の無料乗り換えが含まれます。",
+          "collocations": [
+            "a train transfer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-transit",
+      "version": 1,
+      "lemma": "transit",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "transit system"
+      ],
+      "rationale": "学習設計上の選定: 輸送中の状態、通過に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-transit-1",
+          "pos": "noun",
+          "meaningJa": "輸送中の状態、通過",
+          "example": "The suitcase was damaged in transit.",
+          "translationJa": "スーツケースは輸送中に破損しました。",
+          "collocations": [
+            "in transit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-transport",
+      "version": 1,
+      "lemma": "transport",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "transportation"
+      ],
+      "rationale": "学習設計上の選定: 輸送、交通手段に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-transport-1",
+          "pos": "noun",
+          "meaningJa": "輸送、交通手段",
+          "example": "Public transport is convenient in this city.",
+          "translationJa": "この都市は公共交通が便利です。",
+          "collocations": [
+            "public transport"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-vehicle",
+      "version": 1,
+      "lemma": "vehicle",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "vehicular"
+      ],
+      "rationale": "学習設計上の選定: 車両に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-vehicle-1",
+          "pos": "noun",
+          "meaningJa": "車両",
+          "example": "Delivery vehicles must use the rear entrance.",
+          "translationJa": "配送車両は裏口を使ってください。",
+          "collocations": [
+            "a delivery vehicle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-car",
+      "version": 1,
+      "lemma": "car",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "car park"
+      ],
+      "rationale": "学習設計上の選定: 車に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-car-1",
+          "pos": "noun",
+          "meaningJa": "車",
+          "example": "We left the car outside the station.",
+          "translationJa": "駅の外に車を置きました。",
+          "collocations": [
+            "a rental car"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bus",
+      "version": 1,
+      "lemma": "bus",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "bus stop"
+      ],
+      "rationale": "学習設計上の選定: バスに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bus-1",
+          "pos": "noun",
+          "meaningJa": "バス",
+          "example": "The airport bus runs every twenty minutes.",
+          "translationJa": "空港バスは20分ごとに運行しています。",
+          "collocations": [
+            "catch a bus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-railway",
+      "version": 1,
+      "lemma": "railway",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "railroad"
+      ],
+      "rationale": "学習設計上の選定: 鉄道に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-railway-1",
+          "pos": "noun",
+          "meaningJa": "鉄道",
+          "example": "The railway connects several coastal towns.",
+          "translationJa": "その鉄道は沿岸の町々を結んでいます。",
+          "collocations": [
+            "a railway line"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-subway",
+      "version": 1,
+      "lemma": "subway",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "underground train"
+      ],
+      "rationale": "学習設計上の選定: 地下鉄に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-subway-1",
+          "pos": "noun",
+          "meaningJa": "地下鉄",
+          "example": "Take the subway to the next station.",
+          "translationJa": "次の駅まで地下鉄で行ってください。",
+          "collocations": [
+            "a subway station"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tram",
+      "version": 1,
+      "lemma": "tram",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "streetcar"
+      ],
+      "rationale": "学習設計上の選定: 路面電車に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tram-1",
+          "pos": "noun",
+          "meaningJa": "路面電車",
+          "example": "The tram stops beside the market.",
+          "translationJa": "路面電車は市場の横に止まります。",
+          "collocations": [
+            "a tram stop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-ferry",
+      "version": 1,
+      "lemma": "ferry",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "ferry terminal"
+      ],
+      "rationale": "学習設計上の選定: フェリーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-ferry-1",
+          "pos": "noun",
+          "meaningJa": "フェリー",
+          "example": "The last ferry leaves before sunset.",
+          "translationJa": "最終フェリーは日没前に出ます。",
+          "collocations": [
+            "a passenger ferry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-ship",
+      "version": 1,
+      "lemma": "ship",
+      "domain": "logistics",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "shipping"
+      ],
+      "rationale": "学習設計上の選定: 大型船に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-ship-1",
+          "pos": "noun",
+          "meaningJa": "大型船",
+          "example": "The ship carries goods between major ports.",
+          "translationJa": "その船は主要港間で商品を運びます。",
+          "collocations": [
+            "a cargo ship"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-boat",
+      "version": 1,
+      "lemma": "boat",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "boating"
+      ],
+      "rationale": "学習設計上の選定: 小型船、ボートに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-boat-1",
+          "pos": "noun",
+          "meaningJa": "小型船、ボート",
+          "example": "We rented a boat on the lake.",
+          "translationJa": "湖でボートを借りました。",
+          "collocations": [
+            "a fishing boat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-taxi",
+      "version": 1,
+      "lemma": "taxi",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "taxi stand"
+      ],
+      "rationale": "学習設計上の選定: タクシーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-taxi-1",
+          "pos": "noun",
+          "meaningJa": "タクシー",
+          "example": "The receptionist called a taxi for us.",
+          "translationJa": "受付係がタクシーを呼んでくれました。",
+          "collocations": [
+            "take a taxi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bicycle",
+      "version": 1,
+      "lemma": "bicycle",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cyclist"
+      ],
+      "rationale": "学習設計上の選定: 自転車に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bicycle-1",
+          "pos": "noun",
+          "meaningJa": "自転車",
+          "example": "You can borrow a bicycle at reception.",
+          "translationJa": "受付で自転車を借りられます。",
+          "collocations": [
+            "ride a bicycle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-motorcycle",
+      "version": 1,
+      "lemma": "motorcycle",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "motorcyclist"
+      ],
+      "rationale": "学習設計上の選定: オートバイに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-motorcycle-1",
+          "pos": "noun",
+          "meaningJa": "オートバイ",
+          "example": "Motorcycles must park in the marked area.",
+          "translationJa": "オートバイは指定場所に駐車してください。",
+          "collocations": [
+            "ride a motorcycle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-van",
+      "version": 1,
+      "lemma": "van",
+      "domain": "logistics",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "minivan"
+      ],
+      "rationale": "学習設計上の選定: バン、小型貨物車に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-van-1",
+          "pos": "noun",
+          "meaningJa": "バン、小型貨物車",
+          "example": "A van delivered the catering equipment.",
+          "translationJa": "バンが配膳用の機器を運んできました。",
+          "collocations": [
+            "a delivery van"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-truck",
+      "version": 2,
+      "lemma": "truck",
+      "domain": "logistics",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "trucker"
+      ],
+      "rationale": "学習設計上の選定: トラックに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-truck-1",
+          "pos": "noun",
+          "meaningJa": "トラック",
+          "example": "The driver unloaded crates from the truck behind the store.",
+          "translationJa": "運転手は店の裏でトラックから木箱を降ろしました。",
+          "collocations": [
+            "a delivery truck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-driver",
+      "version": 1,
+      "lemma": "driver",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "driving"
+      ],
+      "rationale": "学習設計上の選定: 運転手に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-driver-1",
+          "pos": "noun",
+          "meaningJa": "運転手",
+          "example": "The driver helped us with our bags.",
+          "translationJa": "運転手が荷物を運ぶのを手伝ってくれました。",
+          "collocations": [
+            "a bus driver"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-pilot",
+      "version": 1,
+      "lemma": "pilot",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cockpit"
+      ],
+      "rationale": "学習設計上の選定: 操縦士に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-pilot-1",
+          "pos": "noun",
+          "meaningJa": "操縦士",
+          "example": "The pilot announced our expected landing time.",
+          "translationJa": "操縦士は着陸予定時刻を知らせました。",
+          "collocations": [
+            "an airline pilot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-crew",
+      "version": 1,
+      "lemma": "crew",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "crew member"
+      ],
+      "rationale": "学習設計上の選定: 乗務員、作業班に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-crew-1",
+          "pos": "noun",
+          "meaningJa": "乗務員、作業班",
+          "example": "The crew prepared the cabin for landing.",
+          "translationJa": "乗務員は着陸に向けて客室を整えました。",
+          "collocations": [
+            "a cabin crew"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-seat",
+      "version": 1,
+      "lemma": "seat",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "seating"
+      ],
+      "rationale": "学習設計上の選定: 座席に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-seat-1",
+          "pos": "noun",
+          "meaningJa": "座席",
+          "example": "Is the seat beside you available?",
+          "translationJa": "隣の席は空いていますか。",
+          "collocations": [
+            "a window seat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-aisle",
+      "version": 1,
+      "lemma": "aisle",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "walkway"
+      ],
+      "rationale": "学習設計上の選定: 通路に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-aisle-1",
+          "pos": "noun",
+          "meaningJa": "通路",
+          "example": "Please keep bags out of the aisle.",
+          "translationJa": "かばんを通路に置かないでください。",
+          "collocations": [
+            "an aisle seat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-platform",
+      "version": 1,
+      "lemma": "platform",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "platform number"
+      ],
+      "rationale": "学習設計上の選定: ホームに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-platform-1",
+          "pos": "noun",
+          "meaningJa": "ホーム",
+          "example": "The train leaves from platform four.",
+          "translationJa": "列車は4番ホームから発車します。",
+          "collocations": [
+            "a station platform"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-station",
+      "version": 1,
+      "lemma": "station",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "station entrance"
+      ],
+      "rationale": "学習設計上の選定: 駅に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-station-1",
+          "pos": "noun",
+          "meaningJa": "駅",
+          "example": "The nearest station is five minutes away.",
+          "translationJa": "最寄り駅まで5分です。",
+          "collocations": [
+            "a railway station"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-stop",
+      "version": 1,
+      "lemma": "stop",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "stopping point"
+      ],
+      "rationale": "学習設計上の選定: 停留所に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-stop-1",
+          "pos": "noun",
+          "meaningJa": "停留所",
+          "example": "Get off at the next stop.",
+          "translationJa": "次の停留所で降りてください。",
+          "collocations": [
+            "a bus stop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-timetable",
+      "version": 1,
+      "lemma": "timetable",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "schedule"
+      ],
+      "rationale": "学習設計上の選定: 時刻表、時間割に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-timetable-1",
+          "pos": "noun",
+          "meaningJa": "時刻表、時間割",
+          "example": "The revised timetable starts next week.",
+          "translationJa": "改定時刻表は来週から適用されます。",
+          "collocations": [
+            "a train timetable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-passport",
+      "version": 1,
+      "lemma": "passport",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "passport holder"
+      ],
+      "rationale": "学習設計上の選定: パスポートに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-passport-1",
+          "pos": "noun",
+          "meaningJa": "パスポート",
+          "example": "Check your passport before leaving home.",
+          "translationJa": "家を出る前にパスポートを確認してください。",
+          "collocations": [
+            "a valid passport"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-visa",
+      "version": 1,
+      "lemma": "visa",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "entry permit"
+      ],
+      "rationale": "学習設計上の選定: 査証、ビザに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-visa-1",
+          "pos": "noun",
+          "meaningJa": "査証、ビザ",
+          "example": "Her visa application is still being processed.",
+          "translationJa": "彼女のビザ申請はまだ処理中です。",
+          "collocations": [
+            "apply for a visa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-border",
+      "version": 1,
+      "lemma": "border",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "border control"
+      ],
+      "rationale": "学習設計上の選定: 国境、境界に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-border-1",
+          "pos": "noun",
+          "meaningJa": "国境、境界",
+          "example": "We reached the border before noon.",
+          "translationJa": "正午前に国境に着きました。",
+          "collocations": [
+            "cross a border"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-customs",
+      "version": 1,
+      "lemma": "customs",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "customs declaration"
+      ],
+      "rationale": "学習設計上の選定: 税関に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-customs-1",
+          "pos": "noun",
+          "meaningJa": "税関",
+          "example": "The officer checked our bags at customs.",
+          "translationJa": "税関で係官が荷物を確認しました。",
+          "collocations": [
+            "go through customs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-immigration",
+      "version": 1,
+      "lemma": "immigration",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "immigrant"
+      ],
+      "rationale": "学習設計上の選定: 入国審査、移住に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-immigration-1",
+          "pos": "noun",
+          "meaningJa": "入国審査、移住",
+          "example": "There was a long line at immigration.",
+          "translationJa": "入国審査には長い列がありました。",
+          "collocations": [
+            "immigration control"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-currency",
+      "version": 1,
+      "lemma": "currency",
+      "domain": "finance",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "currency exchange"
+      ],
+      "rationale": "学習設計上の選定: 通貨に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-currency-1",
+          "pos": "noun",
+          "meaningJa": "通貨",
+          "example": "The machine accepts only local currency.",
+          "translationJa": "その機械は現地通貨のみ受け付けます。",
+          "collocations": [
+            "foreign currency"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-abroad",
+      "version": 1,
+      "lemma": "abroad",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "overseas"
+      ],
+      "rationale": "学習設計上の選定: 海外へ、海外でに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-abroad-1",
+          "pos": "adverb",
+          "meaningJa": "海外へ、海外で",
+          "example": "She studied abroad before joining the company.",
+          "translationJa": "彼女は入社前に海外で学びました。",
+          "collocations": [
+            "travel abroad"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-overseas",
+      "version": 1,
+      "lemma": "overseas",
+      "domain": "business",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "abroad"
+      ],
+      "rationale": "学習設計上の選定: 海外のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-overseas-1",
+          "pos": "adjective",
+          "meaningJa": "海外の",
+          "example": "Our overseas offices will join the call.",
+          "translationJa": "海外の事務所も通話に参加します。",
+          "collocations": [
+            "an overseas office"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-domestic",
+      "version": 1,
+      "lemma": "domestic",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "domestically"
+      ],
+      "rationale": "学習設計上の選定: 国内のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-domestic-1",
+          "pos": "adjective",
+          "meaningJa": "国内の",
+          "example": "Domestic flights depart from terminal one.",
+          "translationJa": "国内線は第1ターミナルから出発します。",
+          "collocations": [
+            "a domestic flight"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-international",
+      "version": 1,
+      "lemma": "international",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "internationally"
+      ],
+      "rationale": "学習設計上の選定: 国際的なに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-international-1",
+          "pos": "adjective",
+          "meaningJa": "国際的な",
+          "example": "The city hosts an international film festival.",
+          "translationJa": "その都市は国際映画祭を開催します。",
+          "collocations": [
+            "an international event"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-local",
+      "version": 1,
+      "lemma": "local",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "locally"
+      ],
+      "rationale": "学習設計上の選定: 地元のに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-local-1",
+          "pos": "adjective",
+          "meaningJa": "地元の",
+          "example": "Ask the staff about local restaurants.",
+          "translationJa": "地元の飲食店についてスタッフに尋ねてください。",
+          "collocations": [
+            "a local restaurant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-nearby",
+      "version": 1,
+      "lemma": "nearby",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "close by"
+      ],
+      "rationale": "学習設計上の選定: 近くのに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-nearby-1",
+          "pos": "adjective",
+          "meaningJa": "近くの",
+          "example": "A nearby pharmacy stays open late.",
+          "translationJa": "近くの薬局は遅くまで営業しています。",
+          "collocations": [
+            "a nearby station"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-distance",
+      "version": 1,
+      "lemma": "distance",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "distant"
+      ],
+      "rationale": "学習設計上の選定: 距離に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-distance-1",
+          "pos": "noun",
+          "meaningJa": "距離",
+          "example": "The distance between the hotels is short.",
+          "translationJa": "ホテル間の距離は短いです。",
+          "collocations": [
+            "walking distance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-direction",
+      "version": 1,
+      "lemma": "direction",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "directional"
+      ],
+      "rationale": "学習設計上の選定: 方向、道順に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-direction-1",
+          "pos": "noun",
+          "meaningJa": "方向、道順",
+          "example": "The sign points in the wrong direction.",
+          "translationJa": "標識は間違った方向を指しています。",
+          "collocations": [
+            "ask for directions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-north",
+      "version": 1,
+      "lemma": "north",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "northern"
+      ],
+      "rationale": "学習設計上の選定: 北に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-north-1",
+          "pos": "noun",
+          "meaningJa": "北",
+          "example": "Heavy snow is forecast in the north.",
+          "translationJa": "北部では大雪の予報です。",
+          "collocations": [
+            "in the north"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-south",
+      "version": 1,
+      "lemma": "south",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "southern"
+      ],
+      "rationale": "学習設計上の選定: 南に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-south-1",
+          "pos": "noun",
+          "meaningJa": "南",
+          "example": "Our route continues toward the south.",
+          "translationJa": "経路は南に向かって続きます。",
+          "collocations": [
+            "toward the south"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-east",
+      "version": 1,
+      "lemma": "east",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "eastern"
+      ],
+      "rationale": "学習設計上の選定: 東に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-east-1",
+          "pos": "noun",
+          "meaningJa": "東",
+          "example": "The east of the island has sandy beaches.",
+          "translationJa": "島の東部には砂浜があります。",
+          "collocations": [
+            "the east of the island"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-west",
+      "version": 1,
+      "lemma": "west",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "western"
+      ],
+      "rationale": "学習設計上の選定: 西に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-west-1",
+          "pos": "noun",
+          "meaningJa": "西",
+          "example": "Clouds approached from the west.",
+          "translationJa": "西から雲が近づいてきました。",
+          "collocations": [
+            "from the west"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-road",
+      "version": 1,
+      "lemma": "road",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "roadwork"
+      ],
+      "rationale": "学習設計上の選定: 道路に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-road-1",
+          "pos": "noun",
+          "meaningJa": "道路",
+          "example": "The road is closed for repairs.",
+          "translationJa": "道路は修理のため通行止めです。",
+          "collocations": [
+            "a main road"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-street",
+      "version": 1,
+      "lemma": "street",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "street corner"
+      ],
+      "rationale": "学習設計上の選定: 通りに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-street-1",
+          "pos": "noun",
+          "meaningJa": "通り",
+          "example": "Several cafes line this quiet street.",
+          "translationJa": "この静かな通りにはカフェが並んでいます。",
+          "collocations": [
+            "a busy street"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-avenue",
+      "version": 1,
+      "lemma": "avenue",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "boulevard"
+      ],
+      "rationale": "学習設計上の選定: 大通りに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-avenue-1",
+          "pos": "noun",
+          "meaningJa": "大通り",
+          "example": "The museum stands on a tree-lined avenue.",
+          "translationJa": "博物館は並木の大通りにあります。",
+          "collocations": [
+            "a tree-lined avenue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-intersection",
+      "version": 1,
+      "lemma": "intersection",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "intersect"
+      ],
+      "rationale": "学習設計上の選定: 交差点に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-intersection-1",
+          "pos": "noun",
+          "meaningJa": "交差点",
+          "example": "Turn left at the next intersection.",
+          "translationJa": "次の交差点を左折してください。",
+          "collocations": [
+            "a busy intersection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-traffic",
+      "version": 1,
+      "lemma": "traffic",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "traffic jam"
+      ],
+      "rationale": "学習設計上の選定: 交通量、車の流れに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-traffic-1",
+          "pos": "noun",
+          "meaningJa": "交通量、車の流れ",
+          "example": "Traffic is heavy near the stadium.",
+          "translationJa": "競技場付近は車で混んでいます。",
+          "collocations": [
+            "heavy traffic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-highway",
+      "version": 1,
+      "lemma": "highway",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "expressway"
+      ],
+      "rationale": "学習設計上の選定: 幹線道路、高速道路に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-highway-1",
+          "pos": "noun",
+          "meaningJa": "幹線道路、高速道路",
+          "example": "We left the highway at exit seven.",
+          "translationJa": "7番出口で高速道路を降りました。",
+          "collocations": [
+            "a major highway"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bridge",
+      "version": 1,
+      "lemma": "bridge",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "footbridge"
+      ],
+      "rationale": "学習設計上の選定: 橋に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bridge-1",
+          "pos": "noun",
+          "meaningJa": "橋",
+          "example": "The new bridge opened this morning.",
+          "translationJa": "新しい橋は今朝開通しました。",
+          "collocations": [
+            "cross a bridge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tunnel",
+      "version": 1,
+      "lemma": "tunnel",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "underpass"
+      ],
+      "rationale": "学習設計上の選定: トンネルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tunnel-1",
+          "pos": "noun",
+          "meaningJa": "トンネル",
+          "example": "The train entered a long tunnel.",
+          "translationJa": "列車は長いトンネルに入りました。",
+          "collocations": [
+            "a railway tunnel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sidewalk",
+      "version": 1,
+      "lemma": "sidewalk",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "pavement"
+      ],
+      "rationale": "学習設計上の選定: 歩道に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sidewalk-1",
+          "pos": "noun",
+          "meaningJa": "歩道",
+          "example": "Cyclists should not block the sidewalk.",
+          "translationJa": "自転車利用者は歩道をふさがないでください。",
+          "collocations": [
+            "a wide sidewalk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-crossing",
+      "version": 1,
+      "lemma": "crossing",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "crosswalk"
+      ],
+      "rationale": "学習設計上の選定: 横断場所、踏切に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-crossing-1",
+          "pos": "noun",
+          "meaningJa": "横断場所、踏切",
+          "example": "Use the pedestrian crossing near the lights.",
+          "translationJa": "信号近くの横断歩道を使ってください。",
+          "collocations": [
+            "a pedestrian crossing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-harbor",
+      "version": 1,
+      "lemma": "harbor",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "harbormaster"
+      ],
+      "rationale": "学習設計上の選定: 港、入り江に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-harbor-1",
+          "pos": "noun",
+          "meaningJa": "港、入り江",
+          "example": "Fishing boats filled the small harbor.",
+          "translationJa": "小さな港は漁船でいっぱいでした。",
+          "collocations": [
+            "a fishing harbor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-port",
+      "version": 1,
+      "lemma": "port",
+      "domain": "logistics",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "seaport"
+      ],
+      "rationale": "学習設計上の選定: 港に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-port-1",
+          "pos": "noun",
+          "meaningJa": "港",
+          "example": "The containers arrived at the port yesterday.",
+          "translationJa": "コンテナは昨日港に着きました。",
+          "collocations": [
+            "a commercial port"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-beach",
+      "version": 1,
+      "lemma": "beach",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "beachfront"
+      ],
+      "rationale": "学習設計上の選定: 浜辺に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-beach-1",
+          "pos": "noun",
+          "meaningJa": "浜辺",
+          "example": "The beach is a short walk away.",
+          "translationJa": "浜辺は歩いてすぐです。",
+          "collocations": [
+            "a sandy beach"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-island",
+      "version": 1,
+      "lemma": "island",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "islander"
+      ],
+      "rationale": "学習設計上の選定: 島に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-island-1",
+          "pos": "noun",
+          "meaningJa": "島",
+          "example": "A ferry connects the island to the mainland.",
+          "translationJa": "フェリーが島と本土を結んでいます。",
+          "collocations": [
+            "a nearby island"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-coast",
+      "version": 1,
+      "lemma": "coast",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "coastal"
+      ],
+      "rationale": "学習設計上の選定: 海岸、沿岸地域に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-coast-1",
+          "pos": "noun",
+          "meaningJa": "海岸、沿岸地域",
+          "example": "We drove along the coast all morning.",
+          "translationJa": "午前中ずっと海岸沿いを走りました。",
+          "collocations": [
+            "along the coast"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-mountain",
+      "version": 1,
+      "lemma": "mountain",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "mountaineering"
+      ],
+      "rationale": "学習設計上の選定: 山に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-mountain-1",
+          "pos": "noun",
+          "meaningJa": "山",
+          "example": "The mountain trail closes during winter.",
+          "translationJa": "山道は冬の間閉鎖されます。",
+          "collocations": [
+            "a mountain trail"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-valley",
+      "version": 1,
+      "lemma": "valley",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "valley floor"
+      ],
+      "rationale": "学習設計上の選定: 谷に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-valley-1",
+          "pos": "noun",
+          "meaningJa": "谷",
+          "example": "The village lies in a narrow valley.",
+          "translationJa": "村は狭い谷にあります。",
+          "collocations": [
+            "a river valley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-countryside",
+      "version": 1,
+      "lemma": "countryside",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "rural"
+      ],
+      "rationale": "学習設計上の選定: 田園地方に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-countryside-1",
+          "pos": "noun",
+          "meaningJa": "田園地方",
+          "example": "They moved to the countryside last year.",
+          "translationJa": "彼らは昨年田舎へ引っ越しました。",
+          "collocations": [
+            "explore the countryside"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-scenery",
+      "version": 1,
+      "lemma": "scenery",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "scenic"
+      ],
+      "rationale": "学習設計上の選定: 景色に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-scenery-1",
+          "pos": "noun",
+          "meaningJa": "景色",
+          "example": "The train offers views of beautiful scenery.",
+          "translationJa": "列車から美しい景色を楽しめます。",
+          "collocations": [
+            "enjoy the scenery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-landmark",
+      "version": 1,
+      "lemma": "landmark",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "landmark building"
+      ],
+      "rationale": "学習設計上の選定: 名所、目印に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-landmark-1",
+          "pos": "noun",
+          "meaningJa": "名所、目印",
+          "example": "The clock tower is a local landmark.",
+          "translationJa": "時計塔は地元の名所です。",
+          "collocations": [
+            "a famous landmark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-museum",
+      "version": 1,
+      "lemma": "museum",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "exhibit"
+      ],
+      "rationale": "学習設計上の選定: 博物館、美術館に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-museum-1",
+          "pos": "noun",
+          "meaningJa": "博物館、美術館",
+          "example": "The museum closes on Mondays.",
+          "translationJa": "博物館は月曜日が休館です。",
+          "collocations": [
+            "visit a museum"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-gallery",
+      "version": 1,
+      "lemma": "gallery",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "gallery owner"
+      ],
+      "rationale": "学習設計上の選定: 画廊、展示室に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-gallery-1",
+          "pos": "noun",
+          "meaningJa": "画廊、展示室",
+          "example": "The gallery displays work by local artists.",
+          "translationJa": "画廊には地元作家の作品があります。",
+          "collocations": [
+            "an art gallery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-theater",
+      "version": 1,
+      "lemma": "theater",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "theatrical"
+      ],
+      "rationale": "学習設計上の選定: 劇場に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-theater-1",
+          "pos": "noun",
+          "meaningJa": "劇場",
+          "example": "The theater opens thirty minutes before performances.",
+          "translationJa": "劇場は開演30分前に開きます。",
+          "collocations": [
+            "a local theater"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-attraction",
+      "version": 1,
+      "lemma": "attraction",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "attractive"
+      ],
+      "rationale": "学習設計上の選定: 呼び物、名所に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-attraction-1",
+          "pos": "noun",
+          "meaningJa": "呼び物、名所",
+          "example": "The garden is the city's newest attraction.",
+          "translationJa": "その庭園は市内で最も新しい名所です。",
+          "collocations": [
+            "a tourist attraction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-accommodation",
+      "version": 1,
+      "lemma": "accommodation",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "accommodate"
+      ],
+      "rationale": "学習設計上の選定: 宿泊施設に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-accommodation-1",
+          "pos": "noun",
+          "meaningJa": "宿泊施設",
+          "example": "The organizer can help arrange accommodation.",
+          "translationJa": "主催者が宿泊施設の手配を手伝えます。",
+          "collocations": [
+            "book accommodation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-hotel",
+      "version": 1,
+      "lemma": "hotel",
+      "domain": "travel",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "hotel guest"
+      ],
+      "rationale": "学習設計上の選定: ホテルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-hotel-1",
+          "pos": "noun",
+          "meaningJa": "ホテル",
+          "example": "The hotel overlooks the river.",
+          "translationJa": "ホテルから川を見渡せます。",
+          "collocations": [
+            "a business hotel"
+          ]
+        }
+      ]
+    }
+  ]
+}

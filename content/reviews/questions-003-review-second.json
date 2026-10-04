@@ -1,0 +1,20 @@
+{
+  "id": "questions-003-review-second",
+  "batchId": "questions-003",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:48:00.312481+00:00",
+  "method": "初版の著者解答を未読の状態でcontent/blindを30問独立解答し、questions-XXX-blind.jsonへ保存。その後、全問の著者解答・全選択肢理由・和訳・主技能を実読比較。version 2 は初回解答既知であることを明示し、変更点と全30件の実在語義リンクを原文・品詞・日本語語義で再確認。AI検査であり人間確認ではない。",
+  "items": [
+    {
+      "targetId": "q-0080",
+      "targetVersion": 2,
+      "decision": "revise",
+      "independentAnswerId": "a",
+      "issues": [
+        "which を除いた版でも who the customer requested は顧客が指名した人という自然な間接疑問になる。物事しか取らない contains を使う主文等に直して一意性を確保する。"
+      ],
+      "reason": "目的語を含むwhatが最も自然だがwhichも選択対象を受ける疑問代名詞になり得る。和訳・正解と3誤答の理由・主技能を実読照合。v-request-1 の verb「依頼する」を本文の request の用法（必要に応じ活用形）と照合した。"
+    }
+  ]
+}

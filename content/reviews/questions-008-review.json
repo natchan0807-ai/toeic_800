@@ -1,0 +1,250 @@
+{
+  "id": "questions-008-review",
+  "batchId": "questions-008",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:49:11.235236+00:00",
+  "method": "初版の著者解答を未読の状態でcontent/blindを30問独立解答し、questions-XXX-blind.jsonへ保存。その後、全問の著者解答・全選択肢理由・和訳・主技能を実読比較。version 2 は初回解答既知であることを明示し、変更点と全30件の実在語義リンクを原文・品詞・日本語語義で再確認。AI検査であり人間確認ではない。",
+  "items": [
+    {
+      "targetId": "q-0211",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "promptの後の名詞response。和訳・正解と3誤答の理由・主技能を実読照合。v-price-1 の noun「価格」を本文の price の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0212",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "descriptionを修飾するaccurate。和訳・正解と3誤答の理由・主技能を実読照合。v-technician-1 の noun「技術者」を本文の technician の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0213",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "attachedを修飾するcorrectly。和訳・正解と3誤答の理由・主技能を実読照合。v-parcel-1 の noun「小包」を本文の parcel の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0214",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "前置詞withoutの後の動名詞informing。和訳・正解と3誤答の理由・主技能を実読照合。v-address-1 の noun「住所」を本文の address の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0215",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "未来の条件節に現在形 remains。company annual ceremony 追加後も条件の関係は不変。和訳・正解と3誤答の理由・主技能を実読照合。v-company-1 の noun「会社」を本文の company の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0216",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "must be storedの受動態。和訳・正解と3誤答の理由・主技能を実読照合。v-record-1 の noun「記録」を本文の record の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0217",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "不可算furnitureの単数一致。和訳・正解と3誤答の理由・主技能を実読照合。v-furniture-1 の noun「家具」を本文の furniture の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0218",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "動名詞主語Reducing...の単数一致。和訳・正解と3誤答の理由・主技能を実読照合。v-waste-1 の noun「廃棄物、無駄」を本文の waste の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0219",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "A number of customersの複数一致。和訳・正解と3誤答の理由・主技能を実読照合。v-customer-1 の noun「顧客」を本文の customer の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0220",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "Ms Grantを受ける主格she。和訳・正解と3誤答の理由・主技能を実読照合。v-equipment-1 の noun「機器、設備」を本文の equipment の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0221",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "be動詞補語の所有代名詞theirs。和訳・正解と3誤答の理由・主技能を実読照合。v-shelf-1 の noun「棚」を本文の shelf の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0222",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "単数envelopeを受けるone。和訳・正解と3誤答の理由・主技能を実読照合。v-catalog-1 の noun「商品一覧、カタログ」を本文の catalog の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0223",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "midnightの前のat。和訳・正解と3誤答の理由・主技能を実読照合。v-security-1 の noun「警備、防犯」を本文の security の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0224",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "depend onの語法。和訳・正解と3誤答の理由・主技能を実読照合。v-research-1 の noun「研究、調査」を本文の research の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0225",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "終了から7日以内のwithin。和訳・正解と3誤答の理由・主技能を実読照合。v-form-1 の noun「用紙、書式」を本文の form の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0226",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "not only but alsoの対応。和訳・正解と3誤答の理由・主技能を実読照合。v-customer-1 の noun「顧客」を本文の customer の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0227",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "bothとandの対応。和訳・正解と3誤答の理由・主技能を実読照合。v-department-1 の noun「部門」を本文の department の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0228",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "送信前の確認before＋節。和訳・正解と3誤答の理由・主技能を実読照合。v-email-1 の noun「電子メール」を本文の email の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0229",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "days を時の関係で補う when。is available が SVC で完結するという説明へ修正されたことを確認。和訳・正解と3誤答の理由・主技能を実読照合。v-system-1 の noun「仕組み、システム」を本文の system の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0230",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "said の内容をまとめる what。which が that へ置換され、節内の目的語を補う根拠を確認。和訳・正解と3誤答の理由・主技能を実読照合。v-customer-1 の noun「顧客」を本文の customer の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0231",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "前置詞to直後のwhom。和訳・正解と3誤答の理由・主技能を実読照合。v-editor-1 の noun「編集者」を本文の editor の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0232",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "不可算timeの比較less。和訳・正解と3誤答の理由・主技能を実読照合。v-procedure-1 の noun「手順」を本文の procedure の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0233",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "the closerに対応するthe easier。和訳・正解と3誤答の理由・主技能を実読照合。v-hotel-1 の noun「ホテル」を本文の hotel の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0234",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "as durable asの原級。和訳・正解と3誤答の理由・主技能を実読照合。v-material-1 の noun「材料」を本文の material の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0235",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "単数vehicleの前のeach。和訳・正解と3誤答の理由・主技能を実読照合。v-vehicle-1 の noun「車両」を本文の vehicle の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0236",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "independentの母音前のan。和訳・正解と3誤答の理由・主技能を実読照合。v-board-1 の noun「取締役会」を本文の board の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0237",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "All of＋複数participants。和訳・正解と3誤答の理由・主技能を実読照合。v-complete-1 の verb「完了する」を本文の complete の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0238",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "不明瞭な手順を明確化するclarify。和訳・正解と3誤答の理由・主技能を実読照合。v-instruction-1 の noun「指示」を本文の instruction の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0239",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "保護被覆破損のため defective。主語が technician になっても同じ判断が成立。和訳・正解と3誤答の理由・主技能を実読照合。v-technician-1 の noun「技術者」を本文の technician の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0240",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "補講を必須とするmandatory。和訳・正解と3誤答の理由・主技能を実読照合。v-employee-1 の noun「従業員」を本文の employee の用法（必要に応じ活用形）と照合した。"
+    }
+  ]
+}

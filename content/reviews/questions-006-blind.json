@@ -1,0 +1,222 @@
+{
+  "id": "questions-006-blind",
+  "batchId": "questions-006",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:34:18.853004+00:00",
+  "method": "著者解答・解説・和訳を読む前に、blindのstem/optionsだけから全30問を独立解答。",
+  "items": [
+    {
+      "targetId": "q-0151",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "adviceを修飾する形容詞practical",
+      "issues": []
+    },
+    {
+      "targetId": "q-0152",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "writtenで修飾される名詞confirmation",
+      "issues": []
+    },
+    {
+      "targetId": "q-0153",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "reducesを修飾する副詞significantly",
+      "issues": []
+    },
+    {
+      "targetId": "q-0154",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "未来の特定時刻に進行中のwill be walking",
+      "issues": []
+    },
+    {
+      "targetId": "q-0155",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "by管理者を伴う受動is changed",
+      "issues": []
+    },
+    {
+      "targetId": "q-0156",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "make＋目的語＋原形replace",
+      "issues": []
+    },
+    {
+      "targetId": "q-0157",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "oneが主語で単数is",
+      "issues": []
+    },
+    {
+      "targetId": "q-0158",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "後続のtwo conditionsに一致するare",
+      "issues": []
+    },
+    {
+      "targetId": "q-0159",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "主語boxに一致するis",
+      "issues": []
+    },
+    {
+      "targetId": "q-0160",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "sendの間接目的語you",
+      "issues": []
+    },
+    {
+      "targetId": "q-0161",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "ofの後で所有代名詞theirs",
+      "issues": []
+    },
+    {
+      "targetId": "q-0162",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "Ms Ortiz本人を強調するherself",
+      "issues": []
+    },
+    {
+      "targetId": "q-0163",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "responsible forの語法",
+      "issues": []
+    },
+    {
+      "targetId": "q-0164",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "名詞句heavy trafficの前のdespite",
+      "issues": []
+    },
+    {
+      "targetId": "q-0165",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "according toの固定表現",
+      "issues": []
+    },
+    {
+      "targetId": "q-0166",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "bothとandの対応",
+      "issues": []
+    },
+    {
+      "targetId": "q-0167",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "whetherとorの選択",
+      "issues": []
+    },
+    {
+      "targetId": "q-0168",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "署名前に確認するbefore＋節",
+      "issues": []
+    },
+    {
+      "targetId": "q-0169",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "前置詞onの直後のwhich",
+      "issues": []
+    },
+    {
+      "targetId": "q-0170",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "doの目的語を含むwhatだがwhichも文脈次第で選択の疑問代名詞となる",
+      "issues": [
+        "whichも選択対象を受ける疑問代名詞として文法上成立し得る。唯一性を強める修正を推奨。"
+      ]
+    },
+    {
+      "targetId": "q-0171",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "companyのproductsを修飾するwhose",
+      "issues": []
+    },
+    {
+      "targetId": "q-0172",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "比較級easierの強調much",
+      "issues": []
+    },
+    {
+      "targetId": "q-0173",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "the moreに対応するthe longer",
+      "issues": []
+    },
+    {
+      "targetId": "q-0174",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "three times as much asの形",
+      "issues": []
+    },
+    {
+      "targetId": "q-0175",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "the other＋複数名詞",
+      "issues": []
+    },
+    {
+      "targetId": "q-0176",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "All of＋複数branches",
+      "issues": []
+    },
+    {
+      "targetId": "q-0177",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "二会場とも不十分ならneither",
+      "issues": []
+    },
+    {
+      "targetId": "q-0178",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "構造変更前の承諾consent",
+      "issues": []
+    },
+    {
+      "targetId": "q-0179",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "火曜から水曜へのreschedule",
+      "issues": []
+    },
+    {
+      "targetId": "q-0180",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "compatible withの適合関係",
+      "issues": []
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "questions-003-review",
+  "batchId": "questions-003",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:51:06.083522+00:00",
+  "method": "初版の著者解答を未読の状態でcontent/blindを30問独立解答し、questions-XXX-blind.jsonへ保存。その後、全問の著者解答・全選択肢理由・和訳・主技能を実読比較。version 2 は初回解答既知であることを明示し、変更点と全30件の実在語義リンクを原文・品詞・日本語語義で再確認。AI検査であり人間確認ではない。 q80 のみ version 3 の文変更を追加再検査し、初版と同じ a を確認。",
+  "items": [
+    {
+      "targetId": "q-0061",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "severalの後の可算複数名詞。和訳・正解と3誤答の理由・主技能を実読照合。v-manager-1 の noun「管理職、支配人」を本文の manager の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0062",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "toolを修飾する形容詞。和訳・正解と3誤答の理由・主技能を実読照合。v-employee-1 の noun「従業員」を本文の employee の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0063",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "explainedを修飾する副詞。和訳・正解と3誤答の理由・主技能を実読照合。v-receptionist-1 の noun「受付係」を本文の receptionist の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0064",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "過去の電話より先に完了した発見。和訳・正解と3誤答の理由・主技能を実読照合。v-customer-1 の noun「顧客」を本文の customer の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0065",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "paintingを主語にした過去受動態。和訳・正解と3誤答の理由・主技能を実読照合。v-museum-1 の noun「博物館、美術館」を本文の museum の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0066",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "let＋目的語＋動詞原形。和訳・正解と3誤答の理由・主技能を実読照合。v-manager-1 の noun「管理職、支配人」を本文の manager の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0067",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "oneが主語で単数is。和訳・正解と3誤答の理由・主技能を実読照合。v-screen-1 の noun「画面」を本文の screen の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0068",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "several chairsが複数。和訳・正解と3誤答の理由・主技能を実読照合。v-room-1 の noun「部屋」を本文の room の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0069",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "neitherの単数一致。和訳・正解と3誤答の理由・主技能を実読照合。v-convenient-1 の adjective「便利な」を本文の convenient の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0070",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "複数のrental ratesを受けるthose。和訳・正解と3誤答の理由・主技能を実読照合。v-rate-1 の noun「割合、料金水準」を本文の rate の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0071",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "laptopを限定する所有格her。和訳・正解と3誤答の理由・主技能を実読照合。v-laptop-1 の noun「ノートパソコン」を本文の laptop の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0072",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "sentの間接目的語us。和訳・正解と3誤答の理由・主技能を実読照合。v-itinerary-1 の noun「旅程」を本文の itinerary の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0073",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "responsible forの語法。和訳・正解と3誤答の理由・主技能を実読照合。v-supervisor-1 の noun「監督者、直属の上司」を本文の supervisor の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0074",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "according toの固定表現。和訳・正解と3誤答の理由・主技能を実読照合。v-revise-1 の verb「修正する」を本文の revise の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0075",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "年の前のin。和訳・正解と3誤答の理由・主技能を実読照合。v-service-1 の noun「サービス、業務」を本文の service の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0076",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "eitherとorの対応。和訳・正解と3誤答の理由・主技能を実読照合。v-customer-1 の noun「顧客」を本文の customer の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0077",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "bothとandの対応。和訳・正解と3誤答の理由・主技能を実読照合。v-explain-1 の verb「説明する」を本文の explain の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0078",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "whether ... or not の対応により or のみが成立することを改訂版で再確認。和訳・正解と3誤答の理由・主技能を実読照合。v-attend-1 の verb「出席する」を本文の attend の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0079",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "前置詞intoの直後のwhich。和訳・正解と3誤答の理由・主技能を実読照合。v-account-1 の noun「口座」を本文の account の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0080",
+      "targetVersion": 3,
+      "decision": "accepted",
+      "independentAnswerId": "a",
+      "issues": [],
+      "reason": "v3 の The production instructions contain ... product labels を再読。contain の目的語となる物事を表す what だけが自然に成立し、顧客が指名した人を尋ねる who の別解が除去された。全選択肢理由・和訳・relative技能・v-request-1 の動詞「依頼する」と requested の対応も確認。初版の独立解答 a を維持。"
+    },
+    {
+      "targetId": "q-0081",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "人を先行詞にした主格who。和訳・正解と3誤答の理由・主技能を実読照合。v-volunteer-1 の noun「ボランティア」を本文の volunteer の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0082",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "twice as long asの形。和訳・正解と3誤答の理由・主技能を実読照合。v-battery-1 の noun「電池、バッテリー」を本文の battery の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0083",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "二者から選ぶ比較級better。和訳・正解と3誤答の理由・主技能を実読照合。v-camera-1 の noun「カメラ」を本文の camera の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0084",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "thanに対応するlarger。和訳・正解と3誤答の理由・主技能を実読照合。v-furniture-1 の noun「家具」を本文の furniture の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0085",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "c",
+      "issues": [],
+      "reason": "母音で始まるexperiencedの前のan。和訳・正解と3誤答の理由・主技能を実読照合。v-museum-1 の noun「博物館、美術館」を本文の museum の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0086",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "複数documentsに合うAll of。和訳・正解と3誤答の理由・主技能を実読照合。v-document-1 の noun「文書」を本文の document の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0087",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "両方閉鎖なのでneither。和訳・正解と3誤答の理由・主技能を実読照合。v-road-1 の noun「道路」を本文の road の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0088",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "notify人of事柄の語法。和訳・正解と3誤答の理由・主技能を実読照合。v-email-1 の noun「電子メール」を本文の email の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0089",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "d",
+      "issues": [],
+      "reason": "ケーブル点検と潤滑はmaintenance。和訳・正解と3誤答の理由・主技能を実読照合。v-elevator-1 の noun「エレベーター」を本文の elevator の用法（必要に応じ活用形）と照合した。"
+    },
+    {
+      "targetId": "q-0090",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "independentAnswerId": "b",
+      "issues": [],
+      "reason": "comply with規則の語法。和訳・正解と3誤答の理由・主技能を実読照合。v-regulation-1 の noun「規則、規制」を本文の regulation の用法（必要に応じ活用形）と照合した。"
+    }
+  ]
+}

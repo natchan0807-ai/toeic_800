@@ -1,0 +1,220 @@
+{
+  "id": "questions-007-blind",
+  "batchId": "questions-007",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:34:18.863005+00:00",
+  "method": "著者解答・解説・和訳を読む前に、blindのstem/optionsだけから全30問を独立解答。",
+  "items": [
+    {
+      "targetId": "q-0181",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "stayの補語で閉館状態closed",
+      "issues": []
+    },
+    {
+      "targetId": "q-0182",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "formが混乱を起こすconfusing",
+      "issues": []
+    },
+    {
+      "targetId": "q-0183",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "人が喜ぶpleased",
+      "issues": []
+    },
+    {
+      "targetId": "q-0184",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "look forward toの後は動名詞meeting",
+      "issues": []
+    },
+    {
+      "targetId": "q-0185",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "未来条件節の現在形arrives",
+      "issues": []
+    },
+    {
+      "targetId": "q-0186",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "finishの後の動名詞analyzing",
+      "issues": []
+    },
+    {
+      "targetId": "q-0187",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "主語qualityの単数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0188",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "Both instructorsの複数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0189",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "Eachの単数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0190",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "新助手を受ける主格they",
+      "issues": []
+    },
+    {
+      "targetId": "q-0191",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "handの間接目的語her",
+      "issues": []
+    },
+    {
+      "targetId": "q-0192",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "weを強調するourselves",
+      "issues": []
+    },
+    {
+      "targetId": "q-0193",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "時刻のat",
+      "issues": []
+    },
+    {
+      "targetId": "q-0194",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "depend onの語法",
+      "issues": []
+    },
+    {
+      "targetId": "q-0195",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "受領後48時間以内のwithin",
+      "issues": []
+    },
+    {
+      "targetId": "q-0196",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "not only but alsoの対応",
+      "issues": []
+    },
+    {
+      "targetId": "q-0197",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "主節の理由because＋節",
+      "issues": []
+    },
+    {
+      "targetId": "q-0198",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "確認クリックが必要条件のunless",
+      "issues": []
+    },
+    {
+      "targetId": "q-0199",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "translatorを受ける主格who",
+      "issues": []
+    },
+    {
+      "targetId": "q-0200",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "roomを場所で受けるwhere",
+      "issues": []
+    },
+    {
+      "targetId": "q-0201",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "前置詞for直後のwhich",
+      "issues": []
+    },
+    {
+      "targetId": "q-0202",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "不可算electricityの比較less",
+      "issues": []
+    },
+    {
+      "targetId": "q-0203",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "比較級more informativeの強調much",
+      "issues": []
+    },
+    {
+      "targetId": "q-0204",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "twice as many asの形",
+      "issues": []
+    },
+    {
+      "targetId": "q-0205",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "複数entrancesにはBoth",
+      "issues": []
+    },
+    {
+      "targetId": "q-0206",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "the other＋複数carts",
+      "issues": []
+    },
+    {
+      "targetId": "q-0207",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "不可算informationにa little",
+      "issues": []
+    },
+    {
+      "targetId": "q-0208",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "明細請求書invoice",
+      "issues": []
+    },
+    {
+      "targetId": "q-0209",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "最低資格要件qualifications",
+      "issues": []
+    },
+    {
+      "targetId": "q-0210",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "住所不備による遅延なのでincomplete",
+      "issues": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "questions-003-review-initial",
+  "batchId": "questions-003",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:45:32.940604+00:00",
+  "method": "各バッチ30問の独立解答をblind記録に保存後、著者の正解・全選択肢解説・和訳・技能を照合。この記録は初回検査で見つけた修正対象のみ。語義リンク確定後に全項目の最終検査を別記録へ保存する。",
+  "items": [
+    {
+      "targetId": "q-0080",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "a",
+      "issues": [
+        "which は疑問代名詞として省略された選択対象を表すこともでき、先行詞が必要という説明が断定的すぎる。that 等へ置換し、その選択肢説明も文構造に合わせる。"
+      ],
+      "reason": "目的語を含むwhatが最も自然だがwhichも選択対象を受ける疑問代名詞になり得る。独立解答は著者と一致したが、説明または唯一性・訳の修正が必要。"
+    },
+    {
+      "targetId": "q-0078",
+      "targetVersion": 1,
+      "decision": "revise",
+      "independentAnswerId": "a",
+      "issues": [
+        "whether の後は選択疑問だけでなく、A and B を目的語にした yes/no 節も作れる。whether ... or not 等の一意になる構造へ修正する。"
+      ],
+      "reason": "whetherとorの選択。独立解答は著者と一致したが、and を補う別解も文法と文意の両面で成立する。"
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "id": "vocab-001-review",
+  "batchId": "vocab-001",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:00:09.143816+00:00",
+  "method": "全100見出し語・115語義の品詞、意味、英文、和訳、コロケーション、関連語を読み内容を照合。スクリプトによる正誤判定ではなくAIの言語レビュー。人手確認0件。 指摘2語のversion 2を再検査し採用。version 1への指摘はrevisionHistoryに保持。",
+  "inputSha256": "99d4656de0e7ffa2d2f446d9cd8d9ba864680e5ed618abbb342f698a2eed47d6",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "v-approve",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "approve＋目的語の承認用法。出張申請の例と和訳・組み合わせが一致。"
+    },
+    {
+      "targetId": "v-apply",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "apply forで応募、apply toで適用という2語義を区別。営業職と割引の例文・訳を確認。"
+    },
+    {
+      "targetId": "v-arrange",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "arrange a taxiの手配用法。来客のための手配という訳で整合。"
+    },
+    {
+      "targetId": "v-attend",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "attendは出席対象を直接目的語に取る。研修会の例文・訳・組み合わせが一致。"
+    },
+    {
+      "targetId": "v-avoid",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "avoid trafficの回避用法。渋滞を避ける移動手段という文脈が自然。"
+    },
+    {
+      "targetId": "v-book",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "予約する動詞と本の名詞を分離。部屋の予約と会計書の例・訳を確認。"
+    },
+    {
+      "targetId": "v-borrow",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "借り手が主語となるborrowの用法が明確。電卓の依頼文と和訳が一致。"
+    },
+    {
+      "targetId": "v-cancel",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "中止する用法。forced us toの不可避性が和訳にも反映される。"
+    },
+    {
+      "targetId": "v-check",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "住所を確認する動詞と安全点検の名詞を分離。両語義の例・訳・組み合わせが整合。"
+    },
+    {
+      "targetId": "v-confirm",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "confirm a reservationで予約確定を表す。確認連絡という和訳は文脈に合う。"
+    },
+    {
+      "targetId": "v-contact",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "contactを他動詞として使用。支援窓口への連絡という意味と組み合わせが整合。"
+    },
+    {
+      "targetId": "v-deliver",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "deliver groceriesの配達用法。毎朝という習慣と和訳が整合。"
+    },
+    {
+      "targetId": "v-discuss",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "discussは直接目的語を取る。over lunchの状況も訳に反映。"
+    },
+    {
+      "targetId": "v-earn",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "earn incomeの収入を得る用法。個別指導による副収入の訳が自然。"
+    },
+    {
+      "targetId": "v-expect",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "expect＋目的語＋to不定詞の見込み。修理の完了時期と和訳が整合。Fridayの無前置詞用法も成立。"
+    },
+    {
+      "targetId": "v-explain",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "explain the rulesの説明用法。対象が安全規則で語義・訳が一致。"
+    },
+    {
+      "targetId": "v-fill",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "fill the tankの満たす用法。返却前の燃料補充という文脈と訳が対応。"
+    },
+    {
+      "targetId": "v-follow",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "follow instructionsで指示に従う用法。例文と組み合わせが一致。"
+    },
+    {
+      "targetId": "v-improve",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "他動詞improve conditionsの改善用法。照明で環境が良くなる訳が対応。"
+    },
+    {
+      "targetId": "v-include",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "include breakfastの包含用法。朝食と駐車が料金内という意味が明確。"
+    },
+    {
+      "targetId": "v-introduce",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "introduce a personの紹介用法。経理担当者の訳が整合。"
+    },
+    {
+      "targetId": "v-invite",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "invite someone to dinnerの招待用法。近所の人を招く例と訳が一致。"
+    },
+    {
+      "targetId": "v-join",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "join a teamの参加用法。toなしで目的語を取る形が自然。"
+    },
+    {
+      "targetId": "v-keep",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "保管する用法とkeep＋目的語＋補語の状態維持を区別。非常口を空ける訳が意味を保つ。"
+    },
+    {
+      "targetId": "v-leave",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "出発する動詞とon leaveの休暇名詞を区別。双方の例文・訳・組み合わせが整合。"
+    },
+    {
+      "targetId": "v-lend",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "貸し手が主語でtoが借り手を導く。図書館の貸出例と訳が整合。"
+    },
+    {
+      "targetId": "v-make",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "make partsの製造用法。自転車部品を作る例が語義を明示。"
+    },
+    {
+      "targetId": "v-meet",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "会う用法と基準を満たす用法を区別。人物・安全基準の目的語と訳が整合。"
+    },
+    {
+      "targetId": "v-move",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "move to a buildingの移転用法。officeの転居という自然な文脈。"
+    },
+    {
+      "targetId": "v-offer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "offer health checksの提供用法。診療所の無料サービスの訳が一致。"
+    },
+    {
+      "targetId": "v-order",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "注文の動詞とin alphabetical orderの順序名詞を分離。例文・訳が整合。"
+    },
+    {
+      "targetId": "v-pay",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "pay by cardの支払手段の表現。credit cardと和訳が一致。"
+    },
+    {
+      "targetId": "v-plan",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "plan to openとplan an eventの計画用法。予定を表す訳が整合。"
+    },
+    {
+      "targetId": "v-prepare",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "version 2を再読。before tomorrowの和訳が「明日になる前に」となり、期限の意味が明確になった。prepare slidesの語義・英文・組み合わせも整合。"
+    },
+    {
+      "targetId": "v-promise",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "promise to deliverの約束用法。by noonの期限が訳に反映。"
+    },
+    {
+      "targetId": "v-provide",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "provide tables and chairsの提供用法。会場が設備を用意する文脈と訳が一致。"
+    },
+    {
+      "targetId": "v-purchase",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "purchase equipmentの購入用法。last monthと先月の対応を確認。"
+    },
+    {
+      "targetId": "v-receive",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "receive a scheduleの受領用法。updatedの意味も訳に反映。"
+    },
+    {
+      "targetId": "v-recommend",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "recommend a productの推奨用法。lighterの比較も訳で保持。"
+    },
+    {
+      "targetId": "v-reduce",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "reduce waiting timesの短縮用法。待ち時間が減るという訳が対応。"
+    },
+    {
+      "targetId": "v-remember",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "remember a nameの記憶状態。カフェ名を覚えている例が自然。"
+    },
+    {
+      "targetId": "v-remind",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "remind someone to doの喚起用法。電話を忘れないよう促す和訳が整合。"
+    },
+    {
+      "targetId": "v-rent",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "rent bicyclesの賃借用法。午後の利用という例が明確。"
+    },
+    {
+      "targetId": "v-repair",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "repair a printerの修理用法。故障機器の修理という訳が対応。"
+    },
+    {
+      "targetId": "v-replace",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "replace a windowの交換用法。破損窓を取り替える例と訳が整合。"
+    },
+    {
+      "targetId": "v-reply",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "reply to an emailの返答用法。toとbyの役割が自然で訳に反映。"
+    },
+    {
+      "targetId": "v-report",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "report damage to someoneの報告用法。破損がある場合という任意のanyが和訳に対応。"
+    },
+    {
+      "targetId": "v-request",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "request a receiptの要求用法。printedと紙の領収書の訳が整合。"
+    },
+    {
+      "targetId": "v-reserve",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "reserve seatsの予約用法。席数・舞台付近という文脈が訳と一致。"
+    },
+    {
+      "targetId": "v-return",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "戻る自動詞と返却する他動詞を分離。fromと目的語＋toの使い分け・訳が整合。"
+    },
+    {
+      "targetId": "v-review",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "review a budgetの再検討用法。carefullyも訳に反映。"
+    },
+    {
+      "targetId": "v-save",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "節約とデータ保存を分離。moneyとworkの目的語で語義が明確。"
+    },
+    {
+      "targetId": "v-schedule",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "schedule an inspection for Mondayの予定設定。日時と訳が整合。"
+    },
+    {
+      "targetId": "v-select",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "select from a menuの選択用法。preferredの意味も訳に反映。"
+    },
+    {
+      "targetId": "v-send",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "send samplesの送付用法。express mailと速達の対応を確認。"
+    },
+    {
+      "targetId": "v-share",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "share a roomの共同使用。2チームと1室という数量が訳に反映。"
+    },
+    {
+      "targetId": "v-sign",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "署名の動詞と案内標識の名詞を分離。baggage claimも正しく訳されている。"
+    },
+    {
+      "targetId": "v-spend",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "spend time doingの時間消費用法。数値確認の所要時間が訳と一致。"
+    },
+    {
+      "targetId": "v-start",
+      "targetVersion": 2,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "version 2を再読。「始まる、始める」の語義に修正され、自動詞の例文と他動詞の組み合わせの両方が語義に対応した。"
+    },
+    {
+      "targetId": "v-submit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "submit an applicationの提出用法。before the deadlineの期限前が訳に反映。"
+    },
+    {
+      "targetId": "v-suggest",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "suggest doingの提案用法。holding the meetingと和訳が整合。"
+    },
+    {
+      "targetId": "v-support",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "support an eventの支援用法。地元企業の祭り支援という文脈が自然。"
+    },
+    {
+      "targetId": "v-take",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "交通手段の利用と所要時間を区別。elevatorとtwo hoursの例・和訳が一致。"
+    },
+    {
+      "targetId": "v-tell",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "tell someone somethingの伝達用法。受付係に予約時刻を伝える訳が整合。"
+    },
+    {
+      "targetId": "v-thank",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "thank someone for helpの謝意表現。対象者と理由の訳が対応。"
+    },
+    {
+      "targetId": "v-train",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "train driversの訓練用法。会社が新人を訓練する例が自然。"
+    },
+    {
+      "targetId": "v-travel",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "travel abroadの海外移動用法。年2回の頻度が訳に反映。"
+    },
+    {
+      "targetId": "v-try",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "try doingの試行用法。再起動を試すという意味で訳・組み合わせが一致。"
+    },
+    {
+      "targetId": "v-update",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "update an addressの情報更新。システム内情報という訳が整合。"
+    },
+    {
+      "targetId": "v-use",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "use an entranceの使用用法。after sixの時間条件が訳に反映。"
+    },
+    {
+      "targetId": "v-visit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "visitを直接目的語とともに使う訪問用法。新店舗の訳が一致。"
+    },
+    {
+      "targetId": "v-wait",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "wait until節とwait forの待機用法。名前が呼ばれるまでという訳が対応。"
+    },
+    {
+      "targetId": "v-welcome",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "welcome feedbackで意見を歓迎する用法。客の意見という対象が自然。"
+    },
+    {
+      "targetId": "v-accept",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "accept returnsの受入用法。30日以内の返品を受け付ける訳が一致。"
+    },
+    {
+      "targetId": "v-achieve",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "achieve a targetの達成用法。売上目標と月次の意味が訳に反映。"
+    },
+    {
+      "targetId": "v-add",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "add a name to a listの追加用法。配信リストの文脈と訳が整合。"
+    },
+    {
+      "targetId": "v-adjust",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "adjust to a heightの調整用法。椅子の高さという自然な対象。"
+    },
+    {
+      "targetId": "v-advise",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "advise someone to doの助言用法。早期予約を勧める訳が整合。"
+    },
+    {
+      "targetId": "v-agree",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "agree to doとagree to a proposalの同意用法。期限延長の訳が一致。"
+    },
+    {
+      "targetId": "v-allow",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "allow entryの入場許可用法。券が両館への入場を可能にする文脈が自然。"
+    },
+    {
+      "targetId": "v-announce",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "announce a dateの発表用法。開業日の告知という例・訳が一致。"
+    },
+    {
+      "targetId": "v-answer",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "answer a questionの返答用法。質問へ直接目的語を取る形が自然。"
+    },
+    {
+      "targetId": "v-apologize",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "apologize for a delayの謝罪用法。発送遅延へのおわびの訳が一致。"
+    },
+    {
+      "targetId": "v-appear",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "appear on a screenの出現用法。警告が表示される文脈と訳が整合。"
+    },
+    {
+      "targetId": "v-assess",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "assess damageの評価用法。嵐後の被害を評価する例・訳が対応。"
+    },
+    {
+      "targetId": "v-assign",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "assign someone a taskの割当用法。each workerの個別性が訳に反映。"
+    },
+    {
+      "targetId": "v-assist",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "assist with registrationの補助用法。2人が受付を手伝う訳が整合。"
+    },
+    {
+      "targetId": "v-assume",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "assume that節の想定用法。includedの時制と配送料込みと思っていた訳が一致。"
+    },
+    {
+      "targetId": "v-attach",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "attach a copyの添付用法。領収書写しの訳が整合。"
+    },
+    {
+      "targetId": "v-attract",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "attract visitorsの誘客用法。海外からの来場者という訳が対応。"
+    },
+    {
+      "targetId": "v-available",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "利用可能を表す叙述形容詞。無料駐車場の例と訳が整合。"
+    },
+    {
+      "targetId": "v-balance",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "account balanceの口座残高。支払前に確認する例・訳が一致。"
+    },
+    {
+      "targetId": "v-benefit",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "a major benefitの利点用法。柔軟な勤務時間が利点という自然な文脈。"
+    },
+    {
+      "targetId": "v-budget",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "within a budgetの予算範囲。改装費用が予算内という訳が整合。"
+    },
+    {
+      "targetId": "v-charge",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "料金の名詞と充電する動詞を分離。配送と端末充電の例で語義が明確。"
+    },
+    {
+      "targetId": "v-claim",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "費用請求と主張するの2語義を区別。expensesとthat節の例・訳が整合。claim an advantageは優位を主張する用法として成立。"
+    },
+    {
+      "targetId": "v-company",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "会社の名詞用法。branch in Kobeと神戸支店の訳が整合。"
+    },
+    {
+      "targetId": "v-complete",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "完了させる動詞と欠けのない形容詞を分離。project/listの例・訳を確認。"
+    },
+    {
+      "targetId": "v-concern",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "懸念の名詞と関係する動詞を区別。安全性が懸念という読みが成立し、通知対象の訳も整合。"
+    },
+    {
+      "targetId": "v-consider",
+      "targetVersion": 1,
+      "decision": "accepted",
+      "issues": [],
+      "reason": "consider a supplierの検討用法。進行形の検討中という意味が訳に対応。"
+    }
+  ],
+  "revisionHistory": [
+    {
+      "targetId": "v-prepare",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "v-prepare-1.translationJa: 「明日までに」を「明日になる前にスライドを準備してください。」へ変更し before tomorrow の期限を明確にする。"
+      ],
+      "reason": "before tomorrowは明日が来る前。和訳の明日までには明日中も含み得るため時点を明確化する必要がある。"
+    },
+    {
+      "targetId": "v-start",
+      "targetVersion": 1,
+      "decision": "revise",
+      "issues": [
+        "v-start-1: meaningJaを「始まる、始める」にするか、collocationsを「a session starts」へ変更して自動詞・他動詞の用法を整合させる。"
+      ],
+      "reason": "語義・例文は自動詞の始まるだが、start a sessionは他動詞の始める。語義か組み合わせの修正が必要。"
+    }
+  ]
+}

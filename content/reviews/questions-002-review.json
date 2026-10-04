@@ -1,0 +1,263 @@
+{
+  "id": "questions-002-review",
+  "batchId": "questions-002",
+  "reviewerType": "ai",
+  "reviewer": "content_reviewer",
+  "createdAt": "2026-10-04T00:23:44.842566+00:00",
+  "method": "著者未読の独立解答を保存した後に全30問の正解、和訳、各選択肢説明、技能分類を実読して照合。第一選択30/30一致。1問は名詞修飾の別解余地があり修正。語義参照は空で、今後追加する参照は再確認が必要。",
+  "humanReviewCount": 0,
+  "items": [
+    {
+      "targetId": "q-0031",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "remainの補語には形容詞valid。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0032",
+      "targetVersion": 2,
+      "independentAnswerId": "d",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "新版の盲検解答dと著者が一致。entertaininglyへの変更により名詞修飾の別解余地を除去。和訳と副詞の誤答説明を再読して整合。"
+    },
+    {
+      "targetId": "q-0033",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "応募者が落胆する受け手なのでdisappointed。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0034",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "明日のこの時点に進行するwill be testing。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0035",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "plan to doの形でto extend。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0036",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "consider doingの形でleasing。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0037",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "Both copiesは複数でare。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0038",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "不可算informationは単数でis。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0039",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "動名詞句全体が主語なのでis。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0040",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "私たちの倉庫を表す独立所有代名詞ours。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0041",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "technicians自身の強調としてthemselves。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0042",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "a lighterに続く単数代名詞one。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0043",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "曜日の前置詞はon。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0044",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "二地点の間を表すbetween。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0045",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "名詞句の前で譲歩を表すDespite。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0046",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "道路閉鎖が遅延の理由なのでbecause。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0047",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "機器を開く前に電源を切るbefore。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0048",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "ツアーを待つ間を表すwhile。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0049",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "loungeは場所、後ろは完全文なのでwhere。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0050",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "timeは時、後ろは完全文なのでwhen。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0051",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "前置詞withの目的語となる関係詞whom。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0052",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "比較級fasterを強めるmuch。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0053",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "可算複数signaturesの比較級は標準的な書き言葉ではfewer。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0054",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "the比較級,the比較級でwider。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0055",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "単数employeeを直接伴うEach。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0056",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "不可算saltの量を表すa little。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0057",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "theに続き複数doorsを修飾するother。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0058",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "領収書付き請求から経費精算のreimbursement。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0059",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "退職者の補充を採用するrecruit。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    },
+    {
+      "targetId": "q-0060",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "decision": "accepted",
+      "issues": [],
+      "reason": "追跡番号で確認する配送状況status。 著者正解と一致し、和訳・全選択肢説明・技能を検査。自然な文脈で解答根拠と解説は整合。"
+    }
+  ],
+  "revisionHistory": [
+    {
+      "targetId": "q-0032",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "decision": "revise",
+      "issues": [
+        "entertainment storyは娯楽業界の話という名詞修飾の読みが成立し得る。名詞だからstoryを修飾できないという説明を避け、aをentertainingly等へ変更する。"
+      ],
+      "reason": "物語が人を楽しませるのでentertaining。 著者正解と一致し、和訳・全選択肢説明・技能を検査。選択肢の名詞修飾の可能性を修正する。"
+    }
+  ]
+}

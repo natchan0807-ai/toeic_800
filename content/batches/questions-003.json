@@ -1,0 +1,1331 @@
+{
+  "id": "questions-003",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-04T00:00:00Z",
+  "author": "question_author",
+  "model": null,
+  "input": "research policy v1; independent original authoring",
+  "status": "generated",
+  "items": [
+    {
+      "id": "q-0061",
+      "version": 2,
+      "type": "part5",
+      "stem": "After reviewing the survey results, the manager offered several practical _____ for improving service.",
+      "options": [
+        {
+          "id": "a",
+          "text": "suggestive"
+        },
+        {
+          "id": "b",
+          "text": "suggest"
+        },
+        {
+          "id": "c",
+          "text": "suggestions"
+        },
+        {
+          "id": "d",
+          "text": "suggestively"
+        }
+      ],
+      "answerId": "c",
+      "translationJa": "調査結果を確認した後、部長はサービス向上のための実用的な提案をいくつかしました。",
+      "explanationJa": "形容詞や所有格で修飾される名詞の位置です。",
+      "optionExplanations": {
+        "a": "「suggestive」: 形容詞なのでこの名詞の位置には置けません。",
+        "b": "「suggest」: 動詞なのでこの名詞の位置には置けません。",
+        "c": "「suggestions」: 形容詞や所有格で修飾される名詞の位置です。",
+        "d": "「suggestively」: 副詞なのでこの名詞の位置には置けません。"
+      },
+      "skillId": "pos",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-manager-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "noun-position",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0062",
+      "version": 2,
+      "type": "part5",
+      "stem": "The portable scanner is a _____ tool for employees who regularly work outside the office.",
+      "options": [
+        {
+          "id": "a",
+          "text": "usefully"
+        },
+        {
+          "id": "b",
+          "text": "use"
+        },
+        {
+          "id": "c",
+          "text": "utilize"
+        },
+        {
+          "id": "d",
+          "text": "useful"
+        }
+      ],
+      "answerId": "d",
+      "translationJa": "携帯型スキャナーは、普段社外で働く従業員にとって便利な道具です。",
+      "explanationJa": "名詞の性質を表す修飾語として形容詞が必要です。",
+      "optionExplanations": {
+        "a": "「usefully」: 副詞では直後の名詞を修飾できません。",
+        "b": "「use」: 名詞なのでここでは名詞の性質を表せません。",
+        "c": "「utilize」: 動詞なのでこの修飾語の位置には置けません。",
+        "d": "「useful」: 名詞の性質を表す修飾語として形容詞が必要です。"
+      },
+      "skillId": "pos",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-employee-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "adjective-position",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0063",
+      "version": 2,
+      "type": "part5",
+      "stem": "The receptionist _____ explained how to reach the nearest subway station.",
+      "options": [
+        {
+          "id": "a",
+          "text": "politely"
+        },
+        {
+          "id": "b",
+          "text": "polite"
+        },
+        {
+          "id": "c",
+          "text": "politenesses"
+        },
+        {
+          "id": "d",
+          "text": "politeness"
+        }
+      ],
+      "answerId": "a",
+      "translationJa": "受付係は最寄りの地下鉄駅への行き方を丁寧に説明しました。",
+      "explanationJa": "動作の行い方や程度を説明する副詞が必要です。",
+      "optionExplanations": {
+        "a": "「politely」: 動作の行い方や程度を説明する副詞が必要です。",
+        "b": "「polite」: 形容詞ではここで動作を修飾できません。",
+        "c": "「politenesses」: politenesses は名詞の複数形で動作を修飾できません。",
+        "d": "「politeness」: 名詞なので動作を修飾できません。"
+      },
+      "skillId": "pos",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-receptionist-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "adverb-position",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0064",
+      "version": 2,
+      "type": "part5",
+      "stem": "By the time the customer called, the warehouse _____ the missing item.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will locate"
+        },
+        {
+          "id": "b",
+          "text": "had located"
+        },
+        {
+          "id": "c",
+          "text": "has located"
+        },
+        {
+          "id": "d",
+          "text": "locating"
+        }
+      ],
+      "answerId": "b",
+      "translationJa": "顧客が電話した時には、倉庫はすでに不足していた品物を見つけていました。",
+      "explanationJa": "過去のある時点より前に完了した動作なので過去完了形を使います。",
+      "optionExplanations": {
+        "a": "「will locate」: 未来形は過去の時点より前の完了を表せません。",
+        "b": "「had located」: 過去のある時点より前に完了した動作なので過去完了形を使います。",
+        "c": "「has located」: 現在完了形はこの過去を基準にした前後関係に合いません。",
+        "d": "「locating」: ing 形だけでは完了を表す述語になりません。"
+      },
+      "skillId": "verb",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-customer-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "past-perfect",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0065",
+      "version": 2,
+      "type": "part5",
+      "stem": "The original painting _____ to the museum last year by a local collector.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was donated"
+        },
+        {
+          "id": "b",
+          "text": "donating"
+        },
+        {
+          "id": "c",
+          "text": "donated"
+        },
+        {
+          "id": "d",
+          "text": "to donate"
+        }
+      ],
+      "answerId": "a",
+      "translationJa": "その絵画の原画は昨年、地元の収集家によって博物館に寄贈されました。",
+      "explanationJa": "主語が動作を受けるため、be 動詞＋過去分詞の受動態を使います。",
+      "optionExplanations": {
+        "a": "「was donated」: 主語が動作を受けるため、be 動詞＋過去分詞の受動態を使います。",
+        "b": "「donating」: ing 形だけではこの文の述語になりません。",
+        "c": "「donated」: 能動態では主語と動作の関係が逆になります。",
+        "d": "「to donate」: to 不定詞だけではこの文の述語になりません。"
+      },
+      "skillId": "verb",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-museum-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "finite-passive",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0066",
+      "version": 2,
+      "type": "part5",
+      "stem": "The new reporting system lets managers _____ daily sales figures from any office.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to check"
+        },
+        {
+          "id": "b",
+          "text": "checking"
+        },
+        {
+          "id": "c",
+          "text": "checked"
+        },
+        {
+          "id": "d",
+          "text": "check"
+        }
+      ],
+      "answerId": "d",
+      "translationJa": "新しい報告システムにより、管理職はどの事務所からでも日々の売上高を確認できます。",
+      "explanationJa": "make や let の使役構文では目的語の後に動詞の原形を使います。",
+      "optionExplanations": {
+        "a": "「to check」: この使役構文では to 不定詞を置きません。",
+        "b": "「checking」: この能動の使役構文では ing 形を置きません。",
+        "c": "「checked」: 過去形をこの位置に置くことはできません。",
+        "d": "「check」: make や let の使役構文では目的語の後に動詞の原形を使います。"
+      },
+      "skillId": "verb",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-manager-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "causative-base",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0067",
+      "version": 2,
+      "type": "part5",
+      "stem": "One of the display screens _____ temporarily out of service.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "being"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "answerId": "a",
+      "translationJa": "展示用の画面の一つが、一時的に使用できなくなっています。",
+      "explanationJa": "one of＋複数名詞では主語の中心は one なので、述語を単数にします。",
+      "optionExplanations": {
+        "a": "「is」: one of＋複数名詞では主語の中心は one なので、述語を単数にします。",
+        "b": "「being」: ing 形だけでは述語になりません。",
+        "c": "「are」: of の後ろの複数名詞ではなく one に一致させる必要があります。",
+        "d": "「be」: 原形はこの単数主語の現在の述語になりません。"
+      },
+      "skillId": "agreement",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-screen-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "one-of-singular",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0068",
+      "version": 2,
+      "type": "part5",
+      "stem": "There _____ several spare chairs in the storage room beside the auditorium.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "being"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "answerId": "b",
+      "translationJa": "講堂の隣の倉庫には予備の椅子が何脚かあります。",
+      "explanationJa": "there 構文では後ろの実質的な主語に動詞を一致させ、ここでは複数形を使います。",
+      "optionExplanations": {
+        "a": "「is」: 後ろの主語は複数なので単数形は合いません。",
+        "b": "「are」: there 構文では後ろの実質的な主語に動詞を一致させ、ここでは複数形を使います。",
+        "c": "「being」: ing 形だけではこの文の述語になりません。",
+        "d": "「be」: 原形だけではこの文の述語になりません。"
+      },
+      "skillId": "agreement",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-room-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "there-plural",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0069",
+      "version": 2,
+      "type": "part5",
+      "stem": "Neither of the proposed dates _____ convenient for our overseas partners.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "be"
+        },
+        {
+          "id": "c",
+          "text": "being"
+        },
+        {
+          "id": "d",
+          "text": "to be"
+        }
+      ],
+      "answerId": "a",
+      "translationJa": "提案された二つの日程は、どちらも海外の取引先にとって都合がよくありません。",
+      "explanationJa": "neither of は「どちらも〜ない」で、ここでは単数形の述語を使います。",
+      "optionExplanations": {
+        "a": "「is」: neither of は「どちらも〜ない」で、ここでは単数形の述語を使います。",
+        "b": "「be」: 動詞の原形だけではこの主語の現在の述語になりません。",
+        "c": "「being」: ing 形だけでは述語になりません。",
+        "d": "「to be」: to 不定詞だけでは文の述語になりません。"
+      },
+      "skillId": "agreement",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-convenient-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "neither-singular",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0070",
+      "version": 2,
+      "type": "part5",
+      "stem": "The rental rates in the city center are higher than _____ in the surrounding towns.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "its"
+        },
+        {
+          "id": "c",
+          "text": "those"
+        },
+        {
+          "id": "d",
+          "text": "it"
+        }
+      ],
+      "answerId": "c",
+      "translationJa": "市中心部の賃料は、周辺の町の賃料より高いです。",
+      "explanationJa": "比較される複数名詞の繰り返しを避けるため those を使います。",
+      "optionExplanations": {
+        "a": "「that」: 単数を表す that では複数名詞を受けられません。",
+        "b": "「its」: its は所有格なので比較されるものを単独で表せません。",
+        "c": "「those」: 比較される複数名詞の繰り返しを避けるため those を使います。",
+        "d": "「it」: it は単数なので比較対象の複数名詞を受けられません。"
+      },
+      "skillId": "pronoun",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-rate-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "those-substitute",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0071",
+      "version": 2,
+      "type": "part5",
+      "stem": "Ms. Lee placed _____ laptop in a locker before joining the factory tour.",
+      "options": [
+        {
+          "id": "a",
+          "text": "she"
+        },
+        {
+          "id": "b",
+          "text": "hers"
+        },
+        {
+          "id": "c",
+          "text": "her"
+        },
+        {
+          "id": "d",
+          "text": "herself"
+        }
+      ],
+      "answerId": "c",
+      "translationJa": "リーさんは工場見学に参加する前に、自分のノートパソコンをロッカーに入れました。",
+      "explanationJa": "後ろの名詞に「誰のものか」を付け加える所有格が必要です。",
+      "optionExplanations": {
+        "a": "「she」: 主格なので名詞の前で所有を示せません。",
+        "b": "「hers」: hers は名詞を伴わずに所有物を表す形なので laptop の前には置けません。",
+        "c": "「her」: 後ろの名詞に「誰のものか」を付け加える所有格が必要です。",
+        "d": "「herself」: herself は再帰代名詞で、名詞の前の所有格になりません。"
+      },
+      "skillId": "pronoun",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-laptop-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "possessive-determiner",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0072",
+      "version": 2,
+      "type": "part5",
+      "stem": "The travel agent sent _____ a revised itinerary after we requested an earlier flight.",
+      "options": [
+        {
+          "id": "a",
+          "text": "we"
+        },
+        {
+          "id": "b",
+          "text": "us"
+        },
+        {
+          "id": "c",
+          "text": "our"
+        },
+        {
+          "id": "d",
+          "text": "ours"
+        }
+      ],
+      "answerId": "b",
+      "translationJa": "私たちがもっと早い便を希望した後、旅行会社の担当者は修正版の旅程を私たちに送りました。",
+      "explanationJa": "動詞や前置詞の目的語の位置なので目的格が必要です。",
+      "optionExplanations": {
+        "a": "「we」: 主格なので目的語の位置には合いません。",
+        "b": "「us」: 動詞や前置詞の目的語の位置なので目的格が必要です。",
+        "c": "「our」: 所有格は後ろに名詞を伴うため、この位置には合いません。",
+        "d": "「ours」: 独立所有代名詞ではここで意図する人物を表せません。"
+      },
+      "skillId": "pronoun",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-itinerary-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "object-pronoun",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0073",
+      "version": 2,
+      "type": "part5",
+      "stem": "The evening supervisor is responsible _____ securing all entrances after the final tour.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "with"
+        },
+        {
+          "id": "c",
+          "text": "for"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "answerId": "c",
+      "translationJa": "夜間の監督者は、最後の見学の後ですべての入口を施錠する責任を負っています。",
+      "explanationJa": "responsible for で「〜の責任がある・〜を担当する」を表します。",
+      "optionExplanations": {
+        "a": "「at」: at はこの responsible の担当内容を導く組み合わせには使いません。",
+        "b": "「with」: with はこの responsible の担当内容を導く組み合わせには使いません。",
+        "c": "「for」: responsible for で「〜の責任がある・〜を担当する」を表します。",
+        "d": "「to」: to は responsible の後では通常、責任を負う相手を示し、この担当業務を導く位置には合いません。"
+      },
+      "skillId": "preposition",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-supervisor-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "responsible-for",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0074",
+      "version": 2,
+      "type": "part5",
+      "stem": "According _____ the revised schedule, the opening ceremony will begin at ten.",
+      "options": [
+        {
+          "id": "a",
+          "text": "with"
+        },
+        {
+          "id": "b",
+          "text": "to"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "for"
+        }
+      ],
+      "answerId": "b",
+      "translationJa": "改訂された予定表によると、開会式は10時に始まります。",
+      "explanationJa": "according to は「〜によると」を表す固定した組み合わせです。",
+      "optionExplanations": {
+        "a": "「with」: with は according とこの意味の組み合わせを作りません。",
+        "b": "「to」: according to は「〜によると」を表す固定した組み合わせです。",
+        "c": "「at」: at は according とこの意味の組み合わせを作りません。",
+        "d": "「for」: for は according とこの意味の組み合わせを作りません。"
+      },
+      "skillId": "preposition",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-revise-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "according-to",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0075",
+      "version": 2,
+      "type": "part5",
+      "stem": "The company first introduced its paperless billing service _____ 2021.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "of"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "on"
+        }
+      ],
+      "answerId": "a",
+      "translationJa": "会社が請求書の電子化サービスを初めて導入したのは2021年です。",
+      "explanationJa": "月・年や比較的長い期間の中を示すには in を使います。",
+      "optionExplanations": {
+        "a": "「in」: 月・年や比較的長い期間の中を示すには in を使います。",
+        "b": "「of」: of はここで実施される時期を示せません。",
+        "c": "「at」: at は時刻などを示し、この月や年だけの表現には合いません。",
+        "d": "「on」: on は曜日や特定の日付に使い、この月や年だけの表現には合いません。"
+      },
+      "skillId": "preposition",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-service-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "in-month",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0076",
+      "version": 2,
+      "type": "part5",
+      "stem": "Customers can either collect their purchases at the store _____ request home delivery.",
+      "options": [
+        {
+          "id": "a",
+          "text": "and"
+        },
+        {
+          "id": "b",
+          "text": "but"
+        },
+        {
+          "id": "c",
+          "text": "or"
+        },
+        {
+          "id": "d",
+          "text": "nor"
+        }
+      ],
+      "answerId": "c",
+      "translationJa": "顧客は購入品を店で受け取るか、自宅配送を依頼できます。",
+      "explanationJa": "either A or B で二つの選択肢を結びます。",
+      "optionExplanations": {
+        "a": "「and」: and は either とこの選択の組み合わせを作りません。",
+        "b": "「but」: but は either とこの選択の組み合わせを作りません。",
+        "c": "「or」: either A or B で二つの選択肢を結びます。",
+        "d": "「nor」: nor は neither と対応する形で either には合いません。"
+      },
+      "skillId": "conjunction",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-customer-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "either-or",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0077",
+      "version": 2,
+      "type": "part5",
+      "stem": "The new job requires both technical knowledge _____ the ability to explain complex ideas clearly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "but"
+        },
+        {
+          "id": "b",
+          "text": "or"
+        },
+        {
+          "id": "c",
+          "text": "nor"
+        },
+        {
+          "id": "d",
+          "text": "and"
+        }
+      ],
+      "answerId": "d",
+      "translationJa": "その新しい仕事には、技術的知識と複雑な考えを明確に説明する能力の両方が必要です。",
+      "explanationJa": "both A and B で二つの要素をともに含むことを示します。",
+      "optionExplanations": {
+        "a": "「but」: but は both とこの両方を示す組み合わせを作りません。",
+        "b": "「or」: or は both とこの両方を示す組み合わせを作りません。",
+        "c": "「nor」: nor は both と対応しません。",
+        "d": "「and」: both A and B で二つの要素をともに含むことを示します。"
+      },
+      "skillId": "conjunction",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-explain-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "both-and",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0078",
+      "version": 2,
+      "type": "part5",
+      "stem": "Please let us know whether you will attend the morning session _____ not.",
+      "options": [
+        {
+          "id": "a",
+          "text": "or"
+        },
+        {
+          "id": "b",
+          "text": "and"
+        },
+        {
+          "id": "c",
+          "text": "nor"
+        },
+        {
+          "id": "d",
+          "text": "but"
+        }
+      ],
+      "answerId": "a",
+      "translationJa": "午前の回に出席するかどうか、お知らせください。",
+      "explanationJa": "whether A or B で二つの可能性や選択肢を示します。",
+      "optionExplanations": {
+        "a": "「or」: whether A or B で二つの可能性や選択肢を示します。",
+        "b": "「and」: and はこの whether と組み合わせた二択を表せません。",
+        "c": "「nor」: nor は whether と対応しません。",
+        "d": "「but」: but は whether とこの二択を表す組み合わせを作りません。"
+      },
+      "skillId": "conjunction",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-attend-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "whether-or",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0079",
+      "version": 2,
+      "type": "part5",
+      "stem": "The account into _____ your refund was deposited is listed on the confirmation email.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "answerId": "a",
+      "translationJa": "返金が振り込まれた口座は、確認メールに記載されています。",
+      "explanationJa": "前置詞の後で物を先行詞とする関係代名詞には which を使います。",
+      "optionExplanations": {
+        "a": "「which」: 前置詞の後で物を先行詞とする関係代名詞には which を使います。",
+        "b": "「that」: that の直前に前置詞を置くことはできません。",
+        "c": "「who」: who は人を表し、この物を表す先行詞に合いません。",
+        "d": "「where」: where を前置詞の目的語として置くことはできません。"
+      },
+      "skillId": "relative",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-account-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "relative-prep-thing",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0080",
+      "version": 3,
+      "type": "part5",
+      "stem": "The production instructions contain _____ the customer requested for the product labels.",
+      "options": [
+        {
+          "id": "a",
+          "text": "what"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "answerId": "a",
+      "translationJa": "製造指示書には、顧客が商品ラベルに求めた内容が記載されています。",
+      "explanationJa": "先行詞を含んで「〜すること・もの」を表す what を使います。",
+      "optionExplanations": {
+        "a": "「what」: 先行詞を含んで「〜すること・もの」を表す what を使います。",
+        "b": "「that」: that では後続節内で欠けている目的語を補えません。",
+        "c": "「who」: who は人物を表し、この内容や事柄を表す位置には合いません。",
+        "d": "「whose」: whose は所有格で、この位置で事柄を単独で表せません。"
+      },
+      "skillId": "relative",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-request-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "fused-what",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0081",
+      "version": 2,
+      "type": "part5",
+      "stem": "The volunteers _____ helped set up the exhibition will receive free admission tickets.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "whose"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "whom"
+        }
+      ],
+      "answerId": "c",
+      "translationJa": "展示の設営を手伝ったボランティアには、無料の入場券が配られます。",
+      "explanationJa": "人を先行詞とし、関係節内で主語になる関係代名詞 who が適切です。",
+      "optionExplanations": {
+        "a": "「which」: which はこの人を指す先行詞には使えません。",
+        "b": "「whose」: whose は所有格で、直後に修飾する名詞が必要です。",
+        "c": "「who」: 人を先行詞とし、関係節内で主語になる関係代名詞 who が適切です。",
+        "d": "「whom」: whom は目的格なので関係節の主語にはなれません。"
+      },
+      "skillId": "relative",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-volunteer-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "relative-person-subject",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0082",
+      "version": 2,
+      "type": "part5",
+      "stem": "The new battery lasts twice as long _____ the battery supplied with the original model.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "than"
+        },
+        {
+          "id": "d",
+          "text": "as"
+        }
+      ],
+      "answerId": "d",
+      "translationJa": "新しい電池は、旧型機に付属していた電池の2倍長持ちします。",
+      "explanationJa": "倍数＋as＋原級＋as で「〜の何倍も…」を表します。",
+      "optionExplanations": {
+        "a": "「so」: so はこの肯定の倍数表現の後半には使えません。",
+        "b": "「that」: that はこの同等比較の組み合わせを作りません。",
+        "c": "「than」: than は比較級に対応する語で、この原級の倍数表現には合いません。",
+        "d": "「as」: 倍数＋as＋原級＋as で「〜の何倍も…」を表します。"
+      },
+      "skillId": "comparison",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-battery-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "double-as",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0083",
+      "version": 2,
+      "type": "part5",
+      "stem": "After testing both cameras, the photographer chose the _____ of the two for indoor work.",
+      "options": [
+        {
+          "id": "a",
+          "text": "good"
+        },
+        {
+          "id": "b",
+          "text": "better"
+        },
+        {
+          "id": "c",
+          "text": "well"
+        },
+        {
+          "id": "d",
+          "text": "best"
+        }
+      ],
+      "answerId": "b",
+      "translationJa": "両方のカメラを試した後、写真家は屋内での仕事用に二つのうち性能のよいほうを選びました。",
+      "explanationJa": "二つのもののうち優れた方を示すため、the と比較級を使います。",
+      "optionExplanations": {
+        "a": "「good」: 原級では優れた方という比較を表せません。",
+        "b": "「better」: 二つのもののうち優れた方を示すため、the と比較級を使います。",
+        "c": "「well」: 副詞ではこの名詞を修飾する形容詞の比較級になりません。",
+        "d": "「best」: 最上級はこの二者の比較では使いません。"
+      },
+      "skillId": "comparison",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-camera-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "better-of-two",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0084",
+      "version": 2,
+      "type": "part5",
+      "stem": "With all furniture removed, the conference room looks _____ than it did yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "largely"
+        },
+        {
+          "id": "b",
+          "text": "larger"
+        },
+        {
+          "id": "c",
+          "text": "large"
+        },
+        {
+          "id": "d",
+          "text": "largest"
+        }
+      ],
+      "answerId": "b",
+      "translationJa": "家具がすべて取り除かれ、会議室は昨日より広く見えます。",
+      "explanationJa": "than で二者を比較しているので比較級が必要です。",
+      "optionExplanations": {
+        "a": "「largely」: 副詞ではこの位置で必要な形容詞の比較級を表せません。",
+        "b": "「larger」: than で二者を比較しているので比較級が必要です。",
+        "c": "「large」: 原級はこの than の比較構文に合いません。",
+        "d": "「largest」: 最上級は二者を than で比較するこの構文に合いません。"
+      },
+      "skillId": "comparison",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-furniture-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "comparative-than",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0085",
+      "version": 2,
+      "type": "part5",
+      "stem": "The museum is seeking _____ experienced curator to manage its new collection.",
+      "options": [
+        {
+          "id": "a",
+          "text": "these"
+        },
+        {
+          "id": "b",
+          "text": "many"
+        },
+        {
+          "id": "c",
+          "text": "an"
+        },
+        {
+          "id": "d",
+          "text": "a"
+        }
+      ],
+      "answerId": "c",
+      "translationJa": "博物館は新しい収蔵品を管理するため、経験豊かな学芸員を探しています。",
+      "explanationJa": "直後の発音が母音で始まる単数の可算名詞なので、不定冠詞 an を使います。",
+      "optionExplanations": {
+        "a": "「these」: these は複数を示すため、この単数名詞に合いません。",
+        "b": "「many」: many は複数の可算名詞を要求します。",
+        "c": "「an」: 直後の発音が母音で始まる単数の可算名詞なので、不定冠詞 an を使います。",
+        "d": "「a」: a は直後の発音が子音で始まる場合に使うため、ここには合いません。"
+      },
+      "skillId": "determiner",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-museum-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "article-an",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0086",
+      "version": 2,
+      "type": "part5",
+      "stem": "_____ of the documents in this folder have been signed by the client.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Another"
+        },
+        {
+          "id": "b",
+          "text": "Every"
+        },
+        {
+          "id": "c",
+          "text": "Much"
+        },
+        {
+          "id": "d",
+          "text": "All"
+        }
+      ],
+      "answerId": "d",
+      "translationJa": "このフォルダーに入っている書類はすべて、顧客の署名済みです。",
+      "explanationJa": "all of＋限定された複数名詞で、そのすべてを表します。",
+      "optionExplanations": {
+        "a": "「Another」: another は単数を表すため、この全体を示す構文には合いません。",
+        "b": "「Every」: every はこの形で of と直接つなげられません。",
+        "c": "「Much」: much は不可算名詞の量を表し、この可算複数名詞には合いません。",
+        "d": "「All」: all of＋限定された複数名詞で、そのすべてを表します。"
+      },
+      "skillId": "determiner",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-document-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "all-of-plural",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0087",
+      "version": 2,
+      "type": "part5",
+      "stem": "The two access roads are both closed, so _____ road is available for today's delivery.",
+      "options": [
+        {
+          "id": "a",
+          "text": "none"
+        },
+        {
+          "id": "b",
+          "text": "neither"
+        },
+        {
+          "id": "c",
+          "text": "both"
+        },
+        {
+          "id": "d",
+          "text": "every"
+        }
+      ],
+      "answerId": "b",
+      "translationJa": "二つの進入道路はともに閉鎖されているため、今日の配送にはどちらの道路も使えません。",
+      "explanationJa": "二つのうちどちらも該当しないことを表す neither が適切です。",
+      "optionExplanations": {
+        "a": "「none」: none はこの単数名詞の直前で限定詞として使えません。",
+        "b": "「neither」: 二つのうちどちらも該当しないことを表す neither が適切です。",
+        "c": "「both」: both は複数を伴うため、この単数名詞には合いません。",
+        "d": "「every」: every は三つ以上を念頭にすべてを表し、この二つを否定する文脈に合いません。"
+      },
+      "skillId": "determiner",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-road-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "neither-two",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0088",
+      "version": 2,
+      "type": "part5",
+      "stem": "Please _____ all registered participants of the venue change by email.",
+      "options": [
+        {
+          "id": "a",
+          "text": "donate"
+        },
+        {
+          "id": "b",
+          "text": "inspect"
+        },
+        {
+          "id": "c",
+          "text": "operate"
+        },
+        {
+          "id": "d",
+          "text": "notify"
+        }
+      ],
+      "answerId": "d",
+      "translationJa": "登録済みの参加者全員に、会場の変更をメールで知らせてください。",
+      "explanationJa": "notify A of B の形で、参加者に変更を知らせます。",
+      "optionExplanations": {
+        "a": "「donate」: donate は寄付する意味で、参加者への通知を表せません。",
+        "b": "「inspect」: inspect は点検する意味で、会場変更を知らせる文脈に合いません。",
+        "c": "「operate」: operate は操作・運営する意味で、参加者への通知を表せません。",
+        "d": "「notify」: notify A of B はAにBを知らせる表現です。"
+      },
+      "skillId": "vocabulary",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-email-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "lexical-communication",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0089",
+      "version": 2,
+      "type": "part5",
+      "stem": "Routine _____ of the elevators includes checking the cables and lubricating moving parts.",
+      "options": [
+        {
+          "id": "a",
+          "text": "advertising"
+        },
+        {
+          "id": "b",
+          "text": "recruitment"
+        },
+        {
+          "id": "c",
+          "text": "reimbursement"
+        },
+        {
+          "id": "d",
+          "text": "maintenance"
+        }
+      ],
+      "answerId": "d",
+      "translationJa": "エレベーターの定期保守には、ケーブルの点検と可動部への注油が含まれます。",
+      "explanationJa": "ケーブル点検や注油は設備を正常に保つ maintenance の作業です。",
+      "optionExplanations": {
+        "a": "「advertising」: advertising は広告活動です。",
+        "b": "「recruitment」: recruitment は人材の採用活動です。",
+        "c": "「reimbursement」: reimbursement は費用の払い戻しです。",
+        "d": "「maintenance」: maintenance は設備の保守管理です。"
+      },
+      "skillId": "vocabulary",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-elevator-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "lexical-maintenance",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "q-0090",
+      "version": 2,
+      "type": "part5",
+      "stem": "All food vendors must _____ with the health department's hygiene regulations.",
+      "options": [
+        {
+          "id": "a",
+          "text": "consist"
+        },
+        {
+          "id": "b",
+          "text": "comply"
+        },
+        {
+          "id": "c",
+          "text": "arrive"
+        },
+        {
+          "id": "d",
+          "text": "compete"
+        }
+      ],
+      "answerId": "b",
+      "translationJa": "すべての食品販売業者は、保健部門の衛生規則に従う必要があります。",
+      "explanationJa": "規則の順守を示す comply with が文脈に合います。",
+      "optionExplanations": {
+        "a": "「consist」: consist は通常 of などと使い、規則に従う意味になりません。",
+        "b": "「comply」: comply with は規則などに従う意味です。",
+        "c": "「arrive」: arrive は到着する意味で、規則に従うことを表せません。",
+        "d": "「compete」: compete with は相手と競争する意味です。"
+      },
+      "skillId": "vocabulary",
+      "secondarySkillIds": [],
+      "vocabularySenseIds": [
+        "v-regulation-1"
+      ],
+      "difficulty": "standard",
+      "familyId": "lexical-compliance",
+      "sourceIds": [
+        "iibc-format"
+      ],
+      "reviewStatus": "pending"
+    }
+  ]
+}

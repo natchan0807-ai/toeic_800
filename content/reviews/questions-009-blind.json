@@ -1,0 +1,222 @@
+{
+  "id": "questions-009-blind",
+  "batchId": "questions-009",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:51:06.067107+00:00",
+  "method": "著者解答・解説・和訳を読む前に、blindのstem/optionsだけから全30問を独立解答。q245はintendの動名詞用法をCambridge Learner’s Dictionaryで確認した。",
+  "items": [
+    {
+      "targetId": "q-0241",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "yourの後の名詞cooperation",
+      "issues": []
+    },
+    {
+      "targetId": "q-0242",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "unusuallyが修飾する形容詞accurate",
+      "issues": []
+    },
+    {
+      "targetId": "q-0243",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "remainの補語fresh",
+      "issues": []
+    },
+    {
+      "targetId": "q-0244",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "yesterdayで過去形announced",
+      "issues": []
+    },
+    {
+      "targetId": "q-0245",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "intend to relocateが自然だがintend relocatingも可能で二解",
+      "issues": [
+        "intend は to不定詞に加えて動名詞も目的語に取るため c relocating と d to relocate の両方が可能。Cambridge Learner’s Dictionary https://dictionary.cambridge.org/dictionary/learner-english/intend で + doing sth の用法を確認。"
+      ]
+    },
+    {
+      "targetId": "q-0246",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "過去の再開より前のhad replaced",
+      "issues": []
+    },
+    {
+      "targetId": "q-0247",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "Neitherの単数一致is",
+      "issues": []
+    },
+    {
+      "targetId": "q-0248",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "Oneの単数一致offers",
+      "issues": []
+    },
+    {
+      "targetId": "q-0249",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "複数devicesに合わせるare",
+      "issues": []
+    },
+    {
+      "targetId": "q-0250",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "companyの所有格its",
+      "issues": []
+    },
+    {
+      "targetId": "q-0251",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "employeesを受ける主格they",
+      "issues": []
+    },
+    {
+      "targetId": "q-0252",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "Ms Reed本人を目的語にするherself",
+      "issues": []
+    },
+    {
+      "targetId": "q-0253",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "月Augustの前のin",
+      "issues": []
+    },
+    {
+      "targetId": "q-0254",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "responsible forの語法",
+      "issues": []
+    },
+    {
+      "targetId": "q-0255",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "名詞句strong windを受けるdespite",
+      "issues": []
+    },
+    {
+      "targetId": "q-0256",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "目的を表すso that＋節",
+      "issues": []
+    },
+    {
+      "targetId": "q-0257",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "eitherとorの対応",
+      "issues": []
+    },
+    {
+      "targetId": "q-0258",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "同時進行のwhile＋節",
+      "issues": []
+    },
+    {
+      "targetId": "q-0259",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "authorsとbooksの所有関係whose",
+      "issues": []
+    },
+    {
+      "targetId": "q-0260",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "employeeを受ける主格who",
+      "issues": []
+    },
+    {
+      "targetId": "q-0261",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "非制限用法の物の主格which",
+      "issues": []
+    },
+    {
+      "targetId": "q-0262",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "可算複数questionsの比較fewer",
+      "issues": []
+    },
+    {
+      "targetId": "q-0263",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "thanに対応するmore dangerous",
+      "issues": []
+    },
+    {
+      "targetId": "q-0264",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "5室中の最上級most expensive",
+      "issues": []
+    },
+    {
+      "targetId": "q-0265",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "不可算informationにはmuch",
+      "issues": []
+    },
+    {
+      "targetId": "q-0266",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "複数receiptsにはa few",
+      "issues": []
+    },
+    {
+      "targetId": "q-0267",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "埋まっている部屋と別の一室another",
+      "issues": []
+    },
+    {
+      "targetId": "q-0268",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "運転手不足が減便の原因shortage",
+      "issues": []
+    },
+    {
+      "targetId": "q-0269",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "空き部屋のないvacant",
+      "issues": []
+    },
+    {
+      "targetId": "q-0270",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "選考に用いる複数基準criteria",
+      "issues": []
+    }
+  ]
+}

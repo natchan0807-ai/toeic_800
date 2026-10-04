@@ -1,0 +1,220 @@
+{
+  "id": "questions-005-blind",
+  "batchId": "questions-005",
+  "reviewerType": "ai",
+  "reviewer": "vocabulary_editor_as_question_reviewer",
+  "createdAt": "2026-10-04T00:33:16.910709+00:00",
+  "method": "著者解答・解説・和訳を読む前に、blindのstem/optionsだけから全30問を独立解答。",
+  "items": [
+    {
+      "targetId": "q-0121",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "cancellationが感情を起こすfrustrating",
+      "issues": []
+    },
+    {
+      "targetId": "q-0122",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "visitorsが感銘を受けるimpressed",
+      "issues": []
+    },
+    {
+      "targetId": "q-0123",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "workedを修飾するefficiently",
+      "issues": []
+    },
+    {
+      "targetId": "q-0124",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "agree to不定詞",
+      "issues": []
+    },
+    {
+      "targetId": "q-0125",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "avoidの後の動名詞placing",
+      "issues": []
+    },
+    {
+      "targetId": "q-0126",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "過去の到着より前のhad prepared",
+      "issues": []
+    },
+    {
+      "targetId": "q-0127",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "both A and Bの複数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0128",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "不可算equipmentの単数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0129",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "動名詞主語Providing...の単数一致",
+      "issues": []
+    },
+    {
+      "targetId": "q-0130",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "companyの所有格its",
+      "issues": []
+    },
+    {
+      "targetId": "q-0131",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "Iを強調する再帰myself",
+      "issues": []
+    },
+    {
+      "targetId": "q-0132",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "複数requirementsを受けるthose",
+      "issues": []
+    },
+    {
+      "targetId": "q-0133",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "日付のon",
+      "issues": []
+    },
+    {
+      "targetId": "q-0134",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "季節のin",
+      "issues": []
+    },
+    {
+      "targetId": "q-0135",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "二者の間のbetween",
+      "issues": []
+    },
+    {
+      "targetId": "q-0136",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "理由のbecause＋節",
+      "issues": []
+    },
+    {
+      "targetId": "q-0137",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "同時進行のwhile＋節",
+      "issues": []
+    },
+    {
+      "targetId": "q-0138",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "eitherとorの対応",
+      "issues": []
+    },
+    {
+      "targetId": "q-0139",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "日時datesを受けるwhen",
+      "issues": []
+    },
+    {
+      "targetId": "q-0140",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "前置詞fromの後のwhom",
+      "issues": []
+    },
+    {
+      "targetId": "q-0141",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "非制限用法でwarrantyを受けるwhich",
+      "issues": []
+    },
+    {
+      "targetId": "q-0142",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "thanに合うmore convenient",
+      "issues": []
+    },
+    {
+      "targetId": "q-0143",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "as simple asの原級",
+      "issues": []
+    },
+    {
+      "targetId": "q-0144",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "all options中の最上級most expensive",
+      "issues": []
+    },
+    {
+      "targetId": "q-0145",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "単数packageの前のeach",
+      "issues": []
+    },
+    {
+      "targetId": "q-0146",
+      "targetVersion": 1,
+      "independentAnswerId": "a",
+      "reason": "不可算timeのa little",
+      "issues": []
+    },
+    {
+      "targetId": "q-0147",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "opportunityの前のan",
+      "issues": []
+    },
+    {
+      "targetId": "q-0148",
+      "targetVersion": 1,
+      "independentAnswerId": "c",
+      "reason": "大量購入で得るdiscount",
+      "issues": []
+    },
+    {
+      "targetId": "q-0149",
+      "targetVersion": 1,
+      "independentAnswerId": "b",
+      "reason": "需要の急増surge",
+      "issues": []
+    },
+    {
+      "targetId": "q-0150",
+      "targetVersion": 1,
+      "independentAnswerId": "d",
+      "reason": "徒歩で移動できる近接adjacent",
+      "issues": []
+    }
+  ]
+}

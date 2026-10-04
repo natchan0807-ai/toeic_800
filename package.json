@@ -1,0 +1,19 @@
+{
+  "name": "toeic-step-800",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.12" },
+  "scripts": {
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "typecheck": "node scripts/build.mjs --check",
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/build.mjs && node tests/run.mjs",
+    "content:validate": "node scripts/content.mjs validate",
+    "content:integrate": "node scripts/content.mjs integrate",
+    "content:prepare": "node scripts/content.mjs prepare",
+    "content:blind": "node scripts/content.mjs blind",
+    "content:sample": "node scripts/content.mjs sample"
+  }
+}

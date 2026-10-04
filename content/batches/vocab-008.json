@@ -1,0 +1,2911 @@
+{
+  "id": "vocab-008",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-04T00:21:36.166011+00:00",
+  "author": "vocabulary_editor",
+  "model": null,
+  "input": "research policy v1",
+  "status": "generated",
+  "items": [
+    {
+      "id": "v-computer",
+      "version": 1,
+      "lemma": "computer",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "computing"
+      ],
+      "rationale": "学習設計上の選定: コンピューターに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-computer-1",
+          "pos": "noun",
+          "meaningJa": "コンピューター",
+          "example": "My computer has two screens.",
+          "translationJa": "私のパソコンには画面が2つあります。",
+          "collocations": [
+            "a desktop computer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-laptop",
+      "version": 1,
+      "lemma": "laptop",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "notebook computer"
+      ],
+      "rationale": "学習設計上の選定: ノートパソコンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-laptop-1",
+          "pos": "noun",
+          "meaningJa": "ノートパソコン",
+          "example": "Please bring your laptop to the workshop.",
+          "translationJa": "研修会にノートパソコンを持参してください。",
+          "collocations": [
+            "a lightweight laptop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tablet",
+      "version": 1,
+      "lemma": "tablet",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "touchscreen"
+      ],
+      "rationale": "学習設計上の選定: タブレット端末に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tablet-1",
+          "pos": "noun",
+          "meaningJa": "タブレット端末",
+          "example": "The guide showed us maps on a tablet.",
+          "translationJa": "ガイドはタブレットで地図を見せました。",
+          "collocations": [
+            "a tablet computer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-smartphone",
+      "version": 1,
+      "lemma": "smartphone",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "mobile device"
+      ],
+      "rationale": "学習設計上の選定: スマートフォンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-smartphone-1",
+          "pos": "noun",
+          "meaningJa": "スマートフォン",
+          "example": "You can display the ticket on your smartphone.",
+          "translationJa": "スマートフォンに切符を表示できます。",
+          "collocations": [
+            "a smartphone app"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-phone",
+      "version": 1,
+      "lemma": "phone",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "telephone"
+      ],
+      "rationale": "学習設計上の選定: 電話に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-phone-1",
+          "pos": "noun",
+          "meaningJa": "電話",
+          "example": "The phone rang during the presentation.",
+          "translationJa": "発表中に電話が鳴りました。",
+          "collocations": [
+            "answer the phone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-screen",
+      "version": 1,
+      "lemma": "screen",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "screenshot"
+      ],
+      "rationale": "学習設計上の選定: 画面に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-screen-1",
+          "pos": "noun",
+          "meaningJa": "画面",
+          "example": "The screen shows your order number.",
+          "translationJa": "画面には注文番号が表示されています。",
+          "collocations": [
+            "a touch screen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-keyboard",
+      "version": 1,
+      "lemma": "keyboard",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "keystroke"
+      ],
+      "rationale": "学習設計上の選定: キーボードに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-keyboard-1",
+          "pos": "noun",
+          "meaningJa": "キーボード",
+          "example": "The new keyboard is quieter.",
+          "translationJa": "新しいキーボードはより静かです。",
+          "collocations": [
+            "a wireless keyboard"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-mouse",
+      "version": 1,
+      "lemma": "mouse",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "mouse pad"
+      ],
+      "rationale": "学習設計上の選定: マウスに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-mouse-1",
+          "pos": "noun",
+          "meaningJa": "マウス",
+          "example": "The mouse needs a new battery.",
+          "translationJa": "マウスは電池交換が必要です。",
+          "collocations": [
+            "a wireless mouse"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-printer",
+      "version": 1,
+      "lemma": "printer",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "printing"
+      ],
+      "rationale": "学習設計上の選定: プリンターに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-printer-1",
+          "pos": "noun",
+          "meaningJa": "プリンター",
+          "example": "The printer has run out of paper.",
+          "translationJa": "プリンターの紙が切れました。",
+          "collocations": [
+            "a color printer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-scanner",
+      "version": 1,
+      "lemma": "scanner",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "scanning"
+      ],
+      "rationale": "学習設計上の選定: スキャナーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-scanner-1",
+          "pos": "noun",
+          "meaningJa": "スキャナー",
+          "example": "The scanner reads both sides of a page.",
+          "translationJa": "スキャナーはページの両面を読み取ります。",
+          "collocations": [
+            "a document scanner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-camera",
+      "version": 1,
+      "lemma": "camera",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cameraman"
+      ],
+      "rationale": "学習設計上の選定: カメラに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-camera-1",
+          "pos": "noun",
+          "meaningJa": "カメラ",
+          "example": "The camera captured a clear image.",
+          "translationJa": "カメラは鮮明な画像を撮影しました。",
+          "collocations": [
+            "a digital camera"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-speaker",
+      "version": 1,
+      "lemma": "speaker",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "loudspeaker"
+      ],
+      "rationale": "学習設計上の選定: スピーカーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-speaker-1",
+          "pos": "noun",
+          "meaningJa": "スピーカー",
+          "example": "The speaker sits beside the screen.",
+          "translationJa": "スピーカーは画面の横にあります。",
+          "collocations": [
+            "a portable speaker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-microphone",
+      "version": 1,
+      "lemma": "microphone",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "mic"
+      ],
+      "rationale": "学習設計上の選定: マイクに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-microphone-1",
+          "pos": "noun",
+          "meaningJa": "マイク",
+          "example": "Please speak directly into the microphone.",
+          "translationJa": "マイクに向かって話してください。",
+          "collocations": [
+            "a wireless microphone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-headphones",
+      "version": 1,
+      "lemma": "headphones",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "headset"
+      ],
+      "rationale": "学習設計上の選定: ヘッドホンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-headphones-1",
+          "pos": "noun",
+          "meaningJa": "ヘッドホン",
+          "example": "Use headphones when listening in the library.",
+          "translationJa": "図書館で聴くときはヘッドホンを使ってください。",
+          "collocations": [
+            "a pair of headphones"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-charger",
+      "version": 1,
+      "lemma": "charger",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "charging"
+      ],
+      "rationale": "学習設計上の選定: 充電器に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-charger-1",
+          "pos": "noun",
+          "meaningJa": "充電器",
+          "example": "I left my phone charger at home.",
+          "translationJa": "携帯の充電器を家に忘れました。",
+          "collocations": [
+            "a battery charger"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-battery",
+      "version": 1,
+      "lemma": "battery",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "battery life"
+      ],
+      "rationale": "学習設計上の選定: 電池、バッテリーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-battery-1",
+          "pos": "noun",
+          "meaningJa": "電池、バッテリー",
+          "example": "The battery lasts through the workday.",
+          "translationJa": "バッテリーは勤務時間中もちます。",
+          "collocations": [
+            "a rechargeable battery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-cable",
+      "version": 1,
+      "lemma": "cable",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "cabling"
+      ],
+      "rationale": "学習設計上の選定: ケーブルに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-cable-1",
+          "pos": "noun",
+          "meaningJa": "ケーブル",
+          "example": "Connect the cable to the projector.",
+          "translationJa": "ケーブルを映写機につないでください。",
+          "collocations": [
+            "a power cable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-wire",
+      "version": 1,
+      "lemma": "wire",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "wiring"
+      ],
+      "rationale": "学習設計上の選定: 針金、電線に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-wire-1",
+          "pos": "noun",
+          "meaningJa": "針金、電線",
+          "example": "Do not touch the exposed wire.",
+          "translationJa": "露出した電線に触れないでください。",
+          "collocations": [
+            "an electrical wire"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-plug",
+      "version": 1,
+      "lemma": "plug",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "unplug"
+      ],
+      "rationale": "学習設計上の選定: 電源プラグに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-plug-1",
+          "pos": "noun",
+          "meaningJa": "電源プラグ",
+          "example": "Remove the plug before cleaning the machine.",
+          "translationJa": "清掃前に機械のプラグを抜いてください。",
+          "collocations": [
+            "an electrical plug"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-socket",
+      "version": 1,
+      "lemma": "socket",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "outlet"
+      ],
+      "rationale": "学習設計上の選定: 差し込み口、コンセントに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-socket-1",
+          "pos": "noun",
+          "meaningJa": "差し込み口、コンセント",
+          "example": "There is a socket under the desk.",
+          "translationJa": "机の下にコンセントがあります。",
+          "collocations": [
+            "a power socket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-switch",
+      "version": 1,
+      "lemma": "switch",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "switchboard"
+      ],
+      "rationale": "学習設計上の選定: スイッチに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-switch-1",
+          "pos": "noun",
+          "meaningJa": "スイッチ",
+          "example": "The main switch is beside the door.",
+          "translationJa": "主スイッチはドアの横にあります。",
+          "collocations": [
+            "a light switch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-button",
+      "version": 1,
+      "lemma": "button",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "push button"
+      ],
+      "rationale": "学習設計上の選定: ボタンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-button-1",
+          "pos": "noun",
+          "meaningJa": "ボタン",
+          "example": "Press the green button to begin.",
+          "translationJa": "緑のボタンを押して開始してください。",
+          "collocations": [
+            "a power button"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-display",
+      "version": 1,
+      "lemma": "display",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "display panel"
+      ],
+      "rationale": "学習設計上の選定: 表示装置、表示に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-display-1",
+          "pos": "noun",
+          "meaningJa": "表示装置、表示",
+          "example": "The digital display shows the room temperature.",
+          "translationJa": "デジタル表示に室温が示されています。",
+          "collocations": [
+            "a digital display"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-device",
+      "version": 1,
+      "lemma": "device",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "device driver"
+      ],
+      "rationale": "学習設計上の選定: 装置、機器に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-device-1",
+          "pos": "noun",
+          "meaningJa": "装置、機器",
+          "example": "This device measures air quality.",
+          "translationJa": "この機器は空気の質を測定します。",
+          "collocations": [
+            "a portable device"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-machine",
+      "version": 1,
+      "lemma": "machine",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "machinery"
+      ],
+      "rationale": "学習設計上の選定: 機械に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-machine-1",
+          "pos": "noun",
+          "meaningJa": "機械",
+          "example": "The machine sorts letters by postal code.",
+          "translationJa": "機械は郵便番号ごとに手紙を仕分けます。",
+          "collocations": [
+            "a sorting machine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-tool",
+      "version": 1,
+      "lemma": "tool",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "toolbox"
+      ],
+      "rationale": "学習設計上の選定: 道具に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-tool-1",
+          "pos": "noun",
+          "meaningJa": "道具",
+          "example": "Return each tool to its proper place.",
+          "translationJa": "各道具を元の場所に戻してください。",
+          "collocations": [
+            "a hand tool"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-instrument",
+      "version": 1,
+      "lemma": "instrument",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "instrument panel"
+      ],
+      "rationale": "学習設計上の選定: 器具、計器に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-instrument-1",
+          "pos": "noun",
+          "meaningJa": "器具、計器",
+          "example": "The instrument measures pressure inside the pipe.",
+          "translationJa": "その計器は管内の圧力を測ります。",
+          "collocations": [
+            "a measuring instrument"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-engine",
+      "version": 1,
+      "lemma": "engine",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "engineer"
+      ],
+      "rationale": "学習設計上の選定: エンジンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-engine-1",
+          "pos": "noun",
+          "meaningJa": "エンジン",
+          "example": "The engine started without any trouble.",
+          "translationJa": "エンジンは問題なく始動しました。",
+          "collocations": [
+            "a diesel engine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-motor",
+      "version": 1,
+      "lemma": "motor",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "motorized"
+      ],
+      "rationale": "学習設計上の選定: モーターに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-motor-1",
+          "pos": "noun",
+          "meaningJa": "モーター",
+          "example": "A small motor moves the belt.",
+          "translationJa": "小さなモーターがベルトを動かします。",
+          "collocations": [
+            "an electric motor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sensor",
+      "version": 1,
+      "lemma": "sensor",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "sensing"
+      ],
+      "rationale": "学習設計上の選定: センサーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sensor-1",
+          "pos": "noun",
+          "meaningJa": "センサー",
+          "example": "The sensor turns on the lights automatically.",
+          "translationJa": "センサーが自動で照明を点けます。",
+          "collocations": [
+            "a motion sensor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-software",
+      "version": 1,
+      "lemma": "software",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "software developer"
+      ],
+      "rationale": "学習設計上の選定: ソフトウェアに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-software-1",
+          "pos": "noun",
+          "meaningJa": "ソフトウェア",
+          "example": "The software helps us track expenses.",
+          "translationJa": "そのソフトは経費管理に役立ちます。",
+          "collocations": [
+            "accounting software"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-hardware",
+      "version": 1,
+      "lemma": "hardware",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "hardware supplier"
+      ],
+      "rationale": "学習設計上の選定: ハードウェア、機器に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-hardware-1",
+          "pos": "noun",
+          "meaningJa": "ハードウェア、機器",
+          "example": "The upgrade requires no additional hardware.",
+          "translationJa": "更新に追加機器は不要です。",
+          "collocations": [
+            "computer hardware"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-program",
+      "version": 1,
+      "lemma": "program",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "programmer"
+      ],
+      "rationale": "学習設計上の選定: コンピュータープログラムに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-program-1",
+          "pos": "noun",
+          "meaningJa": "コンピュータープログラム",
+          "example": "Close the program after saving your work.",
+          "translationJa": "保存後にプログラムを閉じてください。",
+          "collocations": [
+            "run a program"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-application",
+      "version": 1,
+      "lemma": "application",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "app"
+      ],
+      "rationale": "学習設計上の選定: アプリケーションに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-application-1",
+          "pos": "noun",
+          "meaningJa": "アプリケーション",
+          "example": "This application lets users edit photographs.",
+          "translationJa": "このアプリでは写真を編集できます。",
+          "collocations": [
+            "a mobile application"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-database",
+      "version": 1,
+      "lemma": "database",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "database management"
+      ],
+      "rationale": "学習設計上の選定: データベースに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-database-1",
+          "pos": "noun",
+          "meaningJa": "データベース",
+          "example": "The database contains customer contact details.",
+          "translationJa": "データベースには顧客の連絡先が入っています。",
+          "collocations": [
+            "a customer database"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-network",
+      "version": 1,
+      "lemma": "network",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "networking"
+      ],
+      "rationale": "学習設計上の選定: 通信網、ネットワークに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-network-1",
+          "pos": "noun",
+          "meaningJa": "通信網、ネットワーク",
+          "example": "The office network is temporarily unavailable.",
+          "translationJa": "社内ネットワークは一時的に使えません。",
+          "collocations": [
+            "a wireless network"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-internet",
+      "version": 1,
+      "lemma": "internet",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "internet provider"
+      ],
+      "rationale": "学習設計上の選定: インターネットに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-internet-1",
+          "pos": "noun",
+          "meaningJa": "インターネット",
+          "example": "The hotel offers free internet access.",
+          "translationJa": "ホテルは無料のインターネット接続を提供します。",
+          "collocations": [
+            "connect to the internet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-website",
+      "version": 1,
+      "lemma": "website",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "webpage"
+      ],
+      "rationale": "学習設計上の選定: ウェブサイトに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-website-1",
+          "pos": "noun",
+          "meaningJa": "ウェブサイト",
+          "example": "Our website lists current job openings.",
+          "translationJa": "自社サイトには募集中の職が載っています。",
+          "collocations": [
+            "visit a website"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-browser",
+      "version": 1,
+      "lemma": "browser",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "browsing"
+      ],
+      "rationale": "学習設計上の選定: ブラウザーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-browser-1",
+          "pos": "noun",
+          "meaningJa": "ブラウザー",
+          "example": "Open the link in your browser.",
+          "translationJa": "リンクをブラウザーで開いてください。",
+          "collocations": [
+            "a web browser"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-page",
+      "version": 1,
+      "lemma": "page",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "page number"
+      ],
+      "rationale": "学習設計上の選定: ページに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-page-1",
+          "pos": "noun",
+          "meaningJa": "ページ",
+          "example": "The last page contains contact information.",
+          "translationJa": "最終ページには連絡先が載っています。",
+          "collocations": [
+            "a home page"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-link",
+      "version": 1,
+      "lemma": "link",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "hyperlink"
+      ],
+      "rationale": "学習設計上の選定: リンクに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-link-1",
+          "pos": "noun",
+          "meaningJa": "リンク",
+          "example": "The email includes a link to the survey.",
+          "translationJa": "メールには調査へのリンクがあります。",
+          "collocations": [
+            "click a link"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-search",
+      "version": 1,
+      "lemma": "search",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "search engine"
+      ],
+      "rationale": "学習設計上の選定: 検索、捜索に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-search-1",
+          "pos": "noun",
+          "meaningJa": "検索、捜索",
+          "example": "A quick search found the missing document.",
+          "translationJa": "簡単な検索で紛失文書が見つかりました。",
+          "collocations": [
+            "a keyword search"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-username",
+      "version": 1,
+      "lemma": "username",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "user account"
+      ],
+      "rationale": "学習設計上の選定: ユーザー名に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-username-1",
+          "pos": "noun",
+          "meaningJa": "ユーザー名",
+          "example": "Your username appears beside each comment.",
+          "translationJa": "各コメントの横にユーザー名が表示されます。",
+          "collocations": [
+            "choose a username"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-profile",
+      "version": 1,
+      "lemma": "profile",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "profile picture"
+      ],
+      "rationale": "学習設計上の選定: プロフィール、登録情報に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-profile-1",
+          "pos": "noun",
+          "meaningJa": "プロフィール、登録情報",
+          "example": "Update the phone number in your profile.",
+          "translationJa": "登録情報の電話番号を更新してください。",
+          "collocations": [
+            "a user profile"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-setting",
+      "version": 1,
+      "lemma": "setting",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "settings menu"
+      ],
+      "rationale": "学習設計上の選定: 設定に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-setting-1",
+          "pos": "noun",
+          "meaningJa": "設定",
+          "example": "The default setting prints on both sides.",
+          "translationJa": "初期設定では両面に印刷されます。",
+          "collocations": [
+            "a default setting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-login",
+      "version": 1,
+      "lemma": "login",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "log in"
+      ],
+      "rationale": "学習設計上の選定: ログイン、認証情報に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-login-1",
+          "pos": "noun",
+          "meaningJa": "ログイン、認証情報",
+          "example": "Keep your login details private.",
+          "translationJa": "ログイン情報は他人に知らせないでください。",
+          "collocations": [
+            "login details"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-access",
+      "version": 1,
+      "lemma": "access",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "accessible"
+      ],
+      "rationale": "学習設計上の選定: 利用権、アクセスに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-access-1",
+          "pos": "noun",
+          "meaningJa": "利用権、アクセス",
+          "example": "Only managers have access to these records.",
+          "translationJa": "この記録を利用できるのは管理職だけです。",
+          "collocations": [
+            "access to information"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-connection",
+      "version": 1,
+      "lemma": "connection",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "connect"
+      ],
+      "rationale": "学習設計上の選定: 接続に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-connection-1",
+          "pos": "noun",
+          "meaningJa": "接続",
+          "example": "The connection became unstable during the call.",
+          "translationJa": "通話中に接続が不安定になりました。",
+          "collocations": [
+            "an internet connection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-signal",
+      "version": 1,
+      "lemma": "signal",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "signal strength"
+      ],
+      "rationale": "学習設計上の選定: 信号、電波に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-signal-1",
+          "pos": "noun",
+          "meaningJa": "信号、電波",
+          "example": "The signal is weak in the basement.",
+          "translationJa": "地下では電波が弱いです。",
+          "collocations": [
+            "a weak signal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-data",
+      "version": 1,
+      "lemma": "data",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "dataset"
+      ],
+      "rationale": "学習設計上の選定: データに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-data-1",
+          "pos": "noun",
+          "meaningJa": "データ",
+          "example": "The data are stored on a secure server.",
+          "translationJa": "データは安全なサーバーに保存されています。",
+          "collocations": [
+            "collect data"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-memory",
+      "version": 1,
+      "lemma": "memory",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "memory card"
+      ],
+      "rationale": "学習設計上の選定: 記憶装置、メモリーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-memory-1",
+          "pos": "noun",
+          "meaningJa": "記憶装置、メモリー",
+          "example": "This computer needs more memory.",
+          "translationJa": "このパソコンにはもっとメモリーが必要です。",
+          "collocations": [
+            "computer memory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-storage",
+      "version": 1,
+      "lemma": "storage",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "store"
+      ],
+      "rationale": "学習設計上の選定: 保存領域、保管に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-storage-1",
+          "pos": "noun",
+          "meaningJa": "保存領域、保管",
+          "example": "The device has enough storage for videos.",
+          "translationJa": "端末には動画用の十分な保存領域があります。",
+          "collocations": [
+            "storage space"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-backup",
+      "version": 1,
+      "lemma": "backup",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "back up"
+      ],
+      "rationale": "学習設計上の選定: 予備、バックアップに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-backup-1",
+          "pos": "noun",
+          "meaningJa": "予備、バックアップ",
+          "example": "We keep a backup of important files.",
+          "translationJa": "重要なファイルのバックアップを保持しています。",
+          "collocations": [
+            "a backup copy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-code",
+      "version": 1,
+      "lemma": "code",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "coding"
+      ],
+      "rationale": "学習設計上の選定: コード、符号に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-code-1",
+          "pos": "noun",
+          "meaningJa": "コード、符号",
+          "example": "Enter the code shown on your ticket.",
+          "translationJa": "券に表示されたコードを入力してください。",
+          "collocations": [
+            "a security code"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-error",
+      "version": 1,
+      "lemma": "error",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "erroneous"
+      ],
+      "rationale": "学習設計上の選定: 誤り、エラーに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-error-1",
+          "pos": "noun",
+          "meaningJa": "誤り、エラー",
+          "example": "The screen displayed an error message.",
+          "translationJa": "画面にエラーメッセージが出ました。",
+          "collocations": [
+            "a typing error"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-bug",
+      "version": 1,
+      "lemma": "bug",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "debug"
+      ],
+      "rationale": "学習設計上の選定: プログラムの不具合に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-bug-1",
+          "pos": "noun",
+          "meaningJa": "プログラムの不具合",
+          "example": "The update fixes a minor printing bug.",
+          "translationJa": "更新で小さな印刷の不具合が直ります。",
+          "collocations": [
+            "a software bug"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-virus",
+      "version": 1,
+      "lemma": "virus",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "antivirus"
+      ],
+      "rationale": "学習設計上の選定: コンピューターウイルスに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-virus-1",
+          "pos": "noun",
+          "meaningJa": "コンピューターウイルス",
+          "example": "The scan detected a computer virus.",
+          "translationJa": "スキャンでウイルスが見つかりました。",
+          "collocations": [
+            "a computer virus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-upgrade",
+      "version": 1,
+      "lemma": "upgrade",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "upgraded"
+      ],
+      "rationale": "学習設計上の選定: 機能向上、更新に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-upgrade-1",
+          "pos": "noun",
+          "meaningJa": "機能向上、更新",
+          "example": "The upgrade adds a useful search function.",
+          "translationJa": "更新で便利な検索機能が加わります。",
+          "collocations": [
+            "a software upgrade"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-install",
+      "version": 1,
+      "lemma": "install",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "installation"
+      ],
+      "rationale": "学習設計上の選定: 設置する、導入するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-install-1",
+          "pos": "verb",
+          "meaningJa": "設置する、導入する",
+          "example": "A technician installed the new printer.",
+          "translationJa": "技術者が新しいプリンターを設置しました。",
+          "collocations": [
+            "install software"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-download",
+      "version": 1,
+      "lemma": "download",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "downloadable"
+      ],
+      "rationale": "学習設計上の選定: ダウンロードするに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-download-1",
+          "pos": "verb",
+          "meaningJa": "ダウンロードする",
+          "example": "Download the form from our website.",
+          "translationJa": "当社サイトから用紙をダウンロードしてください。",
+          "collocations": [
+            "download a file"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-upload",
+      "version": 1,
+      "lemma": "upload",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "upload speed"
+      ],
+      "rationale": "学習設計上の選定: アップロードするに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-upload-1",
+          "pos": "verb",
+          "meaningJa": "アップロードする",
+          "example": "Please upload your photo before registering.",
+          "translationJa": "登録前に写真をアップロードしてください。",
+          "collocations": [
+            "upload a photo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-connect",
+      "version": 1,
+      "lemma": "connect",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "connection"
+      ],
+      "rationale": "学習設計上の選定: 接続するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-connect-1",
+          "pos": "verb",
+          "meaningJa": "接続する",
+          "example": "Connect the keyboard to the computer.",
+          "translationJa": "キーボードをパソコンにつないでください。",
+          "collocations": [
+            "connect a device"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-disconnect",
+      "version": 1,
+      "lemma": "disconnect",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "disconnection"
+      ],
+      "rationale": "学習設計上の選定: 接続を切るに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-disconnect-1",
+          "pos": "verb",
+          "meaningJa": "接続を切る",
+          "example": "Disconnect the cable before moving the printer.",
+          "translationJa": "移動前にプリンターのケーブルを外してください。",
+          "collocations": [
+            "disconnect a cable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-restart",
+      "version": 1,
+      "lemma": "restart",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "reboot"
+      ],
+      "rationale": "学習設計上の選定: 再起動するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-restart-1",
+          "pos": "verb",
+          "meaningJa": "再起動する",
+          "example": "Restart the computer after the update.",
+          "translationJa": "更新後にパソコンを再起動してください。",
+          "collocations": [
+            "restart a computer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-activate",
+      "version": 1,
+      "lemma": "activate",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "activation"
+      ],
+      "rationale": "学習設計上の選定: 有効にする、作動させるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-activate-1",
+          "pos": "verb",
+          "meaningJa": "有効にする、作動させる",
+          "example": "Press this button to activate the alarm.",
+          "translationJa": "このボタンで警報を作動させてください。",
+          "collocations": [
+            "activate a device"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-configure",
+      "version": 1,
+      "lemma": "configure",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "configuration"
+      ],
+      "rationale": "学習設計上の選定: 設定するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-configure-1",
+          "pos": "verb",
+          "meaningJa": "設定する",
+          "example": "The technician configured the new router.",
+          "translationJa": "技術者は新しいルーターを設定しました。",
+          "collocations": [
+            "configure a network"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-click",
+      "version": 1,
+      "lemma": "click",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "clickable"
+      ],
+      "rationale": "学習設計上の選定: クリックするに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-click-1",
+          "pos": "verb",
+          "meaningJa": "クリックする",
+          "example": "Click the arrow to see more options.",
+          "translationJa": "矢印をクリックすると選択肢が増えます。",
+          "collocations": [
+            "click a button"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-type",
+      "version": 1,
+      "lemma": "type",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "typing"
+      ],
+      "rationale": "学習設計上の選定: 文字を入力するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-type-1",
+          "pos": "verb",
+          "meaningJa": "文字を入力する",
+          "example": "Type your full name in this box.",
+          "translationJa": "この欄に氏名を入力してください。",
+          "collocations": [
+            "type a message"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-print",
+      "version": 1,
+      "lemma": "print",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "printer"
+      ],
+      "rationale": "学習設計上の選定: 印刷するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-print-1",
+          "pos": "verb",
+          "meaningJa": "印刷する",
+          "example": "Print one copy for each participant.",
+          "translationJa": "参加者1人につき1部印刷してください。",
+          "collocations": [
+            "print a document"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-scan",
+      "version": 1,
+      "lemma": "scan",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "scanner"
+      ],
+      "rationale": "学習設計上の選定: 読み取る、スキャンするに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-scan-1",
+          "pos": "verb",
+          "meaningJa": "読み取る、スキャンする",
+          "example": "Scan the receipt before submitting your claim.",
+          "translationJa": "請求前に領収書をスキャンしてください。",
+          "collocations": [
+            "scan a document"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-paste",
+      "version": 1,
+      "lemma": "paste",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "clipboard"
+      ],
+      "rationale": "学習設計上の選定: 貼り付けるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-paste-1",
+          "pos": "verb",
+          "meaningJa": "貼り付ける",
+          "example": "Paste the address into the search box.",
+          "translationJa": "検索欄に住所を貼り付けてください。",
+          "collocations": [
+            "paste text"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-delete",
+      "version": 1,
+      "lemma": "delete",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "deletion"
+      ],
+      "rationale": "学習設計上の選定: 削除するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-delete-1",
+          "pos": "verb",
+          "meaningJa": "削除する",
+          "example": "Delete the duplicate entries from the list.",
+          "translationJa": "一覧から重複項目を削除してください。",
+          "collocations": [
+            "delete a file"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-remove",
+      "version": 1,
+      "lemma": "remove",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "removal"
+      ],
+      "rationale": "学習設計上の選定: 取り除くに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-remove-1",
+          "pos": "verb",
+          "meaningJa": "取り除く",
+          "example": "Remove the old batteries from the keyboard.",
+          "translationJa": "キーボードから古い電池を取り出してください。",
+          "collocations": [
+            "remove a component"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-insert",
+      "version": 1,
+      "lemma": "insert",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "insertion"
+      ],
+      "rationale": "学習設計上の選定: 挿入するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-insert-1",
+          "pos": "verb",
+          "meaningJa": "挿入する",
+          "example": "Insert your card with the chip facing up.",
+          "translationJa": "IC部分を上にしてカードを入れてください。",
+          "collocations": [
+            "insert a card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-edit",
+      "version": 1,
+      "lemma": "edit",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "editing"
+      ],
+      "rationale": "学習設計上の選定: 編集するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-edit-1",
+          "pos": "verb",
+          "meaningJa": "編集する",
+          "example": "You can edit the title before publishing.",
+          "translationJa": "公開前に題名を編集できます。",
+          "collocations": [
+            "edit a document"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-format",
+      "version": 1,
+      "lemma": "format",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "formatting"
+      ],
+      "rationale": "学習設計上の選定: 書式を整えるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-format-1",
+          "pos": "verb",
+          "meaningJa": "書式を整える",
+          "example": "Format the headings in bold text.",
+          "translationJa": "見出しを太字にしてください。",
+          "collocations": [
+            "format a document"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-restore",
+      "version": 1,
+      "lemma": "restore",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "restoration"
+      ],
+      "rationale": "学習設計上の選定: 復元するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-restore-1",
+          "pos": "verb",
+          "meaningJa": "復元する",
+          "example": "We restored the files from a backup.",
+          "translationJa": "バックアップからファイルを復元しました。",
+          "collocations": [
+            "restore data"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-recover",
+      "version": 1,
+      "lemma": "recover",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "recovery"
+      ],
+      "rationale": "学習設計上の選定: 取り戻す、復旧するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-recover-1",
+          "pos": "verb",
+          "meaningJa": "取り戻す、復旧する",
+          "example": "The technician recovered the missing photographs.",
+          "translationJa": "技術者は消えた写真を復元しました。",
+          "collocations": [
+            "recover lost files"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-browse",
+      "version": 1,
+      "lemma": "browse",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "browser"
+      ],
+      "rationale": "学習設計上の選定: 閲覧するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-browse-1",
+          "pos": "verb",
+          "meaningJa": "閲覧する",
+          "example": "Visitors can browse the digital collection.",
+          "translationJa": "来場者はデジタル資料を閲覧できます。",
+          "collocations": [
+            "browse a website"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-navigate",
+      "version": 1,
+      "lemma": "navigate",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "navigation"
+      ],
+      "rationale": "学習設計上の選定: 目的の場所へ移動するに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-navigate-1",
+          "pos": "verb",
+          "meaningJa": "目的の場所へ移動する",
+          "example": "Use the menu to navigate between sections.",
+          "translationJa": "メニューを使って各節へ移動してください。",
+          "collocations": [
+            "navigate a website"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-scroll",
+      "version": 1,
+      "lemma": "scroll",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "scrollbar"
+      ],
+      "rationale": "学習設計上の選定: 画面を上下などに動かすに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-scroll-1",
+          "pos": "verb",
+          "meaningJa": "画面を上下などに動かす",
+          "example": "Scroll down to read the full message.",
+          "translationJa": "下へスクロールして全文を読んでください。",
+          "collocations": [
+            "scroll down"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-press",
+      "version": 1,
+      "lemma": "press",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "pressure"
+      ],
+      "rationale": "学習設計上の選定: 押すに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-press-1",
+          "pos": "verb",
+          "meaningJa": "押す",
+          "example": "Press the red button to stop printing.",
+          "translationJa": "赤いボタンを押して印刷を停止してください。",
+          "collocations": [
+            "press a key"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-drag",
+      "version": 1,
+      "lemma": "drag",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "drag-and-drop"
+      ],
+      "rationale": "学習設計上の選定: ドラッグする、引くに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-drag-1",
+          "pos": "verb",
+          "meaningJa": "ドラッグする、引く",
+          "example": "Drag the image into the empty box.",
+          "translationJa": "空の枠へ画像をドラッグしてください。",
+          "collocations": [
+            "drag an icon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-drop",
+      "version": 1,
+      "lemma": "drop",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "drag-and-drop"
+      ],
+      "rationale": "学習設計上の選定: 落とす、離して置くに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-drop-1",
+          "pos": "verb",
+          "meaningJa": "落とす、離して置く",
+          "example": "Drop the selected files into this folder.",
+          "translationJa": "選択したファイルをこのフォルダーにドロップしてください。",
+          "collocations": [
+            "drop a file"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-open",
+      "version": 1,
+      "lemma": "open",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "opening"
+      ],
+      "rationale": "学習設計上の選定: 開くに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-open-1",
+          "pos": "verb",
+          "meaningJa": "開く",
+          "example": "Open the attachment to view the schedule.",
+          "translationJa": "添付を開いて予定表を確認してください。",
+          "collocations": [
+            "open a file"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-close",
+      "version": 1,
+      "lemma": "close",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "closure"
+      ],
+      "rationale": "学習設計上の選定: 閉じるに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-close-1",
+          "pos": "verb",
+          "meaningJa": "閉じる",
+          "example": "Close unused tabs to reduce clutter.",
+          "translationJa": "不要なタブを閉じて画面を整理してください。",
+          "collocations": [
+            "close a window"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-run",
+      "version": 1,
+      "lemma": "run",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "running"
+      ],
+      "rationale": "学習設計上の選定: 実行する、動かすに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-run-1",
+          "pos": "verb",
+          "meaningJa": "実行する、動かす",
+          "example": "Run the test before using the machine.",
+          "translationJa": "機械を使う前に試験を実行してください。",
+          "collocations": [
+            "run a program"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-load",
+      "version": 1,
+      "lemma": "load",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "loading"
+      ],
+      "rationale": "学習設計上の選定: 読み込む、積み込むに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-load-1",
+          "pos": "verb",
+          "meaningJa": "読み込む、積み込む",
+          "example": "The program loads the data automatically.",
+          "translationJa": "プログラムは自動でデータを読み込みます。",
+          "collocations": [
+            "load a file"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-output",
+      "version": 1,
+      "lemma": "output",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "output device"
+      ],
+      "rationale": "学習設計上の選定: 出力、生成結果に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-output-1",
+          "pos": "noun",
+          "meaningJa": "出力、生成結果",
+          "example": "Check the output before printing more copies.",
+          "translationJa": "追加印刷の前に出力結果を確認してください。",
+          "collocations": [
+            "printer output"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-function",
+      "version": 1,
+      "lemma": "function",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "functional"
+      ],
+      "rationale": "学習設計上の選定: 機能に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-function-1",
+          "pos": "noun",
+          "meaningJa": "機能",
+          "example": "The search function works without internet access.",
+          "translationJa": "検索機能はネット接続なしで動作します。",
+          "collocations": [
+            "a basic function"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-feature",
+      "version": 1,
+      "lemma": "feature",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "featured"
+      ],
+      "rationale": "学習設計上の選定: 特色、機能に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-feature-1",
+          "pos": "noun",
+          "meaningJa": "特色、機能",
+          "example": "The new camera has a useful zoom feature.",
+          "translationJa": "新しいカメラには便利なズーム機能があります。",
+          "collocations": [
+            "a useful feature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-option",
+      "version": 1,
+      "lemma": "option",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "optional"
+      ],
+      "rationale": "学習設計上の選定: 選択肢に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-option-1",
+          "pos": "noun",
+          "meaningJa": "選択肢",
+          "example": "Choose the option that best suits your needs.",
+          "translationJa": "必要に最も合う選択肢を選んでください。",
+          "collocations": [
+            "a menu option"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-icon",
+      "version": 1,
+      "lemma": "icon",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "iconic"
+      ],
+      "rationale": "学習設計上の選定: アイコンに関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-icon-1",
+          "pos": "noun",
+          "meaningJa": "アイコン",
+          "example": "Tap the camera icon to take a photo.",
+          "translationJa": "撮影するにはカメラのアイコンを押してください。",
+          "collocations": [
+            "a desktop icon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-symbol",
+      "version": 1,
+      "lemma": "symbol",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "symbolic"
+      ],
+      "rationale": "学習設計上の選定: 記号に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-symbol-1",
+          "pos": "noun",
+          "meaningJa": "記号",
+          "example": "The battery symbol turns red when power is low.",
+          "translationJa": "残量が少ないと電池記号が赤くなります。",
+          "collocations": [
+            "a warning symbol"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-image",
+      "version": 1,
+      "lemma": "image",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "imaging"
+      ],
+      "rationale": "学習設計上の選定: 画像に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-image-1",
+          "pos": "noun",
+          "meaningJa": "画像",
+          "example": "The image is too small to print clearly.",
+          "translationJa": "画像が小さすぎて鮮明に印刷できません。",
+          "collocations": [
+            "a digital image"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-video",
+      "version": 1,
+      "lemma": "video",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "videoconference"
+      ],
+      "rationale": "学習設計上の選定: 動画に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-video-1",
+          "pos": "noun",
+          "meaningJa": "動画",
+          "example": "The training video lasts eight minutes.",
+          "translationJa": "研修動画は8分間です。",
+          "collocations": [
+            "a video recording"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-audio",
+      "version": 1,
+      "lemma": "audio",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "audiobook"
+      ],
+      "rationale": "学習設計上の選定: 音声に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-audio-1",
+          "pos": "noun",
+          "meaningJa": "音声",
+          "example": "The audio is clearer with headphones.",
+          "translationJa": "ヘッドホンでは音声がより明瞭です。",
+          "collocations": [
+            "digital audio"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-sound",
+      "version": 1,
+      "lemma": "sound",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "soundproof"
+      ],
+      "rationale": "学習設計上の選定: 音に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-sound-1",
+          "pos": "noun",
+          "meaningJa": "音",
+          "example": "The device makes a sound when charging begins.",
+          "translationJa": "充電が始まると端末が音を出します。",
+          "collocations": [
+            "a warning sound"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-volume",
+      "version": 1,
+      "lemma": "volume",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "volume control"
+      ],
+      "rationale": "学習設計上の選定: 音量に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-volume-1",
+          "pos": "noun",
+          "meaningJa": "音量",
+          "example": "Lower the volume before starting the video.",
+          "translationJa": "動画を始める前に音量を下げてください。",
+          "collocations": [
+            "adjust the volume"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v-speed",
+      "version": 1,
+      "lemma": "speed",
+      "domain": "technology",
+      "difficulty": "foundation",
+      "relatedWords": [
+        "speedy"
+      ],
+      "rationale": "学習設計上の選定: 速度に関する日常・業務の表現を練習するため。公式頻度に基づく順位ではない。",
+      "evidenceType": "design",
+      "sourceIds": [
+        "iibc-format",
+        "iibc-vocabulary-study"
+      ],
+      "reviewStatus": "pending",
+      "senses": [
+        {
+          "id": "v-speed-1",
+          "pos": "noun",
+          "meaningJa": "速度",
+          "example": "The upgrade improved the download speed.",
+          "translationJa": "更新でダウンロード速度が上がりました。",
+          "collocations": [
+            "connection speed"
+          ]
+        }
+      ]
+    }
+  ]
+}
